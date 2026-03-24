@@ -2,149 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Tehran prepares for a Persian new year under air assault",
-      "link": "https://www.ft.com/content/668ae5a4-57cb-4132-82c6-37c85287307c",
-      "published_date": "Tue, 17 Mar 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:10.008637+00:00",
-      "content": "Nowruz is Iran’s biggest annual celebration but many in the capital are hunkering down amid US and Israeli strikes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How MBS’s bet on Iran backfired",
-      "link": "https://www.ft.com/content/2721947c-613c-4496-8900-e9c87ae9f64f",
-      "published_date": "Tue, 17 Mar 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:10.208823+00:00",
-      "content": "Saudi Arabian détente with its regional rival has unravelled as US-Israeli war triggers furious Iranian retaliation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "From Vienna’s rooftops, the Kremlin is listening in",
-      "link": "https://www.ft.com/content/2c54d627-5530-47a4-8be2-820035ece929",
-      "published_date": "Tue, 17 Mar 2026 05:00:05 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:10.409009+00:00",
-      "content": "Russia has increased satellite dish activity on buildings it owns in Austrian capital",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Who is winning the Middle East war?",
-      "link": "https://www.ft.com/content/587cd030-459a-4340-abe6-59c4b27f2071",
-      "published_date": "Tue, 17 Mar 2026 05:00:24 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:10.609186+00:00",
-      "content": "Iran has taken a beating but it retains the advantages of geography, time and a superior tolerance for pain",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief",
-      "link": "https://www.ft.com/content/5a4742a9-2be1-41ce-8058-c034512b20c0",
-      "published_date": "Tue, 17 Mar 2026 05:00:24 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:10.809348+00:00",
-      "content": "Arsenio Dominguez does not believe military protection for ships is a sustainable solution",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The golden age of private credit (distress)",
-      "link": "https://www.ft.com/content/45376d28-8a1c-4ac8-85f1-bfe8e885c501",
-      "published_date": "Tue, 17 Mar 2026 05:00:24 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:12.980005+00:00",
-      "content": "Credit hedge fund Davidson Kempner warns the sector’s problems are deeper than Wall Street has acknowledged",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Spain warns EU against suspending carbon market to try to lower energy prices",
-      "link": "https://www.ft.com/content/2fc4615a-c9bb-4b9e-be29-2c9c6ec44b5f",
-      "published_date": "Tue, 17 Mar 2026 05:00:23 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:13.580513+00:00",
-      "content": "Energy minister says suspending ETS in response to oil price surge would be a ‘big error’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Five ways to turbocharge your workout",
-      "link": "https://www.ft.com/content/a3f5eedb-4560-4877-9a9e-4cd3425caaea",
-      "published_date": "Tue, 17 Mar 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:13.780686+00:00",
-      "content": "Bored at the gym? We’ve got the perfect upgrade",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How do you get off the UK sanctions list? This billionaire wants to know",
-      "link": "https://www.ft.com/content/642b0757-45ea-4fdf-b763-1832ee0e4d23",
-      "published_date": "Tue, 17 Mar 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:14.181054+00:00",
-      "content": "Eugene Shvidler, a British citizen, was blacklisted over his relationship with Roman Abramovich. Now he’s fighting back.",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Iran crisis puts Bank of England’s new monetary model to the test",
-      "link": "https://www.ft.com/content/606e5a11-4ad6-4580-82ec-3fe30e88040a",
-      "published_date": "Tue, 17 Mar 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:14.381231+00:00",
-      "content": "Extreme uncertainty over inflation comes as rate-setters switch to scenario-planning tools",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Blue Owl tipped UK mortgage lender into insolvency after uncovering ‘irregularities’",
-      "link": "https://www.ft.com/content/32fd18b0-83d6-400e-94f7-f9a0a141c5f0",
-      "published_date": "Tue, 17 Mar 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:14.781597+00:00",
-      "content": "Founder of collapsed bridging loan specialist Century Capital is now trying to relaunch business",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "What the world can learn from Ireland’s battle to power data centres",
-      "link": "https://www.ft.com/content/9e949463-e394-46c9-b72f-65665b2c70b1",
-      "published_date": "Tue, 17 Mar 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:14.981818+00:00",
-      "content": "The country is a canary in the coal mine for dealing with the strains of a boom in energy demand",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oil prices reignite great airline debate: to hedge or not?",
-      "link": "https://www.ft.com/content/3429a294-5314-40f0-9e1b-bbd89c416137",
-      "published_date": "Tue, 17 Mar 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-03-17T05:54:15.182016+00:00",
-      "content": "There is a case for bosses to accept that market forces, like bad weather, just have to be navigated as they arise",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Oil producers: buy the peace, not the war",
       "link": "https://www.ft.com/content/7d38769f-332a-4b23-8df0-ff859f1d851d",
       "published_date": "Tue, 17 Mar 2026 06:30:04 GMT",
@@ -20129,11 +19986,110 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Arm Holdings Stock Rallied This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-stock-rallied-181026497.html",
+      "published_date": "2026-03-22T18:10:26Z",
+      "scrape_timestamp": "2026-03-24T05:54:11.728107+00:00",
+      "content": "Why Arm Holdings Stock Rallied This Week Joe Tenebruso, The Motley Fool Sun, March 22, 2026 at 2:10 PM EDT 2 min read ARM NVDA INTC Shares of Arm Holdings (NASDAQ: ARM) climbed this past week, following bullish analyst commentary. According to data from S&P Global Market Intelligence , Arm's stock price rose by more than 14%. Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue » Image source: Getty Images. An overlooked AI winner HSBC analyst Frank Lee upgraded his rating on Arm's stock to buy. He also more than doubled his price target to $205. That implies potential gains of 55% for investors who buy shares now. Lee believes Wall Street is underestimating the \"game-changing\" impact of artificial intelligence ( AI ) on Arm's business. The British chip designer has been largely reliant on the slow-growing smartphone market in recent years. Now, however, Arm stands to benefit from a forthcoming surge in AI-driven demand for high-performance server processors, according to Lee. A powerful new growth driver Graphics processing units (GPUs) have fueled the early stages of the AI boom. With their parallel processing capabilities, which enable them to break up complex computing tasks into smaller ones and execute them simultaneously, GPUs are well-suited for AI model training. Yet central processing units (CPUs), with their sequential processing, can offer energy efficiency and cost advantages for certain AI inference workloads. Inference is the use of a trained model to make a prediction or decision. Lee, in turn, estimates that Arm's server CPU royalty revenue will surge by 76% annually over the next half-decade. That would place it at about $4 billion by fiscal 2031. For context, Arm generated $4 billion in total revenue in fiscal 2025. Adding a lucrative and rapidly growing revenue stream of this size would likely drive Arm's share price sharply higher in the coming years. Lee's new price target, in turn, may prove conservative. Should you buy stock in Arm Holdings right now? Before you buy stock in Arm Holdings, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Arm Holdings wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $495,179 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,058,743 !* Story Continues Now, it’s worth noting Stock Advisor’s total average return is 898 % — a market-crushing outperformance compared to 183% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of March 22, 2026. HSBC Holdings is an advertising partner of Motley Fool Money. Joe Tenebruso has no position in any of the stocks mentioned. The Motley Fool recommends HSBC Holdings. The Motley Fool has a disclosure policy . Why Arm Holdings Stock Rallied This Week was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ChatGPT Planned a $50K/Year Retirement: Financial Planners Pointed Out the Flaws",
+      "link": "https://finance.yahoo.com/markets/options/articles/chatgpt-planned-50k-retirement-financial-181005984.html",
+      "published_date": "2026-03-22T18:10:05Z",
+      "scrape_timestamp": "2026-03-24T05:54:11.728159+00:00",
+      "content": "ChatGPT Planned a $50K/Year Retirement: Financial Planners Pointed Out the Flaws Chris Adam Sun, March 22, 2026 at 2:10 PM EDT 3 min read If you’re looking for help with a retirement budget and want to try going it alone, ChatGPT may seem like a good place to start. In fact, here’s what ChatGPT said about this kind of retirement planning: “A $50,000-per-year retirement can be comfortable and stable for many people — but what it looks like depends heavily on where you live, housing costs, healthcare and lifestyle choices.” Read More: I Retired a Millionaire — The Best $30,000 I Ever Spent Preparing for Retirement Explore More: 5 Clever Ways Retirees Are Earning Up To $1K per Month From Home However, the artificial intelligence (AI) chatbot may fall short with its retirement plan. Here’s what ChatGPT advised for a $50,000-a-year retirement, as well as what some financial planners and experts had to say about its plan . ChatGPT’s Suggested Budget When planning for a $50,000-per-year retirement, ChatGPT gave this sample monthly budget : Housing: $800 to $1,400 Utilities and internet: $250 to $350 Food: $500 to $700 Transportation: $300 to $500 Healthcare: $400 to $700 (note that this would include Medicare premiums, supplemental plan and out-of-pocket spending) Insurance and miscellaneous: $150 to $250 Fun, travel and gifts: $300 to $600. Check Out: What Is a Good Monthly Retirement Income? The Responses From Financial Planners So what do financial planners think of ChatGPT’s plan? Here are a few things they pointed out. Personalization Marguerita Cheng, CFP, CEO of Blue Ocean Global Wealth , said a client used a simple financial planning tool, and she noticed that the tool didn’t take into consideration that even though his mortgage would eventually be paid off, property taxes and homeowners insurance would persist. “Basic financial planning applications and ChatGPT may not provide the opportunity for interactive financial planning and scenario planning,” Cheng said. “They may not allow as much personalization for risk tolerance.” Brandon Gregg, CFP, advisor with BBK Wealth Management , also noted that personal circumstances are an important consideration. “It wholly depends on a person’s financial situation. Unfortunately, many people live with a fair amount of debt. The biggest struggle for planning is cash flow in my experience,” he said. Flexible and Emergency Expenses Taylor Kovar, CFP, CEO of 11 Financial , noted the ChatGPT plan starts to feel shaky when it assumes everything stays consistent year after year. He added that taxes don’t stay consistent, and Social Security may be taxed lightly one year and more heavily the next, depending on how withdrawals line up. Story Continues ChatGPT’s plan also doesn’t account for unexpected expenses. Annie Cole, Ed.D., money coach and founder of Money Essentials for Women , gave this warning about the ChatGPT proposed budget: “This plan only works if the retiree can stick to the budget without any emergency pop-up expenses, which is unrealistic. A small buffer of 1%-2% should be added to the overall budget at minimum.” More From GOBankingRates Mark Cuban Just Exposed a Social Security Flaw That Every Senior Needs To Watch For What Will the Average Social Security Check Be for Retirees in 2026? How Middle-Class Earners Are Quietly Becoming Millionaires -- and How You Can, Too 6 Safe Accounts Proven to Grow Your Money Up to 13x Faster This article originally appeared on GOBankingRates.com : ChatGPT Planned a $50K/Year Retirement: Financial Planners Pointed Out the Flaws Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Atlas Energy Stock Jumps 39% YTD, but One Fund Cut Exposure by $15 Million Last Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/atlas-energy-stock-jumps-39-180926017.html",
+      "published_date": "2026-03-22T18:09:26Z",
+      "scrape_timestamp": "2026-03-24T05:54:11.728206+00:00",
+      "content": "Atlas Energy Stock Jumps 39% YTD, but One Fund Cut Exposure by $15 Million Last Quarter Jonathan Ponciano, The Motley Fool Sun, March 22, 2026 at 2:09 PM EDT 4 min read AESI XOM MSFT On February 17, 2026, Meridian Wealth Advisors disclosed a reduction in its Atlas Energy Solutions (NYSE:AESI) position, selling 1,458,193 shares for an estimated $14.74 million based on average quarterly pricing. What happened According to a Securities and Exchange Commission (SEC) filing dated February 17, 2026, Meridian Wealth Advisors reduced its position in Atlas Energy Solutions by 1,458,193 shares. The estimated transaction value was $14.74 million, calculated using the average unadjusted closing price over the fourth quarter of 2025. The value of the AESI stake declined by $18.51 million between filings, reflecting both the share sale and stock price movement. What else to know After the sale, AESI represents 1.29% of Meridian Wealth Advisors’ 13F assets under management. Top holdings after the filing: NYSEMKT: IVV: $80.73 million (11.2% of AUM) NYSEMKT: IAU: $46.33 million (6.4% of AUM) NYSE: XOM: $37.77 million (5.2% of AUM) NASDAQ: MSFT: $26.62 million (3.7% of AUM) NASDAQ: AAPL: $25.84 million (3.6% of AUM) As of Friday, AESI shares were priced at $13.48, down 26% over the past year and well underperforming the S&P 500, which is instead up about 15% in the same period. Company overview Metric Value Market Capitalization $1.7 billion Revenue (TTM) $1.1 billion Net Income (TTM) ($50.3 million) Company snapshot Atlas Energy Solutions provides proppant and logistics services for oil and natural gas extraction, with operations focused in the Permian Basin of West Texas and New Mexico. The firm generates revenue by providing proppant and logistics services to the oil and natural gas industry within the Permian Basin of West Texas and New Mexico. It serves oil and natural gas producers operating in the Permian Basin region. Atlas Energy Solutions is a leading provider of proppant and logistics services to the oil and gas sector, with a particular focus on the Permian Basin. The company leverages integrated logistics and supply chain solutions to support efficient hydrocarbon extraction for major energy producers. What this transaction means for investors This is a clean example of how quickly the narrative can flip in cyclical energy names. At year-end, Atlas looked like a laggard. This company then posted $1.1 billion in annual revenue while swinging to a net loss, with fourth-quarter EBITDA of just $36.7 million as pricing pressure and cost inflation weighed on margins. Against that backdrop, trimming exposure made sense, especially in a portfolio anchored by broad-market ETFs, gold, and mega-cap names like Exxon, Apple, and Microsoft. But the story didn’t stop there. After the quarter closed, shares surged 39% year to date, helped by improving sentiment around Permian activity and a more compelling long-term angle. The company is now leaning into power infrastructure, locking in an agreement with Caterpillar tied to roughly 1.4 gigawatts of future capacity and positioning itself for a multi-year demand cycle tied to AI and industrial electrification. Ultimately, for long-term investors, it’s important to remember that selling into weakness can protect capital, but it also reduces exposure to inflection points. Story Continues Should you buy stock in Atlas Energy Solutions right now? Before you buy stock in Atlas Energy Solutions, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Atlas Energy Solutions wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $495,179 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,058,743 !* Now, it’s worth noting Stock Advisor’s total average return is 898 % — a market-crushing outperformance compared to 183% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of March 22, 2026. Jonathan Ponciano has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Apple and Microsoft and is short shares of Apple. The Motley Fool has a disclosure policy . Atlas Energy Stock Jumps 39% YTD, but One Fund Cut Exposure by $15 Million Last Quarter was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Littelfuse Stock Climbs 22% YTD After $3.8 Million Trim in Volatile Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/littelfuse-stock-climbs-22-ytd-181958347.html",
+      "published_date": "2026-03-22T18:19:58Z",
+      "scrape_timestamp": "2026-03-24T05:54:11.794777+00:00",
+      "content": "Littelfuse Stock Climbs 22% YTD After $3.8 Million Trim in Volatile Run Jonathan Ponciano, The Motley Fool Sun, March 22, 2026 at 2:19 PM EDT 4 min read LFUS XEL OMC BK On February 17, 2026, Dean Investment Associates reported selling 14,929 shares of Littelfuse (NASDAQ:LFUS) , an estimated $3.80 million trade based on quarterly average pricing. What happened According to its SEC filing dated February 17, 2026, Dean Investment Associates reduced its position in Littelfuse by 14,929 shares. The estimated value of this trade is $3.80 million, based on the average closing price during the quarter. At quarter’s end, the fund held 26,921 shares worth $6.81 million. The position's value fell by $4.03 million, reflecting both share sales and price changes. What else to know The fund reduced its stake in Littelfuse, which now represents 0.97% of its 13F reportable assets under management. Top holdings after this filing: NASDAQ: IUSV: $12.89 million (1.8% of AUM) NASDAQ: XEL: $9.50 million (1.4% of AUM) NYSE: OMC: $9.01 million (1.3% of AUM) NYSEMKT: FLRN: $8.95 million (1.3% of AUM) NYSE: BK: $8.75 million (1.2% of AUM) As of Friday, LFUS shares were priced at $320.65, up 52% over the past year and well outperforming the S&P 500, which is instead up about 15% in the same period. Company overview Metric Value Price (as of Friday) $320.65 Market capitalization $8.1 billion Revenue (TTM) $2.39 billion Dividend yield 0.9% Company snapshot Littelfuse manufactures circuit protection, power control, and sensing products, including fuses, relays, sensors, and power modules across electronics, transportation, and industrial segments. The company generates revenue through sales of proprietary hardware components and systems to distributors, OEMs, and industrial customers globally. It serves OEMs, Tier-1 suppliers, parts distributors, and industrial end markets in automotive, electronics, energy, and infrastructure sectors. Littelfuse is a global provider of circuit protection and power management solutions. The company leverages its engineering expertise and broad distribution network to serve critical applications in transportation, electronics, and industrial markets. Its strategy centers on innovation and reliability, positioning Littelfuse as a trusted supplier for high-growth and mission-critical sectors worldwide. What this transaction means for investors What matters here is less about the trim itself and more about what kind of company Littelfuse is becoming inside a diversified portfolio. This is essentially a steady industrial technology name tied to electrification, autos, and power systems, which makes its sub-1% weighting notable against positions like utilities, financials, and broad-market ETFs. Cutting it after a choppy year suggests a focus on smoothing volatility rather than abandoning the story entirely. Meanwhile, the fundamentals are more nuanced than the headline numbers suggest. Revenue grew 9% to roughly $2.4 billion last year, with solid expansion in electronics and industrial end markets, while adjusted earnings per share climbed 34%. At the same time, a large non-cash impairment charge pushed reported results into a loss, masking what was otherwise improving operating performance. Now, however, the stock is up 22% year to date, and that dichotomy is perhaps the real takeaway; though there was still a loss last year, the company reported better-than-expected results thanks in part to bright spots among renewables and data centers. With expectations having somewhat reset, it’ll be interesting to see what the long-term holds for Littelfuse. Story Continues Should you buy stock in Littelfuse right now? Before you buy stock in Littelfuse, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Littelfuse wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $495,179 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,058,743 !* Now, it’s worth noting Stock Advisor’s total average return is 898 % — a market-crushing outperformance compared to 183% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of March 22, 2026. Jonathan Ponciano has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy . Littelfuse Stock Climbs 22% YTD After $3.8 Million Trim in Volatile Run was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Apple Stock Is Doing Something It Hasn't Done Since 2022. Should You Buy or Run?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-doing-something-hasnt-181900747.html",
+      "published_date": "2026-03-22T18:19:00Z",
+      "scrape_timestamp": "2026-03-24T05:54:11.794820+00:00",
+      "content": "Apple Stock Is Doing Something It Hasn't Done Since 2022. Should You Buy or Run? Patrick Sanders, The Motley Fool Sun, March 22, 2026 at 2:19 PM EDT 5 min read AAPL INTC BB NOK NVDA Apple (NASDAQ: AAPL) has been one of the most reliable winners in the stock market for a generation. The iPhone, which debuted in 2007, was a revolutionary product, offering a touchscreen and intuitive design that made products made by BlackBerry , Nokia , and Motorola seem obsolete. How good has Apple been? Had you invested a mere $1,000 in Apple stock at the beginning of 2007 and ridden the wave of the iPhone's dominance, you'd be sitting on a nest egg of more than $82,000. Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue » Image source: Getty Images. But so far this year, Apple stock is trading down nearly 9% as it and other tech stocks pull back. It's a rare sight for Apple to be in the red; Apple has posted a yearly loss only four times since the debut of the iPhone, with the most recent loss in 2022. So, should investors be concerned about Apple now? If you've got a long-term horizon, the answer is \"no.\" In fact, now may be the best time to add Apple to your portfolio and profit from the inevitable bounce. What happens when Apple falls? First, let's take a closer look at the years when Apple's stock price fell (2008, 2015, 2018, and 2022), and what happened the next year. Year End-of-Year Share Price* Full-Year Gain (or Loss) 2008 $3.05 (56.9%) 2009 $7.52 146.9% 2015 $26.32 (4.6%) 2016 $28.95 10% 2018 $39.44 (6.8%) 2019 $73.41 86.1% 2022 $129.93 (26.8%) 2023 $192.53 48.2% Data source: YCharts. *Price shown is the split-adjusted price after stock splits in 2014 and 2020. Yes, Apple's had a few bad years. The worst in the last 20 years was part of the global financial crisis that enveloped the entire market in 2008. But Apple did a great job of bouncing back, recording a huge 146.9% gain the following year. I actually thought the 2022 drop was more troublesome, as Apple stock slipped because the company's revenue flattened and raised a lot of red flags with investors. But even then, Apple was able to more than make up for the drop with an even stronger 2023 performance. What's the lesson here? If you bail out of Apple at the first sign of trouble, you miss the opportunity to profit. Seeing Apple stock today down 9% for the year and 13.3% from its all-time high means that the stock's on sale -- if you have the time to put it in your portfolio and let time work its magic. Story Continues Why Apple should bounce back Remember that 2022 dip when Apple's revenue flattened out? That's not the case today. Apple is doing great and is projecting huge gains on the top and bottom line. Revenue for the first quarter of fiscal 2026 (ending Dec. 27, 2025) was $143.8 billion, up 16% from the previous year. Diluted earnings per share were $2.84, which was up 19% from a year ago. The iPhone continues to be a big seller, but Apple is also seeing gains from its iPad and its Services segment, which includes Apple's App Store and Apple Music. Overall, the company has 2.5 billion active devices in use by customers. Product Q1 2025 Revenue Q1 2026 Revenue Growth (or Loss) iPhone $69.13 billion $85.27 billion 23.3% Mac $8.98 billion $8.38 billion (6.6%) iPad $8.08 billion $8.59 billion 6.3% Wearables, Home, and Accessories $11.74 billion $11.49 billion (2.1%) Services $26.34 billion $30.01 billion 13.9% Data source: Apple. Apple ended the quarter with $45.3 billion in cash and cash equivalents, up from $30.3 billion a year ago. The company reported $54 billion in operating cash flow, and returned nearly $32 billion to shareholders through dividends and stock repurchases. It issued guidance for the second quarter for revenue to continue to grow at a rate of 13% to 16%. The company is continuing to roll out new products, including the iPhone 17e and several new versions of its MacBook computer. It also appears on target to roll out the iPhone 18 in September. Overall, I'm not worried about Apple's short-term drop. I see it more as a reflection of the market's short-term concern for tech stocks in general rather than an indictment of the company itself. If you've been considering a position, this is no time to run in the opposite direction. Apple stock is a buy. Should you buy stock in Apple right now? Before you buy stock in Apple, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Apple wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $495,179 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,058,743 !* Now, it’s worth noting Stock Advisor’s total average return is 898 % — a market-crushing outperformance compared to 183% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of March 22, 2026. Patrick Sanders has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Apple and is short shares of Apple. The Motley Fool recommends BlackBerry. The Motley Fool has a disclosure policy . Apple Stock Is Doing Something It Hasn't Done Since 2022. Should You Buy or Run? was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Carmakers rush to secure aluminium as Middle East war hits supply",
+      "link": "https://www.ft.com/content/167fdf4b-0afd-4a05-a6bd-e3d1518cd84d",
+      "published_date": "Tue, 24 Mar 2026 05:00:07 GMT",
+      "scrape_timestamp": "2026-03-24T05:54:48.715798+00:00",
+      "content": "Disruption to power supplies and shipping bottlenecks have affected key sources of production in Gulf",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hormuz fertiliser block will upend world’s food production",
+      "link": "https://www.ft.com/content/c1398187-304d-44d3-857f-673b8da0f87a",
+      "published_date": "Tue, 24 Mar 2026 05:00:18 GMT",
+      "scrape_timestamp": "2026-03-24T05:54:48.915939+00:00",
+      "content": "Any ceasefire negotiations must include a humanitarian carve-out for such shipments",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Palantir turns poisonous on the campaign trail",
+      "link": "https://www.ft.com/content/5d6f924d-2e7e-4a5e-ae20-d4f8e29a7d17",
+      "published_date": "Tue, 24 Mar 2026 05:00:17 GMT",
+      "scrape_timestamp": "2026-03-24T05:54:49.516355+00:00",
+      "content": "Donald Trump’s unpopular immigration crackdown has made links to the Peter Thiel-backed company a liability for candidates",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Siemens boss says Europe risks ‘disaster’ from prioritising AI independence",
+      "link": "https://www.ft.com/content/d66e857d-803b-45b8-b2f4-3c433b79bfc5",
+      "published_date": "Tue, 24 Mar 2026 05:00:07 GMT",
+      "scrape_timestamp": "2026-03-24T05:54:49.716494+00:00",
+      "content": "Roland Busch warns against throttling ‘innovation speed for the sake of creating sovereignty’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-03-24T04:10:21.434687+00:00",
+  "last_updated": "2026-03-24T05:54:56.295469+00:00",
   "metadata": {
-    "total_runs": 643,
+    "total_runs": 644,
     "sources": [
       "Financial Times",
       "Yahoo Finance"
