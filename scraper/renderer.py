@@ -142,6 +142,14 @@ def _build_card(article: dict) -> str:
         f'</article>'
     )
 
+def _build_card_blurred(article: dict) -> str:
+    """Carte floutée pour les non-abonnés — affiche le paywall au clic."""
+    inner = _build_card(article)
+    return (
+        f'<div class="blurred-wrapper" onclick="showPaywall()">'
+        f'<div>{inner}</div>'
+        f'</div>'
+    )
 
 def render_html(all_articles: list, top_articles: list) -> str:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -169,7 +177,11 @@ def render_html(all_articles: list, top_articles: list) -> str:
         for i in range(7)
     )
 
-    top_cards = "\n".join(_build_card(a) for a in top_articles)
+    FREE_LIMIT = 3
+    top_cards = "\n".join(
+        _build_card(a) if i < FREE_LIMIT else _build_card_blurred(a)
+        for i, a in enumerate(top_articles)
+    )
     all_cards = "\n".join(_build_card(a) for a in sorted(
         all_articles, key=lambda x: x.get("score_normalized", 0), reverse=True
     ))
@@ -183,6 +195,14 @@ def render_html(all_articles: list, top_articles: list) -> str:
     # We split the template into a plain string (no f-string) for the JS block
     # to avoid having to escape every single brace.
     js_block = """
+function showPaywall() {
+  document.getElementById('paywall-modal').classList.add('show');
+}
+
+function closePaywall() {
+  document.getElementById('paywall-modal').classList.remove('show');
+}
+
 let currentView = 'top';
 let activeThemes = new Set();
 let isCompact = false;
@@ -363,10 +383,30 @@ applyFilters();
     .compact-mode .card-detail{{display:none!important}}
     .compact-mode .card{{padding:9px 14px;margin-bottom:6px}}
     .hidden{{display:none!important}}
+    .blurred-wrapper{{position:relative;cursor:pointer;margin-bottom:10px;overflow:hidden;border-radius:8px}}
+    .blurred-wrapper>div{{filter:blur(5px);pointer-events:none;user-select:none}}
+    .blurred-wrapper::after{{content:'🔒 Contenu Premium — Cliquez pour accéder';position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--accent);color:#000;padding:8px 18px;border-radius:8px;font-size:13px;font-weight:700;white-space:nowrap}}
+    #paywall-modal{{display:none;position:fixed;inset:0;background:rgba(0,0,0,.8);z-index:9999;align-items:center;justify-content:center}}
+    #paywall-modal.show{{display:flex}}
+    .paywall-box{{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:32px;max-width:400px;width:90%;text-align:center}}
+    .paywall-box h2{{color:var(--accent);margin-bottom:12px;font-size:20px}}
+    .paywall-box p{{color:var(--muted);margin-bottom:24px;font-size:14px;line-height:1.6}}
+    .paywall-btn{{background:var(--accent);color:#000;border:none;padding:12px 28px;border-radius:8px;font-size:15px;font-weight:700;cursor:pointer;width:100%;margin-bottom:10px}}
+    .paywall-close{{background:transparent;color:var(--muted);border:1px solid var(--border);padding:8px 20px;border-radius:8px;cursor:pointer;font-size:13px;width:100%}}
     .view{{display:none}}.view.active{{display:block}}
   </style>
 </head>
 <body>
+
+<div id="paywall-modal">
+  <div class="paywall-box">
+    <h2>📊 Macro Lab Premium</h2>
+    <p>Accède aux <strong>20 meilleures alertes macro</strong> en temps réel,
+    triées par score d'impact, avec alertes Telegram &amp; Discord.</p>
+    <button class="paywall-btn">Accès complet — 9€/mois 🚀</button>
+    <button class="paywall-close" onclick="closePaywall()">Continuer en gratuit (3 articles)</button>
+  </div>
+</div>
 
 <header>
   <h1>📊 Macro Lab</h1>
