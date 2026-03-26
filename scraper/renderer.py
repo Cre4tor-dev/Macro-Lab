@@ -10,6 +10,7 @@ Features:
   - Visual alert pulse for critical articles
   - Mini dashboard: articles/day bar chart + theme donut (Chart.js CDN)
   - Compact / detailed mode toggle
+  - Paywall: first 3 articles free, rest blurred
 """
 
 import json
@@ -19,6 +20,7 @@ from pathlib import Path
 
 OUTPUT_FILE = Path(__file__).parent.parent / "index.html"
 TOP_N = 20
+FREE_LIMIT = 3  # Nombre d'articles gratuits avant paywall
 
 THEME_LABELS = {
     "war_conflict":        "⚔️ War/Conflict",
@@ -52,14 +54,12 @@ def _parse_pub_day(date_str: str) -> str:
     """Return YYYY-MM-DD or empty string."""
     if not date_str:
         return ""
-    # Try email/RFC date (Mon, 01 Jan 2024 12:00:00 +0000)
     try:
         from email.utils import parsedate_to_datetime
         dt = parsedate_to_datetime(date_str)
         return dt.strftime("%Y-%m-%d")
     except Exception:
         pass
-    # ISO formats
     for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
         try:
             dt = datetime.strptime(date_str[:len(fmt)], fmt)
@@ -113,7 +113,6 @@ def _build_card(article: dict) -> str:
     kw_display = ", ".join(keywords[:8]) if keywords else "—"
     tooltip = f"Score: {score:.2f} | Seuil: {threshold:.1f} | Sentiment: {article.get('sentiment_label','?')}| Mots-cles: {kw_display}"
 
-    # data-text: searchable text blob (title + content snippet, lowercased)
     searchable = (raw_title + " " + content[:600]).lower().replace('"', "").replace("\n", " ")
 
     alert_cls = " card-alert" if is_alert else ""
@@ -151,6 +150,16 @@ def _build_card_blurred(article: dict) -> str:
         f'</div>'
     )
 
+def _build_card_blurred(article: dict) -> str:
+    """Carte floutée pour les non-abonnés — ouvre le modal paywall au clic."""
+    inner = _build_card(article)
+    return (
+        f'<div class="blurred-wrapper" onclick="showPaywall()">'
+        f'<div class="blurred-inner">{inner}</div>'
+        f'</div>'
+    )
+
+
 def render_html(all_articles: list, top_articles: list) -> str:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     threshold_val = top_articles[0].get("alert_threshold", 75.0) if top_articles else 75.0
@@ -165,7 +174,7 @@ def render_html(all_articles: list, top_articles: list) -> str:
     )
 
     per_day, per_theme = _build_chart_data(all_articles)
-    chart_days_labels = json.dumps([d[5:] for d in per_day.keys()])   # "MM-DD" shorter labels
+    chart_days_labels = json.dumps([d[5:] for d in per_day.keys()])
     chart_days_values = json.dumps(list(per_day.values()))
     chart_theme_labels = json.dumps([THEME_LABELS.get(k, k) for k in per_theme.keys()])
     chart_theme_values = json.dumps(list(per_theme.values()))
@@ -192,13 +201,10 @@ def render_html(all_articles: list, top_articles: list) -> str:
         for k in THEME_LABELS.keys()
     )
 
-    # We split the template into a plain string (no f-string) for the JS block
-    # to avoid having to escape every single brace.
     js_block = """
 function showPaywall() {
   document.getElementById('paywall-modal').classList.add('show');
 }
-
 function closePaywall() {
   document.getElementById('paywall-modal').classList.remove('show');
 }
@@ -248,7 +254,7 @@ function applyFilters() {
   const query   = document.getElementById('searchInput').value.toLowerCase().trim();
   const dateVal = document.getElementById('dateSelect').value;
   const cid     = currentView === 'top' ? 'cards-top' : 'cards-all';
-  const cards   = document.getElementById(cid).querySelectorAll('.card');
+  const cards   = document.getElementById(cid).querySelectorAll('.card, .blurred-wrapper');
 
   let visible = 0;
   cards.forEach(card => {
@@ -394,6 +400,44 @@ applyFilters();
     .paywall-btn{{background:var(--accent);color:#000;border:none;padding:12px 28px;border-radius:8px;font-size:15px;font-weight:700;cursor:pointer;width:100%;margin-bottom:10px}}
     .paywall-close{{background:transparent;color:var(--muted);border:1px solid var(--border);padding:8px 20px;border-radius:8px;cursor:pointer;font-size:13px;width:100%}}
     .view{{display:none}}.view.active{{display:block}}
+    /* ── PAYWALL ── */
+    .blurred-wrapper{{position:relative;cursor:pointer;margin-bottom:10px;border-radius:8px;overflow:hidden}}
+    .blurred-inner{{filter:blur(4px);pointer-events:none;user-select:none}}
+    .blurred-wrapper::after{{
+      content:'🔒 Contenu Premium — Cliquez pour accéder';
+      position:absolute;top:50%;left:50%;
+      transform:translate(-50%,-50%);
+      background:var(--accent);color:#000;
+      padding:8px 18px;border-radius:8px;
+      font-size:13px;font-weight:700;
+      white-space:nowrap;pointer-events:none;
+      box-shadow:0 4px 20px rgba(88,166,255,0.4)
+    }}
+    #paywall-modal{{
+      display:none;position:fixed;inset:0;
+      background:rgba(0,0,0,0.8);z-index:9999;
+      align-items:center;justify-content:center
+    }}
+    #paywall-modal.show{{display:flex}}
+    .paywall-box{{
+      background:var(--surface);border:1px solid var(--border);
+      border-radius:12px;padding:36px;max-width:420px;width:90%;
+      text-align:center
+    }}
+    .paywall-box h2{{color:var(--accent);margin-bottom:12px;font-size:22px}}
+    .paywall-box p{{color:var(--muted);margin-bottom:24px;font-size:14px;line-height:1.7}}
+    .paywall-features{{text-align:left;margin-bottom:24px;color:var(--text);font-size:13px;line-height:2}}
+    .paywall-btn{{
+      background:var(--accent);color:#000;border:none;
+      padding:13px 28px;border-radius:8px;font-size:15px;
+      font-weight:700;cursor:pointer;width:100%;margin-bottom:10px
+    }}
+    .paywall-btn:hover{{opacity:0.9}}
+    .paywall-close{{
+      background:transparent;color:var(--muted);
+      border:1px solid var(--border);padding:8px 20px;
+      border-radius:8px;cursor:pointer;font-size:13px;width:100%
+    }}
   </style>
 </head>
 <body>
