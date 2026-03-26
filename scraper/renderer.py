@@ -24,7 +24,7 @@ TOP_N = 20
 FREE_LIMIT = 3
 ACCESS_SECRET = "AK4753ikZS3m"
 # Remplace ce placeholder par ton vrai lien Lemon Squeezy une fois validé
-LEMON_SQUEEZY_URL = "https://macro-lab.lemonsqueezy.com/checkout"
+LEMON_SQUEEZY_URL = "https://macro-lab.lemonsqueezy.com/checkout/buy/e3f887da-09da-4209-bb0f-516c0a179aca"
 
 THEME_LABELS = {
     "war_conflict":        "⚔️ War/Conflict",
