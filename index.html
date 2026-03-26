@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-03-26 19:51 UTC</title>
+  <title>Macro Lab — 2026-03-26 20:28 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -60,16 +60,6 @@
     .compact-mode .card-detail{display:none!important}
     .compact-mode .card{padding:9px 14px;margin-bottom:6px}
     .hidden{display:none!important}
-    .blurred-wrapper{position:relative;cursor:pointer;margin-bottom:10px;overflow:hidden;border-radius:8px}
-    .blurred-wrapper>div{filter:blur(5px);pointer-events:none;user-select:none}
-    .blurred-wrapper::after{content:'🔒 Contenu Premium — Cliquez pour accéder';position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--accent);color:#000;padding:8px 18px;border-radius:8px;font-size:13px;font-weight:700;white-space:nowrap}
-    #paywall-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.8);z-index:9999;align-items:center;justify-content:center}
-    #paywall-modal.show{display:flex}
-    .paywall-box{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:32px;max-width:400px;width:90%;text-align:center}
-    .paywall-box h2{color:var(--accent);margin-bottom:12px;font-size:20px}
-    .paywall-box p{color:var(--muted);margin-bottom:24px;font-size:14px;line-height:1.6}
-    .paywall-btn{background:var(--accent);color:#000;border:none;padding:12px 28px;border-radius:8px;font-size:15px;font-weight:700;cursor:pointer;width:100%;margin-bottom:10px}
-    .paywall-close{background:transparent;color:var(--muted);border:1px solid var(--border);padding:8px 20px;border-radius:8px;cursor:pointer;font-size:13px;width:100%}
     .view{display:none}.view.active{display:block}
     /* ── PAYWALL ── */
     .blurred-wrapper{position:relative;cursor:pointer;margin-bottom:10px;border-radius:8px;overflow:hidden}
@@ -84,6 +74,9 @@
       white-space:nowrap;pointer-events:none;
       box-shadow:0 4px 20px rgba(88,166,255,0.4)
     }
+    .blurred-wrapper.unlocked .blurred-inner{filter:none;pointer-events:auto;user-select:auto}
+    .blurred-wrapper.unlocked{cursor:default}
+    .blurred-wrapper.unlocked::after{display:none}
     #paywall-modal{
       display:none;position:fixed;inset:0;
       background:rgba(0,0,0,0.8);z-index:9999;
@@ -96,12 +89,13 @@
       text-align:center
     }
     .paywall-box h2{color:var(--accent);margin-bottom:12px;font-size:22px}
-    .paywall-box p{color:var(--muted);margin-bottom:24px;font-size:14px;line-height:1.7}
+    .paywall-box p{color:var(--muted);margin-bottom:20px;font-size:14px;line-height:1.7}
     .paywall-features{text-align:left;margin-bottom:24px;color:var(--text);font-size:13px;line-height:2}
     .paywall-btn{
       background:var(--accent);color:#000;border:none;
       padding:13px 28px;border-radius:8px;font-size:15px;
-      font-weight:700;cursor:pointer;width:100%;margin-bottom:10px
+      font-weight:700;cursor:pointer;width:100%;margin-bottom:10px;
+      text-decoration:none;display:block
     }
     .paywall-btn:hover{opacity:0.9}
     .paywall-close{
@@ -113,12 +107,20 @@
 </head>
 <body>
 
+<!-- MODAL PAYWALL -->
 <div id="paywall-modal">
   <div class="paywall-box">
     <h2>📊 Macro Lab Premium</h2>
-    <p>Accède aux <strong>20 meilleures alertes macro</strong> en temps réel,
-    triées par score d'impact, avec alertes Telegram &amp; Discord.</p>
-    <button class="paywall-btn">Accès complet — 9€/mois 🚀</button>
+    <p>Accède aux <strong>20 meilleures alertes macro</strong> en temps réel, triées par score d'impact.</p>
+    <div class="paywall-features">
+      ✅ Top 20 articles scorés en temps réel<br>
+      ✅ Alertes Telegram &amp; Discord<br>
+      ✅ Historique 7 jours complet<br>
+      ✅ Filtres thèmes &amp; recherche avancée
+    </div>
+    <a class="paywall-btn" href="https://macro-lab.lemonsqueezy.com/checkout" target="_blank">
+      🚀 Accès complet — 9€/mois
+    </a>
     <button class="paywall-close" onclick="closePaywall()">Continuer en gratuit (3 articles)</button>
   </div>
 </div>
@@ -128,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-03-26 19:51 UTC<br>Seuil alerte: 5.0 · 1165 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-03-26 20:28 UTC<br>Seuil alerte: 5.0 · 1172 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1565</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1573</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">1165</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">1172</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">10.7</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -471,7 +473,7 @@
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (1565 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (1573 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="50.70" data-date="2026-03-23" data-themes="war_conflict,geopolitical_shock,recession,oil_energy,central_bank" data-text="stock index futures rally as oil prices tumble on u.s.-iran talks stock index futures rally as oil prices tumble on u.s.-iran talks oleksandr pylypenko mon, march 23, 2026 at 5:31 am cdt 10 min read june s&p 500 e-mini futures (esm26) are up +1.53%, and june nasdaq 100 e-mini futures (nqm26) are up +1.57% this morning, pointing to a sharply higher open on wall street as sentiment got a boost after u.s. president donald trump said the u.s. and iran had “very good” conversations about ending the middle east conflict. president trump said in a truth social post on monday that the u.s. and iran have engaged in very good and productive discussions over the past t">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -1970,6 +1972,20 @@
     <span class="kw-hint">🔑 inflation, volatility, war, middle east, geopolitical</span>
   </div>
 </article>
+<article class="card card-alert" data-score="24.62" data-date="2026-03-25" data-themes="war_conflict" data-text="why nutanix (ntnx) underperformed despite gaining market share from vmware why nutanix (ntnx) underperformed despite gaining market share from vmware attiya zainib wed, march 25, 2026 at 5:48 am mdt 3 min read ntnx ^gspc renaissance investment management , an investment management company, released its q4 2025 “large cap growth strategy” investor letter. a copy of the letter can be downloaded here . the strategy faced a difficult fourth quarter of 2025, underperforming both the s&p 500, which gained 2.7%, and the russell 1000 growth index as market leadership remained concentrated in a small group of mega-cap technology companies tied to artificial intelligence. alth">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 24.62 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: federal reserve, fed, rate cut, inflation, equities, s&p 500, nasdaq, volatility">24.6 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/why-nutanix-inc-ntnx-underperformed-114802299.html" target="_blank" rel="noopener">Why Nutanix (NTNX) Underperformed Despite Gaining Market Share from VMware</a></h3>
+  <p class="preview card-detail">Why Nutanix (NTNX) Underperformed Despite Gaining Market Share from VMware Attiya Zainib Wed, March 25, 2026 at 5:48 AM MDT 3 min read NTNX ^GSPC Renaissance Investment Management , an investment management company, released its Q4 2025 “Large Cap Growth Strategy” investor letter. A copy of the lett&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T11:48:02Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, rate cut, inflation, equities</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="24.45" data-date="2026-03-22" data-themes="war_conflict,oil_energy" data-text="fannie, freddie place large dids for mortgage-backed securities fannie, freddie place large dids for mortgage-backed securities scott carpenter updated sun, march 22, 2026 at 1:03 pm edt 2 min read fnma cl=f (bloomberg) — fannie mae and freddie mac have begun placing sizable orders to purchase mortgage-backed securities, stepping into a market roiled by widening bond spreads amid a surge in volatility, according to a person with direct knowledge of the matter. the government-controlled entities are moving to capitalize on a sharp selloff while expanding their already significant portfolios of bonds and loans, said the person, who asked not to be identified">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -2052,6 +2068,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-26">2026-03-26T17:40:20Z</time>
     <span class="kw-hint">🔑 fed, interest rate, volatility, war, conflict</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="24.00" data-date="2026-03-25" data-themes="war_conflict" data-text="netflix (nflx) slid despite strong results and strategic expansion plans netflix (nflx) slid despite strong results and strategic expansion plans attiya zainib wed, march 25, 2026 at 5:51 am mdt 3 min read nflx ^gspc renaissance investment management , an investment management company, released its q4 2025 “large cap growth strategy” investor letter. a copy of the letter can be downloaded here . the strategy faced a difficult fourth quarter of 2025, underperforming both the s&p 500, which gained 2.7%, and the russell 1000 growth index as market leadership remained concentrated in a small group of mega-cap technology companies tied to artificial intelligence. althou">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 24.00 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: federal reserve, fed, rate cut, inflation, equities, s&p 500, nasdaq, volatility">24.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-despite-strong-115132005.html" target="_blank" rel="noopener">Netflix (NFLX) Slid Despite Strong Results and Strategic Expansion Plans</a></h3>
+  <p class="preview card-detail">Netflix (NFLX) Slid Despite Strong Results and Strategic Expansion Plans Attiya Zainib Wed, March 25, 2026 at 5:51 AM MDT 3 min read NFLX ^GSPC Renaissance Investment Management , an investment management company, released its Q4 2025 “Large Cap Growth Strategy” investor letter. A copy of the letter&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T11:51:32Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, rate cut, inflation, equities</span>
   </div>
 </article>
 <article class="card card-alert" data-score="23.96" data-date="2026-03-23" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="sinopec profit slumps in 2025 as oil prices and chemicals weigh sinopec profit slumps in 2025 as oil prices and chemicals weigh charles kennedy sun, march 22, 2026 at 11:37 pm cdt 4 min read cl=f 600028.ss china petroleum & chemical corp. posted a marked earnings decline in 2025 as softer crude prices, weaker fuel demand, and continued pressure in chemicals weighed on results, even as the state-controlled major lifted oil and gas output to a record and maintained an aggressive shareholder return policy. the company reported revenue of rmb2.78 trillion and net profit attributable to shareholders of rmb32.48 billion under ifrs, down 9.5% and 33.6% year over ">
@@ -2332,6 +2362,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-25">2026-03-25T10:00:00Z</time>
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, interest rate</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="21.98" data-date="2026-03-25" data-themes="war_conflict,oil_energy" data-text="earnings preview: what to expect from kinder morgan's report earnings preview: what to expect from kinder morgan's report aritra gangopadhyay wed, march 25, 2026 at 5:50 am mdt 2 min read kmi ^gspc houston, texas-based kinder morgan, inc. (kmi) is a midstream energy infrastructure provider in north america. the company has a market capitalization of $75.5 billion and operates through natural gas pipelines, products pipelines, terminals, and co2 segments. kmi is expected to release its q1 2026 earnings soon. ahead of the event, analysts expect the company’s eps to be $0.37 on a diluted basis, up 8.8% from $0.34 in the year-ago quarter. the company has me">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 21.98 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: s&p 500, volatility, earnings, war, middle east, oil, bond">22.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-kinder-morgans-115023973.html" target="_blank" rel="noopener">Earnings Preview: What To Expect From Kinder Morgan's Report</a></h3>
+  <p class="preview card-detail">Earnings Preview: What To Expect From Kinder Morgan's Report Aritra Gangopadhyay Wed, March 25, 2026 at 5:50 AM MDT 2 min read KMI ^GSPC Houston, Texas-based Kinder Morgan, Inc. (KMI) is a midstream energy infrastructure provider in North America. The company has a market capitalization of $75.5 bil&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T11:50:23Z</time>
+    <span class="kw-hint">🔑 s&p 500, volatility, earnings, war, middle east</span>
   </div>
 </article>
 <article class="card card-alert" data-score="21.94" data-date="2026-03-25" data-themes="war_conflict,sanctions_major" data-text="how the shadow fleet is capitalising on the chaos of war the iran conflict has offered the illicit oil trade a lifeline — while the easing of us sanctions widens a transatlantic rift">
@@ -4852,6 +4896,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-21">2026-03-21T14:05:00Z</time>
     <span class="kw-hint">🔑 s&p 500, nasdaq, earnings, war, military</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="14.85" data-date="2026-03-25" data-themes="war_conflict,sovereign_default" data-text="xrp’s ‘tipping point’ will come when firms start using it, says franklin templeton as price faces pressure xrp’s ‘tipping point’ will come when firms start using it, says franklin templeton as price faces pressure kurt robson wed, march 25, 2026 at 6:00 am mdt 5 min read xrp-usd key takeaways franklin templeton’s head of digital assets says xrp’s true “tipping point” will come when businesses actively use its network. sec–cftc clarity is positive for institutions, but broader economic risks continue to weigh on crypto sentiment, the exec said. xrp is facing near-term downside as etf flows turn negative. xrp’s long-anticipated breakout may depend less on regulatory milestones and more on whether bus">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 14.85 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war, crisis, default, crypto">14.8 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">💀 Default</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/xrp-tipping-point-come-firms-120047127.html" target="_blank" rel="noopener">XRP’s ‘Tipping Point’ Will Come When Firms Start Using It, Says Franklin Templeton as Price Faces Pressure</a></h3>
+  <p class="preview card-detail">XRP’s ‘Tipping Point’ Will Come When Firms Start Using It, Says Franklin Templeton as Price Faces Pressure Kurt Robson Wed, March 25, 2026 at 6:00 AM MDT 5 min read XRP-USD Key Takeaways Franklin Templeton’s head of digital assets says XRP’s true “tipping point” will come when businesses actively us&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T12:00:47Z</time>
+    <span class="kw-hint">🔑 war, crisis, default, crypto</span>
   </div>
 </article>
 <article class="card card-alert" data-score="14.79" data-date="2026-03-25" data-themes="war_conflict,oil_energy" data-text="canada and norway move to capitalise on iran war oil price surge nations position themselves as reliable suppliers in a ‘desperate’ world">
@@ -8184,6 +8242,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-24">Tue, 24 Mar 2026 19:03:57</time>
     <span class="kw-hint">🔑 interest rate, war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="11.59" data-date="2026-03-25" data-themes="war_conflict" data-text="3 tech etfs for 2026: ftec, igv, and xntk tell very different stories 3 tech etfs for 2026: ftec, igv, and xntk tell very different stories michael williams wed, march 25, 2026 at 5:57 am mdt 7 min read crm goog meta amzn ftec quick read fidelity msci information technology index etf ( ftec ) has the lowest expense ratio at 0.08% and $16.67b in assets with 283-292 holdings, though its returns are heavily driven by nvidia, apple, and microsoft which comprise 44% of the fund. ishares expanded tech-software sector etf ( igv ) dropped 20.11% year-to-date and is down 9.31% over the past year as ai disruption fears hit software stocks, while spdr nyse technology etf (">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.59 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: earnings, war, taiwan, gold">11.6 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/3-tech-etfs-2026-ftec-115713868.html" target="_blank" rel="noopener">3 Tech ETFs for 2026: FTEC, IGV, and XNTK Tell Very Different Stories</a></h3>
+  <p class="preview card-detail">3 Tech ETFs for 2026: FTEC, IGV, and XNTK Tell Very Different Stories Michael Williams Wed, March 25, 2026 at 5:57 AM MDT 7 min read CRM GOOG META AMZN FTEC Quick Read Fidelity MSCI Information Technology Index ETF ( FTEC ) has the lowest expense ratio at 0.08% and $16.67B in assets with 283-292 hol&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T11:57:13Z</time>
+    <span class="kw-hint">🔑 earnings, war, taiwan, gold</span>
   </div>
 </article>
 <article class="card card-alert" data-score="11.58" data-date="2026-03-24" data-themes="war_conflict,oil_energy" data-text="cotton reverting higher at midday cotton reverting higher at midday austin schroeder tue, march 24, 2026 at 10:31 am pdt 1 min read cotton futures are trading with midday gains of 30 to 35 points at midday. crude oil is up $5.09 on the day. the us dollar index is $0.685 higher at $99.410. the seam showed sales of 4,911 bales on march 23, averaging 66.47 cents/lb. the cotlook a index was down 40 points on monday at 77.85 cents. ice certified cotton stocks were unchanged on 3/23, with the certified stocks level at 115,640 bales. the adjusted world price was raised by 2.72 cents to 54.22 cents/lb last thursday. more news from bar">
@@ -14346,6 +14418,20 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="7.64" data-date="2026-03-25" data-themes="war_conflict" data-text="orior opts to keep ready-meals business after review orior opts to keep ready-meals business after review simon harvey wed, march 25, 2026 at 6:08 am mdt 3 min read oron.sw orior is to keep its ready-meals business following a review as part of the swiss food and drink group’s strategy reset. last august, orior announced it was weighing up options for belgian-based culinor food group, including a sale, under what it called at the time a “far-reaching” restructuring programme to reduce debt. alongside its annual results today (25 march), orior said “all strategic options” for culinor “were reviewed”. however, the listed company added “no value ap">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.64 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: earnings, war">7.6 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/healthcare/articles/orior-opts-keep-ready-meals-120834307.html" target="_blank" rel="noopener">Orior opts to keep ready-meals business after review</a></h3>
+  <p class="preview card-detail">Orior opts to keep ready-meals business after review Simon Harvey Wed, March 25, 2026 at 6:08 AM MDT 3 min read ORON.SW Orior is to keep its ready-meals business following a review as part of the Swiss food and drink group’s strategy reset. Last August, Orior announced it was weighing up options for&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T12:08:34Z</time>
+    <span class="kw-hint">🔑 earnings, war</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="7.63" data-date="2026-03-21" data-themes="" data-text="united microelectronics corporation (umc) teams with hyperlight, jabil to accelerate tfln photonics for hyperscale ai united microelectronics corporation (umc) teams with hyperlight, jabil to accelerate tfln photonics for hyperscale ai laiba immad fri, march 20, 2026 at 8:39 pm cdt 2 min read umc jbl adea united microelectronics corporation (nyse: umc ) is one of the best robinhood stocks on this list. united microelectronics corporation (umc) teams with hyperlight, jabil to accelerate tfln photonics for hyperscale ai thefly reported on march 13 that umc, together with its subsidiary wavetek, announced a collaboration with hyperlight and jabil inc. the partnership aims to speed up the implementation of thin-f">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -14414,6 +14500,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-25">2026-03-25T10:22:01Z</time>
     <span class="kw-hint">🔑 oil</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="7.47" data-date="2026-03-25" data-themes="war_conflict" data-text="ufp packaging introduces new nail-free crate systems ufp packaging introduces new nail-free crate systems vidhya edwards munnangi wed, march 25, 2026 at 6:02 am mdt 2 min read ufp packaging has released the slot-lock and clamp-lock 100, two new crate systems designed for assembly without the use of nail or staple guns. this development adds to the company’s existing range of pneumatic-free packaging, including the u-loc 200, which was brought to market last year. the company’s new crate systems aim to address workplace safety concerns and increase operational efficiency. according to ufp packaging, its crates can be assembled and taken apart wit">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.47 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">7.5 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/ufp-packaging-introduces-nail-free-120259887.html" target="_blank" rel="noopener">UFP Packaging introduces new nail-free crate systems</a></h3>
+  <p class="preview card-detail">UFP Packaging introduces new nail-free crate systems Vidhya Edwards Munnangi Wed, March 25, 2026 at 6:02 AM MDT 2 min read UFP Packaging has released the Slot-Lock and Clamp-Lock 100, two new crate systems designed for assembly without the use of nail or staple guns. This development adds to the com&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T12:02:59Z</time>
+    <span class="kw-hint">🔑 war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="7.43" data-date="2026-03-21" data-themes="war_conflict" data-text="3 most lucrative side hustles for people over 60 3 most lucrative side hustles for people over 60 martin dasko sat, march 21, 2026 at 3:00 pm mst 3 min read according to a recent aarp survey , 7% of retirees have “unretired,” with 48% of those admitting they returned to the labor force to make money. the 2025 u.s. retirement survey from schroders revealed that 62% of americans don’t know how long their retirement savings will last and 25% of retirees admitted to losing sleep over their finances. it’s clear that americans over 60 are looking for ways to make more money as they try to navigate inflation. luckily, if you’re looking to accelerat">
@@ -21514,6 +21614,20 @@
     
   </div>
 </article>
+<article class="card" data-score="0.51" data-date="2026-03-25" data-themes="" data-text="google to label verified investment apps in india amid regulatory crackdown on fraud google to label verified investment apps in india amid regulatory crackdown on fraud jayshree p upadhyay and nishit navin wed, march 25, 2026 at 6:19 am mdt 1 min read goog by jayshree p upadhyay and nishit navin march 25 (reuters) - alphabet's google will label verified investment apps on its app store ‌in india, a move aimed at helping users spot legitimate ‌trading platforms and avoid scams, a senior official at the securities and exchange board ​of india said on wednesday. only brokers and intermediaries registered with the sebi, india's markets regulator, will be allowed to carry a verifi">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.51 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.5 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/google-label-verified-investment-apps-121938652.html" target="_blank" rel="noopener">Google to label verified investment apps in India amid regulatory crackdown on fraud</a></h3>
+  <p class="preview card-detail">Google to label verified investment apps in India amid regulatory crackdown on fraud Jayshree P Upadhyay and Nishit Navin Wed, March 25, 2026 at 6:19 AM MDT 1 min read GOOG By Jayshree P Upadhyay and Nishit Navin March 25 (Reuters) - Alphabet's Google will label verified investment apps on its app s&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T12:19:38Z</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.49" data-date="2026-03-23" data-themes="" data-text="hsbc appoints first chief ai officer as it seeks cost cuts hsbc appoints first chief ai officer as it seeks cost cuts reuters mon, march 23, 2026 at 9:13 am edt 1 min read hsbc london, march 23 (reuters) - hsbc has appointed david rice as its first chief ai officer, the ‌british bank said on monday, as it ‌seeks to cut costs and improve performance by increasing the use ​of generative ai technology across its businesses worldwide. hsbc ceo georges elhedery has highlighted ai as the key to the bank's wider strategic goal of increasing its return ‌on tangible equity ⁠to above 17% for 2026-2028, via savings from automating and streamlining its processes.">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -21567,20 +21681,6 @@
   <p class="preview card-detail">FirstFT: Stocks fall on Trump’s Iran ultimatum Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefined What’s included Globa&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-03-23">Mon, 23 Mar 2026 05:34:59</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-03-19" data-themes="" data-text="deutsche bank promotes two potential successors to sewing stefan hoops, chief executive of dws, to join bank’s management board and fabrizio campelli appointed deputy ceo">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/bdf1851f-8c9a-4aaf-a49a-178b8a3c6808" target="_blank" rel="noopener">Deutsche Bank promotes two potential successors to Sewing</a></h3>
-  <p class="preview card-detail">Stefan Hoops, chief executive of DWS, to join bank’s management board and Fabrizio Campelli appointed deputy CEO</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 20:16:17</time>
     
   </div>
 </article>
@@ -22381,19 +22481,58 @@
     <time datetime="2026-03-26">Thu, 26 Mar 2026 12:42:50</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-03-25" data-themes="" data-text="a gas that's critical for ai chips faces supply crunch ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-25-2026/card/a-gas-that-s-critical-for-ai-chips-faces-supply-crunch-MsYqI39DeKIsk0lNC3kd?siteid=yhoof2&yptr=yahoo" target="_blank" rel="noopener">A Gas That's Critical for AI Chips Faces Supply Crunch</a></h3>
+  <p class="preview card-detail"></p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-25">2026-03-25T12:12:29Z</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
 
 <script>
 
+// ── ACCÈS SECRET ──
+// Si URL contient ?access=AK4753ikZS3m → débloque tout + sauvegarde localStorage
+const ACCESS_SECRET = "AK4753ikZS3m";
+
+function checkAccess() {
+  const params = new URLSearchParams(window.location.search);
+  const token = params.get('access');
+  if (token === ACCESS_SECRET) {
+    localStorage.setItem('ml_access', ACCESS_SECRET);
+    window.history.replaceState({}, '', window.location.pathname);
+  }
+  return localStorage.getItem('ml_access') === ACCESS_SECRET;
+}
+
+function applyAccess() {
+  if (checkAccess()) {
+    document.querySelectorAll('.blurred-wrapper').forEach(el => {
+      el.classList.add('unlocked');
+    });
+  }
+}
+
 function showPaywall() {
+  if (checkAccess()) return;
   document.getElementById('paywall-modal').classList.add('show');
 }
+
 function closePaywall() {
   document.getElementById('paywall-modal').classList.remove('show');
 }
 
+// ── VUE & FILTRES ──
 let currentView = 'top';
 let activeThemes = new Set();
 let isCompact = false;
@@ -22465,13 +22604,12 @@ const gridColor = '#30363d';
 const tickColor = '#8b949e';
 const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font: { size: 10 } } };
 
-
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
     labels: ["03-20", "03-21", "03-22", "03-23", "03-24", "03-25", "03-26"],
     datasets: [{
-      data: [289, 254, 150, 314, 289, 144, 82],
+      data: [289, 254, 150, 314, 289, 153, 82],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -22485,7 +22623,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [921, 44, 223, 48, 24, 24, 53, 5, 13, 3, 2, 2];
+const themeValues = [928, 44, 224, 48, 24, 24, 53, 5, 14, 3, 2, 2];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
@@ -22509,6 +22647,7 @@ if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
     '<p style="color:#8b949e;font-size:12px;text-align:center;margin-top:30px">Aucun thème critique détecté</p>';
 }
 
+applyAccess();
 applyFilters();
 
 </script>
