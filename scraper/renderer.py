@@ -11,6 +11,7 @@ Features:
   - Mini dashboard: articles/day bar chart + theme donut (Chart.js CDN)
   - Compact / detailed mode toggle
   - Paywall: first 3 articles free, rest blurred
+  - Access via secret URL param ?access=AK4753ikZS3m
 """
 
 import json
@@ -20,7 +21,10 @@ from pathlib import Path
 
 OUTPUT_FILE = Path(__file__).parent.parent / "index.html"
 TOP_N = 20
-FREE_LIMIT = 3  # Nombre d'articles gratuits avant paywall
+FREE_LIMIT = 3
+ACCESS_SECRET = "AK4753ikZS3m"
+# Remplace ce placeholder par ton vrai lien Lemon Squeezy une fois validé
+LEMON_SQUEEZY_URL = "https://macro-lab.lemonsqueezy.com/checkout"
 
 THEME_LABELS = {
     "war_conflict":        "⚔️ War/Conflict",
@@ -141,17 +145,9 @@ def _build_card(article: dict) -> str:
         f'</article>'
     )
 
-def _build_card_blurred(article: dict) -> str:
-    """Carte floutée pour les non-abonnés — affiche le paywall au clic."""
-    inner = _build_card(article)
-    return (
-        f'<div class="blurred-wrapper" onclick="showPaywall()">'
-        f'<div>{inner}</div>'
-        f'</div>'
-    )
 
 def _build_card_blurred(article: dict) -> str:
-    """Carte floutée pour les non-abonnés — ouvre le modal paywall au clic."""
+    """Carte floutée pour les non-abonnés."""
     inner = _build_card(article)
     return (
         f'<div class="blurred-wrapper" onclick="showPaywall()">'
@@ -186,11 +182,12 @@ def render_html(all_articles: list, top_articles: list) -> str:
         for i in range(7)
     )
 
-    FREE_LIMIT = 3
+    # TOP CARDS : FREE_LIMIT gratuites, reste flouté
     top_cards = "\n".join(
         _build_card(a) if i < FREE_LIMIT else _build_card_blurred(a)
         for i, a in enumerate(top_articles)
     )
+
     all_cards = "\n".join(_build_card(a) for a in sorted(
         all_articles, key=lambda x: x.get("score_normalized", 0), reverse=True
     ))
@@ -201,63 +198,88 @@ def render_html(all_articles: list, top_articles: list) -> str:
         for k in THEME_LABELS.keys()
     )
 
-    js_block = """
-function showPaywall() {
-  document.getElementById('paywall-modal').classList.add('show');
-}
-function closePaywall() {
-  document.getElementById('paywall-modal').classList.remove('show');
-}
+    js_block = f"""
+// ── ACCÈS SECRET ──
+// Si URL contient ?access=AK4753ikZS3m → débloque tout + sauvegarde localStorage
+const ACCESS_SECRET = "{ACCESS_SECRET}";
 
+function checkAccess() {{
+  const params = new URLSearchParams(window.location.search);
+  const token = params.get('access');
+  if (token === ACCESS_SECRET) {{
+    localStorage.setItem('ml_access', ACCESS_SECRET);
+    window.history.replaceState({{}}, '', window.location.pathname);
+  }}
+  return localStorage.getItem('ml_access') === ACCESS_SECRET;
+}}
+
+function applyAccess() {{
+  if (checkAccess()) {{
+    document.querySelectorAll('.blurred-wrapper').forEach(el => {{
+      el.classList.add('unlocked');
+    }});
+  }}
+}}
+
+function showPaywall() {{
+  if (checkAccess()) return;
+  document.getElementById('paywall-modal').classList.add('show');
+}}
+
+function closePaywall() {{
+  document.getElementById('paywall-modal').classList.remove('show');
+}}
+
+// ── VUE & FILTRES ──
 let currentView = 'top';
 let activeThemes = new Set();
 let isCompact = false;
 
-function setView(v) {
+function setView(v) {{
   currentView = v;
   document.getElementById('view-top').classList.toggle('active', v === 'top');
   document.getElementById('view-all').classList.toggle('active', v === 'all');
   document.getElementById('viewBtn').classList.toggle('on', v === 'top');
   document.getElementById('viewAllBtn').classList.toggle('on', v === 'all');
   applyFilters();
-}
+}}
 
-function toggleCompact() {
+function toggleCompact() {{
   isCompact = !isCompact;
   document.body.classList.toggle('compact-mode', isCompact);
   const btn = document.getElementById('compactBtn');
   btn.classList.toggle('on', isCompact);
   btn.textContent = isCompact ? '⊟ Détails' : '⊞ Compact';
-}
+}}
 
-function toggleTheme(btn) {
+function toggleTheme(btn) {{
   const theme = btn.dataset.theme;
-  if (activeThemes.has(theme)) {
+  if (activeThemes.has(theme)) {{
     activeThemes.delete(theme);
     btn.classList.remove('on');
-  } else {
+  }} else {{
     activeThemes.add(theme);
     btn.classList.add('on');
-  }
+  }}
   document.getElementById('themeAll').classList.toggle('on', activeThemes.size === 0);
   applyFilters();
-}
+}}
 
-function clearThemes() {
+function clearThemes() {{
   activeThemes.clear();
   document.querySelectorAll('.filter-btn[data-theme]').forEach(b => b.classList.remove('on'));
   document.getElementById('themeAll').classList.add('on');
   applyFilters();
-}
+}}
 
-function applyFilters() {
+function applyFilters() {{
   const query   = document.getElementById('searchInput').value.toLowerCase().trim();
   const dateVal = document.getElementById('dateSelect').value;
   const cid     = currentView === 'top' ? 'cards-top' : 'cards-all';
   const cards   = document.getElementById(cid).querySelectorAll('.card, .blurred-wrapper');
 
   let visible = 0;
-  cards.forEach(card => {
+  cards.forEach(card => {{
     const text   = (card.dataset.text || '') + ' ' + (card.querySelector('.card-title')?.textContent || '').toLowerCase();
     const date   = card.dataset.date  || '';
     const themes = card.dataset.themes || '';
@@ -269,18 +291,17 @@ function applyFilters() {
     const show = matchSearch && matchDate && matchTheme;
     card.classList.toggle('hidden', !show);
     if (show) visible++;
-  });
+  }});
 
   const rc = document.getElementById('resultCount');
   if (rc) rc.textContent = visible + ' article' + (visible !== 1 ? 's' : '') + ' affiché' + (visible !== 1 ? 's' : '');
-}
+}}
 
 // ── CHARTS ──
 const gridColor = '#30363d';
 const tickColor = '#8b949e';
-const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font: { size: 10 } } };
+const axisOpts  = {{ grid: {{ color: gridColor }}, ticks: {{ color: tickColor, font: {{ size: 10 }} }} }};
 
-""" + f"""
 new Chart(document.getElementById('chartDays'), {{
   type: 'bar',
   data: {{
@@ -324,6 +345,7 @@ if (themeValues.length > 0 && themeValues.some(v => v > 0)) {{
     '<p style="color:#8b949e;font-size:12px;text-align:center;margin-top:30px">Aucun thème critique détecté</p>';
 }}
 
+applyAccess();
 applyFilters();
 """
 
@@ -389,16 +411,6 @@ applyFilters();
     .compact-mode .card-detail{{display:none!important}}
     .compact-mode .card{{padding:9px 14px;margin-bottom:6px}}
     .hidden{{display:none!important}}
-    .blurred-wrapper{{position:relative;cursor:pointer;margin-bottom:10px;overflow:hidden;border-radius:8px}}
-    .blurred-wrapper>div{{filter:blur(5px);pointer-events:none;user-select:none}}
-    .blurred-wrapper::after{{content:'🔒 Contenu Premium — Cliquez pour accéder';position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--accent);color:#000;padding:8px 18px;border-radius:8px;font-size:13px;font-weight:700;white-space:nowrap}}
-    #paywall-modal{{display:none;position:fixed;inset:0;background:rgba(0,0,0,.8);z-index:9999;align-items:center;justify-content:center}}
-    #paywall-modal.show{{display:flex}}
-    .paywall-box{{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:32px;max-width:400px;width:90%;text-align:center}}
-    .paywall-box h2{{color:var(--accent);margin-bottom:12px;font-size:20px}}
-    .paywall-box p{{color:var(--muted);margin-bottom:24px;font-size:14px;line-height:1.6}}
-    .paywall-btn{{background:var(--accent);color:#000;border:none;padding:12px 28px;border-radius:8px;font-size:15px;font-weight:700;cursor:pointer;width:100%;margin-bottom:10px}}
-    .paywall-close{{background:transparent;color:var(--muted);border:1px solid var(--border);padding:8px 20px;border-radius:8px;cursor:pointer;font-size:13px;width:100%}}
     .view{{display:none}}.view.active{{display:block}}
     /* ── PAYWALL ── */
     .blurred-wrapper{{position:relative;cursor:pointer;margin-bottom:10px;border-radius:8px;overflow:hidden}}
@@ -413,6 +425,9 @@ applyFilters();
       white-space:nowrap;pointer-events:none;
       box-shadow:0 4px 20px rgba(88,166,255,0.4)
     }}
+    .blurred-wrapper.unlocked .blurred-inner{{filter:none;pointer-events:auto;user-select:auto}}
+    .blurred-wrapper.unlocked{{cursor:default}}
+    .blurred-wrapper.unlocked::after{{display:none}}
     #paywall-modal{{
       display:none;position:fixed;inset:0;
       background:rgba(0,0,0,0.8);z-index:9999;
@@ -425,12 +440,13 @@ applyFilters();
       text-align:center
     }}
     .paywall-box h2{{color:var(--accent);margin-bottom:12px;font-size:22px}}
-    .paywall-box p{{color:var(--muted);margin-bottom:24px;font-size:14px;line-height:1.7}}
+    .paywall-box p{{color:var(--muted);margin-bottom:20px;font-size:14px;line-height:1.7}}
     .paywall-features{{text-align:left;margin-bottom:24px;color:var(--text);font-size:13px;line-height:2}}
     .paywall-btn{{
       background:var(--accent);color:#000;border:none;
       padding:13px 28px;border-radius:8px;font-size:15px;
-      font-weight:700;cursor:pointer;width:100%;margin-bottom:10px
+      font-weight:700;cursor:pointer;width:100%;margin-bottom:10px;
+      text-decoration:none;display:block
     }}
     .paywall-btn:hover{{opacity:0.9}}
     .paywall-close{{
@@ -442,12 +458,20 @@ applyFilters();
 </head>
 <body>
 
+<!-- MODAL PAYWALL -->
 <div id="paywall-modal">
   <div class="paywall-box">
     <h2>📊 Macro Lab Premium</h2>
-    <p>Accède aux <strong>20 meilleures alertes macro</strong> en temps réel,
-    triées par score d'impact, avec alertes Telegram &amp; Discord.</p>
-    <button class="paywall-btn">Accès complet — 9€/mois 🚀</button>
+    <p>Accède aux <strong>20 meilleures alertes macro</strong> en temps réel, triées par score d'impact.</p>
+    <div class="paywall-features">
+      ✅ Top 20 articles scorés en temps réel<br>
+      ✅ Alertes Telegram &amp; Discord<br>
+      ✅ Historique 7 jours complet<br>
+      ✅ Filtres thèmes &amp; recherche avancée
+    </div>
+    <a class="paywall-btn" href="{LEMON_SQUEEZY_URL}" target="_blank">
+      🚀 Accès complet — 9€/mois
+    </a>
     <button class="paywall-close" onclick="closePaywall()">Continuer en gratuit (3 articles)</button>
   </div>
 </div>
