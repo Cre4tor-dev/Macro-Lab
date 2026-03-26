@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-03-26 12:54 UTC</title>
+  <title>Macro Lab — 2026-03-26 14:21 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -71,6 +71,44 @@
     .paywall-btn{background:var(--accent);color:#000;border:none;padding:12px 28px;border-radius:8px;font-size:15px;font-weight:700;cursor:pointer;width:100%;margin-bottom:10px}
     .paywall-close{background:transparent;color:var(--muted);border:1px solid var(--border);padding:8px 20px;border-radius:8px;cursor:pointer;font-size:13px;width:100%}
     .view{display:none}.view.active{display:block}
+    /* ── PAYWALL ── */
+    .blurred-wrapper{position:relative;cursor:pointer;margin-bottom:10px;border-radius:8px;overflow:hidden}
+    .blurred-inner{filter:blur(4px);pointer-events:none;user-select:none}
+    .blurred-wrapper::after{
+      content:'🔒 Contenu Premium — Cliquez pour accéder';
+      position:absolute;top:50%;left:50%;
+      transform:translate(-50%,-50%);
+      background:var(--accent);color:#000;
+      padding:8px 18px;border-radius:8px;
+      font-size:13px;font-weight:700;
+      white-space:nowrap;pointer-events:none;
+      box-shadow:0 4px 20px rgba(88,166,255,0.4)
+    }
+    #paywall-modal{
+      display:none;position:fixed;inset:0;
+      background:rgba(0,0,0,0.8);z-index:9999;
+      align-items:center;justify-content:center
+    }
+    #paywall-modal.show{display:flex}
+    .paywall-box{
+      background:var(--surface);border:1px solid var(--border);
+      border-radius:12px;padding:36px;max-width:420px;width:90%;
+      text-align:center
+    }
+    .paywall-box h2{color:var(--accent);margin-bottom:12px;font-size:22px}
+    .paywall-box p{color:var(--muted);margin-bottom:24px;font-size:14px;line-height:1.7}
+    .paywall-features{text-align:left;margin-bottom:24px;color:var(--text);font-size:13px;line-height:2}
+    .paywall-btn{
+      background:var(--accent);color:#000;border:none;
+      padding:13px 28px;border-radius:8px;font-size:15px;
+      font-weight:700;cursor:pointer;width:100%;margin-bottom:10px
+    }
+    .paywall-btn:hover{opacity:0.9}
+    .paywall-close{
+      background:transparent;color:var(--muted);
+      border:1px solid var(--border);padding:8px 20px;
+      border-radius:8px;cursor:pointer;font-size:13px;width:100%
+    }
   </style>
 </head>
 <body>
@@ -90,15 +128,15 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-03-26 12:54 UTC<br>Seuil alerte: 5.0 · 1196 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-03-26 14:21 UTC<br>Seuil alerte: 5.0 · 1180 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1612</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1592</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">1196</div></div>
-    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">10.5</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">1180</div></div>
+    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">10.6</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
 
@@ -192,7 +230,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, jerome powell</span>
   </div>
 </article>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="48.90" data-date="2026-03-20" data-themes="war_conflict,sanctions_major,geopolitical_shock,recession,oil_energy" data-text="the s&p falls close to 1% as oil blasts past $100 a barrel the s&p falls close to 1% as oil blasts past $100 a barrel michael williams fri, march 20, 2026 at 8:26 am mst 4 min read ^gspc iwm spy qqq dia quick read super micro computer (smci) is the s&p 500’s worst performer today on company-specific concerns, while nvidia (nvda), crowdstrike (crwd), and western digital (wdc) are under pressure as high-multiple tech stocks suffer in a risk-off environment. energy stocks including chevron (cvx) and exxon mobil (xom) are gaining as brent crude trades at $108.60 per barrel after spiking to $119 earlier in the week. iranian strikes on gulf energy infrastru">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="48.90" data-date="2026-03-20" data-themes="war_conflict,sanctions_major,geopolitical_shock,recession,oil_energy" data-text="the s&p falls close to 1% as oil blasts past $100 a barrel the s&p falls close to 1% as oil blasts past $100 a barrel michael williams fri, march 20, 2026 at 8:26 am mst 4 min read ^gspc iwm spy qqq dia quick read super micro computer (smci) is the s&p 500’s worst performer today on company-specific concerns, while nvidia (nvda), crowdstrike (crwd), and western digital (wdc) are under pressure as high-multiple tech stocks suffer in a risk-off environment. energy stocks including chevron (cvx) and exxon mobil (xom) are gaining as brent crude trades at $108.60 per barrel after spiking to $119 earlier in the week. iranian strikes on gulf energy infrastru">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 48.90 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: s&p 500, nasdaq, selloff, vix, war, conflict, sanctions, china">48.9 <sup>ℹ</sup></span>
@@ -206,7 +244,7 @@
     <span class="kw-hint">🔑 s&p 500, nasdaq, selloff, vix, war</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="47.99" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="trump’s iran pause triggers oil selloff and a safe-haven reset trump’s iran pause triggers oil selloff and a safe-haven reset alex kimani mon, march 23, 2026 at 7:00 pm cdt 5 min read btc-usd cl=f u.s. president donald trump said monday the white house is in contact with what he described as a “respected” iraniangold breaks, bitcoin rallies as iran war scrambles safe havens figure and claimed tehran is now pushing for a deal to end the war as it enters its fourth week. he also extended a deadline for iran to reopen the strait of hormuz, giving it five more days before the u.s. moves ahead with strikes on iranian power infrastructure. more from yahoo scout">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="47.99" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="trump’s iran pause triggers oil selloff and a safe-haven reset trump’s iran pause triggers oil selloff and a safe-haven reset alex kimani mon, march 23, 2026 at 7:00 pm cdt 5 min read btc-usd cl=f u.s. president donald trump said monday the white house is in contact with what he described as a “respected” iraniangold breaks, bitcoin rallies as iran war scrambles safe havens figure and claimed tehran is now pushing for a deal to end the war as it enters its fourth week. he also extended a deadline for iran to reopen the strait of hormuz, giving it five more days before the u.s. moves ahead with strikes on iranian power infrastructure. more from yahoo scout">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 47.99 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: federal reserve, fed, rate hike, interest rate, inflation, equities, s&p 500, selloff">48.0 <sup>ℹ</sup></span>
@@ -220,7 +258,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate hike, interest rate, inflation</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="47.04" data-date="2026-03-19" data-themes="war_conflict,geopolitical_shock,oil_energy,central_bank" data-text="dollar falls and gold plunges on hawkish global central banks dollar falls and gold plunges on hawkish global central banks rich asplund thu, march 19, 2026 at 7:42 am mst 5 min read dx-y.nyb gc=f gbp=x gbpusd=x usd=x the dollar index (dxy00) today is down by -0.45%.  the dollar is under pressure today after the british pound, the euro, and japanese yen rallied when the boe, ecb, and boj made hawkish comments about the inflationary aspects of soaring energy prices from the war in iran.  losses in the dollar accelerated today after the us jan new home sales fell more than expected to a 3.25-year low. losses in the dollar are limited as today's stock marke">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="47.04" data-date="2026-03-19" data-themes="war_conflict,geopolitical_shock,oil_energy,central_bank" data-text="dollar falls and gold plunges on hawkish global central banks dollar falls and gold plunges on hawkish global central banks rich asplund thu, march 19, 2026 at 7:42 am mst 5 min read dx-y.nyb gc=f gbp=x gbpusd=x usd=x the dollar index (dxy00) today is down by -0.45%.  the dollar is under pressure today after the british pound, the euro, and japanese yen rallied when the boe, ecb, and boj made hawkish comments about the inflationary aspects of soaring energy prices from the war in iran.  losses in the dollar accelerated today after the us jan new home sales fell more than expected to a 3.25-year low. losses in the dollar are limited as today's stock marke">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 47.04 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: fed, rate cut, rate hike, interest rate, fomc, ecb, boj, inflation">47.0 <sup>ℹ</sup></span>
@@ -234,7 +272,7 @@
     <span class="kw-hint">🔑 fed, rate cut, rate hike, interest rate, fomc</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="45.89" data-date="2026-03-21" data-themes="war_conflict,sanctions_major,recession,oil_energy,central_bank" data-text="wall street priced a swift bombing campaign. what it got was an energy war. wall street priced a swift bombing campaign. what it got was an energy war. hamza shaban · senior reporter updated sat, march 21, 2026 at 11:04 am cdt 5 min read cl=f this is the takeaway from today's morning brief, which you can sign up to receive in your inbox every morning along with: what we're watching what we're reading economic data releases and earnings wall street initially priced in a swift us bombing campaign as president trump made his move against iran. what investors got was an oil war. more from yahoo scout how might the fed respond to oil price shocks? what are the potential ec">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="45.89" data-date="2026-03-21" data-themes="war_conflict,sanctions_major,recession,oil_energy,central_bank" data-text="wall street priced a swift bombing campaign. what it got was an energy war. wall street priced a swift bombing campaign. what it got was an energy war. hamza shaban · senior reporter updated sat, march 21, 2026 at 11:04 am cdt 5 min read cl=f this is the takeaway from today's morning brief, which you can sign up to receive in your inbox every morning along with: what we're watching what we're reading economic data releases and earnings wall street initially priced in a swift us bombing campaign as president trump made his move against iran. what investors got was an oil war. more from yahoo scout how might the fed respond to oil price shocks? what are the potential ec">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 45.89 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, rate cut, interest rate, jerome powell, inflation, stock market, earnings, war">45.9 <sup>ℹ</sup></span>
@@ -248,7 +286,7 @@
     <span class="kw-hint">🔑 fed, rate cut, interest rate, jerome powell, inflation</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="44.83" data-date="2026-03-20" data-themes="war_conflict,sanctions_major,geopolitical_shock,recession,oil_energy,market_volatility" data-text="the vix rips 10% higher as oil punches through $100 a barrel and panic enters the arena the vix rips 10% higher as oil punches through $100 a barrel and panic enters the arena michael williams fri, march 20, 2026 at 8:27 am mst 5 min read cl=f dia qqq iwm smci quick read spdr s&p 500 etf (spy) is down 1.12% today and 3.24% year-to-date, spdr dow jones industrial average etf (dia) has shed 7% over the past month and is the weakest major benchmark, invesco qqq trust (qqq) is off 1.16% today and down 3.47% for the year, ishares russell 2000 etf (iwm) is down 1.37% as small-caps face sharp hits from oil-driven inflation fears and higher borrowing costs, and super micro computer (smci">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="44.83" data-date="2026-03-20" data-themes="war_conflict,sanctions_major,geopolitical_shock,recession,oil_energy,market_volatility" data-text="the vix rips 10% higher as oil punches through $100 a barrel and panic enters the arena the vix rips 10% higher as oil punches through $100 a barrel and panic enters the arena michael williams fri, march 20, 2026 at 8:27 am mst 5 min read cl=f dia qqq iwm smci quick read spdr s&p 500 etf (spy) is down 1.12% today and 3.24% year-to-date, spdr dow jones industrial average etf (dia) has shed 7% over the past month and is the weakest major benchmark, invesco qqq trust (qqq) is off 1.16% today and down 3.47% for the year, ishares russell 2000 etf (iwm) is down 1.37% as small-caps face sharp hits from oil-driven inflation fears and higher borrowing costs, and super micro computer (smci">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 44.83 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: inflation, s&p 500, nasdaq, vix, volatility, war, sanctions, china">44.8 <sup>ℹ</sup></span>
@@ -262,7 +300,7 @@
     <span class="kw-hint">🔑 inflation, s&p 500, nasdaq, vix, volatility</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="44.68" data-date="2026-03-20" data-themes="war_conflict,central_bank" data-text="j.p. morgan pushes back on fed’s 2026 rate-cut forecast j.p. morgan pushes back on fed’s 2026 rate-cut forecast mary helen gillespie fri, march 20, 2026 at 8:07 am mst 4 min read a top wall street economist is breaking with the federal reserve and warning that interest-rate cuts may be off the table completely through 2026 as inflation and the iran war reshape the outlook. michael feroli, the chief u.s. economist for j.p. morgan , disagrees with the federal reserve’s new forecast on interest-rate cuts this year. feroli told cnbc march 19 that the fed will keep interest rates on hold for the rest of 2026. he also said the central bank’s next move wi">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="44.68" data-date="2026-03-20" data-themes="war_conflict,central_bank" data-text="j.p. morgan pushes back on fed’s 2026 rate-cut forecast j.p. morgan pushes back on fed’s 2026 rate-cut forecast mary helen gillespie fri, march 20, 2026 at 8:07 am mst 4 min read a top wall street economist is breaking with the federal reserve and warning that interest-rate cuts may be off the table completely through 2026 as inflation and the iran war reshape the outlook. michael feroli, the chief u.s. economist for j.p. morgan , disagrees with the federal reserve’s new forecast on interest-rate cuts this year. feroli told cnbc march 19 that the fed will keep interest rates on hold for the rest of 2026. he also said the central bank’s next move wi">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 44.68 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate cut, rate hike, interest rate, fomc, jerome powell, inflation">44.7 <sup>ℹ</sup></span>
@@ -276,7 +314,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, interest rate</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="44.52" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,recession,oil_energy,central_bank" data-text="s&p futures waver as concerns over middle east conflict persist, u.s. pmi data in focus s&p futures waver as concerns over middle east conflict persist, u.s. pmi data in focus oleksandr pylypenko tue, march 24, 2026 at 3:31 am pdt 10 min read june s&p 500 e-mini futures (esm26) are trending up +0.02% this morning, swinging between gains and losses as optimism over a de-escalation in the middle east conflict wanes. investors continue to navigate a flood of headlines surrounding the middle east conflict after president trump signaled a potential end to hostilities on monday following what he described as productive discussions. fragile optimism over a potential easing of tensions g">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="44.52" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,recession,oil_energy,central_bank" data-text="s&p futures waver as concerns over middle east conflict persist, u.s. pmi data in focus s&p futures waver as concerns over middle east conflict persist, u.s. pmi data in focus oleksandr pylypenko tue, march 24, 2026 at 3:31 am pdt 10 min read june s&p 500 e-mini futures (esm26) are trending up +0.02% this morning, swinging between gains and losses as optimism over a de-escalation in the middle east conflict wanes. investors continue to navigate a flood of headlines surrounding the middle east conflict after president trump signaled a potential end to hostilities on monday following what he described as productive discussions. fragile optimism over a potential easing of tensions g">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 44.52 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, rate cut, rate hike, interest rate, stock market, s&p 500, war, conflict">44.5 <sup>ℹ</sup></span>
@@ -290,7 +328,7 @@
     <span class="kw-hint">🔑 fed, rate cut, rate hike, interest rate, stock market</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="44.49" data-date="2026-03-20" data-themes="war_conflict,oil_energy,central_bank" data-text="high oil prices knock down stocks and erase wall street's hopes for a cut to interest rates high oil prices knock down stocks and erase wall street's hopes for a cut to interest rates traders work on the floor at the new york stock exchange in new york, thursday, march 19, 2026. (ap photo/seth wenig) · associated press stan choe thu, march 19, 2026 at 10:06 pm pdt 5 min read cl=f ^gspc ^dji ^ixic new york (ap) — another climb for oil prices shook stock markets on friday, as hopes collapsed for a possible cut to interest rates this year by the federal reserve. the s&p 500 fell 1.5% to close its fourth straight losing week, its longest such streak in a year. the dow jones industrial av">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="44.49" data-date="2026-03-20" data-themes="war_conflict,oil_energy,central_bank" data-text="high oil prices knock down stocks and erase wall street's hopes for a cut to interest rates high oil prices knock down stocks and erase wall street's hopes for a cut to interest rates traders work on the floor at the new york stock exchange in new york, thursday, march 19, 2026. (ap photo/seth wenig) · associated press stan choe thu, march 19, 2026 at 10:06 pm pdt 5 min read cl=f ^gspc ^dji ^ixic new york (ap) — another climb for oil prices shook stock markets on friday, as hopes collapsed for a possible cut to interest rates this year by the federal reserve. the s&p 500 fell 1.5% to close its fourth straight losing week, its longest such streak in a year. the dow jones industrial av">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 44.49 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate hike, interest rate, inflation, stock market, s&p 500, nasdaq">44.5 <sup>ℹ</sup></span>
@@ -304,21 +342,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate hike, interest rate, inflation</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="44.40" data-date="2026-03-19" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq slide amid inflation worries as iran war sends oil surging live stock market today: dow, s&p 500, nasdaq slide amid inflation worries as iran war sends oil surging rian howlett and karen friar updated thu, march 19, 2026 at 8:48 am cdt 1 min read cl=f ym=f es=f nq=f ^dji us stocks added to losses on thursday as oil prices spiked amid strikes on key middle east energy hubs, stoking already intense inflation concerns on wall street. the dow jones industrial average ( ^dji ) fell 0.6%, coming off a bruising session that dragged the blue-chip benchmark to its lowest close this year. the s&p 500 ( ^gspc ) and nasdaq composite ( ^ixic ) lost a steeper 0.9% ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 44.40 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: federal reserve, fed, rate cut, interest rate, jerome powell, inflation, stock market, s&p 500">44.4 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🌐 Geo Shock</span><span class="theme-tag">🛢️ Oil/Energy</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-133439504.html" target="_blank" rel="noopener">Stock market today: Dow, S&P 500, Nasdaq slide amid inflation worries as Iran war sends oil surging</a></h3>
-  <p class="preview card-detail">LIVE Stock market today: Dow, S&P 500, Nasdaq slide amid inflation worries as Iran war sends oil surging Rian Howlett and Karen Friar Updated Thu, March 19, 2026 at 8:48 AM CDT 1 min read CL=F YM=F ES=F NQ=F ^DJI US stocks added to losses on Thursday as oil prices spiked amid strikes on key Middle E&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:34:39Z</time>
-    <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, jerome powell</span>
-  </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="43.73" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy,central_bank" data-text="investors are betting on an interest rate hike that’s really not that likely investors are betting on an interest rate hike that’s really not that likely maria eloisa capurro and miles j. herszenhorn updated tue, march 24, 2026 at 9:40 am mdt 5 min read c c-pr bac (bloomberg) — investors have lifted odds that the federal reserve is on the verge of raising interest rates, but lingering labor-market fragility and the risks to growth from surging oil prices make that a long shot, at least for now. on march 19, federal funds rate futures showed a 6% chance of an april hike, and have stayed in positive territory since. this marked the first time since december 2023 that inv">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="43.73" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy,central_bank" data-text="investors are betting on an interest rate hike that’s really not that likely investors are betting on an interest rate hike that’s really not that likely maria eloisa capurro and miles j. herszenhorn updated tue, march 24, 2026 at 9:40 am mdt 5 min read c c-pr bac (bloomberg) — investors have lifted odds that the federal reserve is on the verge of raising interest rates, but lingering labor-market fragility and the risks to growth from surging oil prices make that a long shot, at least for now. on march 19, federal funds rate futures showed a 6% chance of an april hike, and have stayed in positive territory since. this marked the first time since december 2023 that inv">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 43.73 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: federal reserve, fed, rate cut, rate hike, interest rate, jerome powell, inflation, war">43.7 <sup>ℹ</sup></span>
@@ -332,21 +356,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, interest rate</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="43.53" data-date="2026-03-19" data-themes="war_conflict,sanctions_major,geopolitical_shock,oil_energy,central_bank" data-text="jay powell warns iran war is likely to drive up inflation fed chair jay powell said: ‘higher energy prices will push up overall inflation, but it is too soon to know the scope and duration of the potential effects on the economy’ © reuters jay powell warns iran war is likely to drive up inflation on x (opens in a new window) jay powell warns iran war is likely to drive up inflation on facebook (opens in a new window) jay powell warns iran war is likely to drive up inflation on linkedin (opens in a new window) jay powell warns iran war is likely to drive up inflation on whatsapp (opens in a new window) jay powell warns iran war is likely to drive up i">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 43.53 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: federal reserve, fed, interest rate, fomc, inflation, war, conflict, sanctions">43.5 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🚫 Sanctions</span><span class="theme-tag">🌐 Geo Shock</span><span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/d7d45ead-393c-49e1-b30e-0e9e15bbf2c0" target="_blank" rel="noopener">Jay Powell warns Iran war is likely to drive up inflation</a></h3>
-  <p class="preview card-detail">Fed chair Jay Powell said: ‘Higher energy prices will push up overall inflation, but it is too soon to know the scope and duration of the potential effects on the economy’ © Reuters Jay Powell warns Iran war is likely to drive up inflation on x (opens in a new window) Jay Powell warns Iran war is li&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:00:07</time>
-    <span class="kw-hint">🔑 federal reserve, fed, interest rate, fomc, inflation</span>
-  </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="42.16" data-date="2026-03-24" data-themes="war_conflict,recession,oil_energy,market_volatility" data-text="the vix hangs dangerously close to 30, this week could see it punch through | vix the vix hangs dangerously close to 30, this week could see it punch through | vix michael williams tue, march 24, 2026 at 9:56 am edt 4 min read cl=f iwm spy ^gspc quick read the s&p 500 etf (spy) is down nearly 4% year-to-date and off 5% from a month ago, while the russell 2000 etf (iwm) has fallen 6% in the past month as the vix climbs toward the 30 threshold amid geopolitical tensions and rising oil prices above $100 a barrel. the 10-year treasury yield has risen from 4% to 4.4%, indicating inflation and supply disruption fears rather than a traditional risk-off flight to safety. the iran c">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="42.16" data-date="2026-03-24" data-themes="war_conflict,recession,oil_energy,market_volatility" data-text="the vix hangs dangerously close to 30, this week could see it punch through | vix the vix hangs dangerously close to 30, this week could see it punch through | vix michael williams tue, march 24, 2026 at 9:56 am edt 4 min read cl=f iwm spy ^gspc quick read the s&p 500 etf (spy) is down nearly 4% year-to-date and off 5% from a month ago, while the russell 2000 etf (iwm) has fallen 6% in the past month as the vix climbs toward the 30 threshold amid geopolitical tensions and rising oil prices above $100 a barrel. the 10-year treasury yield has risen from 4% to 4.4%, indicating inflation and supply disruption fears rather than a traditional risk-off flight to safety. the iran c">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 42.16 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: yield curve, inflation, s&p 500, vix, volatility, war, conflict, middle east">42.2 <sup>ℹ</sup></span>
@@ -360,7 +370,7 @@
     <span class="kw-hint">🔑 yield curve, inflation, s&p 500, vix, volatility</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="41.88" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stocks fall as iran war drags on stocks fall as iran war drags on rich asplund tue, march 24, 2026 at 10:19 am cdt 7 min read cl=f ^gspc ^ixic ^dji ^ndx the s&p 500 index ($spx) (spy) today is down -0.16%, the dow jones industrial average ($dowi) (dia) is up +0.13%, and the nasdaq 100 index ($iuxx) (qqq) is down -0.50%.  june e-mini s&p futures (esm26) are down -0.174%, and june e-mini nasdaq futures (nqm26) are down -0.50%. stocks are moving lower today as the war in iran drags on for a twenty-fifth day.  wti crude oil is up more than +4% today, and the 10-year t-note yield is up +4 bp to 4.38%. the strength in energy produc">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="41.88" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stocks fall as iran war drags on stocks fall as iran war drags on rich asplund tue, march 24, 2026 at 10:19 am cdt 7 min read cl=f ^gspc ^ixic ^dji ^ndx the s&p 500 index ($spx) (spy) today is down -0.16%, the dow jones industrial average ($dowi) (dia) is up +0.13%, and the nasdaq 100 index ($iuxx) (qqq) is down -0.50%.  june e-mini s&p futures (esm26) are down -0.174%, and june e-mini nasdaq futures (nqm26) are down -0.50%. stocks are moving lower today as the war in iran drags on for a twenty-fifth day.  wti crude oil is up more than +4% today, and the 10-year t-note yield is up +4 bp to 4.38%. the strength in energy produc">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 41.88 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: fed, rate hike, interest rate, fomc, ecb, inflation, stock market, s&p 500">41.9 <sup>ℹ</sup></span>
@@ -374,7 +384,7 @@
     <span class="kw-hint">🔑 fed, rate hike, interest rate, fomc, ecb</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="41.80" data-date="2026-03-22" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq futures sink as iran launches strikes in face of trump warning live stock market today: dow, s&p 500, nasdaq futures sink as iran launches strikes in face of trump warning rian howlett and karen friar updated mon, march 23, 2026 at 4:41 am cdt 1 min read nq=f ym=f es=f ^ixic ^dji us stock futures retreated on monday as iran and president trump traded war threats, raising tensions and stakes in a middle east conflict that risks a brutal hit to the global economy. dow jones industrial average futures ( ym=f ) dropped roughly 0.5%, while those on the s&p 500 ( es=f ) fell 0.6%. contracts on the tech-heavy nasdaq 100 ( nq=f ) led the losses, down 0.7%. stocks">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="41.80" data-date="2026-03-22" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq futures sink as iran launches strikes in face of trump warning live stock market today: dow, s&p 500, nasdaq futures sink as iran launches strikes in face of trump warning rian howlett and karen friar updated mon, march 23, 2026 at 4:41 am cdt 1 min read nq=f ym=f es=f ^ixic ^dji us stock futures retreated on monday as iran and president trump traded war threats, raising tensions and stakes in a middle east conflict that risks a brutal hit to the global economy. dow jones industrial average futures ( ym=f ) dropped roughly 0.5%, while those on the s&p 500 ( es=f ) fell 0.6%. contracts on the tech-heavy nasdaq 100 ( nq=f ) led the losses, down 0.7%. stocks">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 41.80 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, interest rate, inflation, stock market, equities, s&p 500, nasdaq">41.8 <sup>ℹ</sup></span>
@@ -388,7 +398,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, interest rate, inflation, stock market</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="41.65" data-date="2026-03-19" data-themes="war_conflict,oil_energy,central_bank" data-text="gold, silver, bitcoin crash as safe-haven luster fades following fed decision gold, silver, bitcoin crash as safe-haven luster fades following fed decision ines ferré · senior business reporter thu, march 19, 2026 at 2:06 pm edt 2 min read gc=f eth-usd btc-usd cl=f si=f gold plummeted as much as 6% on thursday, with the precious metal acting like anything but a safe-haven asset as the middle east conflict escalates. investors went risk-off as the prospects of higher inflation lowered the chances investors are placing on fed rate cuts. gold futures ( gc=f ) fell to around $4,600 per ounce, while the broader metals complex was also hammered, with silver ( si=f ) and coppe">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="41.65" data-date="2026-03-19" data-themes="war_conflict,oil_energy,central_bank" data-text="gold, silver, bitcoin crash as safe-haven luster fades following fed decision gold, silver, bitcoin crash as safe-haven luster fades following fed decision ines ferré · senior business reporter thu, march 19, 2026 at 2:06 pm edt 2 min read gc=f eth-usd btc-usd cl=f si=f gold plummeted as much as 6% on thursday, with the precious metal acting like anything but a safe-haven asset as the middle east conflict escalates. investors went risk-off as the prospects of higher inflation lowered the chances investors are placing on fed rate cuts. gold futures ( gc=f ) fell to around $4,600 per ounce, while the broader metals complex was also hammered, with silver ( si=f ) and coppe">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 41.65 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate cut, interest rate, inflation, volatility, war, conflict">41.6 <sup>ℹ</sup></span>
@@ -402,7 +412,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, inflation</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="41.33" data-date="2026-03-20" data-themes="war_conflict,oil_energy,central_bank" data-text="'fed's balancing act is getting trickier': wall street strategists reassess central bank's rate cut path 'fed's balancing act is getting trickier': wall street strategists reassess central bank's rate cut path jake conley · breaking business news reporter fri, march 20, 2026 at 8:18 am mst 4 min read cl=f bz=f ^gspc the federal reserve’s decision to leave interest rates where they are this week was widely expected. but the central bank’s cautious tone — especially from chair jerome powell at his press conference following the fed's meeting — is pushing wall street to reassess the timeline for rate cuts from the central bank. strategists say the fed’s latest messaging suggests policymakers are inc">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="41.33" data-date="2026-03-20" data-themes="war_conflict,oil_energy,central_bank" data-text="'fed's balancing act is getting trickier': wall street strategists reassess central bank's rate cut path 'fed's balancing act is getting trickier': wall street strategists reassess central bank's rate cut path jake conley · breaking business news reporter fri, march 20, 2026 at 8:18 am mst 4 min read cl=f bz=f ^gspc the federal reserve’s decision to leave interest rates where they are this week was widely expected. but the central bank’s cautious tone — especially from chair jerome powell at his press conference following the fed's meeting — is pushing wall street to reassess the timeline for rate cuts from the central bank. strategists say the fed’s latest messaging suggests policymakers are inc">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 41.33 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate cut, rate hike, interest rate, jerome powell, inflation, equities">41.3 <sup>ℹ</sup></span>
@@ -416,7 +426,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, interest rate</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div><article class="card card-alert" data-score="40.99" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stocks settle lower as iran war boosts crude oil and bond yields stocks settle lower as iran war boosts crude oil and bond yields rich asplund tue, march 24, 2026 at 3:43 pm cdt 8 min read cl=f ^gspc ^ixic ^dji ^ndx the s&p 500 index ($spx) (spy) on tuesday closed down -0.37%, the dow jones industrial average ($dowi) (dia) closed down -0.18%, and the nasdaq 100 index ($iuxx) (qqq) closed down -0.77%.  june e-mini s&p futures (esm26) fell -0.35%, and june e-mini nasdaq futures (nqm26) fell -0.77%. stocks settled lower on tuesday as the war in iran entered its 25th day.  wti crude oil jumped more than +4% tuesday, and the 10-year t-note yield rose +4 bp to 4.">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="40.99" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stocks settle lower as iran war boosts crude oil and bond yields stocks settle lower as iran war boosts crude oil and bond yields rich asplund tue, march 24, 2026 at 3:43 pm cdt 8 min read cl=f ^gspc ^ixic ^dji ^ndx the s&p 500 index ($spx) (spy) on tuesday closed down -0.37%, the dow jones industrial average ($dowi) (dia) closed down -0.18%, and the nasdaq 100 index ($iuxx) (qqq) closed down -0.77%.  june e-mini s&p futures (esm26) fell -0.35%, and june e-mini nasdaq futures (nqm26) fell -0.77%. stocks settled lower on tuesday as the war in iran entered its 25th day.  wti crude oil jumped more than +4% tuesday, and the 10-year t-note yield rose +4 bp to 4.">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 40.99 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: fed, rate hike, interest rate, fomc, ecb, inflation, stock market, s&p 500">41.0 <sup>ℹ</sup></span>
@@ -429,11 +439,39 @@
     <time datetime="2026-03-24">2026-03-24T20:43:22Z</time>
     <span class="kw-hint">🔑 fed, rate hike, interest rate, fomc, ecb</span>
   </div>
+</article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="40.43" data-date="2026-03-22" data-themes="war_conflict,recession,oil_energy,central_bank" data-text="'the energy tax': analysts weigh impact of surging gasoline prices on inflation, consumers 'the energy tax': analysts weigh impact of surging gasoline prices on inflation, consumers yahoo finance sun, march 22, 2026 at 7:30 am mst 3 min read bz=f rb=f cl=f economists and strategists are taking stock of what surging oil prices mean for consumer spending, inflation, and ultimately, the federal reserve's path this year. gas prices have gone up by nearly $1 in just a month, topping $3.92 per gallon, according to aaa data. at this pace, analysts foresee $4 gasoline arriving within days. meanwhile, americans are spending roughly $370 million more today on gasoline than they were a month a">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 40.43 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate cut, interest rate, jerome powell, inflation, stock market, s&p 500">40.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">📉 Recession</span><span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/news/the-energy-tax-analysts-weigh-impact-of-surging-gasoline-prices-on-inflation-consumers-143027350.html" target="_blank" rel="noopener">'The energy tax': Analysts weigh impact of surging gasoline prices on inflation, consumers</a></h3>
+  <p class="preview card-detail">'The energy tax': Analysts weigh impact of surging gasoline prices on inflation, consumers Yahoo Finance Sun, March 22, 2026 at 7:30 AM MST 3 min read BZ=F RB=F CL=F Economists and strategists are taking stock of what surging oil prices mean for consumer spending, inflation, and ultimately, the Fede&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-22">2026-03-22T14:30:27Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, jerome powell</span>
+  </div>
+</article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="40.29" data-date="2026-03-22" data-themes="war_conflict,oil_energy,central_bank" data-text="3 weeks of war, possible rate hikes, and ai's 'show me' phase: what to watch this week 3 weeks of war, possible rate hikes, and ai's 'show me' phase: what to watch this week jake conley · breaking business news reporter updated mon, march 23, 2026 at 3:54 am pdt 7 min read ^gspc ^ixic ^dji us stocks are poised for more losses early monday, after ending the past week in the red once again as the war in iran and the subsequent wracking of the global energy economy only escalated. the 2026 gains have disappeared, and all three major us equity indexes are now squarely in the red on the year. the dow ( ^dji ) shed about 1.0%, or roughly 450 points, on friday while the s&p 500 ( ^gspc">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 40.29 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate cut, rate hike, interest rate, fomc, jerome powell, inflation">40.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html" target="_blank" rel="noopener">3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week</a></h3>
+  <p class="preview card-detail">3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week Jake Conley · Breaking Business News Reporter Updated Mon, March 23, 2026 at 3:54 AM PDT 7 min read ^GSPC ^IXIC ^DJI US stocks are poised for more losses early Monday, after ending the past week in the red once ag&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-22">2026-03-22T11:37:40Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, interest rate</span>
+  </div>
 </article></div></div></div>
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (1612 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (1592 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="50.70" data-date="2026-03-23" data-themes="war_conflict,geopolitical_shock,recession,oil_energy,central_bank" data-text="stock index futures rally as oil prices tumble on u.s.-iran talks stock index futures rally as oil prices tumble on u.s.-iran talks oleksandr pylypenko mon, march 23, 2026 at 5:31 am cdt 10 min read june s&p 500 e-mini futures (esm26) are up +1.53%, and june nasdaq 100 e-mini futures (nqm26) are up +1.57% this morning, pointing to a sharply higher open on wall street as sentiment got a boost after u.s. president donald trump said the u.s. and iran had “very good” conversations about ending the middle east conflict. president trump said in a truth social post on monday that the u.s. and iran have engaged in very good and productive discussions over the past t">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -588,20 +626,6 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate hike, interest rate, inflation</span>
   </div>
 </article>
-<article class="card card-alert" data-score="44.40" data-date="2026-03-19" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq slide amid inflation worries as iran war sends oil surging live stock market today: dow, s&p 500, nasdaq slide amid inflation worries as iran war sends oil surging rian howlett and karen friar updated thu, march 19, 2026 at 8:48 am cdt 1 min read cl=f ym=f es=f nq=f ^dji us stocks added to losses on thursday as oil prices spiked amid strikes on key middle east energy hubs, stoking already intense inflation concerns on wall street. the dow jones industrial average ( ^dji ) fell 0.6%, coming off a bruising session that dragged the blue-chip benchmark to its lowest close this year. the s&p 500 ( ^gspc ) and nasdaq composite ( ^ixic ) lost a steeper 0.9% ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 44.40 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: federal reserve, fed, rate cut, interest rate, jerome powell, inflation, stock market, s&p 500">44.4 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🌐 Geo Shock</span><span class="theme-tag">🛢️ Oil/Energy</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-133439504.html" target="_blank" rel="noopener">Stock market today: Dow, S&P 500, Nasdaq slide amid inflation worries as Iran war sends oil surging</a></h3>
-  <p class="preview card-detail">LIVE Stock market today: Dow, S&P 500, Nasdaq slide amid inflation worries as Iran war sends oil surging Rian Howlett and Karen Friar Updated Thu, March 19, 2026 at 8:48 AM CDT 1 min read CL=F YM=F ES=F NQ=F ^DJI US stocks added to losses on Thursday as oil prices spiked amid strikes on key Middle E&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:34:39Z</time>
-    <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, jerome powell</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="43.73" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy,central_bank" data-text="investors are betting on an interest rate hike that’s really not that likely investors are betting on an interest rate hike that’s really not that likely maria eloisa capurro and miles j. herszenhorn updated tue, march 24, 2026 at 9:40 am mdt 5 min read c c-pr bac (bloomberg) — investors have lifted odds that the federal reserve is on the verge of raising interest rates, but lingering labor-market fragility and the risks to growth from surging oil prices make that a long shot, at least for now. on march 19, federal funds rate futures showed a 6% chance of an april hike, and have stayed in positive territory since. this marked the first time since december 2023 that inv">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -614,20 +638,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-24">2026-03-24T14:32:29Z</time>
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, interest rate</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="43.53" data-date="2026-03-19" data-themes="war_conflict,sanctions_major,geopolitical_shock,oil_energy,central_bank" data-text="jay powell warns iran war is likely to drive up inflation fed chair jay powell said: ‘higher energy prices will push up overall inflation, but it is too soon to know the scope and duration of the potential effects on the economy’ © reuters jay powell warns iran war is likely to drive up inflation on x (opens in a new window) jay powell warns iran war is likely to drive up inflation on facebook (opens in a new window) jay powell warns iran war is likely to drive up inflation on linkedin (opens in a new window) jay powell warns iran war is likely to drive up inflation on whatsapp (opens in a new window) jay powell warns iran war is likely to drive up i">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 43.53 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: federal reserve, fed, interest rate, fomc, inflation, war, conflict, sanctions">43.5 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🚫 Sanctions</span><span class="theme-tag">🌐 Geo Shock</span><span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/d7d45ead-393c-49e1-b30e-0e9e15bbf2c0" target="_blank" rel="noopener">Jay Powell warns Iran war is likely to drive up inflation</a></h3>
-  <p class="preview card-detail">Fed chair Jay Powell said: ‘Higher energy prices will push up overall inflation, but it is too soon to know the scope and duration of the potential effects on the economy’ © Reuters Jay Powell warns Iran war is likely to drive up inflation on x (opens in a new window) Jay Powell warns Iran war is li&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:00:07</time>
-    <span class="kw-hint">🔑 federal reserve, fed, interest rate, fomc, inflation</span>
   </div>
 </article>
 <article class="card card-alert" data-score="42.16" data-date="2026-03-24" data-themes="war_conflict,recession,oil_energy,market_volatility" data-text="the vix hangs dangerously close to 30, this week could see it punch through | vix the vix hangs dangerously close to 30, this week could see it punch through | vix michael williams tue, march 24, 2026 at 9:56 am edt 4 min read cl=f iwm spy ^gspc quick read the s&p 500 etf (spy) is down nearly 4% year-to-date and off 5% from a month ago, while the russell 2000 etf (iwm) has fallen 6% in the past month as the vix climbs toward the 30 threshold amid geopolitical tensions and rising oil prices above $100 a barrel. the 10-year treasury yield has risen from 4% to 4.4%, indicating inflation and supply disruption fears rather than a traditional risk-off flight to safety. the iran c">
@@ -1244,6 +1254,34 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-25">2026-03-25T10:57:03Z</time>
     <span class="kw-hint">🔑 inflation, gdp, stock market, equities, s&p 500</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="33.03" data-date="2026-03-26" data-themes="war_conflict,recession,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq slide as wall street weighs prospects for iran truce live stock market today: dow, s&p 500, nasdaq slide as wall street weighs prospects for iran truce rian howlett and karen friar updated thu, march 26, 2026 at 8:18 am mdt 1 min read ^gspc ^ixic ^dji cl=f us stocks pulled back on thursday as conflicting messages from the us and iran fueled mounting uncertainty about the prospects for talks to end the middle east conflict. the s&p 500 ( ^gspc ) fell 0.8%, while the dow jones industrial average ( ^dji ) dropped 0.5%. the tech-heavy nasdaq composite ( ^ixic ) moved more than 1% lower on the heels of wednesday's rebound for wall street stocks. mark">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 33.03 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, stock market, s&p 500, nasdaq, volatility, war, conflict">33.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">📉 Recession</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-wall-street-weighs-prospects-for-iran-truce-133318192.html" target="_blank" rel="noopener">Stock market today: Dow, S&P 500, Nasdaq slide as Wall Street weighs prospects for Iran truce</a></h3>
+  <p class="preview card-detail">LIVE Stock market today: Dow, S&P 500, Nasdaq slide as Wall Street weighs prospects for Iran truce Rian Howlett and Karen Friar Updated Thu, March 26, 2026 at 8:18 AM MDT 1 min read ^GSPC ^IXIC ^DJI CL=F US stocks pulled back on Thursday as conflicting messages from the US and Iran fueled mounting u&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:33:18Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, stock market, s&p 500, nasdaq</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="32.41" data-date="2026-03-26" data-themes="war_conflict,central_bank" data-text="gold has been pummeled. 3 reasons why it may rebound. gold has been pummeled. 3 reasons why it may rebound. brian sozzi · executive editor thu, march 26, 2026 at 7:51 am mdt 2 min read gc=f it could be time to invest for gains in the beaten-up gold ( gc=f ) market. this makes for, we think, a reasonable entry point, barclays strategist ajay rajadhyaksha said in a note on thursday. the buy-the-dip trade reflects a few factors that investors may be forgetting, rajadhyaksha argued. central bank buying of gold, which picked up sharply after 2022, is unlikely to fade, he said. fiscal profiles across the west keep worsening. the fed has missed its">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 32.41 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate cut, rate hike, interest rate, inflation, stock market, war">32.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/news/gold-has-been-pummeled-3-reasons-why-it-may-rebound-135130181.html" target="_blank" rel="noopener">Gold has been pummeled. 3 reasons why it may rebound.</a></h3>
+  <p class="preview card-detail">Gold has been pummeled. 3 reasons why it may rebound. Brian Sozzi · Executive Editor Thu, March 26, 2026 at 7:51 AM MDT 2 min read GC=F It could be time to invest for gains in the beaten-up gold ( GC=F ) market. "This makes for, we think, a reasonable entry point," Barclays strategist Ajay Rajadhyak&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:51:30Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, interest rate</span>
   </div>
 </article>
 <article class="card card-alert" data-score="32.35" data-date="2026-03-24" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq wobble after rally as iran war drags on live stock market today: dow, s&p 500, nasdaq wobble after rally as iran war drags on rian howlett · front page editor updated tue, march 24, 2026 at 9:38 am mdt 1 min read cl=f ^dji ^gspc ^ixic us stocks wavered on tuesday, retreating after a sharp rebound on wall street driven by growing optimism around a potential easing of tensions between washington and tehran. the dow jones industrial average ( ^dji ) rose by 0.1%, while the s&p 500 ( ^gspc ) fell around 0.1%, and the tech-heavy nasdaq composite ( ^ixic ) dropped 0.4%. oil prices fell sharply on the news of hostilities potentially windin">
@@ -2100,6 +2138,20 @@
     <span class="kw-hint">🔑 s&p 500, war, middle east, oil, crisis</span>
   </div>
 </article>
+<article class="card card-alert" data-score="23.48" data-date="2026-03-26" data-themes="war_conflict,geopolitical_shock" data-text="defense technology startup shield ai valued at $12.7 billion in latest funding round defense technology startup shield ai valued at $12.7 billion in latest funding round reuters thu, march 26, 2026 at 7:45 am mdt 1 min read shai.pvt march 26 (reuters) - shield ai is raising $2 billion in a new funding round at a $12.7 billion valuation, as the ‌defense technology startup looks to expand its artificial intelligence-powered software ‌amid growing use of autonomous tools during conflicts. the startup said on thursday the series ​g round was led by advent international and co-led by jpmorganchase's strategic investment group, with participation from existing investors including sn">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 23.48 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war, invasion, conflict, military, ukraine, russia">23.5 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🌐 Geo Shock</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/defense-technology-startup-shield-ai-134510466.html" target="_blank" rel="noopener">Defense technology startup Shield AI valued at $12.7 billion in latest funding round</a></h3>
+  <p class="preview card-detail">Defense technology startup Shield AI valued at $12.7 billion in latest funding round Reuters Thu, March 26, 2026 at 7:45 AM MDT 1 min read SHAI.PVT March 26 (Reuters) - Shield AI is raising $2 billion in a new funding round at a $12.7 billion valuation, as the ‌defense technology startup looks to ex&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:45:10Z</time>
+    <span class="kw-hint">🔑 war, invasion, conflict, military, ukraine</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="23.15" data-date="2026-03-25" data-themes="war_conflict,sanctions_major" data-text="3 defense stocks to replenish america’s depleting arsenal 3 defense stocks to replenish america’s depleting arsenal tom kool tue, march 24, 2026 at 8:00 pm cdt 11 min read aloy lmt noc as conflict in the middle east exposes the fragility of global logistics, a trio of american industrial leaders - realloys, lockheed martin, and northrop grumman - is executing a high-stakes mission to reclaim supply sovereignty from china. the year 2026 has brought a stark realization to the pentagon: modern warfare is only as resilient as its sub-component supply chain. as u.s. forces conduct precision operations in iran, the burn rate of advanced munitions - fro">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -2896,6 +2948,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-24">2026-03-24T20:52:56Z</time>
     <span class="kw-hint">🔑 earnings, war, middle east, oil, geopolitical</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="19.29" data-date="2026-03-26" data-themes="war_conflict" data-text="coinbase offers crypto mortgages to homebuyers coinbase offers crypto mortgages to homebuyers cryptoprowl thu, march 26, 2026 at 7:49 am mdt 1 min read btc betr betrw coin btc-usd coinbase offers crypto mortgages to homebuyers cryptocurrency exchange coinbase global (nasdaq: $coin) is offering cryptocurrency-backed mortgages to u.s. homebuyers. coinbase says it is partnering with mortgage firm better home & finance (nasdaq: $betr) to enable people to use bitcoin (crypto: $btc) as a down payment when buying a house. the new crypto mortgages have the support of the u.s. federal government and offer the same protections and standards as tradi">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 19.29 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: fed, interest rate, nasdaq, war, crisis, bitcoin, crypto">19.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/coinbase-offers-crypto-mortgages-homebuyers-134900754.html" target="_blank" rel="noopener">Coinbase Offers Crypto Mortgages To Homebuyers</a></h3>
+  <p class="preview card-detail">Coinbase Offers Crypto Mortgages To Homebuyers CryptoProwl Thu, March 26, 2026 at 7:49 AM MDT 1 min read BTC BETR BETRW COIN BTC-USD Coinbase Offers Crypto Mortgages To Homebuyers Cryptocurrency exchange Coinbase Global (NASDAQ: $COIN) is offering cryptocurrency-backed mortgages to U.S. homebuyers. &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:49:00Z</time>
+    <span class="kw-hint">🔑 fed, interest rate, nasdaq, war, crisis</span>
   </div>
 </article>
 <article class="card card-alert" data-score="19.26" data-date="2026-03-24" data-themes="war_conflict" data-text="bitcoin sinks below $70,000 as bernstein analysts say token 'looks bottomed' bitcoin sinks below $70,000 as bernstein analysts say token 'looks bottomed' ines ferré · senior business reporter tue, march 24, 2026 at 11:52 am edt 2 min read btc-usd strc strd strf strk bitcoin ( btc-usd ) may finally have reached a low point more than five months after tumbling from its all-time highs, according to bernstein analysts. bitcoin looks bottomed, bernstein analyst gautam chhugani wrote in a note on monday. the firm reaffirmed its $150,00 price target for the end of 2026. more from yahoo scout what role does microstrategy play in bitcoin's outlook? why do analysts believe bit">
@@ -3990,6 +4056,20 @@
     <span class="kw-hint">🔑 war, middle east, crisis</span>
   </div>
 </article>
+<article class="card card-alert" data-score="16.15" data-date="2026-03-26" data-themes="war_conflict" data-text="voo has returned 281% over 10 years, but concentration risk is growing voo has returned 281% over 10 years, but concentration risk is growing michael williams thu, march 26, 2026 at 8:00 am mdt 5 min read voo nvda aapl msft vffsx quick read vanguard s&p 500 etf (voo) holds 32.2% in information technology with top three holdings—nvidia (nvda), apple (aapl), and microsoft (msft)—representing over 19% of assets combined, concentrating fund performance on mega-cap tech rather than broad diversification. the fund charges a 0.03% expense ratio and has returned 281% over the past decade, though it is down 4% year-to-date with elevated volatility. rising treasury yields ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 16.15 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: interest rate, s&p 500, vix, volatility, earnings, war, treasury, bond">16.2 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/voo-returned-281-over-10-140001617.html" target="_blank" rel="noopener">VOO Has Returned 281% Over 10 Years, But Concentration Risk Is Growing</a></h3>
+  <p class="preview card-detail">VOO Has Returned 281% Over 10 Years, But Concentration Risk Is Growing Michael Williams Thu, March 26, 2026 at 8:00 AM MDT 5 min read VOO NVDA AAPL MSFT VFFSX Quick Read Vanguard S&P 500 ETF (VOO) holds 32.2% in Information Technology with top three holdings—Nvidia (NVDA), Apple (AAPL), and Microsof&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T14:00:01Z</time>
+    <span class="kw-hint">🔑 interest rate, s&p 500, vix, volatility, earnings</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="16.14" data-date="2026-03-24" data-themes="war_conflict" data-text="is fedex corporation (fdx) a good stock to buy now? is fedex corporation (fdx) a good stock to buy now? ricardo pillai tue, march 24, 2026 at 3:54 pm cdt 2 min read fdx is fdx a good stock to buy? we came across a bullish thesis on fedex corporation on r/aiportfolios by manojs. in this article, we will summarize the bulls’ thesis on fdx. fedex corporation's share was trading at $358.85 as of march 20th. fdx’s trailing and forward p/e were 19.86 and 16.69 respectively according to yahoo finance. is fdx a good stock to buy? fedex corporation, together with its subsidiaries, provides transportation, e-commerce, and business services in the united ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -4396,20 +4476,6 @@
     <span class="kw-hint">🔑 war, conflict, middle east</span>
   </div>
 </article>
-<article class="card card-alert" data-score="15.28" data-date="2026-03-19" data-themes="central_bank" data-text="should you buy the dip in gemini space station stock today as shares plunge? should you buy the dip in gemini space station stock today as shares plunge? wajeeh khan thu, march 19, 2026 at 8:44 am cdt 2 min read gemi btc-usd eth-usd gemini space station (gemi) shares crashed on march 18 after citi analysts downgraded the crypto exchange to “sell” and lowered their price target to $5.50, indicating more than 20% downside from their previous close. the timing of this downgrade proved particularly damaging, as it came just ahead of the firm’s q4 earnings, scheduled for release after hours on thursday. more news from barchart following the fed's rate decision, the s&p 500 ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 15.28 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, s&p 500, nasdaq, selloff, earnings, bitcoin, crypto">15.3 <sup>ℹ</sup></span>
-    <span class="theme-tag">🏛️ Central Bank</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/buy-dip-gemini-space-station-134429720.html" target="_blank" rel="noopener">Should You Buy the Dip in Gemini Space Station Stock Today as Shares Plunge?</a></h3>
-  <p class="preview card-detail">Should You Buy the Dip in Gemini Space Station Stock Today as Shares Plunge? Wajeeh Khan Thu, March 19, 2026 at 8:44 AM CDT 2 min read GEMI BTC-USD ETH-USD Gemini Space Station (GEMI) shares crashed on March 18 after Citi analysts downgraded the crypto exchange to “Sell” and lowered their price targ&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:44:29Z</time>
-    <span class="kw-hint">🔑 fed, s&p 500, nasdaq, selloff, earnings</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="15.27" data-date="2026-03-21" data-themes="war_conflict" data-text="powell industries highlights record $1.6b backlog, data center wins at sidoti conference powell industries highlights record $1.6b backlog, data center wins at sidoti conference marketbeat sat, march 21, 2026 at 3:04 pm edt 7 min read powl powell industries logo 3 small-cap leaders poised for significant growth powell industries (nasdaq:powl) executives told investors at a sidoti & company conference that the company is seeing strong demand across industrial, utility and commercial markets, supported by record backlog levels and recent investments to expand manufacturing capacity. chief executive officer brett cope and chief financial officer michael metcalf also discussed the com">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -4464,20 +4530,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-23">2026-03-23T15:24:58Z</time>
     <span class="kw-hint">🔑 fed, volatility, earnings, war, middle east</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="15.15" data-date="2026-03-19" data-themes="war_conflict" data-text="sec regulator approves nasdaq's move into tokenized stocks sec regulator approves nasdaq's move into tokenized stocks cryptoprowl thu, march 19, 2026 at 8:51 am cdt 2 min read ice aapl ^ixic tsla ndaq sec regulator approves nasdaq's move into tokenized stocks the u.s. securities and exchange commission (sec), wall street’s regulator, has approved the nasdaq (nasdaq: $ndaq) exchange’s proposal to allow trading in tokenized stocks. the approval marks a major milestone in the effort to integrate blockchain technology into u.s. stock markets, say analysts. tokenized stocks are digital assets on a blockchain that represent ownership or economic exposure to">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 15.15 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: stock market, equities, nasdaq, war, bond, crypto">15.2 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/sec-regulator-approves-nasdaqs-move-135100914.html" target="_blank" rel="noopener">SEC Regulator Approves Nasdaq's Move Into Tokenized Stocks</a></h3>
-  <p class="preview card-detail">SEC Regulator Approves Nasdaq's Move Into Tokenized Stocks CryptoProwl Thu, March 19, 2026 at 8:51 AM CDT 2 min read ICE AAPL ^IXIC TSLA NDAQ SEC Regulator Approves Nasdaq's Move Into Tokenized Stocks The U.S. Securities and Exchange Commission (SEC), Wall Street’s regulator, has approved the Nasdaq&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:51:00Z</time>
-    <span class="kw-hint">🔑 stock market, equities, nasdaq, war, bond</span>
   </div>
 </article>
 <article class="card card-alert" data-score="15.12" data-date="2026-03-24" data-themes="war_conflict,recession" data-text="'big short' legend steve eisman says sofi's private credit problems could be 'potentially a disaster' 'big short' legend steve eisman says sofi's private credit problems could be 'potentially a disaster' daragh thomas tue, march 24, 2026 at 6:31 pm cdt 3 min read sofi steve eisman , the fund manager from the big short, says a credit cycle is emerging and sofi technologies may be sitting at the center of it. “there is no doubt in my mind that a credit cycle is emerging,” eisman said on his weekly podcast. he devoted a significant chunk of the episode to sofi’s securitization problems, calling them “potentially a disaster.” how the trigger works eisman broke the mechanics down. sofi makes consum">
@@ -4800,20 +4852,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-23">2026-03-23T21:40:27Z</time>
     <span class="kw-hint">🔑 inflation, volatility, earnings, war, geopolitical</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="14.73" data-date="2026-03-19" data-themes="war_conflict" data-text="lands' end q4 earnings call highlights lands' end q4 earnings call highlights marketbeat thu, march 19, 2026 at 8:51 am cdt 7 min read le lands' end logo cpi data sparks rally in biotech stocks lands’ end (nasdaq:le) executives told investors the company returned to top-line growth in the fourth quarter of fiscal 2025, pointing to improving momentum across its owned, licensed and marketplace channels while also outlining a pending “transformative” transaction with whp global designed to monetize its intellectual property and materially reduce leverage. fourth-quarter results show return to revenue growth chief executive officer and">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 14.73 | Seuil: 5.0 | Sentiment: Extreme Positive| Mots-cles: cpi, nasdaq, earnings, war, tariff, gold">14.7 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/lands-end-q4-earnings-call-135153247.html" target="_blank" rel="noopener">Lands' End Q4 Earnings Call Highlights</a></h3>
-  <p class="preview card-detail">Lands' End Q4 Earnings Call Highlights MarketBeat Thu, March 19, 2026 at 8:51 AM CDT 7 min read LE Lands' End logo CPI Data Sparks Rally in Biotech Stocks Lands’ End (NASDAQ:LE) executives told investors the company returned to top-line growth in the fourth quarter of fiscal 2025, pointing to improv&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:51:53Z</time>
-    <span class="kw-hint">🔑 cpi, nasdaq, earnings, war, tariff</span>
   </div>
 </article>
 <article class="card card-alert" data-score="14.73" data-date="2026-03-22" data-themes="war_conflict" data-text="war and inflation are supposed to be gold’s friends. not this time. ">
@@ -5796,20 +5834,6 @@
     <span class="kw-hint">🔑 volatility, earnings, war, china</span>
   </div>
 </article>
-<article class="card card-alert" data-score="13.40" data-date="2026-03-19" data-themes="war_conflict" data-text="gilts sell off after bank of england warns of inflation risks gilts sell off after bank of england warns of inflation risks subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 13.40 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: bank of england, inflation, war">13.4 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/c0a967b6-19d0-4e50-9a8e-8ae510d43d08" target="_blank" rel="noopener">Gilts sell off after Bank of England warns of inflation risks</a></h3>
-  <p class="preview card-detail">Gilts sell off after Bank of England warns of inflation risks Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefined What’s&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:51:22</time>
-    <span class="kw-hint">🔑 bank of england, inflation, war</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="13.40" data-date="2026-03-21" data-themes="oil_energy" data-text="3 high-yield energy stocks to buy in march 3 high-yield energy stocks to buy in march lee samaha, the motley fool sat, march 21, 2026 at 1:05 pm edt 5 min read nvda eqnr flng intc investors seeking passive income prioritize not only yield but also dependable cash flows that can withstand economic and global instability. energy infrastructure and shipping are particularly well-suited to deliver consistent returns and strategic advantages when global supply chains face challenges. the global x mlp etf (nysemkt: mlpa) , equinor (nyse: eqnr) , and flex lng (nyse: flng) offer excellent investment opportunities for passive-income-seeking inv">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -6214,20 +6238,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-23">2026-03-23T15:37:35Z</time>
     <span class="kw-hint">🔑 nasdaq, earnings, war, military, geopolitical</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="13.00" data-date="2026-03-19" data-themes="war_conflict" data-text="micron downgraded, five below upgraded: wall street's top analyst calls micron downgraded, five below upgraded: wall street's top analyst calls micron downgraded, five below upgraded: wall street's top analyst calls the fly thu, march 19, 2026 at 8:39 am cdt 4 min read five cuk unp payx xpof the most talked about and market moving research calls around wall street are now in one place. here are today's research calls that investors need to know, as compiled by the fly. top 5 upgrades: william blair upgraded five below (five) to outperform from market perform without a price target. the firm is increasingly confident that five below has plenty of levers to comp ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 13.00 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: s&p 500, earnings, war">13.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/micron-downgraded-five-below-upgraded-133947861.html" target="_blank" rel="noopener">Micron downgraded, Five Below upgraded: Wall Street's top analyst calls</a></h3>
-  <p class="preview card-detail">Micron downgraded, Five Below upgraded: Wall Street's top analyst calls Micron downgraded, Five Below upgraded: Wall Street's top analyst calls The Fly Thu, March 19, 2026 at 8:39 AM CDT 4 min read FIVE CUK UNP PAYX XPOF The most talked about and market moving research calls around Wall Street are n&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:39:47Z</time>
-    <span class="kw-hint">🔑 s&p 500, earnings, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="12.99" data-date="2026-03-24" data-themes="war_conflict,oil_energy" data-text="is conocophillips stock at a peak? - covered call cop plays look attractive is conocophillips stock at a peak? - covered call cop plays look attractive mark r. hake, cfa tue, march 24, 2026 at 8:00 am cdt 5 min read cl=f cop despite the turmoil from the war in iran, oil prices may be near a peak, at least in the short term. analysts have pushed up conocophillips ( cop ) price targets, but cop stock may be at a near-term peak. as a result, selling covered calls may be attractive. cop closed at $127.19 on monday, march 23, and it's been rising for the past 3 weeks since the iran war started. but has it peaked? after all, oil prices are now below their peak. more news fr">
@@ -6930,20 +6940,6 @@
     <span class="kw-hint">🔑 war, gold</span>
   </div>
 </article>
-<article class="card card-alert" data-score="12.37" data-date="2026-03-19" data-themes="war_conflict,central_bank" data-text="avalanche says the best crypto products won’t feel like crypto avalanche says the best crypto products won’t feel like crypto jackson alton hinkle thu, march 19, 2026 at 8:53 am cdt 2 min read avax-usd for years, crypto companies wanted consumers to know exactly which chain they were using. the network itself was the product. according to john nahas, chief business officer at ava labs , that mindset is changing. during a recent interview with thestreet roundtable , nahas said avalanche increasingly is positioning itself as infrastructure for businesses, not as a consumer brand fighting for attention. “at the end of the day, we are enabling better business">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.37 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, bitcoin, crypto">12.4 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🏛️ Central Bank</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/avalanche-says-best-crypto-products-135300770.html" target="_blank" rel="noopener">Avalanche says the best crypto products won’t feel like crypto</a></h3>
-  <p class="preview card-detail">Avalanche says the best crypto products won’t feel like crypto Jackson Alton Hinkle Thu, March 19, 2026 at 8:53 AM CDT 2 min read AVAX-USD For years, crypto companies wanted consumers to know exactly which chain they were using. The network itself was the product. According to John Nahas, chief busi&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:53:00Z</time>
-    <span class="kw-hint">🔑 war, bitcoin, crypto</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="12.37" data-date="2026-03-25" data-themes="war_conflict" data-text="servicenow (now) sold off on ai fears but long-term competitive edge remains intact servicenow (now) sold off on ai fears but long-term competitive edge remains intact attiya zainib wed, march 25, 2026 at 10:33 am cdt 4 min read now montaka global investments , an investment management company, released its fourth-quarter 2025 investor letter. a copy of the letter can be downloaded here . montaka’s december 2025 investor letter explains that while global equity markets performed strongly in 2025, driven largely by artificial intelligence (ai) and a small number of high-performing technology stocks, the fund did not outperform during the year due to significant dispersion in s">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -7124,20 +7120,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-24">Tue, 24 Mar 2026 05:00:17</time>
     <span class="kw-hint">🔑 war, ukraine</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="12.16" data-date="2026-03-19" data-themes="war_conflict" data-text="jim cramer says “you’re not buying smci, you’re buying dell” jim cramer says “you’re not buying smci, you’re buying dell” syeda seirut javed thu, march 19, 2026 at 8:34 am cdt 1 min read smci dell super micro computer, inc. (nasdaq: smci ) is one of jim cramer’s latest stock calls as oil drops and the u.s. market rises . a caller sought cramer’s opinion on the stock, and in response, he said, “no, you’re buying dell. you’re not buying smci; you’re buying dell. i’ve had enough.” photo by adam nowakowski on unsplash super micro computer, inc. (nasdaq:smci) designs and sells modular server and storage systems, including ai, cloud, and edge computing soluti">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.16 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: nasdaq, war, oil, tariff">12.2 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-not-buying-133458611.html" target="_blank" rel="noopener">Jim Cramer Says “You’re Not Buying SMCI, You’re Buying Dell”</a></h3>
-  <p class="preview card-detail">Jim Cramer Says “You’re Not Buying SMCI, You’re Buying Dell” Syeda Seirut Javed Thu, March 19, 2026 at 8:34 AM CDT 1 min read SMCI DELL Super Micro Computer, Inc. (NASDAQ: SMCI ) is one of Jim Cramer’s latest stock calls as oil drops and the U.S. market rises . A caller sought Cramer’s opinion on th&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:34:58Z</time>
-    <span class="kw-hint">🔑 nasdaq, war, oil, tariff</span>
   </div>
 </article>
 <article class="card card-alert" data-score="12.16" data-date="2026-03-20" data-themes="war_conflict" data-text="what prospects does life360 (lif) offer on mau and user growth what prospects does life360 (lif) offer on mau and user growth muhammad ali khalid fri, march 20, 2026 at 3:21 pm pdt 2 min read lif life360, inc. (nasdaq: lif ) is one of the 11 best software application stocks to buy now . on march 3, citi analyst siraj ahmed reduced the firm’s price target on life360 inc. (nasdaq:lif) from $82.25 to $68.75. the analyst maintained his buy rating on the shares, which still offer more than 65% upside at the current level. copyright: dolgachov / 123rf stock photo ahmed noted that the first-quarter guidance pointed to monthly active user growth below 20%, raisin">
@@ -9940,6 +9922,20 @@
     <span class="kw-hint">🔑 war, middle east</span>
   </div>
 </article>
+<article class="card card-alert" data-score="10.46" data-date="2026-03-26" data-themes="war_conflict" data-text="dell taps canada’s hive digital for a.i. gpu cluster dell taps canada’s hive digital for a.i. gpu cluster cryptoprowl thu, march 26, 2026 at 7:15 am mdt 1 min read dell hive nvda dell taps canada’s hive digital for a.i. gpu cluster dell technologies (nyse: $dell) has entered into a partnership with canadian data centre operator hive digital technologies (nasdaq: $hive) on a new gpu cluster. the collaboration between dell and hive will focus on deploying nvidia’s (nasdaq: $nvda) blackwell microchips and processors at data centres for use in high-performance computing (hpc) and artificial intelligence (a.i.) workloads. the partnership with hive co">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.46 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: nasdaq, war, crypto">10.5 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/dell-taps-canada-hive-digital-131500053.html" target="_blank" rel="noopener">Dell Taps Canada’s HIVE Digital For A.I. GPU Cluster</a></h3>
+  <p class="preview card-detail">Dell Taps Canada’s HIVE Digital For A.I. GPU Cluster CryptoProwl Thu, March 26, 2026 at 7:15 AM MDT 1 min read DELL HIVE NVDA Dell Taps Canada’s HIVE Digital For A.I. GPU Cluster Dell Technologies (NYSE: $DELL) has entered into a partnership with Canadian data centre operator HIVE Digital Technologi&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:15:00Z</time>
+    <span class="kw-hint">🔑 nasdaq, war, crypto</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="10.46" data-date="2026-03-20" data-themes="war_conflict" data-text="labour’s leftward shift and the bond vigilante threat labour’s leftward shift and the bond vigilante threat subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -9952,20 +9948,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-20">Fri, 20 Mar 2026 05:00:14</time>
     <span class="kw-hint">🔑 war, bond</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="10.45" data-date="2026-03-19" data-themes="oil_energy" data-text="jim cramer highlights the resilience of delta air lines despite surging oil prices jim cramer highlights the resilience of delta air lines despite surging oil prices syeda seirut javed thu, march 19, 2026 at 8:34 am cdt 1 min read dal cl=f delta air lines, inc. (nyse: dal ) is one of jim cramer’s latest stock calls as oil drops and the u.s. market rises . cramer mentioned the stock during the episode and remarked: the anomalies are stark. this morning, ed bastian, the ceo of delta air lines, came on cnbc. now, when i saw phil lebeau standing next to him, i could see a wrecking ball coming right at the beleaguered airline stocks. you’d think $95 oil would be lethal to the ent">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.45 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: stock market, oil, tariff">10.4 <sup>ℹ</sup></span>
-    <span class="theme-tag">🛢️ Oil/Energy</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-resilience-delta-133450142.html" target="_blank" rel="noopener">Jim Cramer Highlights the Resilience of Delta Air Lines Despite Surging Oil Prices</a></h3>
-  <p class="preview card-detail">Jim Cramer Highlights the Resilience of Delta Air Lines Despite Surging Oil Prices Syeda Seirut Javed Thu, March 19, 2026 at 8:34 AM CDT 1 min read DAL CL=F Delta Air Lines, Inc. (NYSE: DAL ) is one of Jim Cramer’s latest stock calls as oil drops and the U.S. market rises . Cramer mentioned the stoc&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:34:50Z</time>
-    <span class="kw-hint">🔑 stock market, oil, tariff</span>
   </div>
 </article>
 <article class="card card-alert" data-score="10.44" data-date="2026-03-21" data-themes="war_conflict" data-text="norfolk southern corporation (nsc) showcases recovery, tech investments, and merger plans norfolk southern corporation (nsc) showcases recovery, tech investments, and merger plans abdul rahman sat, march 21, 2026 at 8:57 am edt 2 min read nsc unp norfolk southern corporation (nyse: nsc ) is one of the best railroad stocks to buy according to analysts . on march 17, norfolk southern corporation (nyse:nsc) presented at the jpmorgan industrials conference 2026. company president and ceo mark george and executive vice president and cfo jason zampi took the opportunity to detail the company’s q1 performance, winter storm recovery, and strategic initiatives including the potential union ">
@@ -11732,20 +11714,6 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
-<article class="card card-alert" data-score="9.55" data-date="2026-03-19" data-themes="central_bank" data-text="bybit offers interest payments on tokenized gold bybit offers interest payments on tokenized gold cryptoprowl thu, march 19, 2026 at 8:49 am cdt 1 min read gc=f xaut-usd gld bybit offers interest payments on tokenized gold cryptocurrency exchange bybit is enabling customers to earn interest payments on tokenized gold products. the world's second-largest cryptocurrency exchange by trading volumes has launched “xaut earn,” a new product that enables users to earn interest on tokenized gold holdings. specifically, xaut earn enables users to generate yield on tether gold (crypto: $xaut), a digital asset backed by physical gold bullion. more from">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.55 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: geopolitical, gold, crypto">9.5 <sup>ℹ</sup></span>
-    <span class="theme-tag">🏛️ Central Bank</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/bybit-offers-interest-payments-tokenized-134900896.html" target="_blank" rel="noopener">Bybit Offers Interest Payments On Tokenized Gold</a></h3>
-  <p class="preview card-detail">Bybit Offers Interest Payments On Tokenized Gold CryptoProwl Thu, March 19, 2026 at 8:49 AM CDT 1 min read GC=F XAUT-USD GLD Bybit Offers Interest Payments On Tokenized Gold Cryptocurrency exchange Bybit is enabling customers to earn interest payments on tokenized gold products. The world's second-l&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:49:00Z</time>
-    <span class="kw-hint">🔑 geopolitical, gold, crypto</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="9.54" data-date="2026-03-24" data-themes="recession" data-text="caredx (cdna) launches ai-based platform vantx caredx (cdna) launches ai-based platform vantx venkatesh tue, march 24, 2026 at 8:43 am mdt 2 min read cdna caredx, inc. (nasdaq: cdna ) is one of the 10 best diagnostics and research stocks to buy according to analysts . caredx (cdna) launches ai platform vantx on march 5, 2026, caredx, inc. (nasdaq:cdna) launched vantx, an ai-powered, cloud-native platform designed to transform complex transplant data into actionable clinical insights. the platform, introduced at the 2026 precision medicine world conference, analyzes patient cohorts, treatment trends, and real-world evidence with the help of">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -11800,20 +11768,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-23">2026-03-23T15:00:24Z</time>
     <span class="kw-hint">🔑 nasdaq, war, gold</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="9.52" data-date="2026-03-19" data-themes="" data-text="strive jumps past tesla in bitcoin holdings strive jumps past tesla in bitcoin holdings cryptoprowl thu, march 19, 2026 at 8:40 am cdt 1 min read asst btc sata mstr strc strive jumps past tesla in bitcoin holdings bitcoin treasury company strive (nasdaq: $asst) said thursday that its total btc holdings hit 13,628 bitcoin, pulling ahead of tesla which currently sits at 11,509 btc. the texas based firm, which disclosed its holdings as part of the company's fourth-quarter and full-year 2025 financial results, is now registering a total value of $960 million in btc holdings. strive noted in the release that it achieved a bitcoin (crypto: $b">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.52 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: nasdaq, earnings, treasury, bitcoin, crypto">9.5 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html" target="_blank" rel="noopener">Strive Jumps Past Tesla In Bitcoin Holdings</a></h3>
-  <p class="preview card-detail">Strive Jumps Past Tesla In Bitcoin Holdings CryptoProwl Thu, March 19, 2026 at 8:40 AM CDT 1 min read ASST BTC SATA MSTR STRC Strive Jumps Past Tesla In Bitcoin Holdings Bitcoin treasury company Strive (NASDAQ: $ASST) said Thursday that its total BTC holdings hit 13,628 Bitcoin, pulling ahead of Tes&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:40:00Z</time>
-    <span class="kw-hint">🔑 nasdaq, earnings, treasury, bitcoin, crypto</span>
   </div>
 </article>
 <article class="card card-alert" data-score="9.52" data-date="2026-03-21" data-themes="war_conflict" data-text="microsoft corporation (msft) starts validating nvidia’s vera rubin nvl72 for ai workloads microsoft corporation (msft) starts validating nvidia’s vera rubin nvl72 for ai workloads neha gupta sat, march 21, 2026 at 5:46 am pdt 2 min read msft nvda microsoft corporation (nasdaq: msft ) is one of harvard university’s top ai stock picks . on march 14, microsoft corporation (nasdaq:msft) became the first cloud service provider to begin validating the vera rubin nvl72 system. developed by nvidia, the next-generation rack-scale ai supercomputer is designed for training and inference of trillion-parameter models. microsoft corporation (msft) starts validating nvidia’s vera rubin nvl72 for ">
@@ -12656,20 +12610,6 @@
     <span class="kw-hint">🔑 interest rate, war, tariff</span>
   </div>
 </article>
-<article class="card card-alert" data-score="9.07" data-date="2026-03-19" data-themes="war_conflict" data-text="survival tips for retail options sellers to manage risk survival tips for retail options sellers to manage risk barchart insights thu, march 19, 2026 at 8:48 am cdt 2 min read spy selling options is often billed as the “safer” way to trade: higher win rates. consistent premium. income-focused strategies. but there’s a problem most traders don’t fully understand: selling options is like picking up pennies in front of a steamroller. maybe you’ve heard the cliché, but don't realize how fast that steamroller moves until it’s too late. more news from barchart huge, unusual trading in nvidia put options - investors bullish on nvda googl, nvda, and more">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.07 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war">9.1 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/options/articles/survival-tips-retail-options-sellers-134829372.html" target="_blank" rel="noopener">Survival Tips for Retail Options Sellers to Manage Risk</a></h3>
-  <p class="preview card-detail">Survival Tips for Retail Options Sellers to Manage Risk Barchart Insights Thu, March 19, 2026 at 8:48 AM CDT 2 min read SPY Selling options is often billed as the “safer” way to trade: Higher win rates. Consistent premium. Income-focused strategies. But there’s a problem most traders don’t fully und&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:48:29Z</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="9.06" data-date="2026-03-21" data-themes="war_conflict" data-text="eu member states urged to lower gas storage targets due to iran war eu member states urged to lower gas storage targets due to iran war subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletter">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -13354,20 +13294,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-19">2026-03-19T14:48:14Z</time>
     <span class="kw-hint">🔑 fed, war</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="8.58" data-date="2026-03-19" data-themes="war_conflict" data-text="google expands utility deals to curb data‑center power use during peak demand google expands utility deals to curb data‑center power use during peak demand laila kearney thu, march 19, 2026 at 8:45 am cdt 2 min read goog by laila kearney new york, march 19 (reuters) - google has signed agreements with five u.s. electric utilities in states from arkansas to ‌minnesota to curtail its electricity use during periods of peak ‌demand, the company said on thursday, in its latest effort to secure power for fast‑growing ​data centers amid slow additions of new supply. more from yahoo scout which utilities has google partnered with for demand response? how much electricity can go">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 8.58 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war, crypto">8.6 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/google-expands-utility-deals-curb-134554393.html" target="_blank" rel="noopener">Google expands utility deals to curb data‑center power use during peak demand</a></h3>
-  <p class="preview card-detail">Google expands utility deals to curb data‑center power use during peak demand Laila Kearney Thu, March 19, 2026 at 8:45 AM CDT 2 min read GOOG By Laila Kearney NEW YORK, March 19 (Reuters) - Google has signed agreements with five U.S. electric utilities in states from Arkansas to ‌Minnesota to curta&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:45:54Z</time>
-    <span class="kw-hint">🔑 war, crypto</span>
   </div>
 </article>
 <article class="card card-alert" data-score="8.58" data-date="2026-03-20" data-themes="" data-text="russia offered to curb its support for iran if us halted aid to ukraine us rejected deal on intelligence-sharing proposed by vladimir putin’s envoy last week">
@@ -14126,20 +14052,6 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
-<article class="card card-alert" data-score="8.00" data-date="2026-03-19" data-themes="war_conflict" data-text="wto warns european exports will shrink if energy prices stay high wto warns european exports will shrink if energy prices stay high subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters ">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 8.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">8.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/efca4277-c1e3-45b1-a79a-18cc6460cf93" target="_blank" rel="noopener">WTO warns European exports will shrink if energy prices stay high</a></h3>
-  <p class="preview card-detail">WTO warns European exports will shrink if energy prices stay high Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefined Wh&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 14:00:07</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="8.00" data-date="2026-03-23" data-themes="war_conflict" data-text="london police chief warns of ‘sustained threat’ from iranian state plots london police chief warns of ‘sustained threat’ from iranian state plots subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsl">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -14208,20 +14120,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-23">2026-03-23T16:24:28Z</time>
     <span class="kw-hint">🔑 s&p 500, nasdaq, earnings, taiwan</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="7.96" data-date="2026-03-19" data-themes="war_conflict" data-text="you already own schd. this new etf pays twice the yield with one simple swap you already own schd. this new etf pays twice the yield with one simple swap austin smith thu, march 19, 2026 at 8:35 am cdt 4 min read schd spy dddd vz mo quick read yieldmax dddd etf (dddd), launched march 11, 2026, holds schwab us dividend equity etf (schd) and writes covered call spreads to target roughly double schd’s 3.39% yield; major underlying holdings include verizon (vz) at 4.49% of schd with $19.8b free cash flow in fy2024 and a 20+ year dividend growth streak, and altria (mo) at 4.14% of schd yielding 6.16% with 60 dividend increases in 56 years despite declining volume. dddd’s do">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.96 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: earnings, war">8.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/options/articles/already-own-schd-etf-pays-133545655.html" target="_blank" rel="noopener">You Already Own SCHD. This New ETF Pays Twice the Yield With One Simple Swap</a></h3>
-  <p class="preview card-detail">You Already Own SCHD. This New ETF Pays Twice the Yield With One Simple Swap Austin Smith Thu, March 19, 2026 at 8:35 AM CDT 4 min read SCHD SPY DDDD VZ MO Quick Read YieldMax DDDD ETF (DDDD), launched March 11, 2026, holds Schwab US Dividend Equity ETF (SCHD) and writes covered call spreads to targ&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:35:45Z</time>
-    <span class="kw-hint">🔑 earnings, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="7.95" data-date="2026-03-25" data-themes="war_conflict" data-text="markets were not made for trump’s never-ending ping-pong the chaos of the iran war will have long-term consequences for investors and the dollar">
@@ -14518,20 +14416,6 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
-<article class="card card-alert" data-score="7.78" data-date="2026-03-19" data-themes="" data-text="ecb holds interest rates at 2% as energy prices soar ecb holds interest rates at 2% as energy prices soar subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading ">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.78 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: interest rate, ecb">7.8 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/5757febc-d888-4d34-af83-4a6b0f7a11dd" target="_blank" rel="noopener">ECB holds interest rates at 2% as energy prices soar</a></h3>
-  <p class="preview card-detail">ECB holds interest rates at 2% as energy prices soar Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefined What’s included&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:41:02</time>
-    <span class="kw-hint">🔑 interest rate, ecb</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="7.75" data-date="2026-03-25" data-themes="war_conflict" data-text="bank of america sends stark oracle stock message to investors bank of america sends stark oracle stock message to investors hillary remy wed, march 25, 2026 at 10:40 am cdt 4 min read orcl bac bank of america just reinstated coverage of oracle (orcl) with a buy rating and a $200 price target. the call comes from analyst tal liani, who described oracle as a giant going all-in on ai infrastructure and the cloud. the target implies roughly 30% upside from current levels. the stock traded between $148 and $155 on march 24 and 25. it has fallen sharply from its 2025 peak of $345.72. the bank of america target sits well below the street consensus of approxim">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -14655,20 +14539,6 @@
   <p class="preview card-detail">11,000 Californians fall behind after ‘headache’ billing glitch. What to do when errors disrupt your budget Rebecca Payne Tue, March 24, 2026 at 6:30 AM EDT 5 min read Residents of a Southern California city are facing a tidal wave of utility bills after a new billing system failed. ABC7 News report&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-03-24">2026-03-24T10:30:00Z</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="7.52" data-date="2026-03-19" data-themes="war_conflict" data-text="immupharma, ilika, coinsilium group, ip group, team internet group - small cap week in review immupharma, ilika, coinsilium group, ip group, team internet group - small cap week in review proactive updated fri, march 20, 2026 at 11:08 am cdt imm.l ika.l coin.aq hnge pfe immupharma (aim:imm, fra:25i) says it's on track to deliver a licensing deal for its lead asset p140 this year. the company has also fast-tracked kapiglucagon, a next-gen diabetes treatment, backed by funding from lanstead capital. ilika (aim:ika, otcqx:ilikf, fra:i8a) has had its goliath solid-state batteries tested under battlefield conditions — including live-fire testing. the results demonstrated the inherent safety">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.52 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war">7.5 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/video/2026-03-19-small-cap-134746268.html" target="_blank" rel="noopener">ImmuPharma, Ilika, Coinsilium Group, IP Group, Team Internet Group - Small Cap Week in Review</a></h3>
-  <p class="preview card-detail">ImmuPharma, Ilika, Coinsilium Group, IP Group, Team Internet Group - Small Cap Week in Review Proactive Updated Fri, March 20, 2026 at 11:08 AM CDT IMM.L IKA.L COIN.AQ HNGE PFE ImmuPharma (AIM:IMM, FRA:25I) says it's on track to deliver a licensing deal for its lead asset P140 this year. The company&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:47:46Z</time>
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
@@ -15176,34 +15046,6 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
-<article class="card card-alert" data-score="6.97" data-date="2026-03-13" data-themes="war_conflict" data-text="tech stocks today: meta, google face legal reckoning, openai narrows its focus live tech stocks today: meta, google face legal reckoning, openai narrows its focus yahoo finance updated thu, march 26, 2026 at 7:41 am cdt 1 min read goog googl meta mu smci tech stocks sank on thursday amid uncertainty over us-iran talks and as a landmark trial verdict opened social media companies to greater liability for what happens on their platforms. on wednesday, a los angeles jury found alphabet’s ( goog , googl ) youtube and meta ( meta ) liable for harm done to a young user. the jurors ordered the companies to pay the lead plaintiff $3 million in compensatory damages in the first-o">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.97 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">7.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/news/live/tech-stocks-today-meta-google-face-legal-reckoning-openai-narrows-its-focus-144220284.html" target="_blank" rel="noopener">Tech stocks today: Meta, Google face legal reckoning, OpenAI narrows its focus</a></h3>
-  <p class="preview card-detail">LIVE Tech stocks today: Meta, Google face legal reckoning, OpenAI narrows its focus Yahoo Finance Updated Thu, March 26, 2026 at 7:41 AM CDT 1 min read GOOG GOOGL META MU SMCI Tech stocks sank on Thursday amid uncertainty over US-Iran talks and as a landmark trial verdict opened social media compani&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-13">2026-03-13T14:42:20Z</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="6.96" data-date="2026-03-13" data-themes="war_conflict" data-text="tech stocks today: meta, google stocks little changed after social media verdict, openai shuts down sora live tech stocks today: meta, google face legal reckoning, openai narrows its focus yahoo finance updated thu, march 26, 2026 at 7:41 am cdt 1 min read goog googl meta mu smci tech stocks sank on thursday amid uncertainty over us-iran talks and as a landmark trial verdict opened social media companies to greater liability for what happens on their platforms. on wednesday, a los angeles jury found alphabet’s ( goog , googl ) youtube and meta ( meta ) liable for harm done to a young user. the jurors ordered the companies to pay the lead plaintiff $3 million in compensatory damages in the first-o">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.96 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">7.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/news/live/tech-stocks-today-meta-google-stocks-little-changed-after-social-media-verdict-openai-shuts-down-sora-144220087.html" target="_blank" rel="noopener">Tech stocks today: Meta, Google stocks little changed after social media verdict, OpenAI shuts down Sora</a></h3>
-  <p class="preview card-detail">LIVE Tech stocks today: Meta, Google face legal reckoning, OpenAI narrows its focus Yahoo Finance Updated Thu, March 26, 2026 at 7:41 AM CDT 1 min read GOOG GOOGL META MU SMCI Tech stocks sank on Thursday amid uncertainty over US-Iran talks and as a landmark trial verdict opened social media compani&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-13">2026-03-13T14:42:20Z</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="6.96" data-date="2026-03-19" data-themes="" data-text="nyxoah q4 earnings call highlights nyxoah q4 earnings call highlights marketbeat thu, march 19, 2026 at 2:53 pm pdt 8 min read nyxh nyxoah logo key points nyxoah received u.s. fda approval for genio on aug. 8, 2025 and began u.s. commercialization (first implants/revenue in sept 2025); by dec. 31 the company had trained 145 surgeons across 125 high‑volume accounts and completed 120 vac submissions with 57 approvals and no rejections. in feb. 2026 cms issued interim c‑codes (c8011–c8013) for airway genioglossus nerve stimulation, with c8011 reimbursed in the hospital outpatient setting at $31,526 , creating parity with competito">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -15288,6 +15130,20 @@
     <span class="kw-hint">🔑 war, oil</span>
   </div>
 </article>
+<article class="card card-alert" data-score="6.92" data-date="2026-03-26" data-themes="war_conflict" data-text="teledoc (tdoc) gets a $7 price target from barclays: can it double from recent lows? teledoc (tdoc) gets a $7 price target from barclays: can it double from recent lows? joel south thu, march 26, 2026 at 7:58 am mdt 4 min read tdoc bcs quick read teladoc health (tdoc) generated annualized insurance revenue of $40m in q4 2025 with a 2026 target of $75m-$90m as betterhelp transitions to insurance-based delivery, while international revenue surged 19% year-over-year to $125m and adjusted ebitda improved 12% to $83.8m. teladoc’s recovery depends on its ability to grow betterhelp’s insurance business faster than its direct-pay business declines, with the company trading at 0.39x pr">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.92 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: earnings, war">6.9 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/teledoc-tdoc-gets-7-price-135817388.html" target="_blank" rel="noopener">Teledoc (TDOC) Gets a $7 Price Target From Barclays: Can It Double From Recent Lows?</a></h3>
+  <p class="preview card-detail">Teledoc (TDOC) Gets a $7 Price Target From Barclays: Can It Double From Recent Lows? Joel South Thu, March 26, 2026 at 7:58 AM MDT 4 min read TDOC BCS Quick Read Teladoc Health (TDOC) generated annualized insurance revenue of $40M in Q4 2025 with a 2026 target of $75M-$90M as BetterHelp transitions &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:58:17Z</time>
+    <span class="kw-hint">🔑 earnings, war</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="6.91" data-date="2026-03-19" data-themes="war_conflict" data-text="flight chaos grows as tsa shortages, storms hit. what to know about trip cancellation insurance. some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. see our advertiser disclosure . flight chaos grows as tsa shortages, storms hit. what to know about trip cancellation insurance. ben walker (cepf, cfei®) · senior writer, credit cards updated fri, march 20, 2026 at 7:45 am mst 10 min read with severe weather and ongoing tsa staffing shortages, air travelers nationwide are experiencing major disruptions and delays. the partial government shutdown could even force some smaller airports to close in the coming week">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -15330,6 +15186,20 @@
     <span class="kw-hint">🔑 nasdaq, earnings, tariff</span>
   </div>
 </article>
+<article class="card card-alert" data-score="6.87" data-date="2026-03-26" data-themes="" data-text="applovin plunges 8% as short sellers circle: is app’s ai growth story under threat? applovin plunges 8% as short sellers circle: is app’s ai growth story under threat? david moadel thu, march 26, 2026 at 7:59 am mdt 5 min read app quick read applovin (app) shares fell 8% on thursday amid short-seller allegations about market competition after the company posted q4 2025 revenue of $1.66b (beating estimates by 3.35%) and $3.95b in annual free cash flow (up 89% year over year). short sellers are attacking applovin’s valuation while ceo adam foroughi and other insiders sell shares, but the company’s financial performance and ai-powered advertising platform continue to deliver rec">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.87 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: nasdaq, volatility, earnings, conflict, middle east, gold">6.9 <sup>ℹ</sup></span>
+    
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/applovin-plunges-8-short-sellers-135909833.html" target="_blank" rel="noopener">AppLovin Plunges 8% as Short Sellers Circle: Is APP’s AI Growth Story Under Threat?</a></h3>
+  <p class="preview card-detail">AppLovin Plunges 8% as Short Sellers Circle: Is APP’s AI Growth Story Under Threat? David Moadel Thu, March 26, 2026 at 7:59 AM MDT 5 min read APP Quick Read AppLovin (APP) shares fell 8% on Thursday amid short-seller allegations about market competition after the company posted Q4 2025 revenue of $&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:59:09Z</time>
+    <span class="kw-hint">🔑 nasdaq, volatility, earnings, conflict, middle east</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="6.85" data-date="2026-03-24" data-themes="" data-text="director sells 14,000 axt shares for $700,000 director sells 14,000 axt shares for $700,000 will healy, the motley fool tue, march 24, 2026 at 5:48 pm edt 4 min read axti jesse chen, director of axt (nasdaq:axti) , reported the sale of common stock in multiple open-market transactions, according to a sec form 4 filing . transaction summary metric value shares sold (direct) 14,086 transaction value ~$700,000 post-transaction shares (direct) 109,526 post-transaction value (direct ownership) ~$5.35 million transaction value based on sec form 4 weighted average purchase price ($49.70). key questions how did this transaction impact chen’s over">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -15358,6 +15228,20 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="6.84" data-date="2026-03-26" data-themes="" data-text="morgan stanley’s bitcoin etf is about to launch morgan stanley’s bitcoin etf is about to launch cryptoprowl thu, march 26, 2026 at 7:39 am mdt 1 min read ms btc ms-pq btc-usd morgan stanley’s bitcoin etf is about to launch wall street investment bank morgan stanley’s (nyse: $ms) new bitcoin (crypto: $btc) exchange-traded fund (etf) appears to be about to launch. morgan stanley has been teasing its new bitcoin etf for months despite the current decline in the price of btc and other cryptocurrencies. on social media, bloomberg intelligence shared a screenshot of a pending listing for morgan stanley’s new bitcoin etf under the ticker symbol “m">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.84 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: treasury, bitcoin, crypto">6.8 <sup>ℹ</sup></span>
+    
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-bitcoin-etf-launch-133900569.html" target="_blank" rel="noopener">Morgan Stanley’s Bitcoin ETF Is About To Launch</a></h3>
+  <p class="preview card-detail">Morgan Stanley’s Bitcoin ETF Is About To Launch CryptoProwl Thu, March 26, 2026 at 7:39 AM MDT 1 min read MS BTC MS-PQ BTC-USD Morgan Stanley’s Bitcoin ETF Is About To Launch Wall Street investment bank Morgan Stanley’s (NYSE: $MS) new Bitcoin (CRYPTO: $BTC) exchange-traded fund (ETF) appears to be &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:39:00Z</time>
+    <span class="kw-hint">🔑 treasury, bitcoin, crypto</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="6.84" data-date="2026-03-23" data-themes="war_conflict" data-text="is now the time to buy capri stock after the ceo purchased 55,000 shares? is now the time to buy capri stock after the ceo purchased 55,000 shares? robert izquierdo, the motley fool mon, march 23, 2026 at 6:21 pm cdt 4 min read cpri on march 11, 2026, chairman & ceo john d. idol reported the open-market purchase of 55,000 shares of capri holdings limited (nyse:cpri) , as disclosed in a sec form 4 filing . transaction summary metric value shares traded 55,000 transaction value $989,000 post-transaction shares (direct) 2,257,645 post-transaction value (direct ownership) $40.3 million transaction value based on sec form 4 reported price ($17.98); post-transaction value">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -15370,6 +15254,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-23">2026-03-23T23:21:14Z</time>
     <span class="kw-hint">🔑 s&p 500, war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="6.83" data-date="2026-03-26" data-themes="war_conflict" data-text="chick-fil-a to build $50m distribution hub in west texas chick-fil-a to build $50m distribution hub in west texas the lubbock distribution center, expected to open in 2027, will be chick-fil-a’s third distribution facility in texas, joining existing sites in dallas and san antonio. (photo: chick-fil-a) noi mahoney thu, march 26, 2026 at 7:55 am mdt 2 min read chick-fil-a plans to invest $50 million to build a distribution center in lubbock, texas, as the fast food restaurant company continues expanding its in-house logistics network to support its growing restaurant footprint. construction on the tri-temperature facility is expected to begin in may,">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.83 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">6.8 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/chick-fil-build-50m-distribution-135517557.html" target="_blank" rel="noopener">Chick-fil-A to build $50M distribution hub in West Texas</a></h3>
+  <p class="preview card-detail">Chick-fil-A to build $50M distribution hub in West Texas The Lubbock distribution center, expected to open in 2027, will be Chick-fil-A’s third distribution facility in Texas, joining existing sites in Dallas and San Antonio. (Photo: Chick-Fil-A) Noi Mahoney Thu, March 26, 2026 at 7:55 AM MDT 2 min &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:55:17Z</time>
+    <span class="kw-hint">🔑 war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="6.83" data-date="2026-03-20" data-themes="" data-text="uk borrowing overshot in february before middle east turmoil uk borrowing overshot in february before middle east turmoil subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from ">
@@ -15398,20 +15296,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-20">2026-03-20T06:47:02Z</time>
     <span class="kw-hint">🔑 nasdaq, tariff</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="6.80" data-date="2026-03-19" data-themes="" data-text="jim cramer on chipotle mexican grill: “i think the stock is marking time” jim cramer on chipotle mexican grill: “i think the stock is marking time” syeda seirut javed thu, march 19, 2026 at 8:34 am cdt 2 min read cmg chipotle mexican grill, inc. (nyse: cmg ) is one of jim cramer’s latest stock calls as oil drops and the u.s. market rises . a caller asked what cramer thinks of the stock long-term, given the company’s expansion plans, and mentioned that they are in the “house of pain.” he replied: the house of pain is a terrible place to be. though i had the chicken al pastor, man, that was dynamite, but that’s not going to be dispositive to the stock. i think the sto">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.80 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: stock market, earnings, oil, tariff">6.8 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-chipotle-mexican-grill-133453172.html" target="_blank" rel="noopener">Jim Cramer on Chipotle Mexican Grill: “I Think the Stock Is Marking Time”</a></h3>
-  <p class="preview card-detail">Jim Cramer on Chipotle Mexican Grill: “I Think the Stock Is Marking Time” Syeda Seirut Javed Thu, March 19, 2026 at 8:34 AM CDT 2 min read CMG Chipotle Mexican Grill, Inc. (NYSE: CMG ) is one of Jim Cramer’s latest stock calls as oil drops and the U.S. market rises . A caller asked what Cramer think&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:34:53Z</time>
-    <span class="kw-hint">🔑 stock market, earnings, oil, tariff</span>
   </div>
 </article>
 <article class="card card-alert" data-score="6.79" data-date="2026-03-19" data-themes="" data-text="jim cramer on general mills: “management tried to turn minuses into pluses, but the crowd wasn’t buying it” jim cramer on general mills: “management tried to turn minuses into pluses, but the crowd wasn’t buying it” syeda seirut javed thu, march 19, 2026 at 10:15 am pdt 2 min read gis general mills, inc. (nyse: gis ) is one of jim cramer’s latest stock calls as he shared how to navigate wednesday’s tough tape . cramer mentioned the stock during the episode and said: i thought that general mills might bottom on a good quarter, big yield. sadly, the quarter wasn’t good enough. management tried to turn minuses into pluses, but the crowd wasn’t buying it, even with that 6.5% yield. a stock market graph.">
@@ -16394,34 +16278,6 @@
     <span class="kw-hint">🔑 nasdaq, tariff</span>
   </div>
 </article>
-<article class="card card-alert" data-score="5.72" data-date="2026-03-19" data-themes="" data-text="ecb hold rates steady and highlights raised uncertainty new forecasts see higher inflation and lower economic growth this year">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.72 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: ecb, inflation">5.7 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/73792fce-2f2e-4b30-b4f9-71039173b94e" target="_blank" rel="noopener">ECB hold rates steady and highlights raised uncertainty</a></h3>
-  <p class="preview card-detail">New forecasts see higher inflation and lower economic growth this year</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:35:09</time>
-    <span class="kw-hint">🔑 ecb, inflation</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="5.72" data-date="2026-03-19" data-themes="" data-text="jim cramer on nvidia: “do not lose faith” jim cramer on nvidia: “do not lose faith” syeda seirut javed thu, march 19, 2026 at 8:34 am cdt 2 min read nvda nvidia corporation (nasdaq: nvda ) is one of jim cramer’s latest stock calls as oil drops and the u.s. market rises . cramer urged people not to “lose faith,” as he stated: now, you’d think that the companies here at nvidia’s gtc conference, where we’ve encamped for the last two days, would also be running led by nvidia itself, right? but the world’s biggest company is finding out that most big institutions already own its stock. everyone’s already in the pool. so despite some incred">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.72 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: nasdaq, oil, tariff">5.7 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-not-lose-133452654.html" target="_blank" rel="noopener">Jim Cramer on NVIDIA: “Do Not Lose Faith”</a></h3>
-  <p class="preview card-detail">Jim Cramer on NVIDIA: “Do Not Lose Faith” Syeda Seirut Javed Thu, March 19, 2026 at 8:34 AM CDT 2 min read NVDA NVIDIA Corporation (NASDAQ: NVDA ) is one of Jim Cramer’s latest stock calls as oil drops and the U.S. market rises . Cramer urged people not to “lose faith,” as he stated: Now, you’d thin&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:34:52Z</time>
-    <span class="kw-hint">🔑 nasdaq, oil, tariff</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="5.69" data-date="2026-03-23" data-themes="" data-text="is the vanguard s&p 500 index fund etf a buy now? is the vanguard s&p 500 index fund etf a buy now? dave kovaleski, the motley fool mon, march 23, 2026 at 1:21 pm edt 3 min read voo ^gspc nvda intc when vanguard offered up its capital markets outlook for 2026 and beyond late last year, it wasnʻt particularly bullish. over the next five to 10 years, vanguard predicts u.s. equity annual returns of 4% to 5% with the muted outlook nearly singlehandedly driven by our risk-return assessment of large-cap technology companies. in short, its major concerns are overvalued large tech stocks and creative destruction from new entrants into the sector, ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -16618,20 +16474,6 @@
     <span class="kw-hint">🔑 nasdaq, tariff</span>
   </div>
 </article>
-<article class="card card-alert" data-score="5.41" data-date="2026-03-19" data-themes="" data-text="jim cramer on vertiv holdings: “it’s one that we’ve liked forever” jim cramer on vertiv holdings: “it’s one that we’ve liked forever” syeda seirut javed thu, march 19, 2026 at 8:34 am cdt 2 min read vrt nvda vertiv holdings co (nyse: vrt ) is one of jim cramer’s latest stock calls as oil drops and the u.s. market rises . cramer highlighted that the company’s last quarter was a “blowout,” as he commented: if i learned anything out here at gtc, nvidia’s festival of artificial intelligence, is that there’s still a mountain of money in this business. take vertiv holdings, which makes power and cooling equipment for the data centers. hey, look, these guys reported">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.41 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: stock market, oil, tariff">5.4 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vertiv-holdings-one-133455922.html" target="_blank" rel="noopener">Jim Cramer on Vertiv Holdings: “It’s One That We’ve Liked Forever”</a></h3>
-  <p class="preview card-detail">Jim Cramer on Vertiv Holdings: “It’s One That We’ve Liked Forever” Syeda Seirut Javed Thu, March 19, 2026 at 8:34 AM CDT 2 min read VRT NVDA Vertiv Holdings Co (NYSE: VRT ) is one of Jim Cramer’s latest stock calls as oil drops and the U.S. market rises . Cramer highlighted that the company’s last q&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:34:55Z</time>
-    <span class="kw-hint">🔑 stock market, oil, tariff</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="5.41" data-date="2026-03-20" data-themes="" data-text="daily etf flows: schd takes no. 1 spot daily etf flows: schd takes no. 1 spot etf.com staff fri, march 20, 2026 at 5:00 pm edt 2 min read schd top 10 creations (all etfs) ticker name net flows ($, mm) aum ($, mm) aum % change schd schwab us dividend equity etf 15,364.48 98,837.40 15.55% ivv ishares core s&p 500 etf 9,775.81 686,195.65 1.42% vym vanguard high dividend yield index etf 3,356.56 75,265.63 4.46% smh vaneck semiconductor etf 2,971.53 47,364.11 6.27% ijh ishares core s&p mid-cap etf 2,912.29 108,238.44 2.69% ijr ishares core s&p small cap etf 2,542.20 93,077.67 2.73% vxf vanguard extended market etf 2,175.00 27,642.92 7.8">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -16800,20 +16642,6 @@
     <span class="kw-hint">🔑 tariff</span>
   </div>
 </article>
-<article class="card card-alert" data-score="5.24" data-date="2026-03-19" data-themes="" data-text="who will deliver your mail if post office collapses? ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.24 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: collapse">5.2 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/deliver-mail-post-office-collapses-133927274.html" target="_blank" rel="noopener">Who Will Deliver Your Mail If Post Office Collapses?</a></h3>
-  <p class="preview card-detail"></p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:39:27Z</time>
-    <span class="kw-hint">🔑 collapse</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="5.24" data-date="2026-03-20" data-themes="war_conflict" data-text="nuclear reactor developer x‑energy files for us ipo nuclear reactor developer x‑energy files for us ipo reuters fri, march 20, 2026 at 3:20 pm pdt 1 min read march 20 (reuters) - x-energy has filed for an initial public offering in the united states, it said on friday, ‌as the reactor developer aims to tap growing investor enthusiasm ‌for nuclear power. the u.s. nuclear industry is in midst of a renaissance after ​years of stagnation, driven primarily by surging power demand from the computing infrastructure required for artificial intelligence systems and president donald trump's hopes to quadruple nuclear energy output by 2050. x-energy plans">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -16910,20 +16738,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-20">2026-03-20T22:04:24Z</time>
     <span class="kw-hint">🔑 nasdaq, tariff</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="5.15" data-date="2026-03-19" data-themes="" data-text="us regulators unveil plans to cut wall street capital requirements by 4.8% measures for banks would weaken one of the main regulatory guardrails against a financial crisis">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.15 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: crisis">5.2 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/5282dc9b-d5f0-4bb3-95ee-be15801c41fa" target="_blank" rel="noopener">US regulators unveil plans to cut Wall Street capital requirements by 4.8%</a></h3>
-  <p class="preview card-detail">Measures for banks would weaken one of the main regulatory guardrails against a financial crisis</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 14:14:53</time>
-    <span class="kw-hint">🔑 crisis</span>
   </div>
 </article>
 <article class="card card-alert" data-score="5.15" data-date="2026-03-23" data-themes="" data-text="what salesforce, inc. (crm)’s fy27 strategy signals what salesforce, inc. (crm)’s fy27 strategy signals rameen kasana mon, march 23, 2026 at 11:02 am cdt 2 min read crm salesforce, inc. (nyse: crm ) is among the 12 tech stocks with best earnings growth in 2026 . on march 3, salesforce, inc. (nyse:crm) presented at the 2026 morgan stanley technology, media & telecom conference. while highlighting record financial results for fy2026, thanks to the increase in premium sku adoption, leadership outlined the company’s strategic vision for the next fiscal year at the conference. although investors worry about market competition and changing business m">
@@ -17808,20 +17622,6 @@
     <span class="kw-hint">🔑 middle east, tariff</span>
   </div>
 </article>
-<article class="card" data-score="4.39" data-date="2026-03-19" data-themes="" data-text="jim cramer on origin bancorp: “not great, not bad” jim cramer on origin bancorp: “not great, not bad” syeda seirut javed thu, march 19, 2026 at 8:34 am cdt 1 min read obk origin bancorp, inc. (nyse: obk ) is one of jim cramer’s latest stock calls as oil drops and the u.s. market rises . when a caller inquired about the stock during the lightning round, cramer said, “it’s okay. not great. not bad. that’s not enough for me to own it.” photo by artem podrez on pexels origin bancorp, inc. (nyse:obk) is a bank holding company that provides financial services, including deposit accounts, insurance products, and some commercial and residential lendin">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.39 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: oil, tariff">4.4 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/jim-cramer-origin-bancorp-not-133456268.html" target="_blank" rel="noopener">Jim Cramer on Origin Bancorp: “Not Great, Not Bad”</a></h3>
-  <p class="preview card-detail">Jim Cramer on Origin Bancorp: “Not Great, Not Bad” Syeda Seirut Javed Thu, March 19, 2026 at 8:34 AM CDT 1 min read OBK Origin Bancorp, Inc. (NYSE: OBK ) is one of Jim Cramer’s latest stock calls as oil drops and the U.S. market rises . When a caller inquired about the stock during the lightning rou&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:34:56Z</time>
-    <span class="kw-hint">🔑 oil, tariff</span>
-  </div>
-</article>
 <article class="card" data-score="4.38" data-date="2026-03-20" data-themes="" data-text="rhythm pharmaceuticals (rytm) reports phase 3 emanate trial topline results for setmelanotide rhythm pharmaceuticals (rytm) reports phase 3 emanate trial topline results for setmelanotide maham fatima fri, march 20, 2026 at 11:55 am edt 2 min read rytm rhythm pharmaceuticals inc. (nasdaq: rytm ) is one of the most promising stocks under $100 to buy . on march 16, rhythm pharmaceuticals announced topline results from its global phase 3 emanate trial, which evaluated the efficacy of setmelanotide across 4 substudies of rare, genetically driven obesity. the trial did not meet its pre-specified primary endpoints, which measured the difference in mean percent change in bmi (body mass index)">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -18128,20 +17928,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-20">Fri, 20 Mar 2026 05:00:22</time>
     <span class="kw-hint">🔑 oil</span>
-  </div>
-</article>
-<article class="card" data-score="4.05" data-date="2026-03-19" data-themes="" data-text="cyprus leader calls for ‘frank’ conversation on future of uk military bases cyprus leader calls for ‘frank’ conversation on future of uk military bases subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium ne">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.05 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: military">4.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/8b82d432-9e5c-4d82-911f-2aa6228567e2" target="_blank" rel="noopener">Cyprus leader calls for ‘frank’ conversation on future of UK military bases</a></h3>
-  <p class="preview card-detail">Cyprus leader calls for ‘frank’ conversation on future of UK military bases Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for un&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:35:34</time>
-    <span class="kw-hint">🔑 military</span>
   </div>
 </article>
 <article class="card" data-score="4.05" data-date="2026-03-22" data-themes="" data-text="how trump’s attack on iran risks dragging us into middle east ‘quagmire’ how trump’s attack on iran risks dragging us into middle east ‘quagmire’ subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsl">
@@ -19152,6 +18938,20 @@
     <span class="kw-hint">🔑 fed, earnings</span>
   </div>
 </article>
+<article class="card" data-score="2.94" data-date="2026-03-26" data-themes="" data-text="bitcoin miners, now ai compute leaders, face profitability concerns ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.94 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: bitcoin">2.9 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.investors.com/news/bitcoin-miner-profitability-hash-price-q1-2026-ai-pivot-wulf-corz-cifr-hut/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">Bitcoin Miners, Now AI Compute Leaders, Face Profitability Concerns</a></h3>
+  <p class="preview card-detail"></p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:49:02Z</time>
+    <span class="kw-hint">🔑 bitcoin</span>
+  </div>
+</article>
 <article class="card" data-score="2.93" data-date="2026-03-20" data-themes="" data-text="goldman lawyer who resigned over epstein links paid $25mn in 2025 goldman sachs lawyer who resigned over epstein links paid $25mn in 2025 subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsle">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -19248,20 +19048,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-21">2026-03-21T01:39:31Z</time>
     <span class="kw-hint">🔑 tariff</span>
-  </div>
-</article>
-<article class="card" data-score="2.85" data-date="2026-03-19" data-themes="" data-text="stocks and bonds tumble as investors price in ‘protracted energy shock’ stocks and bonds tumble as investors price in ‘protracted energy shock’ subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsle">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.85 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: bond">2.8 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/3f4a6ad4-9216-4b5c-830f-11854787bb52" target="_blank" rel="noopener">Stocks and bonds tumble as investors price in ‘protracted energy shock’</a></h3>
-  <p class="preview card-detail">Stocks and bonds tumble as investors price in ‘protracted energy shock’ Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefi&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:48:04</time>
-    <span class="kw-hint">🔑 bond</span>
   </div>
 </article>
 <article class="card" data-score="2.83" data-date="2026-03-22" data-themes="" data-text="the boeing company (ba) eyes strong recovery as backlog surges and margins stabilize the boeing company (ba) eyes strong recovery as backlog surges and margins stabilize neha gupta sun, march 22, 2026 at 12:53 pm edt 1 min read ba the boeing company (nyse: ba ) is one of the best forever stocks to buy now . on march 17 at the bank of america global industrials conference 2026, cfo jay malave reiterated the boeing company (nyse:ba) recovery is progressing nicely. the boeing company (ba) eyes strong recovery as backlog surges and margins stabilize the recovery has been bolstered by the acquisition of spirit aerosystems, expected to drive future value despite impacting margins in">
@@ -19642,20 +19428,6 @@
     <span class="kw-hint">🔑 tariff</span>
   </div>
 </article>
-<article class="card" data-score="2.37" data-date="2026-03-19" data-themes="" data-text="spain poses obstacle to defence merger backed by dan loeb’s third point spain poses obstacle to defence merger backed by dan loeb’s third point subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsle">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.37 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">2.4 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/a9ebd01c-a259-41b6-9c7d-3c9d73fc8c1f" target="_blank" rel="noopener">Spain poses obstacle to defence merger backed by Dan Loeb’s Third Point</a></h3>
-  <p class="preview card-detail">Spain poses obstacle to defence merger backed by Dan Loeb’s Third Point Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefi&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 12:58:24</time>
-    
-  </div>
-</article>
 <article class="card" data-score="2.36" data-date="2026-03-23" data-themes="" data-text="tom lee's bitmine purchases another $138 million of ethereum tom lee's bitmine purchases another $138 million of ethereum cryptoprowl mon, march 23, 2026 at 9:42 am edt 1 min read bmnr eth eth-usd tom lee's bitmine purchases another $138 million of ethereum bitmine immersion technologies (nyse: $bmnr) has purchased another 65,341 ethereum (crypto: $eth) as it bets that cryptocurrency prices are near a bottom. bitmine, run by investor tom lee, has leaned heavily into the market downturn in digital assets and continued buying ethereum as the price has slumped. the latest acquisition by bitmine, worth $138 million u.s. lifted the company’s total holdings a">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -19906,20 +19678,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-03-20">2026-03-20T16:25:51Z</time>
     <span class="kw-hint">🔑 bitcoin</span>
-  </div>
-</article>
-<article class="card" data-score="1.89" data-date="2026-03-19" data-themes="" data-text="eqt-backed vet group ivc evidensia readies ipo eqt-backed vet group ivc evidensia readies ipo subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading expert">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.89 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.9 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/6ac80891-28f0-43bf-8380-1c5b870e89b7" target="_blank" rel="noopener">EQT-backed vet group IVC Evidensia readies IPO</a></h3>
-  <p class="preview card-detail">EQT-backed vet group IVC Evidensia readies IPO Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefined What’s included Globa&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:20:39</time>
-    
   </div>
 </article>
 <article class="card" data-score="1.89" data-date="2026-03-22" data-themes="" data-text="japanese investment in indian finance hits record as business ties tighten japanese investment in indian finance hits record as business ties tighten subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium new">
@@ -20230,17 +19988,17 @@
     <span class="kw-hint">🔑 bond</span>
   </div>
 </article>
-<article class="card" data-score="1.49" data-date="2026-03-19" data-themes="" data-text="inwit shares plunge after swisscom, telecom italia team up in tower venture ">
+<article class="card" data-score="1.49" data-date="2026-03-26" data-themes="" data-text="analyst report: sun life financial inc summary sun life financial inc., based in toronto, is a leading life insurance company with operations in canada, the u.s., and asia. the company distributes its insurance products and other financial services through direct sales agents. it has approximate upgrade to begin using premium research reports and get so much more. exclusive reports, detailed company profiles, and best-in-class trade insights to take your portfolio to the next level upgrade kevin heal chief compliance officer & senior analyst: financial services kevin is the chief compliance officer for the argus research group. his">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.49 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: —">1.5 <sup>ℹ</sup></span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.49 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.5 <sup>ℹ</sup></span>
     
     
   </div>
-  <h3 class="card-title"><a href="https://www.wsj.com/business/telecom/swisscom-telecom-italia-partner-to-build-mobile-phone-towers-in-italy-7af7cba3?siteid=yhoof2&yptr=yahoo" target="_blank" rel="noopener">Inwit Shares Plunge After Swisscom, Telecom Italia Team Up in Tower Venture</a></h3>
-  <p class="preview card-detail"></p>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/research/reports/ARGUS_3394_AnalystReport_1774521714000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei" target="_blank" rel="noopener">Analyst Report: Sun Life Financial Inc</a></h3>
+  <p class="preview card-detail">Summary Sun Life Financial Inc., based in Toronto, is a leading life insurance company with operations in Canada, the U.S., and Asia. The company distributes its insurance products and other financial services through direct sales agents. It has approximate Upgrade to begin using premium research re&#8230;</p>
   <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:53:00Z</time>
+    <time datetime="2026-03-26">2026-03-26T10:41:54Z</time>
     
   </div>
 </article>
@@ -20591,20 +20349,6 @@
   <p class="preview card-detail">A $1B Loan At 0% Interest Sounds Like A Dream With Limitless Possibilities, But Dave Ramsey's Hatred Of Debt Runs So Deep He'd Refuse It Adrian Volenik Sat, March 21, 2026 at 9:31 AM CDT 3 min read The idea sounds almost ridiculous. Borrow $1 billion at 0% interest, park it in safe investments, and &#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-03-21">2026-03-21T14:31:08Z</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.24" data-date="2026-03-19" data-themes="" data-text="two men appear in court accused of spying on london jewish communities on behalf of iran two men appear in court accused of spying on london jewish communities on behalf of iran subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 1">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.24 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.2 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/a79419cc-2f94-4346-ae64-5063ae17d961" target="_blank" rel="noopener">Two men appear in court accused of spying on London Jewish communities on behalf of Iran</a></h3>
-  <p class="preview card-detail">Two men appear in court accused of spying on London Jewish communities on behalf of Iran Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep r&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">Thu, 19 Mar 2026 13:39:28</time>
     
   </div>
 </article>
@@ -21448,6 +21192,20 @@
     
   </div>
 </article>
+<article class="card" data-score="1.17" data-date="2026-03-26" data-themes="" data-text="daily – vickers top insider picks for 03/26/2026 summary the vickers top insider picks is a daily report that utilizes a proprietary algorithm to identify 25 companies with compelling insider purchase historie upgrade to begin using premium research reports and get so much more. exclusive reports, detailed company profiles, and best-in-class trade insights to take your portfolio to the next level upgrade">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.17 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.2 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/research/reports/ARGUS_46545_InsiderActivity_1774519632000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei" target="_blank" rel="noopener">Daily – Vickers Top Insider Picks for 03/26/2026</a></h3>
+  <p class="preview card-detail">Summary The Vickers Top Insider Picks is a daily report that utilizes a proprietary algorithm to identify 25 companies with compelling insider purchase historie Upgrade to begin using premium research reports and get so much more. Exclusive reports, detailed company profiles, and best-in-class trade&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T10:07:12Z</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.16" data-date="2026-03-19" data-themes="" data-text="europe needs to prepare now for an extended energy shock europe needs to prepare now for an extended energy shock subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from lead">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -21574,20 +21332,6 @@
     
   </div>
 </article>
-<article class="card" data-score="1.05" data-date="2026-03-19" data-themes="" data-text="stocks slip and brent crude soars above $110 ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.05 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.1 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.wsj.com/finance/stocks/stocks-tumble-treasury-yields-rise-as-oil-surges-again-2f4dd48e?siteid=yhoof2&yptr=yahoo" target="_blank" rel="noopener">Stocks Slip and Brent Crude Soars Above $110</a></h3>
-  <p class="preview card-detail"></p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:53:00Z</time>
-    
-  </div>
-</article>
 <article class="card" data-score="1.03" data-date="2026-03-26" data-themes="" data-text="m&a can be a big opportunity. these stocks look like they could pop if deals close. ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -21599,6 +21343,20 @@
   <p class="preview card-detail"></p>
   <div class="card-footer card-detail">
     <time datetime="2026-03-26">2026-03-26T12:41:00Z</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.03" data-date="2026-03-26" data-themes="" data-text="karman stock surges on results, sees rising defense demand ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.03 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.investors.com/news/karman-stock-earnings-q4-2025-krmn-stock-buy-point-defense/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">Karman Stock Surges On Results, Sees Rising Defense Demand</a></h3>
+  <p class="preview card-detail"></p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">2026-03-26T13:45:47Z</time>
     
   </div>
 </article>
@@ -22117,20 +21875,6 @@
   <p class="preview card-detail">FirstFT: Stocks fall on Trump’s Iran ultimatum Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefined What’s included Globa&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-03-23">Mon, 23 Mar 2026 05:34:59</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-03-19" data-themes="" data-text="kla rival calibrates new buy zone as top funds scoop up shares ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.investors.com/research/ibd-stock-analysis/nova-stock-nvmi-metrology-leader-klac-rival-etches-new-buy-zone/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">KLA Rival Calibrates New Buy Zone As Top Funds Scoop Up Shares</a></h3>
-  <p class="preview card-detail"></p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-03-19">2026-03-19T13:44:02Z</time>
     
   </div>
 </article>
@@ -23001,6 +22745,20 @@
     <time datetime="2026-03-26">Thu, 26 Mar 2026 05:00:11</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-03-26" data-themes="" data-text="what has happened to iran’s top-tier missiles? tehran’s unused arsenal has played on the nerves of gulf states">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/fe4dcb08-4b2f-4496-af0e-13a4bce34459" target="_blank" rel="noopener">What has happened to Iran’s top-tier missiles?</a></h3>
+  <p class="preview card-detail">Tehran’s unused arsenal has played on the nerves of Gulf states</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-26">Thu, 26 Mar 2026 12:42:50</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -23010,7 +22768,6 @@
 function showPaywall() {
   document.getElementById('paywall-modal').classList.add('show');
 }
-
 function closePaywall() {
   document.getElementById('paywall-modal').classList.remove('show');
 }
@@ -23060,7 +22817,7 @@ function applyFilters() {
   const query   = document.getElementById('searchInput').value.toLowerCase().trim();
   const dateVal = document.getElementById('dateSelect').value;
   const cid     = currentView === 'top' ? 'cards-top' : 'cards-all';
-  const cards   = document.getElementById(cid).querySelectorAll('.card');
+  const cards   = document.getElementById(cid).querySelectorAll('.card, .blurred-wrapper');
 
   let visible = 0;
   cards.forEach(card => {
@@ -23092,7 +22849,7 @@ new Chart(document.getElementById('chartDays'), {
   data: {
     labels: ["03-20", "03-21", "03-22", "03-23", "03-24", "03-25", "03-26"],
     datasets: [{
-      data: [289, 254, 150, 314, 289, 126, 23],
+      data: [289, 254, 150, 314, 289, 126, 38],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -23106,12 +22863,12 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [56, 938, 49, 223, 25, 14, 23, 49, 5, 3, 2, 2];
+const themeValues = [931, 14, 221, 53, 48, 24, 23, 50, 5, 3, 2, 2];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
     data: {
-      labels: ["\ud83c\udfdb\ufe0f Central Bank", "\u2694\ufe0f War/Conflict", "\ud83c\udf10 Geo Shock", "\ud83d\udee2\ufe0f Oil/Energy", "\ud83d\udeab Sanctions", "\ud83d\udc80 Default", "\ud83c\udfe6 Banking Crisis", "\ud83d\udcc9 Recession", "\ud83d\udcca Volatility", "\ud83d\udca5 Market Crash", "\ud83d\udea8 Fed Emergency", "\ud83d\udd25 Inflation"],
+      labels: ["\u2694\ufe0f War/Conflict", "\ud83d\udc80 Default", "\ud83d\udee2\ufe0f Oil/Energy", "\ud83c\udfdb\ufe0f Central Bank", "\ud83c\udf10 Geo Shock", "\ud83d\udeab Sanctions", "\ud83c\udfe6 Banking Crisis", "\ud83d\udcc9 Recession", "\ud83d\udcca Volatility", "\ud83d\udca5 Market Crash", "\ud83d\udea8 Fed Emergency", "\ud83d\udd25 Inflation"],
       datasets: [{
         data: themeValues,
         backgroundColor: ['#f85149','#d29922','#3fb950','#58a6ff','#ff7b72','#79c0ff','#56d364','#e3b341','#ffa657','#d2a8ff','#7ee787','#a5d6ff'],
