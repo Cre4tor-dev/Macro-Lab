@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Iran accuses US of seeking talks while preparing to invade",
-      "link": "https://www.ft.com/content/21607fce-182d-45d1-bcf2-d2a78f9339cb",
-      "published_date": "Sun, 29 Mar 2026 09:11:38 GMT",
-      "scrape_timestamp": "2026-03-29T09:29:55.873548+00:00",
-      "content": "Iranian-backed Houthis say they had launched a second attack on Israel",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Social media has been put on notice",
       "link": "https://www.ft.com/content/dd7606e1-8350-4d88-8026-7afaaf5a23a5",
       "published_date": "Sun, 29 Mar 2026 10:00:09 GMT",
@@ -16180,14 +16169,69 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Bain Capital Scours the Globe for Excess Returns",
+      "link": "https://www.barrons.com/articles/bain-capital-david-gross-interview-4760823c?siteid=yhoof2&yptr=yahoo",
+      "published_date": "2026-04-04T05:01:00Z",
+      "scrape_timestamp": "2026-04-05T09:31:02.207344+00:00",
+      "content": "",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Evercore ISI and RBC Turn Cautious on Conagra (CAG) Despite Sales Uptick",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-rbc-turn-cautious-052238057.html",
+      "published_date": "2026-04-04T05:22:38Z",
+      "scrape_timestamp": "2026-04-05T09:31:02.207364+00:00",
+      "content": "Evercore ISI and RBC Turn Cautious on Conagra (CAG) Despite Sales Uptick Vardah Gill Sat, April 4, 2026 at 1:22 AM EDT 1 min read CAG Conagra Brands, Inc. (NYSE: CAG ) is included among the 15 Cheapest Stocks with Highest Dividends . Evercore ISI and RBC Turn Cautious on Conagra (CAG) Despite Sales Uptick On April 2, Evercore ISI lowered its price recommendation on Conagra Brands, Inc. (NYSE:CAG) to $18 from $19. It reiterated an In Line rating on the shares. The firm said Conagra is putting more emphasis on cash flow and protecting profits. Organic sales trends have started to improve, but FY27 earnings power is “still feeling the squeeze” from input cost inflation and a weaker contribution from Ardent Mills. On the same day, RBC Capital also reduced its price goal on Conagra to $17 from $20 and kept a Sector Perform rating. The firm said the company delivered a fairly straightforward Q3. Organic sales growth came in slightly ahead of expectations, even as underlying consumption remained soft and the operating backdrop stayed challenging. The analyst pointed to modest volume growth, some share gains, and strong performance in snacks and frozen categories as key drivers.RBC noted that cost pressures could increase if geopolitical tensions persist. Conagra Brands, Inc. (NYSE:CAG) is a branded food company. It operates across Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice segments. The Grocery & Snacks segment includes branded, shelf-stable food products sold across retail channels in the United States. While we acknowledge the potential of CAG as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 13 Best Diversified Dividend Stocks to Buy Right Now and 14 Cheap DRIP Stocks to Buy Now Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Deutsche Bank Sees Weak March for CPG Stocks, Lowers Campbell’s (CPB)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-sees-weak-march-052221484.html",
+      "published_date": "2026-04-04T05:22:21Z",
+      "scrape_timestamp": "2026-04-05T09:31:02.207378+00:00",
+      "content": "Deutsche Bank Sees Weak March for CPG Stocks, Lowers Campbell’s (CPB) Vardah Gill Sat, April 4, 2026 at 1:22 AM EDT 2 min read CPB The Campbell’s Company (NASDAQ: CPB ) is included among the 15 Cheapest Stocks with Highest Dividends . Deutsche Bank Sees Weak March for CPG Stocks, Lowers Campbell’s (CPB) On March 30, Deutsche Bank lowered its price recommendation on The Campbell’s Company (NASDAQ:CPB) to $20 from $23 and kept a Hold rating. The firm said it is seeing “legitimate and widespread pressures building” across much of the consumer packaged goods industry, driven in part by the conflict in the Middle East. The analyst pointed out that the group underperformed in March. Rising input costs, the risk of consumers trading down, and currency headwinds all weighed on the stocks. During the company’s fiscal Q2 2026 earnings call, CFO Todd Cunfer said Q3 is expected to track broadly in line with Q2. He added that Q4 should see a typical step-down, aligning with the roughly $0.90 needed in second-half earnings to reach the midpoint of guidance. Management said Snacks’ net sales are likely to decline by about 4% in the second half. Margins are expected to improve in Q4, though without a meaningful sequential increase in net sales. They also noted that pricing in Meals & Beverages should remain positive through the second half, but at a slower pace than earlier in the year. This reflects continued investment in broth and Rao’s. The Campbell’s Company (NASDAQ:CPB), formerly Campbell Soup Company, provides affordable food and beverages. It operates across two divisions, Meals & Beverages and Snacks, supported by a portfolio of about 16 brands. While we acknowledge the potential of CPB as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 13 Best Diversified Dividend Stocks to Buy Right Now and 14 Cheap DRIP Stocks to Buy Now Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Piper Sandler Sees “Two Halves” in Mortgage Market, Lowers Rithm Capital (RITM)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-sees-two-halves-052434676.html",
+      "published_date": "2026-04-04T05:24:34Z",
+      "scrape_timestamp": "2026-04-05T09:31:02.207385+00:00",
+      "content": "Piper Sandler Sees “Two Halves” in Mortgage Market, Lowers Rithm Capital (RITM) Vardah Gill Sat, April 4, 2026 at 1:24 AM EDT 1 min read RITM RITM-PA RITM-PD RITM-PE Rithm Capital Corp. (NYSE: RITM ) is included among the 15 Cheapest Stocks with Highest Dividends . Piper Sandler Sees “Two Halves” in Mortgage Market, Lowers Rithm Capital (RITM) On April 2, Piper Sandler lowered its price recommendation on Rithm Capital Corp. (NYSE:RITM) to $14 from $15 and maintained an Overweight rating. The firm said the first quarter was a “tale of two halves” for the mortgage sector. Rates improved steadily through February, reaching 5.98%. More recently, volatility pushed them back up to nearly 6.38%. Agency MBS spreads followed a similar pattern. They tightened by 15 basis points to 75 basis points over the 10-year Treasury on positive GSE purchase commentary, then widened by more than 25 basis points to above 100 basis points. The firm linked this shift to volatility tied to the Iran war and changing inflation expectations. Mortgage application data held up through mid-March but has started to slow in recent weeks. Applications still rose 18% sequentially during what is typically a slower seasonal quarter, supported by both purchase and refinance activity. Rithm Capital Corp. (NYSE:RITM) is a global asset manager focused on real estate, credit, and financial services. It makes direct investments and operates several wholly owned businesses. Its segments include Origination and Servicing, Investment Portfolio, Residential Transitional Lending, and Asset Management. While we acknowledge the potential of RITM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 13 Best Diversified Dividend Stocks to Buy Right Now and 14 Cheap DRIP Stocks to Buy Now Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "JEPI vs. JEPQ: Which Is the Better Buy in April?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jepi-vs-jepq-better-buy-045000547.html",
+      "published_date": "2026-04-04T04:50:00Z",
+      "scrape_timestamp": "2026-04-05T09:31:02.275328+00:00",
+      "content": "JEPI vs. JEPQ: Which Is the Better Buy in April? David Dierking, The Motley Fool Sat, April 4, 2026 at 12:50 AM EDT 4 min read JEPQ NVDA JEPI INTC On a relative basis, derivative income exchange-traded funds (ETFs) have seen one of the highest rates of net inflows over the past year. The highest-profile ETFs in this category have generally been the single-stock variety, but traditional covered call strategies are also drawing in new money. The two biggest ETFs in this group by far are the JPMorgan Equity Premium Income ETF (NYSEMKT: JEPI) and the JPMorgan Nasdaq Equity Premium Income ETF (NASDAQ: JEPQ) . Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue » These funds became ultra-popular in 2022, when both stocks and bonds were cratering and investors pivoted to high-yield covered call products for income and safety. In the three years that followed that bear market, returns have moderated, but the inflows continue to pour in. Combined, these two ETFs have $78 billion in assets under management (AUM). As we kick off the second quarter of the year, let's break down these funds to see if they still make sense and which might be the better buy. Image source: Getty Images. The case for the JPMorgan Equity Premium Income ETF This ETF is actively managed and targets stocks with below-market volatility and an attractive risk/return profile. On top of that portfolio, it writes out-of-the-money S&P 500 call options in order to generate monthly income. The key here is the low-volatility stock portfolio. With top 10 holdings, such as Walmart , Johnson & Johnson , NextEra Energy , and Ross Stores , this portfolio is built to withstand more challenging economic periods. That's exactly what the market is experiencing. U.S. gross domestic product (GDP) growth in fourth-quarter 2025 slowed to an annualized rate of just 0.7%. Month-over-month non-farm payroll growth has been negative in five of the past nine months. The Organization for Economic Cooperation and Development (OECD) recently put out a report forecasting a 4% inflation rate in the United States later this year. These are tough conditions that are generally not supportive of higher stock prices. Investing in more defensive stocks doesn't necessarily mean avoiding losses. But it is likely to be less volatile and come with less downside risk. Even though investing in covered call strategies reduces the upside potential of the JPMorgan Equity Premium Income ETF , that extra yield can help offset any share price losses in the coming months. This ETF could perform similarly to how it did in 2022. Story Continues The case for the JPMorgan Nasdaq Equity Premium Income ETF This ETF follows a nearly identical investment methodology as the fund above, except it invests in the Nasdaq-100 stocks and writes out-of-the-money call options on the Nasdaq-100 index. But using this index gives this ETF a whole different risk/return profile. First, the added volatility of Nasdaq-100 stocks versus low volatility stocks generally means higher option income premiums. The JPMorgan Nasdaq Equity Premium Income ETF has a current yield of 11.4%. It also means investing in a tech-heavy index that isn't really in favor right now. The earnings growth rates of these companies have generally been solid, but many investors are raising questions about valuations and whether all this AI development spending will ultimately be worth it. Plus, if the economy and the labor market continue to slow, tech and growth stocks generally aren't the ones that usually outperform. JEPI vs. JEPQ: Which is the better buy in April? Based on macro conditions, the JPMorgan Equity Premium Income ETF is the better choice. In these challenging times, low-volatility stocks offer at least a modest layer of protection. These are the kind of durable, cash flow-generating companies that can survive with less damage. The steady demand for their products and services can mitigate some volatility risk as well. Over the long term, it may not perform as well as its Nasdaq-100-linked counterpart. In the here and now, however, I think it's the better choice. Should you buy stock in JPMorgan Equity Premium Income ETF right now? Before you buy stock in JPMorgan Equity Premium Income ETF, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and JPMorgan Equity Premium Income ETF wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $532,066 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,087,496 !* Now, it’s worth noting Stock Advisor’s total average return is 926 % — a market-crushing outperformance compared to 185% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of April 4, 2026. David Dierking has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends NextEra Energy and Walmart. The Motley Fool recommends Johnson & Johnson. The Motley Fool has a disclosure policy . JEPI vs. JEPQ: Which Is the Better Buy in April? was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-05T08:33:56.921342+00:00",
+  "last_updated": "2026-04-05T09:31:41.410116+00:00",
   "metadata": {
-    "total_runs": 870,
+    "total_runs": 871,
     "sources": [
-      "Yahoo Finance",
-      "Financial Times"
+      "Financial Times",
+      "Yahoo Finance"
     ],
     "retention_days": 7
   }
