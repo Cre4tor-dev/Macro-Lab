@@ -1,83 +1,6 @@
 {
   "articles": [
     {
-      "source": "Financial Times",
-      "title": "TotalEnergies made bumper profit on Middle East oil bet",
-      "link": "https://www.ft.com/content/eba87bd4-7e55-4a7b-b14c-71bf486bfd31",
-      "published_date": "Mon, 30 Mar 2026 04:00:26 GMT",
-      "scrape_timestamp": "2026-03-30T04:38:32.477323+00:00",
-      "content": "In March, French group bought every available cargo of crude produced in UAE and Oman for loading in May",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "What to do when the ‘public good’ of information goes bad",
-      "link": "https://www.ft.com/content/c1af9258-a77d-469c-8b8b-b455321786b3",
-      "published_date": "Mon, 30 Mar 2026 04:00:26 GMT",
-      "scrape_timestamp": "2026-03-30T04:38:32.877580+00:00",
-      "content": "The creation and dissemination of reliable news is at an economic disadvantage",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "America’s gig economy",
-      "link": "https://www.ft.com/content/35923259-841c-40aa-b182-68b73dd4c89d",
-      "published_date": "Mon, 30 Mar 2026 04:00:26 GMT",
-      "scrape_timestamp": "2026-03-30T04:38:33.077737+00:00",
-      "content": "Self-employment, at both the high and the low end, is keeping consumption afloat — but for how long?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How Hungary sidesteps Europe’s fraud watchdog",
-      "link": "https://www.ft.com/content/89730f92-9d8d-4de3-88d6-ddab87ca400a",
-      "published_date": "Mon, 30 Mar 2026 04:00:07 GMT",
-      "scrape_timestamp": "2026-03-30T04:38:33.277886+00:00",
-      "content": "Viktor Orbán’s government has returned just 18 per cent of funds flagged by the EU’s anti-graft body",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Yen strengthens after Japan official warns of ‘decisive action’",
-      "link": "https://www.ft.com/content/afe09b9e-b951-42e2-a8fc-c7863c3338df",
-      "published_date": "Mon, 30 Mar 2026 02:53:49 GMT",
-      "scrape_timestamp": "2026-03-30T04:38:33.478072+00:00",
-      "content": "Traders have also speculated that government may intervene in crude oil markets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Private capital: what are the risks?",
-      "link": "https://www.ft.com/content/214371b3-aad0-405d-88f3-28b371f4c776",
-      "published_date": "Mon, 30 Mar 2026 04:00:26 GMT",
-      "scrape_timestamp": "2026-03-30T06:25:31.225411+00:00",
-      "content": "As investors seek to retrieve their money, the $22tn industry rejects comparisons with 2008. Regulators aren’t so sure",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Insurers give Emirates ‘outrageously’ cheap war insurance cover",
-      "link": "https://www.ft.com/content/25108328-2fd4-4697-9ea9-52f7a2e5348e",
-      "published_date": "Mon, 30 Mar 2026 04:00:17 GMT",
-      "scrape_timestamp": "2026-03-30T06:25:31.825975+00:00",
-      "content": "Dubai-based airline paying additional $100,000 a week while others face far higher charges",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Best money market account rates today, March 30, 2026 (Earn up to 4.01% APY)",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-money-market-account-rates-today-monday-march-30-2026-100000781.html",
@@ -898,17 +821,6 @@
       "published_date": "Mon, 30 Mar 2026 14:04:59 GMT",
       "scrape_timestamp": "2026-03-30T16:01:32.252154+00:00",
       "content": "With the US destroying its own credibility, the opportunity is Beijing’s for the taking",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US bets billions of dollars on unproven groups in rare earths deals",
-      "link": "https://www.ft.com/content/4ba88e38-fdfd-447c-9250-163cd85293c4",
-      "published_date": "Mon, 30 Mar 2026 04:00:07 GMT",
-      "scrape_timestamp": "2026-03-30T16:01:32.852757+00:00",
-      "content": "Companies with financial ties to Trump administration figures win major funding deals in push for crucial metals",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -15927,14 +15839,124 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "In today’s job market, it’s more ‘show me a desk’ than ‘show me the money’",
+      "link": "https://finance.yahoo.com/economy/articles/today-job-market-more-show-191800481.html",
+      "published_date": "2026-04-04T17:26:00Z",
+      "scrape_timestamp": "2026-04-06T04:37:25.177289+00:00",
+      "content": "In today’s job market, it’s more ‘show me a desk’ than ‘show me the money’ Andrew Keshner Sat, April 4, 2026 at 12:26 PM CDT 6 min read Workers have job security on their mind. Where can they find it now? - MarketWatch photo illustration/iStockphoto When it comes to their careers, many people are searching for the promise of some stability. Finding a well-paid job is important, but so is a sense of job security at an uncertain time for the economy, according to labor-market experts and a growing number of surveys. Most Read from MarketWatch ‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients? ‘I was shoveling sidewalks at 8 years old’: I’m a 73-year-old boomer dad with two kids. Here’s what I teach them about finance ‘We’re aiming for a monthly income of $11,500’: I’m 64. I’ve $1.5 million in a 401(k). How do I time my withdrawals? The job market continues to trudge along with little hiring and little firing. But workers are worried about “ FOBO ” — the fear of becoming obsolete if artificial intelligence takes over their work. Layoffs can be difficult to anticipate, with pink slips now popping up in a 6 a.m. email . And it’s taking many people a long time — almost three months — to find a new job after they lose one. These days, you might say it’s “show me a desk” instead of “show me the money.” Sierra Rodriguez is a 23-year-old political-campaign organizer in Colorado. She acknowledges that her profession is not stable: Jobs come and go with campaign cycles. After successful races, there’s fierce competition for staff positions. Pivoting to nonprofit work isn’t a sure thing, because there’s now less funding for many organizations. When the campaign she’s currently working on ends, she said she plans to assess her job prospects and think hard about her next move. Tougher economic conditions have sharpened her worries about paying her bills when the campaign cycle is done. “As counterintuitive as it may seem, yes, I definitely do value job security,” she told MarketWatch. “How quickly am I going to have to switch out of a career path I definitely love to do something more stable?” Many people are paying closer attention to job security, polling indicates. Two-thirds of new college graduates say they would take a job with lower pay in order to gain more long-term job security, according to a survey from job-search platform Monster released late last month. Job security is also now a bigger priority than career advancement when evaluating a job offer, although salary remains the top factor, the survey found. Meanwhile, only 2 in 10 workers feel confident their job is safe from elimination, according to ADP research released late last month. As AI becomes integrated into offices and factories, lower-rung workers and those whose jobs involve repetitive tasks feel especially at risk, the payroll giant’s polling showed. Story Continues There’s a disconnect between low unemployment rates and worker sentiment, said Nela Richardson, chief economist at ADP. But geopolitical conflicts, high costs and the rise of AI have worn on workers, she said. “Workers are feeling that, and even though the numbers are saying this is a pretty solid job market, there’s still a lot of insecurity,” Richardson told MarketWatch. Friday’s jobs report highlights the disconnect. It showed that the economy added 178,000 new jobs in March, which was well above forecasts — even as fighting in Iran raised energy prices and increased economic uncertainty. Yet the report also gave a strong hint about why people are searching for stability: The job hunt today can be grueling. The March numbers show it’s taking almost three months for many people to find work — that’s been the median length since late 2025 — while a quarter of unemployed job hunters have been looking for at least half a year. “If a layoff does occur, many workers have found themselves searching for months on end,” said Sneha Puri, an economist at Indeed. “This has created an environment where even workers with high levels of job security by traditional standards are starting to feel anxious about the possibility of job loss.” Finding a stable job and hugging it tight makes sense. More people say they plan to stay at their jobs for a longer period of time, according to a ZipRecruiter survey of new hires in January. Fewer people, meanwhile, said they negotiated the terms of their offer. It could be that they didn’t want haggling over salary to tank their chances for a new job, researchers said. “Job stability has become the defining feature of today’s workforce,” they wrote. Finding ‘job security’ So where are the stable jobs? “Healthcare, construction, skilled trades. Those are the jobs that are most in demand in the economy right now,” Richardson said. The healthcare sector added 76,000 jobs in March. But there’s a catch. Many jobs in the sector now are for positions such as home health aides, Richardson noted. “They may be safe, but that doesn’t mean they pay well,” she said. Other healthcare jobs, such as physical therapists and nurse practitioners, can pay more, said Andy Challenger, chief revenue officer at Challenger, Gray & Christmas. Hospitals, healthcare products, health insurance and pharmaceuticals are “all areas expected to grow because more and more people need healthcare as our country ages,” he said. Jobs in skilled trades — such as plumbers, electricians and HVAC technicians — also seem poised for security, Richardson said. Again, demographics are a clue — this time within the professions, as there aren’t enough younger workers in the field to take the place of older ones as they retire. Meanwhile, construction remains in demand, and pay bumps for job changers in the construction industry have been “in double digits for several years,” Richardson said. Challenger agreed: “Being able to do something in the physical world has real protections,” he said. People searching for stable jobs can think about the big picture — but also about the details of the job postings they’re looking at. “Larger companies tend to be more stable over time,” though there can be trade-offs, Challenger said. Fully remote work may also sound appealing, but there’s “still less stability” compared with jobs where workers can build face-to-face relationships with their bosses. “If we do see a downturn in the economy, it would not be surprising to see remote workers be let go first,” he said. The hunt for job security continues in the interview process, said Vicki Salemi, a career advice expert at Monster. Job candidates should research employers and industries and come to an interview with questions to ask, she said. Those include questions about the direction of the business, rollover, retention and expansion plans. Job seekers, especially younger ones, shouldn’t be shy about asking questions, Salemi said. “It shows them, first and foremost, that you are interested and you are prepared.” And if interviewers bristle at questions or dodge them, that could be a red flag. Vaguely written job postings could be another red flag, she said, because nebulous-sounding jobs can be easy to shift around or downsize. The Monster survey showed recent grads are prizing job security over career growth. “I think they are playing the long game,” Salemi said, “and I think that’s the really savvy move.” Most Read from MarketWatch ‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me? In today’s job market, it’s more ‘show me a desk’ than ‘show me the money’ Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Case for Owning a Broad Market ETF Instead of Picking Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/case-owning-broad-market-etf-172000995.html",
+      "published_date": "2026-04-04T17:20:00Z",
+      "scrape_timestamp": "2026-04-06T04:37:25.177348+00:00",
+      "content": "The Case for Owning a Broad Market ETF Instead of Picking Stocks David Dierking, The Motley Fool Sat, April 4, 2026 at 12:20 PM CDT 4 min read ^GSPC NVDA INTC A lot of professional money managers like to try to pick winning stocks and outperform the market. Most of them don't succeed. However, one study found that 79% of large-cap domestic equity funds underperformed the S&P 500 in 2025. Another found that 95% of actively managed large-cap core funds have lagged the S&P 500 over the past 10 years. This is a big reason why the ETF industry has gone through such a boom period over the past several years. With so many active funds underperforming the index, why not just invest in an ultra-low-cost index fund and match the index instead? Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue » Image source: Getty Images. Investing in the economy versus companies When you invest in individual stocks, you're betting on the success of that company. Because it's a sample size of one, the range of potential outcomes can go from home run to catastrophic. Your experience could be as positive as buying Nvidia a few years ago, riding a big bullish rally, and vastly outperforming the broader market. Or it could be like investing in Nike three years ago and watching your investment drop in value by half. These aren't just tiny, high-risk, small-cap stocks that can encounter these swings. Even the biggest, most successful companies can experience prolonged downturns. But when you choose to instead invest in a broad stock market fund, such as the Vanguard S&P 500 ETF (NYSEMKT: VOO) or the Vanguard Total Stock Market ETF (NYSEMKT: VTI) , you mitigate a lot of the downside risk that exists with individual companies. You don't avoid it altogether. But because any stock is such a small piece of a large portfolio, its impact on overall returns can be minimal. What you end up with by choosing a broad market ETF is an investment in the entire U.S. economy, not an individual company. Over time, that can still experience bull markets and corrections. But the highs and lows tend to be less extreme. And that's the better path to creating steadier long-term wealth over years or decades. Advantages of investing in a broad market ETF over stocks One of the underappreciated aspects of investing in a stock market index fund is that it evolves over time. Right now, tech is the biggest sector in the S&P 500. Go back in time, and you'll find a period where financials were the biggest sector. You'll find a time when energy had a big allocation. If you want to go back many decades, railroads were the biggest segment of the economy. Story Continues By owning the broad market, your investment mix changes as the economy changes. Invest in individual stocks and you could find yourself owning something that loses influence over time. Plus, with expense ratios on the two Vanguard ETFs of just 0.03%, you're paying almost nothing to own them. That isn't to say that stock picking is wrong or should be avoided. It can certainly have its place in a larger portfolio. But choosing a broad market ETF for the foundation of your portfolio makes a lot of sense. Should you buy stock in Vanguard S&P 500 ETF right now? Before you buy stock in Vanguard S&P 500 ETF, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Vanguard S&P 500 ETF wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $532,066 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,087,496 !* Now, it’s worth noting Stock Advisor’s total average return is 926 % — a market-crushing outperformance compared to 185% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of April 4, 2026. David Dierking has positions in Vanguard Total Stock Market ETF. The Motley Fool has positions in and recommends Nike, Nvidia, Vanguard S&P 500 ETF, and Vanguard Total Stock Market ETF. The Motley Fool has a disclosure policy . The Case for Owning a Broad Market ETF Instead of Picking Stocks was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "History Says the Great Rotation Is Just Getting Started. 2 Growth Stocks to Buy Now.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-great-rotation-just-173500096.html",
+      "published_date": "2026-04-04T17:35:00Z",
+      "scrape_timestamp": "2026-04-06T04:37:25.177389+00:00",
+      "content": "History Says the Great Rotation Is Just Getting Started. 2 Growth Stocks to Buy Now. Micah Zimmerman, The Motley Fool Sat, April 4, 2026 at 12:35 PM CDT 5 min read NVDA ^GSPC INTC Every market rotation has that moment where investors ask, \"Did I miss it?\" But these shifts rarely happen all at once. Like the late 1990s, they unfold slowly and test your patience, and the \"Great Rotation\" we are experiencing right now still feels like it's early. The iShares Expanded Tech-Software Sector ETF is down more than 20% in early 2026, while industrials and consumer staples are up double digits. The S&P 500 Equal Weight index is also outperforming, a sign that leadership is broadening, something you typically see in the middle of a rotation , not the end. Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue » It doesn't feel obvious yet, and that's the point. The best opportunities right now are likely in tech-adjacent and telecom infrastructure names that haven't been crowded trades. Here are two strong tickers to watch. Image source: Getty Images. Clearfield is sitting on a government-funded tailwind Most investors interested in fiber infrastructure have heard of the bigger names. Clearfield (NASDAQ: CLFD) isn't one of the big ones, but it probably should be. The Minneapolis-based company designs, manufactures, and distributes fiber optic management and delivery solutions that broadband operators use to connect homes and businesses to high-speed internet. In its fiscal 2026's first quarter, Clearfield grew net sales 16% year over year to $34.3 million and expanded gross margin by 4 percentage points to 33.2%. It also launched its NOVA Platform, which is a modular fiber ecosystem designed for higher-density installations in data centers, enterprise facilities, and community broadband central offices. The real catalyst to watch for is the money already committed by the federal government that Clearfield might capitalize on. The Broadband Equity, Access, and Deployment program (better known as BEAD) is the largest broadband infrastructure subsidy in U.S. history. Analysts modeling Clearfield's business are building in BEAD-related demand growth of more than 20% in calendar 2026. Company management has said community broadband providers, which are Clearfield's core customers, will deploy BEAD funds faster than Tier 1 operators because of their more agile structure. The fiber market is projected to grow from roughly $19.1 billion in 2022 to $29.7 billion by 2026, a compound annual growth rate of 13.1%. In other words, this means Clearfield is set to gain lots of exposure from consistent government money. Story Continues The risk to be wary of here is execution. Guidance for Q2 came in below some expectations, and the company is still integrating changes from its Nestor divestiture. It's not a smooth ride. But this is exactly the kind of smaller infrastructure growth stock that gets pulled up during a real rotation into real-economy growth. Belden is the backbone of industrial automation Belden (NYSE: BDC) makes the cables, switches, firewalls, and networking hardware that keep industrial facilities , data centers, smart buildings, and broadband networks connected. It isn't a glamorous business model, but it's an essential service. The company's industrial segment, which covers infrastructure digitization and automation, has been growing at roughly 8% annually, while its enterprise segment covers network infrastructure and broadband solutions. Belden is executing a deliberate shift away from low-margin commodity products toward integrated, higher-value industrial IoT and networking solutions. In the longer run, this will improve margins. The long-term thesis isn't complicated. The digitization of industrial environments, the build-out of smart infrastructure, and the proliferation of edge computing all require the exact physical layer networking gear that Belden specializes in. This is a strong indication of a safe growth stock. The industrial automation market is expected to grow at 5% to 7% annually on a sustained basis. Belden's EPS has compounded at 22.4% annually over the past five years, well ahead of its 7.8% revenue growth. This is a signal that operating leverage is real and improving. Be wary -- rotations don't move in straight lines, and both smaller infrastructure plays and industrial names can be volatile as capital shifts unevenly across the market. So, don't try too hard to time your trades. But if the \"Great Rotation\" continues to broaden, companies like Clearfield and Belden are positioned in the kind of under-the-radar, real-economy growth areas that tend to benefit most. Should you buy stock in Clearfield right now? Before you buy stock in Clearfield, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Clearfield wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $532,066 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,087,496 !* Now, it’s worth noting Stock Advisor’s total average return is 926 % — a market-crushing outperformance compared to 185% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of April 4, 2026. Micah Zimmerman has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy . History Says the Great Rotation Is Just Getting Started. 2 Growth Stocks to Buy Now. was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Maga stands by Trump on Iran — for now",
+      "link": "https://www.ft.com/content/0abb6d7d-dac7-4d0e-9e7c-853c170c607a",
+      "published_date": "Mon, 06 Apr 2026 04:00:27 GMT",
+      "scrape_timestamp": "2026-04-06T04:37:59.979183+00:00",
+      "content": "On the streets of small-town Georgia, the president’s base is backing the war as swing voters waver",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why this oil shock is different",
+      "link": "https://www.ft.com/content/2b6afabf-6193-4339-b084-a0fb927a8f1d",
+      "published_date": "Mon, 06 Apr 2026 04:00:40 GMT",
+      "scrape_timestamp": "2026-04-06T04:38:00.179390+00:00",
+      "content": "Governments and central banks are out of policy ammunition to contain the economic fallout",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Let technology explore what the voters really want",
+      "link": "https://www.ft.com/content/4df5c927-00d1-43dc-9731-b1fac4980dca",
+      "published_date": "Mon, 06 Apr 2026 04:00:16 GMT",
+      "scrape_timestamp": "2026-04-06T04:38:00.379581+00:00",
+      "content": "New insights into motivation and strength of feeling could help democracy work better",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU warns capitals against turning energy crunch into fiscal crisis",
+      "link": "https://www.ft.com/content/cee4cbc8-95ff-4c10-83fa-a5bdb1833baf",
+      "published_date": "Mon, 06 Apr 2026 04:00:40 GMT",
+      "scrape_timestamp": "2026-04-06T04:38:00.579791+00:00",
+      "content": "Excessive spending to cushion soaring prices would have ‘serious fiscal implications’, says economy commissioner",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Private equity buyouts slump as AI fears and war dent dealmaking",
+      "link": "https://www.ft.com/content/52ba3545-72ae-4bb6-86dd-1f892adccecf",
+      "published_date": "Mon, 06 Apr 2026 04:00:27 GMT",
+      "scrape_timestamp": "2026-04-06T04:38:00.779984+00:00",
+      "content": "Groups agreed acquisitions worth $172bn in three months to March, a 36 per cent fall from previous quarter",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ukraine’s drones dent Russia’s war-fuelled oil windfall",
+      "link": "https://www.ft.com/content/d49e288f-b74e-44a8-a2f3-ec87f7cb5c27",
+      "published_date": "Mon, 06 Apr 2026 04:00:27 GMT",
+      "scrape_timestamp": "2026-04-06T04:38:00.980181+00:00",
+      "content": "Disrupted exports are adding pressure to markets already reeling from the war with Iran",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China and Europe launch rare joint space mission",
+      "link": "https://www.ft.com/content/a2fd6a17-4e0a-4db8-b0f4-9a1289f220b3",
+      "published_date": "Mon, 06 Apr 2026 04:00:16 GMT",
+      "scrape_timestamp": "2026-04-06T04:38:01.180382+00:00",
+      "content": "Solar-focused project seeks to understand geomagnetic storms that can disrupt terrestrial communications",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-06T01:29:00.672930+00:00",
+  "last_updated": "2026-04-06T04:38:07.356744+00:00",
   "metadata": {
-    "total_runs": 886,
+    "total_runs": 887,
     "sources": [
-      "Financial Times",
-      "Yahoo Finance"
+      "Yahoo Finance",
+      "Financial Times"
     ],
     "retention_days": 7
   }
