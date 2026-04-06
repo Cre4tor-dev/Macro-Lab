@@ -15949,11 +15949,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Eyes on AI! Wedbush Keeps $600 Tesla Stock Price Target despite Q1 Miss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eyes-ai-wedbush-keeps-600-191200232.html",
+      "published_date": "2026-04-04T19:12:00Z",
+      "scrape_timestamp": "2026-04-06T06:25:25.440833+00:00",
+      "content": "Eyes on AI! Wedbush Keeps $600 Tesla Stock Price Target despite Q1 Miss TipRanks Sat, April 4, 2026 at 3:12 PM EDT 2 min read TSLA Shares of Tesla (TSLA) dropped 5.42% on Thursday after the EV maker delivered 358,023 vehicles in Q1, missing Wall Street’s estimate of 370,000. Despite the miss, Wedbush’s five-star-rated analyst Dan Ives maintained his Buy rating and $600 price target on TSLA stock, citing AI push and robotaxi plans as key drivers for 2026. Ives’s price target implies an upside of over 65% from current levels. Easter Sale - 70% Off TipRanks Unlock hedge fund-level data and powerful investing tools for smarter, sharper decisions Discover top-performing stock ideas and upgrade to a portfolio of market leaders with Smart Investor Picks For context, this marks the second consecutive quarter in which Tesla has missed analyst expectations. The company also deployed 8.8 GWh (gigawatt-hour) of energy storage during the quarter, falling short of the Street’s 14.4 GWh estimate. Tesla’s ‘Underwhelming’ Start Reacting to the Q1 numbers, Ives said the weak delivery numbers were not a surprise, given the soft EV demand across regions and Tesla’s shift toward its AI strategy. However, he called Q1 deliveries an “underwhelming” start to the year. He noted that Europe remains a significant challenge for Tesla , as the company faces regulatory hurdles in obtaining approval for its Full Self-Driving (FSD) technology. As a result, regional sales are unlikely to recover meaningfully until regulators give the green light—something the firm expects to occur in the first half of 2026. Meanwhile, Ives highlighted that China was a strong performer, with Tesla’s deliveries rising 35% year over year in the first two months of 2026. Ives further stated that Tesla’s long-term strategy is focused on building steady revenue from AI and robotics . It plans to invest about $20 billion in new factories for its Cybercab, Optimus robot, battery production, and expanding AI computing capacity. Is TSLA Stock a Buy? According to TipRanks, TSLA stock has received a Hold consensus rating, with 13 Buys, 11 Holds, and seven Sells assigned in the last three months. The average price target for Tesla shares is $394.36, suggesting a potential upside of 9.36% from the current level. Disclaimer & Disclosure Report an Issue Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-06T04:38:07.356744+00:00",
+  "last_updated": "2026-04-06T06:26:00.735723+00:00",
   "metadata": {
-    "total_runs": 887,
+    "total_runs": 888,
     "sources": [
       "Yahoo Finance",
       "Financial Times"
