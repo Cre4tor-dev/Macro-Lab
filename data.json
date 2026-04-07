@@ -1,17 +1,6 @@
 {
   "articles": [
     {
-      "source": "Financial Times",
-      "title": "Inflation worries become growth worries",
-      "link": "https://www.ft.com/content/61167460-cc96-48f9-bee4-d454220876a1",
-      "published_date": "Tue, 31 Mar 2026 06:30:08 GMT",
-      "scrape_timestamp": "2026-03-31T08:03:00.376119+00:00",
-      "content": "A longer war makes long bonds interesting",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Alltrista Plastics to expand Missouri facility",
       "link": "https://finance.yahoo.com/sectors/healthcare/articles/alltrista-plastics-expand-missouri-facility-094520731.html",
@@ -15168,14 +15157,146 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says Some Companies “Really Struggle for Respect” and “That’s the Case With Levi’s”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-companies-really-032308705.html",
+      "published_date": "2026-04-06T03:23:08Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709119+00:00",
+      "content": "Jim Cramer Says Some Companies “Really Struggle for Respect” and “That’s the Case With Levi’s” Syeda Seirut Javed Sun, April 5, 2026 at 10:23 PM CDT 2 min read LEVI XOM LMT Levi Strauss & Co. (NYSE: LEVI ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . Cramer noted that the stock is not moving even though the company “keeps delivering.” He said: Some companies, they really struggle for respect. I think that’s the case with Levi’s, which keeps delivering, yet the stock stays at around 19 bucks as if they’re doing nothing right, which couldn’t be further from the truth. The company reports next Tuesday after the close, and I think that once again, CEO Michelle Gass will put up more than respectable earnings. I just wonder if it’ll matter. 3% yield, good growth. I don’t understand why someone doesn’t just create an apparel colossus around it. A technical stock market chart. Photo by Energepic from Pexels Levi Strauss & Co. (NYSE:LEVI) offers apparel and footwear for all ages under brands like Levi’s, Denizen, and Beyond Yoga. Cramer discussed the company’s previous earnings during the January 28 episode, as he remarked: After the close, we got the latest numbers from Levi Strauss, the iconic denim maker. They delivered a modest top and bottom line beat. However, the full-year earnings forecast was a little light, even as the revenue forecast was solid… This is a company that’s had a lot of success broadening out its selection of merchandise beyond just jeans. But Levi’s also suffered from President Trump’s trade war. The last time they reported three months ago, the stock had soared going into the quarter. Sold off hard. It’s been struggling to find its footing ever since, as has almost every single apparel company. While we acknowledge the potential of LEVI as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says Delta Air “Truly Distinguished Itself as One of the Most Reliable Earners in a Very Volatile Group”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-delta-air-032319102.html",
+      "published_date": "2026-04-06T03:23:19Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709127+00:00",
+      "content": "Jim Cramer Says Delta Air “Truly Distinguished Itself as One of the Most Reliable Earners in a Very Volatile Group” Syeda Seirut Javed Sun, April 5, 2026 at 10:23 PM CDT 2 min read DAL XOM LMT Delta Air Lines, Inc. (NYSE: DAL ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . Cramer praised the company’s CEO, as he remarked: Wednesday, before the market opens, Delta reports, and this airline titan has truly distinguished itself as one of the most reliable earners in a very volatile group. Its excellent CEO Ed Bastian helped ignite an airline rally when he discussed his business with Phil LeBeau and spoke about persistent demand. Last night’s speech by the President knocked the airlines down, as you’d expect. A war that goes on until the end of the month will hurt the numbers. Photo by Artem Podrez on Pexels Delta Air Lines, Inc. (NYSE:DAL) provides passenger and cargo air transportation. The company operates a large fleet and global network across major hubs and also offers aircraft maintenance, repair, and overhaul services. Cramer mentioned the company during the March 17 episode and commented: The anomalies are stark. This morning, Ed Bastian, the CEO of Delta Air Lines, came on CNBC. Now, when I saw Phil LeBeau standing next to him, I could see a wrecking ball coming right at the beleaguered airline stocks. You’d think $95 oil would be lethal to the entire industry, right? Turns out Delta’s putting up some incredibly strong numbers, both for regular travel and business travel. It was an extraordinary display of real-world positives clashing with Wall Street negatives, and today, the real world won. While we acknowledge the potential of DAL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Constellation Brands: “I’m Excited About the Possibilities Here”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-constellation-brands-m-032330121.html",
+      "published_date": "2026-04-06T03:23:30Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709134+00:00",
+      "content": "Jim Cramer on Constellation Brands: “I’m Excited About the Possibilities Here” Syeda Seirut Javed Sun, April 5, 2026 at 10:23 PM CDT 1 min read STZ XOM LMT Constellation Brands, Inc. (NYSE: STZ ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . Cramer showed optimism around the company’s new CEO, as he said: After the close, we hear from a very special company, Constellation Brands, and I’m excited about the possibilities here. You see, the company has a new CEO, Nick Fink… And I think he can revitalize the business that has the top beer in the country, Modelo. We all know that liquor’s been challenged, right? GLP-1s, people who care more about how they look in their twenties, but I’m beginning to believe that there’s a subtle turn in beer and a definite turn in the ready-to-drink cocktail market. If that’s true, Constellation’s the one you want to be in. STZ, I think it might be worth even buying ahead. Pixabay/Public Domain Constellation Brands, Inc. (NYSE:STZ) sells beer, wine, and spirits, with beer brands such as Corona, Modelo, Pacifico, and Victoria. Its portfolio also includes wine and spirits labels, including Robert Mondavi Winery, Kim Crawford, The Prisoner Wine Company, and SVEDKA. While we acknowledge the potential of STZ as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Home Depot: “I Regard It Now as One of the Most Problematic Positions in My Portfolio”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-regard-032344787.html",
+      "published_date": "2026-04-06T03:23:44Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709148+00:00",
+      "content": "Jim Cramer on Home Depot: “I Regard It Now as One of the Most Problematic Positions in My Portfolio” Syeda Seirut Javed Sun, April 5, 2026 at 10:23 PM CDT 1 min read HD NKE XOM LMT The Home Depot, Inc. (NYSE: HD ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . When a caller inquired about the stock, Cramer commented: Okay, we were very disappointed in the action in Home Depot today. Finished down eight, it hit its 52-week low. The company yields almost 3%. I turned to Jeff Marks, who works with me for my Charitable Trust, I said maybe we should buy some, but we’re a little beaten down on it. We didn’t want to buy it anymore right now. We need to see mortgage rates lower, and we don’t have them yet. I’m not giving up on Home Depot, but there are issues involving ICE, too, that really hurt them. But I do want to say that I regard it now as one of the most problematic positions in my portfolio, along with Nike. Those are the two I’m most worried about. Photo by jason briscoe on Unsplash The Home Depot, Inc. (NYSE:HD) is a home improvement retailer that sells tools, building materials, and decor. It also provides installation and equipment rental services. While we acknowledge the potential of HD as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Notes That He Prefers Chevron Over Exxon",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-prefers-chevron-032356847.html",
+      "published_date": "2026-04-06T03:23:56Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709158+00:00",
+      "content": "Jim Cramer Notes That He Prefers Chevron Over Exxon Syeda Seirut Javed Sun, April 5, 2026 at 10:23 PM CDT 2 min read XOM CVX LMT Exxon Mobil Corporation (NYSE: XOM ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . Answering a caller’s query about the stock, Cramer said: Well, look, I think, you know, first of all, Chevron I like more than Exxon. I think they’re more forward-looking. So I would not, I don’t want you to cash out of Exxon for Chevron, but I’m just telling everybody else that’s the case. I think that, I’m going to speak as a portfolio manager myself for my Charitable Trust. I sold my oil, and it was a mistake, and it was clearly a mistake because we forget how important oil is to our country. We spoke to ONEOK today, just shows you the value of it. I think you should have one. I’ve been trying to go back and forth with Jeff Marks about what to do. I would encourage you to stay in Exxon if you, if someone’s watching and listening and they don’t own one, go for Chevron. These are known as E&P plays, and I think you just own it, and take it from me as someone who wishes that he had not sold his one oil. It’s really good to have one. To be up 34% year to date is great… Just hold on. And new people who are thinking, wow, Jim really likes to own an oil, the oil that I like to own is Chevron. Photo by Raymond Kotewicz on Unsplash Exxon Mobil Corporation (NYSE:XOM) is an oil and natural gas exploration and production company that also manufactures fuels, petrochemicals, and specialty products. While we acknowledge the potential of XOM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Discusses Newmont Corporation and the Importance of Owning Gold",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-newmont-corporation-032408699.html",
+      "published_date": "2026-04-06T03:24:08Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709167+00:00",
+      "content": "Jim Cramer Discusses Newmont Corporation and the Importance of Owning Gold Syeda Seirut Javed Sun, April 5, 2026 at 10:24 PM CDT 2 min read NEM XOM LMT Newmont Corporation (NYSE: NEM ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . Inquiring about the stock, a caller asked if the company’s CEO, Natascha Viljoen, could be invited to Mad Money as a guest. Cramer replied: She can come on anytime she wants. I like Newmont. Do I know it as well as Agnico? No. Would I like to hear about why it’s better than Agnico or really great? Absolutely. Newmont has really been quiet other than in very, very, very many years ago when I spoke to them. And I do think that, look, a high-quality gold miner, I like Agnico just because I feel like that I’ve known them forever, and they’re so consistent. But I would love to have Natascha to come on the show. Owning a gold stock is, is very important, and I think that owning gold is incredibly important. So let’s, for those who listen to me, again, we’re talking about for everybody… I prefer to own the actual gold, and then I prefer the own gold miners. We get our gold from Costco. It’s just been something we accumulate. Newmont Corporation (NYSE:NEM) is a mining company that explores for and produces gold, as well as copper, silver, zinc, lead, and other metals. While we acknowledge the potential of NEM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Lockheed Martin: “That’s the One I Would Tell You to Buy”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lockheed-martin-one-032420451.html",
+      "published_date": "2026-04-06T03:24:20Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709175+00:00",
+      "content": "Jim Cramer on Lockheed Martin: “That’s the One I Would Tell You to Buy” Syeda Seirut Javed Sun, April 5, 2026 at 10:24 PM CDT 2 min read LMT BA XOM Lockheed Martin Corporation (NYSE: LMT ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . Noting that aerospace and defense stocks have been going down recently, a caller asked for Cramer’s recommendation, and he said: Okay, it’s easy, Lockheed Martin. Jim Taiclet does a great job. The fact that the stock is down in the last few weeks is actually a terrific opportunity. I like that very much. I also like Boeing. Boeing I own for my Charitable Trust… I feel badly that we don’t own an oil, but we do own Boeing, and I think that’s just a terrific, terrific situation. A lot of things have changed in the world since Feb 28. The idea of owning outright military, a defense stock, they have not been that great until now. The President obviously wants a bigger defense budget. Lockheed gets more than, I think Lockheed does a great job, and Taiclet does a terrific job. And that is the straightforward one to own, and that’s the one I would tell you to buy. Stock market data. Photo by Alesia Kozik Lockheed Martin Corporation (NYSE:LMT) designs and maintains aircraft, missile systems, and helicopters for government and military use. The company also produces satellites, naval vessels, and cybersecurity tools. While we acknowledge the potential of LMT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Janus Living: “It’s a Leap of Faith That I’d Be Very Comfortable Making”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-janus-living-leap-032447056.html",
+      "published_date": "2026-04-06T03:24:47Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709189+00:00",
+      "content": "Jim Cramer on Janus Living: “It’s a Leap of Faith That I’d Be Very Comfortable Making” Syeda Seirut Javed Sun, April 5, 2026 at 10:24 PM CDT 2 min read JAN XOM LMT Janus Living, Inc. (NYSE: JAN ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . Cramer showed a bullish sentiment toward the stock, as he commented: So two weeks ago, we got this nice little IPO that’s done surprisingly well in the face of a choppy market. I’m talking about Janus Living. It’s a real estate investment trust that owns senior housing properties, which came public after being spun off by Healthpeak Properties. That’s a broader healthcare REIT… On its first day of trading, March 20th, the stock opened up 18%. Since then, it’s basically been trading sideways, which I consider a win, given how volatile the averages have been, right, since then. But maybe that shouldn’t come as a surprise. Even though the IPO market’s been disappointing so far this year, the senior living plays have long been winners in our market… How about the valuation? Okay, there’s no analyst coverage of Janus yet, so we don’t have any 2026 estimates for the company. But looking at last year’s numbers, Janus had adjusted funds from operations, the real estate and trust equivalent of earnings, of about $170 million, and with a market capitalization of $6.3 billion, it’s trading at roughly 37 times last year’s numbers… Photo by Adam Nowakowski on Unsplash How about the dividend? It looks like Janus will be paying 57 cents a share. That works out to be nearly 2.5% yield, on par with Ventas and roughly a hundred basis points above Welltower… But the bottom line: Deb, hold your ears, Janus Living does look pretty darn good, too. It’s much smaller than the others, so it has the potential for much faster growth, too. I also like that it’s a real pure play on senior housing… Since this is a newer story, Janus is technically riskier. It’s more of a leap of faith at this point, but it’s a leap of faith that I’d be very comfortable making. Janus Living, Inc. (NYSE:JAN) is a real estate investment trust focused exclusively on owning and operating senior housing communities. While we acknowledge the potential of JAN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Ventas, Inc.: “It’s as Attractive Today as It’s Been at Any Point Over the Past Couple of Decades”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ventas-inc-attractive-032509198.html",
+      "published_date": "2026-04-06T03:25:09Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709196+00:00",
+      "content": "Jim Cramer on Ventas, Inc.: “It’s as Attractive Today as It’s Been at Any Point Over the Past Couple of Decades” Syeda Seirut Javed Sun, April 5, 2026 at 10:25 PM CDT 3 min read VTR WELL XOM LMT Ventas, Inc. (NYSE: VTR ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . Cramer highlighted the massive gains in the stock over the years, as he stated: Regular viewers know that I am a huge fan of Ventas run by the indomitable Deb Cafaro. Since the beginning of 2000, her first full year as CEO, the stock’s up more than 2,100%, and including dividends, has given you a total return north of 9,200%. Over the past three years, Ventas has given you 112% total return. Who said you can’t make a lot of money in stocks? And it doesn’t all have to be in the hyperscalers. And Ventas is the number two player in the senior living space. The big dog, Welltower, another REIT, has given you a 202% total return over the past three years… Ventas and Welltower, they traded at 30 times last year’s numbers and 46 times last year’s numbers, respectively… If we look at 2026 numbers using the consensus estimates for Ventas and Welltower, they’re trading at 26 times and 37 times funds from operations. Clearly, investors are willing to pay a higher multiple to own something in the senior living space… In the end, the senior housing market is on fire right now. Baby boomers are getting older yet there’s been very little new building as Deb Cafaro from Ventas always shares with us, which means that within a few years, we’re likely to see a senior housing shortage, hence the strength of Ventas and Welltower and the success of the Janus Living IPO. But which one should you invest in? I can’t dismiss the fact that Welltower has been the big winner here in recent years. They’ve been aggressive in their acquisitions and have worked very, very well for them so far. But at this point, Welltower is the most expensive stock in the group with the lowest dividend yield. I can’t blame anyone for wanting to stick with Ventas… Ventas is the one that brought us a nearly 20% average annual gain for over two and a half decades. It’s also the cheapest of the bunch with the best yield, 2.5%. I love this great company that Deb Cafaro has built, and it’s as attractive today as it’s been at any point over the past couple of decades, maybe the most attractive. A laptop and a computer monitor display a detailed stock market technical analysis chart. Photo by Jakub Zerdzicki on Pexels Ventas, Inc. (NYSE:VTR) is a real estate investment trust that owns and manages senior housing communities, outpatient medical buildings, and research centers. While we acknowledge the potential of VTR as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . Story Continues READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Calls Gibraltar Industries a “Boring Company”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-gibraltar-industries-032522167.html",
+      "published_date": "2026-04-06T03:25:22Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709203+00:00",
+      "content": "Jim Cramer Calls Gibraltar Industries a “Boring Company” Syeda Seirut Javed Sun, April 5, 2026 at 10:25 PM CDT 1 min read ROCK XOM LMT Gibraltar Industries, Inc. (NASDAQ: ROCK ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . During the lightning round, when a caller inquired about the stock, Cramer said: Yeah, I mean, boring company, but there’s nothing the matter with boring. The problem is that if I’m going to be bored, I want to have a yield. If I’m going to be bored, I want to have some growth. If I’m going to be bored, I want an up stock. You don’t have any of those right there. Photo by Adam Nowakowski on Unsplash Gibraltar Industries, Inc. (NASDAQ:ROCK) manufactures for the residential, agtech, and infrastructure markets. The company products include building materials, greenhouse solutions, and structural components such as expansion joints and bridge cable protection systems. While we acknowledge the potential of ROCK as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Discusses Why He Refuses to Cut and Run on SoFi Technologies",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-why-refuses-032537033.html",
+      "published_date": "2026-04-06T03:25:37Z",
+      "scrape_timestamp": "2026-04-07T08:06:11.709215+00:00",
+      "content": "Jim Cramer Discusses Why He Refuses to Cut and Run on SoFi Technologies Syeda Seirut Javed Sun, April 5, 2026 at 10:25 PM CDT 1 min read SOFI XOM LMT SoFi Technologies, Inc. (NASDAQ: SOFI ) is among Jim Cramer’s latest stock calls as he covered Exxon, Lockheed, and others . A caller asked if the stock is a buy, sell, or hold. In response, Cramer said: I saw it at $15 today. I said, how the heck could it be that low? I remember it was at $30, people liked it. At $15, how am I going to cut and run? It’s good. I did not like it at that price, but other people did. A technical stock market chart. Photo by Energepic from Pexels SoFi Technologies, Inc. (NASDAQ:SOFI) provides lending, banking, investment, and insurance services through digital platforms. The company offers personal, student, and home loans, cash management, investment tools, credit cards, and financial wellness products. A caller asked about the stock during the March 24 episode, and Cramer replied: I gotta tell you, there’s a controversy about SoFi, but I’ve gone point by point about what they’re up to and what they’ve done. I find that the bulls are right. I find that Anthony Noto is right. I’ve known Anthony Noto since 1998. I never question his character, and I’m a believer in SoFi. While we acknowledge the potential of SOFI as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bill Ackman’s Pershing Square offers €55bn to buy Universal Music Group",
+      "link": "https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b",
+      "published_date": "Tue, 07 Apr 2026 07:17:42 GMT",
+      "scrape_timestamp": "2026-04-07T08:06:42.148740+00:00",
+      "content": "Proposed deal would combine world’s largest music group with a blank-cheque company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-07T06:14:35.489240+00:00",
+  "last_updated": "2026-04-07T08:06:48.253892+00:00",
   "metadata": {
-    "total_runs": 905,
+    "total_runs": 906,
     "sources": [
-      "Yahoo Finance",
-      "Financial Times"
+      "Financial Times",
+      "Yahoo Finance"
     ],
     "retention_days": 7
   }
