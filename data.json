@@ -2,105 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Iran’s hackers go to war",
-      "link": "https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539",
-      "published_date": "Tue, 31 Mar 2026 04:00:09 GMT",
-      "scrape_timestamp": "2026-03-31T04:29:47.540734+00:00",
-      "content": "Tehran’s cyber operatives have sought to sow fear and hoover up intelligence in series of attacks in Israel and the US",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why do politicians want AI to go faster?",
-      "link": "https://www.ft.com/content/1ef171a4-7068-4b0f-b8bd-8183c5d760b5",
-      "published_date": "Tue, 31 Mar 2026 04:00:31 GMT",
-      "scrape_timestamp": "2026-03-31T04:29:47.740939+00:00",
-      "content": "Bullish rhetoric about ‘unleashing’ the technology is badly out of touch with the sensibilities of many voters",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "In trade’s ‘law of the jungle’, the winners are clear",
-      "link": "https://www.ft.com/content/24894a5a-abf4-43be-a5c1-d54acd76cf13",
-      "published_date": "Tue, 31 Mar 2026 04:00:17 GMT",
-      "scrape_timestamp": "2026-03-31T04:29:47.941136+00:00",
-      "content": "It is China and the US that prosper when power sets the terms for global commerce",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Pump anxiety’ from soaring fuel prices prompts surge in interest in EVs",
-      "link": "https://www.ft.com/content/870fd3af-1343-420b-ac92-9050b169a8a1",
-      "published_date": "Tue, 31 Mar 2026 04:00:18 GMT",
-      "scrape_timestamp": "2026-03-31T04:29:48.341536+00:00",
-      "content": "Increased costs since outbreak of Middle East conflict prompt more test drives and advert views",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Foreign central banks sell US Treasuries in wake of Iran war",
-      "link": "https://www.ft.com/content/1c4189e9-36af-4779-b862-d868cf2aff76",
-      "published_date": "Tue, 31 Mar 2026 04:00:31 GMT",
-      "scrape_timestamp": "2026-03-31T04:29:48.541733+00:00",
-      "content": "International official holdings at New York Federal Reserve fall to lowest level since 2012",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US trade representative slams WTO after ecommerce tariff talks fail",
-      "link": "https://www.ft.com/content/342ffa35-719b-4fa7-9232-bd0aee966d1a",
-      "published_date": "Tue, 31 Mar 2026 02:05:32 GMT",
-      "scrape_timestamp": "2026-03-31T04:29:48.741958+00:00",
-      "content": "Jamieson Greer says Washington will work ‘outside’ Geneva-based body to extend freeze on levies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Who is Péter Magyar, Orbán’s nemesis?",
-      "link": "https://www.ft.com/content/54d999c3-a9f0-40ce-9c66-245c9b20950a",
-      "published_date": "Tue, 31 Mar 2026 04:00:09 GMT",
-      "scrape_timestamp": "2026-03-31T06:11:35.171081+00:00",
-      "content": "Ally-turned-foe close to victory in April 12 election, potentially unseating Hungary’s long-serving leader",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Swiss lawmakers signal compromise on $22bn UBS capital plan",
-      "link": "https://www.ft.com/content/727eec9f-8548-45ff-8b74-88f2d5efb685",
-      "published_date": "Tue, 31 Mar 2026 04:00:18 GMT",
-      "scrape_timestamp": "2026-03-31T06:11:35.371303+00:00",
-      "content": "Decision could be published in April with foreign capital requirements component moving to parliament for debate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Cracks appear in US-UK security co-operation after Trump-Starmer tensions",
-      "link": "https://www.ft.com/content/7b964e41-4f79-4607-af25-1ee637ba6f12",
-      "published_date": "Tue, 31 Mar 2026 04:00:31 GMT",
-      "scrape_timestamp": "2026-03-31T06:11:35.971969+00:00",
-      "content": "Differences over war in Iran are hitting working relationships between diplomats, officials and military personnel",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Inflation worries become growth worries",
       "link": "https://www.ft.com/content/61167460-cc96-48f9-bee4-d454220876a1",
       "published_date": "Tue, 31 Mar 2026 06:30:08 GMT",
@@ -15157,11 +15058,99 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "OPEC+ Makes Symbolic Oil Hike, Sees Long Supply Hit From War",
+      "link": "https://finance.yahoo.com/news/opec-plans-symbolic-oil-quota-101905778.html",
+      "published_date": "2026-04-05T16:57:55Z",
+      "scrape_timestamp": "2026-04-07T04:26:10.702463+00:00",
+      "content": "OPEC+ Makes Symbolic Oil Hike, Sees Long Supply Hit From War Fiona MacDonald, Grant Smith and Salma El Wardany Sun, April 5, 2026 at 9:57 AM PDT 4 min read (Bloomberg) -- OPEC+ warned that damage to Middle East energy assets will have a prolonged impact on oil supply even after the Iran war ends, as it approved a symbolic increase in output quotas for next month. “Restoring damaged energy assets to full capacity is both costly and takes a long time,” the group’s ministerial monitoring committee said in a statement after meeting on Sunday. Any action that jeopardizes security of supply, whether that’s an attack on infrastructure or disruption of export routes, increases market volatility and weakens OPEC+’s efforts, it said. Key producers led by Saudi Arabia and Russia agreed to increase targets for May by about 206,000 barrels a day during a video conference. With oil exports from the Persian Gulf throttled by the war and top regional producers forced to curtail supplies, such a move by the group is theoretical. Yet it may signal their intention to revive output once hostilities ease. Oil prices have been roiled by five weeks of conflict, climbing to almost $120 a barrel last month as key Gulf energy assets came under attack and Iran effectively closed the critical Strait of Hormuz, creating what the International Energy Agency called the biggest supply disruption in the history of the market. “The real story is not OPEC+ policy, it is the Strait of Hormuz,” said Jorge Leon, head of geopolitical analysis at Rystad Energy. “In a market where up to a fifth of global oil flows through Hormuz, disruptions there largely outweigh any incremental increase the group can announce.” Benchmark Brent futures settled near $109 last week after US President Donald Trump vowed an escalation in the war, which could prolong disruptions to energy flows through the vital waterway. He subsequently threatened to unleash “all hell” on Iran, saying the time left on a 10-day deadline for it to make a peace deal with the US was running out. OPEC Actions Before the conflict erupted, eight major nations from the Organization of the Petroleum Exporting Countries and its partners had been gradually restoring supply halted back in 2023. They held production steady for the first three months of this year, then on March 1 — a day after the initial US and Israeli strikes on Iran — they agreed to a 206,000-barrel-a-day increase for April. “We will monitor the situation and take all necessary measures to balance the market,” Russian Deputy Prime Minister Alexander Novak said in an interview with state television channel Rossiya 24 on Sunday. “The market is clearly unbalanced. This has a significant impact on demand globally, not only in the energy markets, but also in the economy and the final supply.” Story Continues Producers around the Persian Gulf have cut oil output by about 10 million barrels a day, equivalent to roughly 10% of global supplies, the IEA said in mid-March. With Hormuz largely off-limits, Saudi Arabia has rerouted some shipments to a terminal on its Red Sea coast, while the United Arab Emirates has ramped up exports from a port at Fujairah. The OPEC+ monitoring committee commended those efforts, saying they contributed to reducing market volatility. Nevertheless, those diversions can’t make up for the vast quantities of oil normally shipped through Hormuz where, despite tentative signs of a slight pickup in recent days, traffic remains at a trickle. Tehran is exerting considerable control over the chokepoint, setting up a tolling system and giving preferential treatment to vessels from countries it deems friendly. HORMUZ TRACKER: Iraq-Linked Oil Tanker Exits Hormuz Via Iran The OPEC+ producers discussed the “closure of certain maritime transportation routes” on Sunday, Russia’s Novak said after the meeting. “That has a significant impact on volatility.” Russia itself is also facing supply disruptions, with Ukraine continuing to target the country’s energy infrastructure and major export terminals. With the 206,000-barrel increment for May now ratified, OPEC+ will have formally restored roughly half of a second tranche of production shuttered since 2023, leaving members with another 827,000 a day of these layers left to restart. The wider 22-nation OPEC+ coalition has, at least on paper, another set of output curbs dating back to 2022. --With assistance from Ben Bartenstein, Nayla Razzouk and Olga Tanas. (Updates with alternative export routes in ninth paragraph, further Novak comment in 12th.) More stories like this are available on bloomberg.com ©2026 Bloomberg L.P. Terms and Privacy Policy CA Privacy Notice Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "JPMorgan identifies a massive investment opportunity",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/jpmorgan-identifies-massive-investment-opportunity-164700313.html",
+      "published_date": "2026-04-05T16:47:00Z",
+      "scrape_timestamp": "2026-04-07T04:26:10.752648+00:00",
+      "content": "JPMorgan identifies a massive investment opportunity Hillary Remy Sun, April 5, 2026 at 9:47 AM PDT 5 min read JPM The wires running beneath American cities and strung between utility poles across the country are, on average, nearly 60 years old. JPMorgan thinks that's a problem the whole economy should be watching closely. The bank published a report on March 25 calling the aging U.S. power grid a \"national security risk,\" warning that decades-old infrastructure is increasingly vulnerable to extreme weather, cyberattacks, and geopolitical threats, according to JPMorgan . Sarah Kapnick, the bank's global head of climate advisory, authored the report. The warning comes alongside a forecast that makes the case for investment. Globally, $5.8 trillion is expected to be spent on grid upgrades between 2026 and 2035, with the U.S. alone accounting for roughly $1 trillion of that total, according to JPMorgan . Why JPMorgan is raising the alarm on electric-grid vulnerability Much of the U.S. electric grid was built in the 1960s and 1970s, making it close to 60 years old in many areas. Assets of that age need maintenance and replacement, and external threats, from climate change to cyberattacks to geopolitical conflict, add pressure that infrastructure designed decades ago was never built to handle. \"Grid resilience efforts are not just defensive infrastructure maintenance; they also increasingly underpin economic development, industrial competitiveness, and national security,\" Kapnick wrote, as JPMorgan shared. Related: JPMorgan has a surprising message about markets and war The timing of the warning is not coincidental. Global power demand is projected to grow at a 3.6% compound annual growth rate between 2026 and 2030, a pace roughly 50% faster than the previous decade. AI data centers are projected to drive 465 terawatt hours of demand growth over the next five years, representing around 9% of total demand growth globally. The AI data-center crunch The report highlights a growing mismatch between what AI companies want to build and what the grid can actually support. The U.S. Department of Energy projects that AI data centers could require an additional 100 gigawatts of peak capacity by 2030. The strain is already visible. Plans for U.S. data-center additions fell by half in the fourth quarter of 2025 compared to the third quarter, in part because the grid is nearing its limit, according to Wood Mackenzie . Projected capital spending growth by the largest grid developers is also set to slow in 2026 for the first time since 2023, falling to $94 billion, or 58% less than 2025. More Wall Street Billionaire Dalio sends 2-words on Fed pick Warsh Top analyst bets these stocks will boost your portfolio in 2026 Bank of America sends quiet warning to stock market investors Story Continues The reliability concerns are not limited to Wall Street analysts. Mark Christie, director of William and Mary Law School's Center for Energy Law, offered a blunt summary of the situation. \"We are headed for a reliability crisis, except now the crisis is not over the horizon, but across the street,\" he said, as The Daily Upside reported. The scale of power-grid investment required JPMorgan's report maps out a striking set of numbers. Global grid spending rose from $300 billion in 2020 to $480 billion in 2025. The bank forecasts $5.8 trillion in cumulative global grid investment between 2026 and 2035, with roughly $700 billion of that earmarked for digital grid technology including smart meters, analytics, cybersecurity, and automation, according to JPMorgan . In the U.S., the $1 trillion expected over the next decade is split roughly 37% toward transmission and 63% toward distribution. U.S. private capital flowing into the grid has already been accelerating, growing from $3.2 billion in 2021 to $6.6 billion in 2025. Europe is expected to invest approximately $1.1 trillion over the same period, while Asia Pacific is projected to invest around $2.6 trillion, with China accounting for more than two-thirds of that. JPMorgan's grid investment forecast by region, 2026-2035: Global total: $5.8 trillion, including $700 billion in digital grid technology United States: About $1 trillion, split between 37% transmission and 63% distribution Europe: About $1.1 trillion Asia Pacific: Approximately $2.6 trillion, with China representing more than two-thirds Plans for U.S. data-center additions fell by half in the fourth quarter of 2025 compared to the third quarter.Raedle/Getty Images · Raedle&sol;Getty Images JPMorgan's own stake in grid resilience The bank is not just issuing a warning. In October 2025, JPMorgan unveiled a Security and Resiliency Initiative targeting $1.5 trillion in financing and investments across industries critical to national security over the next decade, committing $10 billion of its own capital. Grid resilience was named as one of the initiative's priorities alongside AI, defense technology, pharmaceutical supply chains, and access to critical minerals, reported The Daily Upside . In November 2025, JPMorgan acted as joint bookrunner on a $5 billion financing package for VoltaGrid, a Texas-based company that makes natural gas-powered microgrids for AI companies, reported The Daily Upside . How the energy market is responding Grid-sector stocks have been outperforming a struggling broader market. A key grid sector ETF is up more than 8% year to date. GE Vernova, the energy equipment manufacturer, has risen 39%. Duke Energy is up 8.7% and American Electric Power is up 11.7%, reported The Daily Upside . The S&P 500 is down 4.2% over the same period. The shift is also visible in how utility companies are talking about themselves. The frequency of resilience-related keywords in S&P 1500 utilities firms' earnings and investor meeting transcripts has increased by 70% since 2016, according to JPMorgan , citing FactSet data. The grid has spent decades as one of the least glamorous corners of infrastructure finance. JPMorgan's report suggests that era may be ending, whether investors are ready for it or not. Related: JPMorgan resets price target on this AI dividend stock This story was originally published by TheStreet on Apr 5, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here. Terms and Privacy Policy CA Privacy Notice Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US counts cost of equipment destroyed in Iran war",
+      "link": "https://www.ft.com/content/9632cfaf-2ae1-4768-894f-3b7a0ddf1bea",
+      "published_date": "Tue, 07 Apr 2026 04:00:32 GMT",
+      "scrape_timestamp": "2026-04-07T04:26:41.611765+00:00",
+      "content": "Lost aircraft and radars contribute to estimated $500mn daily price tag and leave US exposed elsewhere",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The future of global trade won’t depend on the Strait of Hormuz",
+      "link": "https://www.ft.com/content/2c895663-16d5-4b7a-8c9b-45204c362c84",
+      "published_date": "Tue, 07 Apr 2026 04:00:32 GMT",
+      "scrape_timestamp": "2026-04-07T04:26:41.812024+00:00",
+      "content": "A new infrastructure is being built rapidly to avoid the strategic chokepoint and ensure global energy and food security",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The internet is deciding what to forget",
+      "link": "https://www.ft.com/content/e1c3fd8e-b7c7-4582-a63b-f7b1a2f2bc93",
+      "published_date": "Tue, 07 Apr 2026 04:00:45 GMT",
+      "scrape_timestamp": "2026-04-07T04:26:42.012229+00:00",
+      "content": "Do digital bananas in Hawaiian shirts chatting up pineapples need to be saved for posterity? Probably not",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Jeff Bezos’s new lab hires xAI co-founder from OpenAI",
+      "link": "https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a",
+      "published_date": "Tue, 07 Apr 2026 04:00:45 GMT",
+      "scrape_timestamp": "2026-04-07T04:26:42.212441+00:00",
+      "content": "Kyle Kosic joins Project Prometheus, the secretive start-up working on systems that can understand the physical world",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Top record labels and start-up Suno hit impasse in AI-generated music talks",
+      "link": "https://www.ft.com/content/b066a226-4871-4669-97a8-f9617cdbf48b",
+      "published_date": "Tue, 07 Apr 2026 04:00:45 GMT",
+      "scrape_timestamp": "2026-04-07T04:26:42.612894+00:00",
+      "content": "One executive says there is ‘no path’ towards licensing deal under current proposal",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "JPMorgan to build Canary Wharf’s tallest tower after City airport approval",
+      "link": "https://www.ft.com/content/e0734db0-f8af-4157-9576-d8b52329629f",
+      "published_date": "Tue, 07 Apr 2026 04:00:32 GMT",
+      "scrape_timestamp": "2026-04-07T04:26:42.813088+00:00",
+      "content": "Bank wins clearance for 265-metre skyscraper after talks over low-flying aircraft",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-07T01:26:54.784492+00:00",
+  "last_updated": "2026-04-07T04:26:48.994325+00:00",
   "metadata": {
-    "total_runs": 903,
+    "total_runs": 904,
     "sources": [
       "Financial Times",
       "Yahoo Finance"
