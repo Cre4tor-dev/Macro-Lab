@@ -2,171 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US rescues second airman from fighter jet shot down in Iran",
-      "link": "https://www.ft.com/content/764a9cda-eda0-4332-a4ce-6a26afaf7597",
-      "published_date": "Sun, 05 Apr 2026 04:06:58 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:20.877005+00:00",
-      "content": "Recovery follows combat search and rescue mission",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Stagflation fears demolish confidence in UK housing",
-      "link": "https://www.ft.com/content/5b44f1c2-604d-4886-b9f2-8a18952b985f",
-      "published_date": "Sun, 05 Apr 2026 04:00:17 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:21.607129+00:00",
-      "content": "Shares across the sector are taking a beating",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How we gave up on forgiveness",
-      "link": "https://www.ft.com/content/d76c5aca-249f-4c5d-acc6-dac93aa7a117",
-      "published_date": "Sun, 05 Apr 2026 04:00:17 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:21.807309+00:00",
-      "content": "What was once seen as a virtue is now viewed as a moral weakness — leaving a society mired in toxicity",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Military briefing: How Iran keeps firing missiles under bombardment",
-      "link": "https://www.ft.com/content/bfa38b06-2877-48d2-857b-7f90d405159a",
-      "published_date": "Sun, 05 Apr 2026 04:00:13 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:22.007506+00:00",
-      "content": "Tehran is still launching retaliatory strikes on Israel and Gulf states",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "400% gains for AI stocks help drive Hong Kong IPOs to 5-year high",
-      "link": "https://www.ft.com/content/77736111-3975-41a7-a0a3-d9d482ea2679",
-      "published_date": "Sun, 05 Apr 2026 04:00:13 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:22.207681+00:00",
-      "content": "Deal backlogs and stricter quality controls are pushing some tech firms back to mainland Chinese listings",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Pharma just ‘scratching the surface’ of weight-loss drug market",
-      "link": "https://www.ft.com/content/919390a5-a9ec-4f18-b764-df308ec51819",
-      "published_date": "Sun, 05 Apr 2026 04:00:13 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:22.407863+00:00",
-      "content": "Novo Nordisk chief estimates industry reaching only 15% of potential customers at most",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK courts Anthropic to expand in London after US defence clash",
-      "link": "https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5",
-      "published_date": "Sun, 05 Apr 2026 04:00:12 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:22.608045+00:00",
-      "content": "Keir Starmer’s government steps up efforts to get American AI start-up to grow its presence in Britain",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Zimbabwe’s ‘Crocodile’ leader eyes role as president for life",
-      "link": "https://www.ft.com/content/8b0c2a98-2bce-4557-bf5d-20b144ee54f6",
-      "published_date": "Sun, 05 Apr 2026 04:00:12 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:22.808207+00:00",
-      "content": "Emmerson Mnangagwa plans to amend constitution to extend tenure to 2030 — and possibly beyond",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Campaign to curb cars in Berlin sparks uproar ahead of election",
-      "link": "https://www.ft.com/content/8ac85c84-7947-4ed0-8c41-12733b71c88d",
-      "published_date": "Sun, 05 Apr 2026 04:00:12 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:23.008372+00:00",
-      "content": "Conservatives and far right are opposing a citizens’ initiative to restrict traffic in the German capital",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Renters’ Rights Act brings big changes to UK property market",
-      "link": "https://www.ft.com/content/a06b749f-b914-49fe-9dcb-6b70aa3e3cc6",
-      "published_date": "Sun, 05 Apr 2026 04:00:12 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:23.208541+00:00",
-      "content": "New rules aim to provide safety and security for tenants, but landlords are anxious",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US payments group with $20bn market value aims to boost UK truck electrification",
-      "link": "https://www.ft.com/content/58d6787e-847c-4138-973e-fe2a7237146c",
-      "published_date": "Sun, 05 Apr 2026 04:00:12 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:23.408712+00:00",
-      "content": "Corpay is partnering with Voltempo in building UK’s largest charging network for electric lorries",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Police were never designed for this’: Pioneering UK force rethinks approach to domestic abuse",
-      "link": "https://www.ft.com/content/4d007319-e171-40eb-bbb1-989d03656434",
-      "published_date": "Sun, 05 Apr 2026 04:00:12 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:23.608886+00:00",
-      "content": "Avon and Somerset to apply successful rape investigation techniques to broader field of offences",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Countries must not hoard fuel during Iran war, warns IEA",
-      "link": "https://www.ft.com/content/9e47e3b8-fae1-4c1c-b79c-22dda42bc2b1",
-      "published_date": "Sun, 05 Apr 2026 03:00:20 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:23.809052+00:00",
-      "content": "Fatih Birol makes veiled reference to China as he urges nations to avoid export bans despite worsening supply shock",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Five elections, one month: India’s Modi faces voters amid Iran war risks",
-      "link": "https://www.ft.com/content/71c1cbf2-bbcd-45f5-badb-2b1fafaa60d1",
-      "published_date": "Sun, 05 Apr 2026 01:56:48 GMT",
-      "scrape_timestamp": "2026-04-05T04:30:24.009232+00:00",
-      "content": "PM accused of flat-footed response as conflict in Middle East puts economy under strain",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The professional negotiators who do deals with cyber criminals",
-      "link": "https://www.ft.com/content/64266b4e-45bd-4081-ad47-265797066caa",
-      "published_date": "Sun, 05 Apr 2026 04:00:13 GMT",
-      "scrape_timestamp": "2026-04-05T06:09:54.937923+00:00",
-      "content": "With ransomware attacks on the rise, businesses are calling on a new class of security expert to help with high-stakes talks",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nelson Peltz’s bidding war highlights $25bn wave of asset manager consolidation",
       "link": "https://www.ft.com/content/e51d9d8f-ffaa-480e-b763-350ebace12c8",
       "published_date": "Sun, 05 Apr 2026 11:02:13 GMT",
@@ -13991,14 +13826,245 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is SentinelOne the Best Cybersecurity Stock to Buy in the Current Sell-Off?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-best-cybersecurity-stock-buy-211500278.html",
+      "published_date": "2026-04-10T21:15:00Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682703+00:00",
+      "content": "Is SentinelOne the Best Cybersecurity Stock to Buy in the Current Sell-Off? John Ballard, The Motley Fool Fri, April 10, 2026 at 5:15 PM EDT 2 min read S NVDA INTC SentinelOne (NYSE: S) continues to see growing demand for its cybersecurity platform. Revenue continues to grow at double-digit rates and just crossed the $1 billion mark last year. Yet the stock is trading in the bargain bin, down over 83% from its all-time high. That leaves investors asking whether SentinelOne is poised for a rebound. The business has real strengths, but a side-by-side comparison with the category leader suggests it may not be the best pick for investors seeking the strongest, most durable cybersecurity compounder. Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue » Image source: Getty Images. SentinelOne's momentum remains strong. Revenue rose 20% year over year in the most recent quarter, helped by demand for new AI capabilities within its Singularity platform. But investors looking for the best cybersecurity stock have to start with CrowdStrike (NASDAQ: CRWD) . Its fiscal fourth-quarter revenue grew 23% year over year, and it's doing so at far greater scale, with more than four times SentinelOne's quarterly revenue. Profitability is the clearest separator. CrowdStrike produced $1.24 billion in trailing-12-month free cash flow versus SentinelOne's $51 million. CrowdStrike's Falcon platform also benefits from a data advantage -- trillions of security events that help train its AI-powered threat detection -- supporting stronger margins. Over the past three years, CrowdStrike's share price has jumped 211%. SentinelOne may keep winning enterprise customers, but in a crowded market, CrowdStrike's scale and profitability tilt the scales in its favor. Should you buy stock in SentinelOne right now? Before you buy stock in SentinelOne, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and SentinelOne wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $550,348 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,127,467 !* Now, it’s worth noting Stock Advisor’s total average return is 959 % — a market-crushing outperformance compared to 191% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. Story Continues See the 10 stocks » *Stock Advisor returns as of April 10, 2026. John Ballard has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends CrowdStrike and SentinelOne. The Motley Fool has a disclosure policy . Is SentinelOne the Best Cybersecurity Stock to Buy in the Current Sell-Off? was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tech stocks today: Suspect arrested in alleged attack on OpenAI CEO Altman's home",
+      "link": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-suspect-arrested-in-alleged-attack-on-openai-ceo-altmans-home-144220291.html",
+      "published_date": "2026-03-13T14:42:20Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682731+00:00",
+      "content": "LIVE Tech stocks today: Suspect arrested in alleged attack on OpenAI CEO Altman's home Yahoo Finance Updated Fri, April 10, 2026 at 5:15 PM EDT 1 min read ANTH.PVT CRWV Tech stocks ended the trading day mixed on Friday trading, as Wall Street attempted to digest the tenuous truce in the war in Iran. The hostilities in the Middle East have weighed on tech stocks for weeks, clouding the picture of whether investors are pulling back because of the war or because of sentiment toward Big Tech more generally. Beyond the war, police arrested a suspect in an alleged Molotov cocktail attack on OpenAI CEO Sam Altman’s home Friday morning. The fire burned an outer gate, but no one was injured. The same suspect reportedly threatened to burn down OpenAI’s headquarters. CoreWeave ( CRWV ) stock rocketed more than 10% higher after the company announced it is entering a multiyear agreement with Anthropic ( ANTH.PVT ) that will see the AI cloud company provide Anthropic with computing capabilities to build and power its AI models. Reuters also reported on Friday that Anthropic is exploring designing its own AI processors to address the ongoing demand crunch for the highly sought-after chips. Elsewhere, TSMC ( TSM ) reported its first quarter revenue jumped 35% year over yea r on strong demand for its own AI chips. Meanwhile, anticipation continues to build around two major IPOs: one from Anthropic ( ANTH.PVT ), expected as early as this year, and the public debut of Elon Musk’s rocket company, SpaceX ( SPAX.PVT ). Read more about today's market action. LIVE 105 updates Fri, April 10, 2026 at 8:52 PM UTC OpenAI CEO Altman's home attacked with Molotov cocktail Police have arrested a 20-year-old suspect in connection with an alleged Molotov cocktail attack on OpenAI ( OPAI.PVT ) CEO Sam Altman’s San Francisco home on Friday morning, according to a statement by the San Francisco Police Department. The individual allegedly also made threats against OpenAI’s headquarters. The suspect reportedly threw the device at Altman’s home, setting fire to an exterior gate, before fleeing on foot. The same person was then spotted near 3rd Street, threatening to burn down a building later that morning. No one was injured in either incident. Police haven’t released any additional details about the suspect or the motive behind the alleged attack. Altman has quickly become the face of the global explosion in AI, with OpenAI’s ChatGPT serving as the fastest-growing app in history. And while consumers and enterprises continue to sign up and use AI software, there’s also been backlash against the technology over fear of job losses and the environmental impact of the massive data centers that power the services. Fri, April 10, 2026 at 5:03 PM UTC Alphabet increases prices on YouTube Premium subscriptions Alphabet ( GOOG , GOOGL ) is increasing the price of its YouTube Premium service, including a $4 jump on its family plan option. That means a family subscription, which supports up to 5 people in a household, how costs $26.99. An individual plan, meanwhile, jumps from $13.99 to $15.99, Reuters reported Friday. The increase comes as other streaming services and platforms continue to raise their own prices. Last month, Netflix ( NFLX ) hiked subscription fees across each of its US offerings. The ad-supported version of the service rose from $7.99 to $8.99, while the Premium plan increased from $24.99 to $26.99. Read more here. Fri, April 10, 2026 at 4:36 PM UTC TSMC says revenue rose 35% in Q1 on continued AI demand Taiwan Semiconductor Manufacturing Company ( TSM ) reported first quarter revenue on Friday, saying sales during the period climbed 35% on the continued strength of the ongoing global AI build-out. The company’s revenue between January and March topped 1.13 trillion new Taiwan dollars ($35.7 billion), compared to estimates for the period. March revenue climbed 31% versus February and 45% versus March 2025. The company will hold its first quarter earnings call on April 16. The announcement is just the latest sign that global demand for AI chips shows no sign of abating for now. On Wednesday, market research firm Gartner said worldwide semiconductor spending, including GPUs, memory, and storage chips, will reach $1.3 trillion in 2026 , marking the largest growth in two decades. Read more here. Fri, April 10, 2026 at 12:28 PM UTC Anthropic and CoreWeave announce mutli-year AI infrastructure agreement Anthropic ( ANTH.PVT ) and CoreWeave ( CRWV ) announced they’re entering into a multi-year agreement under which the AI cloud company will provide computing capabilities to build and power Anthropic’s Claude AI models. CoreWeave said Anthropic will use its cloud services to run workloads at “production scale,” and that it will initially focus on a phased rollout, with the option to expand the agreement in the future. The announcement comes as Reuters reported that Anthropic is considering designing its own semiconductors to contend with the AI chip crunch and ensure it has the capacity to train and run its AI models. It also follows news that CoreWeave is entering into a separate $21 billion deal with Meta ( META ) that will see CoreWeave power Meta’s AI services through December 2032. CoreWeave said that the capacity will be spread out among a number of its data center locations and include some of the first deployments of Nvidia’s ( NVDA ) upcoming Vera Rubin system. Fri, April 10, 2026 at 11:59 AM UTC Anthropic considering designing its own chips Anthropic ( ANTH.PVT) is exploring getting into the chip game. According to Reuters, the company is looking into potentially designing its own AI processors to help it contend with the shortage of highly-coveted semiconductors. The report comes the same week that Anthropic announced it is entering into an expanded chip agreement with Google ( GOOG , GOOGL ) and Broadcom ( AVGO ) that will see Anthropic access 3.5 gigawatts of Google’s next-generation TPUs. That agreement is dependent on Anthropic’s continued commercial success. The custom chip trend is gaining steam across Silicon Valley. In October, rival OpenAI entered into a partnership with Broadcom to develop upwards of 10 gigawatts of custom OpenAI-designed chips. Last month, Meta revealed four new custom AI processors including its MTIA 400, which the company says has the kind of raw performance that can rival some of the top chips on the market. Read more here. Fri, April 10, 2026 at 10:03 AM UTC Grace O'Donnell This chart reveals Big Tech's biggest problem this earnings season Big Tech earnings will be highly scrutinized for returns on aggressive AI-driven capital expenditures this earnings season, as investors search for proof that the investments are paying off. Yahoo Finance’s Brian Sozzi pointed out new charts from Barclays strategist Venu Krishna that detail capex among hyperscalers (tech companies spending a lot to scale up AI infrastructure), which is expected to surge 87.9% year over year. See Krishna’s two other charts here. Thu, April 9, 2026 at 7:54 PM UTC OpenAI unveils new $100 pricing tier in push to grow revenue OpenAI ( OPAI.PVT ) introduced a new pricing tier for its paid version of ChatGPT on Thursday. The new $100 Pro plan is similar to the company's existing $200 Pro option, but cuts back on how much you can use the service. The $100 plan provides 5 times the usage of OpenAI's popular $20 Plus tier, while the $200 version provides 20 times the usage. In total, the company now offers five plans for personal users: a free plan with limited usage and memory, an $ 8-per-month Go plan with expanded usage and memory, an expanded voice mode, and the Plus and two Pro options. OpenAI is working to increase revenue to offset its massive spending plan ahead of a rumored initial public offering by the end of the year. The company has also begun testing advertisements in the free version of ChatGPT, which is expected to be a major source of income in the future. CEO Sam Altman",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Should You Buy, Sell, or Hold Palantir Stock Amid Trump Praise?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-palantir-stock-210609124.html",
+      "published_date": "2026-04-10T21:06:09Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682740+00:00",
+      "content": "Should You Buy, Sell, or Hold Palantir Stock Amid Trump Praise? Wajeeh Khan Fri, April 10, 2026 at 5:06 PM EDT 2 min read PLTR ANTH.PVT Palantir (PLTR) stock closed down again on Friday, even after President Donald Trump praised the company on Truth Social, saying it has “great warfighting capabilities and equipment.” Despite the endorsement, PLTR just had one of its ugliest weeks since early 2021, with the 14-day RSI now in the early 30s, indicating the stock is approaching oversold territory. More News from Barchart Bank of America Says Marvell and AMD Are 2 Top ‘AI Compute’ Stocks to Buy Now While the Stock Market Was Rallying, Palantir Stock Sold Off. Should You Buy the Dip in PLTR? Intel Surges Before Q1 Earnings Report—Should You Buy INTC Stock? Get exclusive insights with the FREE Barchart Brief newsletter. Subscribe now for quick, incisive midday market analysis you won't find anywhere else. Still, caution is warranted in buying the dip in Palantir shares, which are currently down about 30% versus their year-to-date high. www.barchart.com Why Did Palantir Stock Sink on Friday? Investors bailed on PLTR stock today primarily on Anthropic’s release of its Claude Mythos model and multi-agent orchestration product. Additionally, a viral critique from famed investor Michael Burry, who argued Anthropic is stealing enterprise AI market share from Palantir, continued to sour sentiment on April 10. Burry pointed to the AI research lab’s explosive growth from just $9 billion to $30 billion in annual recurring sales within months, contrasting it with Palantir's two-decade journey to reach $5 billion. His core thesis frames PLTR as more of a professional services firm than a scalable software giant, one that relies on embedding engineers at client sites and depends on third-party LLMs rather than proprietary AI tech. March CPI Makes PLTR Shares Even Less Attractive Disciplined investors are cautioned against treating Palantir shares’ current weakness as a buying opportunity because they’re still trading at a rather stretched 138x forward earnings. This valuation multiple is particularly precarious after the U.S. consumer price index (CPI) came in at 3.3% for March — the hottest reading since early 2024. Subsequently, the 10-year Treasury yield seems to be stabilizing in the 4.3% range, increasing the discount rate for future earnings. For high-multiple names like Palantir, this “higher-for-longer” backdrop often triggers aggressive valuation contraction as investors become unwilling to pay premium prices for long-term growth. How Wall Street Recommends Playing Palantir Despite aforementioned risks, however, Wall Street firms remain constructive as ever on Palantir Technologies. Story Continues The consensus rating on PLTR shares sits at a “Moderate Buy” currently, with the mean price target of about $198 indicating potential upside of nearly 55% from here. www.barchart.com This article was created with the support of automated content tools from our partners at Sigma.AI. Together, our financial data and AI solutions help us to deliver more informed market headline analysis to readers faster than ever. On the date of publication, Wajeeh Khan did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "As Rigetti Launches Its Cepheus Quantum Computer, Should You Buy RGTI Stock Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rigetti-launches-cepheus-quantum-computer-210426872.html",
+      "published_date": "2026-04-10T21:04:26Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682748+00:00",
+      "content": "As Rigetti Launches Its Cepheus Quantum Computer, Should You Buy RGTI Stock Now? Yiannis Zourmpanos Fri, April 10, 2026 at 5:04 PM EDT 3 min read RGTI After some silence, Rigetti Computing (RGTI) recently announced the release of its newest quantum computing system. As is clear from the stock chart, the news briefly pushed up investor sentiment, but it's already too late — RGTI stock has been experiencing a prolonged downtrend for almost a year now. Nevertheless, the quantum computing market itself is getting more mature. Companies like Rigetti Computing should not only make great advances in terms of innovation — they should start making money on them. Currently, Rigetti is developing innovative solutions as the number of its customers starts growing, with increased interest among government organizations and research facilities. Accordingly, the company's latest advancements might be considered as a sign of change to come. More News from Barchart Bank of America Says Marvell and AMD Are 2 Top ‘AI Compute’ Stocks to Buy Now Intel Surges Before Q1 Earnings Report—Should You Buy INTC Stock? SanDisk Stock Is Exploding Higher—Is SNDK a Buy Before April 30 Earnings? Tired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now! About Rigetti Computing Stock Rigetti Computing provides quantum computing services that focus on superconducting processors and hybrid quantum/classic systems. With headquarters located in Berkeley, California, its approximate market capitalization is $4.75 billion. RGTI stock is considered to be a highly innovative quantum play as the company competes on the technological level. Shares of RGTI trade around $15 currently, which is approximately 75% lower than the 52-week high of $58.15. On the other hand, RGTI stock has climbed 88% from its low of $7.81. In comparison with the performance of the S&P 500 Index ($SPX), the volatility of the stock is obvious, reflecting the speculative character of quantum investments. https://www.barchart.com From the standpoint of fundamental analysis, the price-to-sales (P/S) ratio is quite high at 680 times. That shows that the market expects strong growth potential for RGTI stock. However, given the fact that the price-to-book ratio is only 8.81 times, Rigetti stock seems overvalued. Rigetti Computing Misses on Earnings It is worth noting that, despite some positive technical developments, the company continues experiencing difficulties on the financial front. For the fourth quarter of 2025, Rigetti reported total revenue of only $1.9 million, along with GAAP net losses amounting to $18.2 million, or $0.06 per share. Using the non-GAAP measure, the firm recorded a net loss of $11.3 million, or $0.03 per share. Story Continues As for full-year 2025 performance, Rigetti reported revenue of only $7.1 million, compared to GAAP net losses of a hefty $216.2 million. Clearly, a huge mismatch exists between the company's revenues and its expenditures. Still, when assessing Rigetti, investors should not dismiss the underlying developments that indicate a promising trend. Firstly, the company is expected to record certain portions of orders for Novera systems totaling $5.7 million during Q1, implying possible year-over-year (YOY) revenue growth from a quite modest base. Even more significant, however, is the fact that new contract wins are being secured. For instance, Rigetti recently signed a deal totaling $8.4 million with the Centre for Development of Advanced Computing (C-DAC), an Indian government organization aimed at acquiring quantum computing systems. Such contracts are important, as they are not only sources of revenue but also prove product value and quality. What Do Analysts Expect for Rigetti Computing Stock? RGTI stock has a “Moderate Buy” consensus rating and an average price target of $32.10. The highest target is set at $40, while the lowest one is $20 per share. Compared to the stock's recent level near $15, the average price target for Rigetti implies potential upside of 119% from current levels. Ultimately, Rigetti Computing remains in construction mode. For investors, that creates a classic high-risk/high-reward setup — one where patience and a strong stomach for volatility are essential. https://www.barchart.com On the date of publication, Yiannis Zourmpanos did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Beyond Oil Hits Growth Inflection as Margins Top 50% – Quarterly Update Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-oil-hits-growth-inflection-212351962.html",
+      "published_date": "2026-04-10T21:23:51Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682755+00:00",
+      "content": "Beyond Oil Hits Growth Inflection as Margins Top 50% – Quarterly Update Report Exec-Edge Fri, April 10, 2026 at 5:23 PM EDT 1 min read SYY SYM SXT BCPC BOIL.NE Download the Complete Report Here By Karen Roman Beyond Oil Ltd. (TSX: BOIL.TO) continues to scale due to distributor relationships and the rising adoption of its product across foodservice channels. The company is entering new commercial spaces in the U.S. across supermarkets, casual dining and distribution via Sysco, supporting revenue growth. The stock is valued at approximately 27x run-rate sales but is tied to expected revenue scale rather than current earnings. With capacity to support up to $50 million in annual sales, upside will depend on strong execution and sustained revenue growth which should lower the valuation multiple over time as sales scale. Check out the link below for the full report with detailed insights, industry trends, and what goes into Exec Edge Research’s valuation analysis. Download the Complete Report Here Read Exec Edge’s Initiation on Beyond Oil Ltd. Here Subscribe to our Weekly Newsletter to Receive All Research Contact: Executives-Edge.com Rayk@capmarketsmedia.com – Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today, April 10: CoreWeave Jumps After Multi-Year AI Cloud Deal With Anthropic",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-10-210953451.html",
+      "published_date": "2026-04-10T21:09:53Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682762+00:00",
+      "content": "Stock Market Today, April 10: CoreWeave Jumps After Multi-Year AI Cloud Deal With Anthropic Howard Smith, The Motley Fool Fri, April 10, 2026 at 5:09 PM EDT 2 min read CRWV ANTH.PVT META AMZN MSFT AI-focused cloud infrastructure provider CoreWeave (NASDAQ:CRWV) , closed Friday at $102, up 10.87%. The stock moved higher after news of a multi-year AI cloud deal with Anthropic. It also announced an expanded capacity agreement with Meta Platforms (NASDAQ:META) this week. Investors are watching how these contracts translate into sustained AI infrastructure demand and revenue growth. Trading volume reached 78.7 million shares, coming in about 190% above its three-month average of 27.1 million shares. CoreWeave IPO'd in 2025 and has grown 155% since going public. How the markets moved today S&P 500 (SNPINDEX:^GSPC) slipped 0.10% to finish Friday at 6,818, while the Nasdaq Composite (NASDAQINDEX:^IXIC) added 0.35% to close at 22,903. Within technology infrastructure names, industry heavyweight Amazon (NASDAQ:AMZN) closed at $238.38, up 2.02%, while rival Microsoft (NASDAQ:MSFT) ended at $370.87, down 0.59%, underscoring mixed sentiment across large AI cloud providers. What this means for investors CoreWeave’s latest announcement was a multi-year deal to power Anthropic’s Claude AI models. Investors liked that it added customer diversification, especially on the heels of an expanded agreement with Meta that will provide AI cloud capacity through December 2032. While that $21 billion deal helped boost CoreWeave stock , investors are also monitoring the capital costs to provide customers the desired compute capacity. CoreWeave simultaneously announced it will raise $3.5 billion in capital through a convertible debt offering to fund AI infrastructure expansion. That served as a reminder that the company isn’t yet generating cash, let alone profits. That’s a balance investors need to remember when evaluating CoreWeave stock. Should you buy stock in CoreWeave right now? Before you buy stock in CoreWeave, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and CoreWeave wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $550,348 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,127,467 !* Now, it’s worth noting Stock Advisor’s total average return is 959 % — a market-crushing outperformance compared to 191% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. Story Continues See the 10 stocks » *Stock Advisor returns as of April 10, 2026. Howard Smith has positions in Amazon and Microsoft. The Motley Fool has positions in and recommends Amazon and Microsoft. The Motley Fool has a disclosure policy . Stock Market Today, April 10: CoreWeave Jumps After Multi-Year AI Cloud Deal With Anthropic was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Taiwan Semiconductor Manufacturing (TSM): The Best Under-The-Radar AI Stock in Billionaire Ken Fisher’s Portfolio?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-best-212423173.html",
+      "published_date": "2026-04-10T21:24:23Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682772+00:00",
+      "content": "Taiwan Semiconductor Manufacturing (TSM): The Best Under-The-Radar AI Stock in Billionaire Ken Fisher’s Portfolio? Fahad Saleem Fri, April 10, 2026 at 5:24 PM EDT 2 min read TSM NVDA INTC AAPL AMD We just covered Billionaire Ken Fisher’s Latest Portfolio: 10 Best AI Stocks to Buy . Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) ranks #6 (see the 5 Best AI Stocks to Buy ). Billionaire Ken Fisher’s Stake: $5.51 billion Taiwan Semiconductor’s (NYSE:TSM) moat comes from its leadership in advanced semiconductor manufacturing, where it controls about 70% of the global foundry market and a major chunk of of advanced chip production at 7nm and below, making it the primary manufacturer for key chip designers, including Apple, Nvidia, AMD and Qualcomm. Unlike Nvidia, which designs AI processors, Taiwan Semiconductor (NYSE:TSM) produces the physical chips using extremely expensive fabrication facilities that can cost $15B–$25B each and rely on specialized EUV machines costing about $150M per unit. This business has very high barriers to entry, limiting serious competition mainly to Samsung and Intel. Because chip designs are optimized for a specific manufacturing process, switching foundries involves high cost and risk, strengthening customer lock-in and reinforcing Taiwan Semiconductor’s (NYSE:TSM) long-term competitive advantage. In smartphones, Taiwan Semiconductor (NYSE:TSM) is the exclusive manufacturer of Apple’s A-series and M-series chips, while supporting 5G adoption and premium device performance. TSMC’s automotive segment is another growth driver. It makes nodes that serve EVs, ADAS, infotainment, and power management systems. The global automotive semiconductor market is projected to grow from $77 billion in 2025 to about $133 billion by 2030. TSM ranks sixth in our list of the best AI stocks to buy according to billionaire Ken Fisher. Magellan Global Fund explained in its invetor letter why TSMC is well-positioned to benefit from rising compute intensity. ( Click here to read the full text ). A semiconductor. Photo by Tima Miroshnichenko on Pexels While we acknowledge the potential of TSM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 33 Stocks That Should Double in 3 Years and Cathie Wood 2026 Portfolio: 10 Best Stocks to Buy . Disclosure: None. Follow Insider Monkey on Google News . Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Daily ETF Flows: SMH, EWJ In Demand",
+      "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-smh-ewj-210004075.html",
+      "published_date": "2026-04-10T21:00:04Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682783+00:00",
+      "content": "Daily ETF Flows: SMH, EWJ In Demand etf.com Staff Fri, April 10, 2026 at 5:00 PM EDT 2 min read EWJ SMH etf.com Top 10 Creations (All ETFs) Ticker Name Net Flows ($, mm) AUM ($, mm) AUM % Change VOO Vanguard S&P 500 ETF 1,529.43 859,837.89 0.18% SMH VanEck Semiconductor ETF 993.73 47,357.18 2.10% VCIT Vanguard Intermediate-Term Corporate Bond ETF 605.68 65,325.63 0.93% EWJ iShares MSCI Japan ETF 455.86 20,138.40 2.26% HYG iShares iBoxx $ High Yield Corporate Bond ETF 455.70 16,765.05 2.72% SOXS Direxion Daily Semiconductor Bear 3x Shares 415.15 1,359.92 30.53% SCHD Schwab US Dividend Equity ETF 330.10 86,270.48 0.38% LQD iShares iBoxx $ Investment Grade Corporate Bond ETF 328.11 31,094.09 1.06% IAU iShares Gold Trust 324.68 74,185.78 0.44% IGV iShares Expanded Tech-Software Sector ETF 243.09 11,273.85 2.16% Top 10 Redemptions (All ETFs) Ticker Name Net Flows ($, mm) AUM ($, mm) AUM % Change SOXL Direxion Daily Semiconductor Bull 3x Shares -1,879.03 12,913.26 -14.55% CGDV Capital Group Dividend Value ETF -479.99 30,556.34 -1.57% VXF Vanguard Extended Market ETF -395.59 26,870.63 -1.47% INDA iShares MSCI India ETF -265.85 6,405.22 -4.15% BGIG Bahl & Gaynor Income Growth ETF -201.80 2,116.95 -9.53% VTI Vanguard Total Stock Market ETF -146.90 584,090.36 -0.03% BIV Vanguard Intermediate-Term Bond ETF -139.01 28,440.26 -0.49% IEF iShares 7-10 Year Treasury Bond ETF -124.07 49,435.75 -0.25% SHV iShares Short Treasury Bond ETF -123.37 21,111.45 -0.58% NVDL GraniteShares 2x Long NVDA Daily ETF -115.24 3,708.92 -3.11% ETF Daily Flows By Asset Class Net Flows ($, mm) AUM ($, mm) % of AUM Alternatives 251.59 121,703.63 0.21% Asset Allocation 98.72 37,745.54 0.26% Commodities E T Fs 543.47 375,405.25 0.14% Currency -39.51 113,926.49 -0.03% International Equity 2,376.64 2,576,320.17 0.09% International Fixed Income 423.77 403,700.53 0.10% Inverse 420.99 15,905.58 2.65% Leveraged -2,343.53 136,522.19 -1.72% Us Equity 2,944.21 8,294,383.58 0.04% Us Fixed Income 1,530.70 2,038,174.78 0.08% Total: 6,207.05 14,113,787.74 0.04% Disclaimer: All data as of 6 a.m. Eastern time the date the article is published. Data is believed to be accurate; however, transient market data is often subject to subsequent revision and correction by the exchanges. Permalink | © Copyright 2026 etf.com. All rights reserved Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CoreWeave stock climbs 10% on Anthropic deal",
+      "link": "https://finance.yahoo.com/sectors/technology/article/coreweave-stock-climbs-10-on-anthropic-deal-141357017.html",
+      "published_date": "2026-04-10T14:13:57Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682792+00:00",
+      "content": "CoreWeave stock climbs 10% on Anthropic deal Daniel Howley · Technology Editor Updated Fri, April 10, 2026 at 4:46 PM EDT 2 min read CRWV ANTH.PVT AVGO GOOG CoreWeave ( CRWV ) stock closed out the trading day 10% higher on Friday after the company announced it is entering a multiyear agreement with Anthropic ( ANTH.PVT ) that will see the AI cloud company provide Anthropic with computing capabilities to build and power its AI models. CoreWeave said Anthropic will use its cloud services to run workloads at “production scale,” and that it will initially focus on a phased rollout with the option to expand the agreement in the future. The companies didn’t provide the terms of the deal, including pricing or how many gigawatts of chips it will cover. The announcement comes after Reuters reported that Anthropic is also considering designing its own semiconductors to contend with the AI chip crunch. CEO and co-founder of Anthropic Dario Amodei speaks during the 56th annual World Economic Forum meeting in Davos, Switzerland, Jan. 20, 2026. (Reuters/Denis Balibouse) · REUTERS / Reuters Earlier this week, Anthropic also said it’s working with Broadcom ( AVGO ) and Google to use 3.5 gigawatts of Google’s Broadcom-made Tensor Processing Units. AI companies across the board are working to secure as many semiconductors as possible as they build out their AI services. Anthropic rival OpenAI ( OPAI.PVT ) is also developing its own chips. In October, the company entered into a partnership with Broadcom to develop upwards of 10 gigawatts of custom semiconductors for its various AI services. More from Yahoo Scout How are AI companies addressing the semiconductor shortage? What computing services will CoreWeave provide to Anthropic? Which tech giants are developing custom AI chips? What other partnerships has CoreWeave recently announced? That’s in addition to deals it has with both Nvidia ( NVDA ) and AMD ( AMD ). And last month, Meta ( META ) revealed four new custom AI processors, including its MTIA 400, which the company said delivers raw performance rivaling some of the top chips on the market. The social media giant, like Anthropic, also entered into a deal with CoreWeave that will see CoreWeave power Meta’s AI services through December 2032. CoreWeave said the capacity will be spread out among a number of its data center locations and include some of the first deployments of Nvidia’s upcoming Vera Rubin system. In January, Microsoft ( MSFT ) also revealed a new custom AI chip that will serve as an alternative to Nvidia and AMD’s offerings. Amazon ( AMZN ) and Google ( GOOG , GOOGL ) have been using their own chips for years. Unlike Microsoft, however, those companies are looking to sell or rent their chips to third-party customers. In February, The Information reported that Meta inked a deal with Google to rent that company’s TPUs and is exploring purchasing them for its own data centers. Amazon CEO Andy Jassy also pitched the idea of selling the company’s chips in large servers to third-party customers in his latest annual shareholder newsletter on Thursday. Sign up for Yahoo Finance's Week in Tech newsletter. · Yahoo Finance Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley . Story Continues For the latest earnings reports and analysis, earnings whispers and expectations, and company earnings news, click here Read the latest financial and business news from Yahoo Finance Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why The Follow-Through Day Changed Our Swing Trading Strategy",
+      "link": "https://www.investors.com/research/swing-trading/why-the-follow-through-day-changed-our-swing-trading-strategy/?src=A00220&yptr=yahoo",
+      "published_date": "2026-04-10T20:46:06Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682799+00:00",
+      "content": "",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e7f7f29d?siteid=yhoof2&yptr=yahoo",
+      "published_date": "2026-04-10T21:07:00Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682806+00:00",
+      "content": "",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This map highlights the average credit score in every state",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/average-credit-score-in-america-by-state-212908597.html",
+      "published_date": "2025-06-25T21:29:08Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682812+00:00",
+      "content": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . This map highlights the average credit score in every state The national average credit score is 714 — how does your state compare? Ivana Pino · Senior Writer Updated Fri, April 10, 2026 at 4:46 PM EDT 3 min read Your credit scores play a key role in your personal finances and daily life, from the interest rates you qualify for to whether you can rent an apartment or get approved for a loan. Think of a credit score like your financial grade point average: The higher your score, the better you appear to prospective creditors. But how does your score stack up against others in your state — or across the country? Here’s a breakdown of the average credit score in every U.S. state, and what regional trends reveal about Americans' financial health. What’s the average U.S. credit score? According to the latest FICO Score Credit Insights report , the national average FICO credit score is 714, down from 715 in April 2025. That’s great news for Americans, since a score within this range falls into the \"good\" category, which generally qualifies for favorable rates on loans, mortgages, and credit cards. Of course, this is just an average. Several factors can impact credit scores, and average scores vary across age groups , genders, and even states. According to FICO, the state with the lowest average credit score is Mississippi, with an average FICO score of 676. Still, this falls within the lower end of the good credit score range. The state with the highest average credit score is Minnesota, with an average score of 742. “Everyone’s financial situation is unique, which means a variety of factors can influence a person’s credit score,” said Christina Roman, consumer education and advocacy manager for Experian. However, she noted that two of the most important factors are “payment history” and “ credit utilization ” (the amount of credit used compared to available limits). “Payment history is especially influential, and missing even one payment can have a quick and significant negative impact on a credit score,” Roman said. Read more: How are credit scores calculated? Do you know your credit score? Knowing your credit score is important because it directly affects your financial opportunities and overall financial health. So if it’s been a while since you looked at your scores, take a few minutes to check in. There are several ways to check your credit scores, many of which are free. For instance, some banks and credit card companies offer free access to your credit score within your mobile app and/or online banking dashboard. You can also view your scores from each of the three major credit bureaus — Equifax, Experian, and TransUnion — which let you check your credit score for free and also provide optional services for a fee. Or you can sign up for a website such as Credit Karma or Credit Sesame, which offer free scores and also provide personalized insights and product recommendations to raise your score. It’s important to note, however, that many free score providers give you access to your VantageScores, which are not used as often by lenders and likely vary from your FICO scores. If you want to see your FICO score specifically, you can sign up for the free version of myFICO and get access to your FICO 8 score from Experian. Read more: VantageScore vs. FICO: How these two major credit scoring models compare It’s also important to understand that your scores may vary depending on the specific scoring model and what information has been reported to each bureau . Even so, checking one score will give you a general idea of where your credit stands. How to improve your credit score If your credit score isn’t quite where you want it to be, there are steps you can take to move the needle in the right direction. This starts by identifying the factors that are driving your score down. Have you missed a few payments? Consider setting up automatic payments to ensure you’re never late. Are you using too much of your available credit? Prioritize paying more than the minimum payment on your credit cards or requesting a credit limit increase to reduce the overall percentage of credit used. “Improving your credit score is a marathon, not a sprint,” Roman said. “It takes time and consistent financial habits, but the long-term payoff is a healthier credit profile and a stronger financial footing.” >> Sign up for Mind Your Money newsletter for weekly tips and insights Average credit score by age: How do your scores compare? How do your credit scores compare to your peers? Here’s a breakdown of average credit scores by age, and what factors influence your credit scores. How to check your credit score for free Learn more about how to check your credit scores and why these scores matter. What do the different credit score ranges mean? Understanding what credit score ranges from FICO and VantageScore mean can give you more insight into your own credit health. What is a good credit score? Decent credit can mean more opportunities and lower rates on loans and insurance. If you’re wondering what a good credit score is, here’s what to know. What is a FICO score, and why should you know yours? Learn how FICO credit scores are calculated, the different types that exist, and how to improve your FICO score fast. VantageScore vs. FICO: How these two major credit scoring models compare Keeping tabs on your credit score is important. Here’s a look at the two major credit scoring models — VantageScore and FICO — and how they differ.",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mantle’s xStocks Rollout Pushes Tokenized Equities Closer to Real Onchain Liquidity",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/mantle-xstocks-rollout-pushes-tokenized-214000726.html",
+      "published_date": "2026-04-10T21:40:00Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682819+00:00",
+      "content": "Mantle’s xStocks Rollout Pushes Tokenized Equities Closer to Real Onchain Liquidity CryptoProwl Fri, April 10, 2026 at 5:40 PM EDT 2 min read MNT27075-USD ETH-USD NVDA AAPL META Mantle’s xStocks Rollout Pushes Tokenized Equities Closer to Real Onchain Liquidity Mantle is making a larger point than simply adding another tokenized asset product. The Ethereum (CRYPTO: $ETH) layer-2 network said Friday it has gone live with xStocks in collaboration with Bybit, BackedFi and Flowdesk, giving users on Mantle’s Fluxion exchange access to tokenized versions of major public equities around the clock. What gives the rollout a bit more weight is the way it has been structured. Tokenized equities have been easy to talk about for a while, but harder to make feel native to on-chain markets once questions around liquidity, execution and distribution come into view. Mantle is clearly trying to solve for that part of the equation by pairing tokenized stock exposure with Fluxion’s hybrid AMM and RFQ setup, while also using Bybit as a direct deposit and withdrawal gateway for xStocks. More From Cryptoprowl: Ripple, The Company Behind XRP, Is Valued At $50 Billion Eightco Secures $125 Million Investment From Bitmine And ARK Invest, Shares Surge Blockchain Projects Decline 75% As Developers Shift To A.I. Stanley Druckenmiller Says Stablecoins Could Reshape Global Finance New York Stock Exchange Invests $600 Million In Polymarket The initial lineup includes tokenized exposure to names such as Tesla (NASDAQ: $TSLA), Nvidia (NASDAQ: $NVDA), Apple (NASDAQ: $AAPL), Meta (NASDAQ: $META), Alphabet, MicroStrategy, Robinhood, the S&P 500 ETF, the Nasdaq-100 ETF and Circle, all tradable globally where permitted. Mantle said xStocks are fully collateralized tracker certificates compliant under the Swiss DLT Act, and framed the launch as part of its broader push to become a distribution layer for real-world assets rather than just another chain hosting them. That framing comes through in the executive comments as well. Mantle advisor Emily Bao said real-world assets need the “reach and rails that institutional adoption demands,” while xStocks GM Val Gui said tokenized equities can make public-market access more global, programmable and connected to on-chain capital. Mantle also said this is only the first phase of a broader roadmap, with xChange support and an xPoints loyalty program still ahead. If that roadmap holds, the more interesting shift here may be that tokenized equities are starting to be judged less by whether they can exist on-chain and more by whether they can trade, distribute and scale like they belong there. Mantle (CRYPTO: $MNT) cryptocurrency is currently trading at $0.6877 U.S. per digital token. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Crypto Ends The Week Higher After U.S.-Iran Ceasefire",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-ends-week-higher-u-214200188.html",
+      "published_date": "2026-04-10T21:42:00Z",
+      "scrape_timestamp": "2026-04-12T04:39:59.682825+00:00",
+      "content": "Crypto Ends The Week Higher After U.S.-Iran Ceasefire CryptoProwl Fri, April 10, 2026 at 5:42 PM EDT 3 min read BTC-USD ETH-USD MS MS-PQ MSTR Crypto Ends The Week Higher After U.S.-Iran Ceasefire Cryptocurrency prices were poised to end the trading week higher after the U.S. and Iran announced a two-week ceasefire. Prices for digital assets such as Bitcoin (CRYPTO: $BTC) and Ethereum (CRYPTO: $ETH) rose alongside stocks as crude oil prices plunged below $100 a barrel on news of the ceasefire. Bitcoin was trading right around $73,000 on April 10, up from $66,000 U.S. a week earlier. Ether was near $2,250 U.S. and back above the key support level of $2,000 U.S. More From Cryptoprowl: Ripple, The Company Behind XRP, Is Valued At $50 Billion Eightco Secures $125 Million Investment From Bitmine And ARK Invest, Shares Surge Blockchain Projects Decline 75% As Developers Shift To A.I. Stanley Druckenmiller Says Stablecoins Could Reshape Global Finance New York Stock Exchange Invests $600 Million In Polymarket The uptick in crypto prices coincided with a big rally in equities as investors cheered the ceasefire and crude oil prices plunged as much as 15%. Despite the rally, many analysts are warning that near-term risks remain for risk assets such as crypto, especially as the U.S.-Iran ceasefire appears to be on shaky ground. Here’s what else happened in crypto markets this past week: New York Times Identifies ‘Satoshi’: The New York Times (NYSE: $NYT) claims that it has identified the person who goes by the pseudonym “Satoshi Nakamato” and is the inventor of Bitcoin. According to The Times, Bitcoin’s inventor is Adam Back, a British cryptographer and a major player in the cryptocurrency movement. The Times said it concluded that Back is Satoshi after analyzing old emails and social media posts. Back has repeatedly denied that he is Satoshi and was quick to respond to The New York Times story. Morgan Stanley’s Bitcoin ETF Debuts: Morgan Stanley’s (NYSE: $MS) new spot Bitcoin exchange-traded fund (ETF) saw more than 1.6 million shares traded and $34 million U.S. of inflows on its first day. Analysts agree the day one inflows were strong and that the fund’s low expense ratio of 0.14% likely appeals to investors. Morgan Stanley’s Bitcoin ETF offers the lowest expense ratio among a dozen such funds currently on the market. Strategy Resumes Bitcoin Buying: Michael Saylor's Strategy (NASDAQ: $MSTR) resumed its Bitcoin purchases, buying $330 million U.S. of the cryptocurrency. Strategy, a former software company turned serial Bitcoin acquirer, added to its treasury over the past week after taking a pause. The company bought Bitcoin at an average price of $67,718 U.S. per coin. After the most recent purchases, Strategy owns 766,970 Bitcoin worth $58 billion U.S. Story Continues Gemini Becomes A Takeover Target: The stock of Gemini (NASDAQ: $GEMI) jumped as rumours surfaced that the cryptocurrency exchange is a takeover target. Multiple media reports say that potential buyers have approached Gemini about an acquisition. Gemini was founded and is run by twin brothers Tyler and Cameron Winklevoss. The company went public last September. Since then, GEMI shares have collapsed, falling 85% to trade at less than $5 U.S. Kalshi Dominates Prediction Markets: Kalshi now controls 89% of U.S. prediction market volume, according to a new report from Bank of America (NYSE: $BAC). Kalshi dominates the fast-growing prediction market and is far ahead of rivals Polymarket at 7% and Crypto.com at 4% market share, respectively. Kalshi is benefitting from the fact that it operates under oversight from the U.S. Commodity Futures Trading Commission (CFTC). Japan Reclassifies Crypto: Japan’s government officially classified cryptocurrencies as “financial products,” marking a shift in how the country plans to regulate digital assets. The new classification places cryptocurrencies such as Bitcoin under the Financial Instruments and Exchange Act, a framework used for stocks and other securities. Ethereum Foundation Offloads 5,000 Tokens: The Ethereum Foundation plans to convert 5,000 Ether, worth $11 million U.S., into stablecoins. The swap is part of the organization’s ongoing efforts to fund research and development (R&D), grant programs, and other initiatives. The Ethereum Foundation is a Swiss-based non-profit organization established in 2014 to support the Ethereum ecosystem. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Middle East war live: Vance says US and Iran fail to reach deal",
+      "link": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
+      "published_date": "Sun, 12 Apr 2026 01:44:03 GMT",
+      "scrape_timestamp": "2026-04-12T04:40:27.220524+00:00",
+      "content": "Two sides held talks in Islamabad over the weekend",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Fees for seas: a history of taxing waterways",
+      "link": "https://www.ft.com/content/9a5294cf-0b64-4201-b88c-12ba586bb4fd",
+      "published_date": "Sun, 12 Apr 2026 04:00:20 GMT",
+      "scrape_timestamp": "2026-04-12T04:40:27.420710+00:00",
+      "content": "From Ottoman Sultans to Danish kings, Iran’s toll system for Strait of Hormuz revives an old maritime fight",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The historic Iranian palaces caught up in US-Israeli strikes",
+      "link": "https://www.ft.com/content/ae2855d8-f4e3-4138-ad14-d5bee53a804f",
+      "published_date": "Sun, 12 Apr 2026 04:00:12 GMT",
+      "scrape_timestamp": "2026-04-12T04:40:27.620920+00:00",
+      "content": "World Heritage sites including Tehran’s Golestan Palace were damaged in bombings",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Social media is for picking up vibes, not information",
+      "link": "https://www.ft.com/content/d8fd8966-d360-4329-b003-33d1beb3533b",
+      "published_date": "Sun, 12 Apr 2026 04:00:20 GMT",
+      "scrape_timestamp": "2026-04-12T04:40:27.821181+00:00",
+      "content": "Users trust it even less than they do mainstream news outlets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility",
+      "link": "https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da",
+      "published_date": "Sun, 12 Apr 2026 04:00:12 GMT",
+      "scrape_timestamp": "2026-04-12T04:40:28.021379+00:00",
+      "content": "Five largest US lenders expected to unveil highest combined trading revenues since at least 2014",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Switzerland’s Zug becomes bolt-hole for Gulf-based wealth",
+      "link": "https://www.ft.com/content/e4444e33-8586-4d87-890a-e9270f2c26b5",
+      "published_date": "Sun, 12 Apr 2026 04:00:12 GMT",
+      "scrape_timestamp": "2026-04-12T04:40:28.221570+00:00",
+      "content": "Small Swiss town is welcoming individuals and companies seeking refuge from war in the Middle East",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Commodity traders lost ‘billions’ in early days of Iran war",
+      "link": "https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc",
+      "published_date": "Sun, 12 Apr 2026 04:00:20 GMT",
+      "scrape_timestamp": "2026-04-12T04:40:28.421743+00:00",
+      "content": "Firms that normally profit from volatility were caught out by sudden rise in energy prices, new report finds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-12T01:45:54.005671+00:00",
+  "last_updated": "2026-04-12T04:40:32.876139+00:00",
   "metadata": {
-    "total_runs": 989,
+    "total_runs": 990,
     "sources": [
-      "Financial Times",
-      "Yahoo Finance"
+      "Yahoo Finance",
+      "Financial Times"
     ],
     "retention_days": 7
   }
