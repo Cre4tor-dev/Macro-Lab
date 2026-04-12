@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-04-11 23:24 UTC</title>
+  <title>Macro Lab — 2026-04-12 01:45 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-04-11 23:24 UTC<br>Seuil alerte: 5.0 · 946 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-04-12 01:45 UTC<br>Seuil alerte: 5.0 · 960 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1257</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1272</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">946</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">960</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">10.3</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-04-11">Sat 11 Apr</option>
+        <option value="2026-04-12">Sun 12 Apr</option>
+<option value="2026-04-11">Sat 11 Apr</option>
 <option value="2026-04-10">Fri 10 Apr</option>
 <option value="2026-04-09">Thu 09 Apr</option>
 <option value="2026-04-08">Wed 08 Apr</option>
 <option value="2026-04-07">Tue 07 Apr</option>
 <option value="2026-04-06">Mon 06 Apr</option>
-<option value="2026-04-05">Sun 05 Apr</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -473,7 +473,7 @@
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (1257 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (1272 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="47.32" data-date="2026-04-06" data-themes="war_conflict,recession,oil_energy,central_bank" data-text="jpmorgan has a stark message on the next fed rate cut jpmorgan has a stark message on the next fed rate cut hillary remy mon, april 6, 2026 at 1:03 pm cdt 4 min read if you were counting on the federal reserve to cut interest rates this year, jpmorgan's chief economist has a message you may not want to hear. michael feroli, chief u.s. economist at jpmorgan, has forecast zero rate cuts through all of 2026, with the fed's next move being a 25 basis point rate hike in the third quarter of 2027, according to yahoo finance . that would bring the upper band of the federal funds rate to 4.00%. the current rate sits at 3.50% to 3.75%. the forecast puts j">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -866,6 +866,20 @@
     <span class="kw-hint">🔑 inflation, cpi, volatility, war, conflict</span>
   </div>
 </article>
+<article class="card card-alert" data-score="31.53" data-date="2026-04-10" data-themes="war_conflict,sanctions_major,oil_energy" data-text="crude prices fall on long liquidation ahead of us-iran peace talks crude prices fall on long liquidation ahead of us-iran peace talks rich asplund fri, april 10, 2026 at 2:18 pm cdt 5 min read cl=f rb=f may wti crude oil (clk26) on friday closed down -1.30 (-1.33%), and may rbob gasoline (rbk26) closed up +0.0366  (+1.22%).  crude oil and gasoline prices settled mixed on friday.  crude prices gave up an early advance on friday and retreated amid heavy liquidation in crude oil futures ahead of saturday's peace negotiations in pakistan between the us and iran.  crude prices initially moved higher on friday amid a weaker dollar and ongoing blockage of the strait">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 31.53 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, conflict, sanctions, ukraine, russia, middle east, oil">31.5 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🚫 Sanctions</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/commodities/articles/crude-prices-fall-long-liquidation-191851971.html" target="_blank" rel="noopener">Crude Prices Fall on Long Liquidation Ahead of US-Iran Peace Talks</a></h3>
+  <p class="preview card-detail">Crude Prices Fall on Long Liquidation Ahead of US-Iran Peace Talks Rich Asplund Fri, April 10, 2026 at 2:18 PM CDT 5 min read CL=F RB=F May WTI crude oil (CLK26) on Friday closed down -1.30 (-1.33%), and May RBOB gasoline (RBK26) closed up +0.0366  (+1.22%).  Crude oil and gasoline prices settled mi&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:18:51Z</time>
+    <span class="kw-hint">🔑 war, conflict, sanctions, ukraine, russia</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="31.37" data-date="2026-04-08" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="us-iran ceasefire sends investors back to their most beloved stocks us-iran ceasefire sends investors back to their most beloved stocks brian sozzi · executive editor wed, april 8, 2026 at 7:14 am cdt 1 min read orcl nvda goog amzn msft the new us-iran ceasefire brokered late tuesday has sent investors rushing back to one of their most beloved sectors: big tech. some of the most visited stock quote pages on yahoo finance on wednesday morning include magnificent seven members nvidia ( nvda ), google ( goog ), amazon ( amzn ), and microsoft ( msft ) (see list below). all of these stocks are catching strong premarket upside moves, and the same goes for other bi">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -878,6 +892,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-04-08">2026-04-08T12:14:58Z</time>
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, inflation</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="31.36" data-date="2026-04-10" data-themes="war_conflict,central_bank" data-text="dollar weakens ahead of us-iran peace talks dollar weakens ahead of us-iran peace talks rich asplund fri, april 10, 2026 at 2:32 pm cdt 4 min read dx-y.nyb the dollar index (dxy00) on friday fell by -0.15%. friday’s reports that showed a smaller-than-expected increase in us march consumer prices and a plunge in the university of michigan’s us apr consumer sentiment index to a record low weighed on the dollar. also, hopes that this weekend’s negotiations in pakistan between the us and iran will lead to peace are reducing safe-haven demand for the dollar. the dollar recovered some of its losses friday when iran said there must be an immed">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 31.36 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, rate hike, interest rate, fomc, ecb, boj, inflation, cpi">31.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-ahead-us-iran-193259310.html" target="_blank" rel="noopener">Dollar Weakens Ahead of US-Iran Peace Talks</a></h3>
+  <p class="preview card-detail">Dollar Weakens Ahead of US-Iran Peace Talks Rich Asplund Fri, April 10, 2026 at 2:32 PM CDT 4 min read DX-Y.NYB The dollar index (DXY00) on Friday fell by -0.15%. Friday’s reports that showed a smaller-than-expected increase in US March consumer prices and a plunge in the University of Michigan’s US&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:32:59Z</time>
+    <span class="kw-hint">🔑 fed, rate hike, interest rate, fomc, ecb</span>
   </div>
 </article>
 <article class="card card-alert" data-score="31.19" data-date="2026-04-11" data-themes="war_conflict,recession,oil_energy" data-text="'not as bullish': big banks are entering q1 earnings season on less certain footing than in january 'not as bullish': big banks are entering q1 earnings season on less certain footing than in january david hollerith · senior reporter sat, april 11, 2026 at 5:08 am pdt 3 min read jpm gs wfc bac c wall street’s biggest banks are riding into the first quarter earnings season on far less certain ground than where they began 2026. this coming week, their ability to churn out more profits will once again be put to the test. the procession kicks off on monday with goldman sachs ( gs ) reporting, followed by jpmorgan chase ( jpm ), citigroup ( c ), and wells fargo ( wfc ) going on tuesday, and bank ">
@@ -3904,6 +3932,20 @@
     <span class="kw-hint">🔑 war, conflict, bond</span>
   </div>
 </article>
+<article class="card card-alert" data-score="14.79" data-date="2026-04-10" data-themes="war_conflict,central_bank" data-text="europe wants one referee for its financial markets europe wants one referee for its financial markets mark nichols fri, april 10, 2026 at 2:19 pm cdt 4 min read eurusd europe wants one referee for its financial markets - moby the gist europe’s financial system has a scale problem. not too small, but too split. the european central bank thinks it’s time to fix that. what happened the european central bank (ecb) has thrown its weight behind plans to centralize parts of financial market supervision across the eurozone, marking a significant step in the bloc’s long-running push to deepen capital markets. in a formal opinion published this week, th">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 14.79 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: ecb, war, crisis">14.8 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/europe-wants-one-referee-financial-191954821.html" target="_blank" rel="noopener">Europe Wants One Referee for Its Financial Markets</a></h3>
+  <p class="preview card-detail">Europe Wants One Referee for Its Financial Markets Mark Nichols Fri, April 10, 2026 at 2:19 PM CDT 4 min read EURUSD Europe Wants One Referee for Its Financial Markets - Moby THE GIST Europe’s financial system has a scale problem. Not too small, but too split. The European Central Bank thinks it’s t&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:19:54Z</time>
+    <span class="kw-hint">🔑 ecb, war, crisis</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="14.76" data-date="2026-04-05" data-themes="war_conflict,recession" data-text="3 high-growth stocks down 25% to buy before the 2026 tech rebound 3 high-growth stocks down 25% to buy before the 2026 tech rebound keithen drury, the motley fool sun, april 5, 2026 at 12:05 pm edt 4 min read msft nvda avgo meta intc the tech sector has taken a beating in 2026. many stocks are well off their all-time highs, and a handful are down more than 25%. i think there are some great deals available, and investors shouldn't squander this investment opportunity that comes about only every few years. the three stocks i've got my eye on as strong rebound candidates are microsoft (nasdaq: msft) , broadcom (nasdaq: avgo) , and meta platforms (nasdaq: meta) ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -5332,6 +5374,34 @@
     <span class="kw-hint">🔑 inflation, s&p 500, war, bond, gold</span>
   </div>
 </article>
+<article class="card card-alert" data-score="13.10" data-date="2026-04-10" data-themes="war_conflict" data-text="vanda research says retail investors are buying the tesla stock dip. should you? vanda research says retail investors are buying the tesla stock dip. should you? aditya raghunath fri, april 10, 2026 at 2:25 pm cdt 3 min read tsla nvda meta msft shares of tesla (tsla) have had a rough 2026 so far. tsla stock is down 23% year-to-date (ytd), making it one of the worst performers in the “magnificent seven” group of tech giants this year. yet retail investors are not running away — they're buying more. that raises a fair question for anyone with money on the line: is this a smart bet or a costly mistake? let's take a closer look. more news from barchart dear amazon stock fans, ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 13.10 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, interest rate, selloff, volatility, earnings, war, china">13.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/vanda-research-says-retail-investors-192559587.html" target="_blank" rel="noopener">Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you?</a></h3>
+  <p class="preview card-detail">Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you? Aditya Raghunath Fri, April 10, 2026 at 2:25 PM CDT 3 min read TSLA NVDA META MSFT Shares of Tesla (TSLA) have had a rough 2026 so far. TSLA stock is down 23% year-to-date (YTD), making it one of the worst performers in&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:25:59Z</time>
+    <span class="kw-hint">🔑 fed, interest rate, selloff, volatility, earnings</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="13.10" data-date="2026-04-10" data-themes="war_conflict" data-text="intel surges before q1 earnings report—should you buy intc stock? intel surges before q1 earnings report—should you buy intc stock? amit singh fri, april 10, 2026 at 2:12 pm cdt 4 min read intc goog intel (intc) stock has extended its strong momentum into 2026, following a significant rally in 2025. in the current year, shares have continued to advance, rising more than 70% year-to-date (ytd). the recent surge has accelerated in the past week, with intc climbing about 25% over the last five trading days. part of this rally followed intel’s announcement that it will participate in elon musk’s terafab project. the development has boosted investor optimism arou">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 13.10 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: selloff, earnings, war">13.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/intel-surges-q1-earnings-report-191222838.html" target="_blank" rel="noopener">Intel Surges Before Q1 Earnings Report—Should You Buy INTC Stock?</a></h3>
+  <p class="preview card-detail">Intel Surges Before Q1 Earnings Report—Should You Buy INTC Stock? Amit Singh Fri, April 10, 2026 at 2:12 PM CDT 4 min read INTC GOOG Intel (INTC) stock has extended its strong momentum into 2026, following a significant rally in 2025. In the current year, shares have continued to advance, rising mor&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:12:22Z</time>
+    <span class="kw-hint">🔑 selloff, earnings, war</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="13.10" data-date="2026-04-09" data-themes="war_conflict,oil_energy" data-text="iran war has exposed the weakness of the dollar as opec members have long understood, it is not a good idea to give users of your product an incentive to find alternatives">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -6662,6 +6732,20 @@
     <span class="kw-hint">🔑 s&p 500, war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="11.96" data-date="2026-04-10" data-themes="war_conflict" data-text="why simply good foods stock just had its worst day in years why simply good foods stock just had its worst day in years chris markoch, marketbeat fri, april 10, 2026 at 2:10 pm cdt 4 min read smpl pep a collection of simply good foods protein bars and shake bottles arranged on a wooden kitchen counter. key points shares of simply good foods stock plunged over 18% after the company missed revenue estimates and cut full-year guidance. quest faces rising competition, while atkins struggles against glp-1 weight loss drugs. smpl may look cheap at 6.5x foward earnings, but ongoing headwinds suggest caution for long-term investors. interested in the simply go">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.96 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: nasdaq, earnings, war, tariff">12.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/why-simply-good-foods-stock-191000847.html" target="_blank" rel="noopener">Why Simply Good Foods Stock Just Had Its Worst Day in Years</a></h3>
+  <p class="preview card-detail">Why Simply Good Foods Stock Just Had Its Worst Day in Years Chris Markoch, MarketBeat Fri, April 10, 2026 at 2:10 PM CDT 4 min read SMPL PEP A collection of Simply Good Foods protein bars and shake bottles arranged on a wooden kitchen counter. Key Points Shares of Simply Good Foods stock plunged ove&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:10:00Z</time>
+    <span class="kw-hint">🔑 nasdaq, earnings, war, tariff</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="11.96" data-date="2026-04-05" data-themes="war_conflict" data-text="got $5,000? 5 agentic ai growth stocks to buy before wall street catches on. got $5,000? 5 agentic ai growth stocks to buy before wall street catches on. geoffrey seiler, the motley fool sun, april 5, 2026 at 2:47 pm cdt 5 min read nvda intc amd the next big thing in artificial intelligence (ai) is here, and it has the potential to be the next megatrend that can power the market higher over the next few years. that, of course, is agentic ai , where ai moves beyond creating content to independently executing tasks. the best thing about this trend, though, is that wall street hasn't yet fully caught on to its potential. there are several ways to play this agentic ai mega">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -7012,6 +7096,20 @@
     <span class="kw-hint">🔑 war, conflict, middle east, tariff</span>
   </div>
 </article>
+<article class="card card-alert" data-score="11.62" data-date="2026-04-10" data-themes="war_conflict" data-text="strategy adds 4,871 bitcoins to its stash this month strategy adds 4,871 bitcoins to its stash this month cryptoprowl fri, april 10, 2026 at 2:42 pm cdt 1 min read mstr btc-usd strc strd strf strategy adds 4,871 bitcoins to its stash this month although the crypto market has cooled off this year, michael saylor, the executive chairman of strategy (nasdaq: $mstr), remains as bullish as ever. his company continues to add to its stockpile of crypto, adding 4,871 btc thus far in april, for a total purchase price of around $330 million. with that purchase, the company now has 766,970 btc. its average cost is $75,644, which is still above the levels t">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.62 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: nasdaq, war, bitcoin, crypto">11.6 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/strategy-adds-4-871-bitcoins-194200693.html" target="_blank" rel="noopener">Strategy Adds 4,871 Bitcoins to Its Stash This Month</a></h3>
+  <p class="preview card-detail">Strategy Adds 4,871 Bitcoins to Its Stash This Month CryptoProwl Fri, April 10, 2026 at 2:42 PM CDT 1 min read MSTR BTC-USD STRC STRD STRF Strategy Adds 4,871 Bitcoins to Its Stash This Month Although the crypto market has cooled off this year, Michael Saylor, the Executive Chairman of Strategy (NAS&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:42:00Z</time>
+    <span class="kw-hint">🔑 nasdaq, war, bitcoin, crypto</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="11.60" data-date="2026-04-09" data-themes="war_conflict" data-text="is uniti group (unit) the next big fiber acquisition? is uniti group (unit) the next big fiber acquisition? rameen kasana thu, april 9, 2026 at 3:51 pm mdt 2 min read tmus tpg unit t vz uniti group inc. (nasdaq: unit ) is among the most profitable stocks in each sector so far in 2026 . on april 1, raymond james reaffirmed a strong buy rating on uniti group inc. (nasdaq:unit) with a price target of $11. as highlighted by the firm, the company’s share price ended the last half hour of q1 with a 15.8% spike, driving nearly half of its 33.8% move for the quarter. this comes as a tmt finance article pointed to a possible acquisition of the company by ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -7233,6 +7331,20 @@
   <p class="preview card-detail">Phoenix Education Partners, Inc Q2 2026 Earnings Call Summary Moby Intelligence Wed, April 8, 2026 at 5:30 AM MST 3 min read PXED GOOG Phoenix Education Partners, Inc Q2 2026 Earnings Call Summary - Moby Strategic Performance and Operational Context Performance was characterized by a 1.8% increase i&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-04-08">2026-04-08T12:30:00Z</time>
+    <span class="kw-hint">🔑 earnings, war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="11.35" data-date="2026-04-10" data-themes="war_conflict" data-text="down 5% in 2026, is muse spark what meta stock needs to finally recover? down 5% in 2026, is muse spark what meta stock needs to finally recover? ebube jones fri, april 10, 2026 at 2:29 pm cdt 5 min read meta meta (meta) is still in the red for the year, with legal, regulatory, and heavy spending worries dragging on the mood around the company. in late march, the stock had its worst day in months, dropping about 8% after back-to-back jury verdicts tied to harm and child safety issues. that run also included a $375 million penalty in new mexico and fresh concern over how much it is pouring into ai projects. legal pressure is growing, too, with high-profile lawmakers">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.35 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: earnings, war">11.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/down-5-2026-muse-spark-192902532.html" target="_blank" rel="noopener">Down 5% in 2026, Is Muse Spark What META Stock Needs to Finally Recover?</a></h3>
+  <p class="preview card-detail">Down 5% in 2026, Is Muse Spark What META Stock Needs to Finally Recover? Ebube Jones Fri, April 10, 2026 at 2:29 PM CDT 5 min read META Meta (META) is still in the red for the year, with legal, regulatory, and heavy spending worries dragging on the mood around the company. In late March, the stock h&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:29:02Z</time>
     <span class="kw-hint">🔑 earnings, war</span>
   </div>
 </article>
@@ -7514,6 +7626,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-04-09">2026-04-09T11:05:00Z</time>
     <span class="kw-hint">🔑 earnings, war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="11.06" data-date="2026-04-10" data-themes="war_conflict" data-text="a healthcare stock with a 6%-plus yield: is the dividend safe? a healthcare stock with a 6%-plus yield: is the dividend safe? prosper junior bakiny, the motley fool fri, april 10, 2026 at 2:06 pm cdt 3 min read pfe although high dividend yields are attractive to income seekers, they can sometimes signal that the dividend is unsustainable and a payout cut is on the way. is that where we are headed with pfizer (nyse: pfe) ? the healthcare giant's poor stock market performance over the past few years has pushed its forward yield to a juicy 6.4%. but is the company's dividend safe? pfizer's rebound may have already started pfizer's revenue, earnings, and stoc">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.06 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: stock market, equities, s&p 500, earnings, war, geopolitical">11.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/healthcare/articles/healthcare-stock-6-plus-yield-190600880.html" target="_blank" rel="noopener">A Healthcare Stock With a 6%-Plus Yield: Is the Dividend Safe?</a></h3>
+  <p class="preview card-detail">A Healthcare Stock With a 6%-Plus Yield: Is the Dividend Safe? Prosper Junior Bakiny, The Motley Fool Fri, April 10, 2026 at 2:06 PM CDT 3 min read PFE Although high dividend yields are attractive to income seekers, they can sometimes signal that the dividend is unsustainable and a payout cut is on &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:06:00Z</time>
+    <span class="kw-hint">🔑 stock market, equities, s&p 500, earnings, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="11.01" data-date="2026-04-09" data-themes="war_conflict" data-text="what’s driving erasca (eras)’s nearly 355% ytd return what’s driving erasca (eras)’s nearly 355% ytd return rameen kasana thu, april 9, 2026 at 3:50 pm mdt 2 min read eras sf erasca, inc. (nasdaq: eras ) is among the most profitable stocks in each sector so far in 2026 . on march 18, jpmorgan lifted the price target on erasca, inc. (nasdaq:eras) to $25 from $24 and maintained an overweight rating. this upward price revision is based on the firm’s model adjustments within the smid-cap biotechnology group. back on march 13, stifel reaffirmed a buy rating on erasca, inc. (nasdaq:eras) with a price target of $20. this comes after the company’s q4 res">
@@ -8480,6 +8606,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-04-09">2026-04-09T11:00:02Z</time>
     <span class="kw-hint">🔑 volatility, war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="10.21" data-date="2026-04-10" data-themes="war_conflict" data-text="should you chase the rally in coreweave stock? should you chase the rally in coreweave stock? wajeeh khan fri, april 10, 2026 at 2:35 pm cdt 2 min read crwv anth.pvt coreweave (crwv) shares ripped higher on april 10 after the company announced a major multi-year cloud infrastructure agreement with anthropic to support its claude ai models. the news arrives only a day after meta expanded its ai cloud deal with crwv to a whopping $21 billion. as investors cheered these sizable transactions, coreweave stock broke above its 200-day moving average (ma), signaling a meaningful bullish reversal in long-term momentum. more news from barchart bank ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.21 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: earnings, war">10.2 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/chase-rally-coreweave-stock-193549594.html" target="_blank" rel="noopener">Should You Chase the Rally in CoreWeave Stock?</a></h3>
+  <p class="preview card-detail">Should You Chase the Rally in CoreWeave Stock? Wajeeh Khan Fri, April 10, 2026 at 2:35 PM CDT 2 min read CRWV ANTH.PVT CoreWeave (CRWV) shares ripped higher on April 10 after the company announced a major multi-year cloud infrastructure agreement with Anthropic to support its Claude AI models. The n&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:35:49Z</time>
+    <span class="kw-hint">🔑 earnings, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="10.19" data-date="2026-04-11" data-themes="" data-text="astera labs (alab) eyes ‘high double-digit growth,’ soars 27% astera labs (alab) eyes ‘high double-digit growth,’ soars 27% angelica ballesteros sat, april 11, 2026 at 2:53 pm pdt 2 min read alab astera labs inc. (nasdaq:alab) is one of the 10 stocks powering portfolios by double digits. astera labs saw its share prices surge by 27.2 percent week-on-week, as investors loaded portfolios amid expectations of a robust earnings performance for the first quarter of the year. in a notice to investors, astera labs inc. (nasdaq:alab) said that it would report its financial and operating highlights after market close on may 5, 2026, to be accompanied by a confere">
@@ -9586,6 +9726,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-04-07">2026-04-07T16:24:00Z</time>
     <span class="kw-hint">🔑 interest rate, s&p 500, earnings, gold</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="9.44" data-date="2026-04-10" data-themes="war_conflict" data-text="management at fleet payments wex faces proxy battle management at fleet payments wex faces proxy battle wex corporate headquarters in portland, maine. (photo: wex) john kingston fri, april 10, 2026 at 2:00 pm cdt 5 min read wex an investment company is seeking to dislodge three directors at wex, a major payments provider for fleets. the company, impactive capital master fund lp and its affiliates, urged “no” votes last year on three candidates. but those directors ultimately won. this year, impactive is putting up its own slate of candidates and is targeting three incumbents including current ceo and chairwoman melissa smith. in a proxy filing ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.44 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: fed, war, conflict">9.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/management-fleet-payments-wex-faces-190000567.html" target="_blank" rel="noopener">Management at fleet payments WEX faces proxy battle</a></h3>
+  <p class="preview card-detail">Management at fleet payments WEX faces proxy battle WEX corporate headquarters in Portland, Maine. (Photo: WEX) John Kingston Fri, April 10, 2026 at 2:00 PM CDT 5 min read WEX An investment company is seeking to dislodge three directors at WEX, a major payments provider for fleets. The company, Impa&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:00:00Z</time>
+    <span class="kw-hint">🔑 fed, war, conflict</span>
   </div>
 </article>
 <article class="card card-alert" data-score="9.44" data-date="2026-04-05" data-themes="war_conflict" data-text="a new mit-backed tool shows exactly why your electricity bill is going up in your neighborhood — you should be concerned a new mit-backed tool shows exactly why your electricity bill is going up in your neighborhood — you should be concerned emma caplan-fisher sun, april 5, 2026 at 4:55 pm edt 5 min read electricity bills have long been one of the most frustrating black boxes in household budgets, but a new data tool is finally shedding light on what’s really driving those rising costs. launched by researchers at the massachusetts institute of technology (mit) in partnership with heatmap news, the electricity price hub gives consumers a rare, detailed look at how power prices and monthly bills are changing (1) —">
@@ -11156,6 +11310,20 @@
     <span class="kw-hint">🔑 inflation, equities, nasdaq, treasury, bond</span>
   </div>
 </article>
+<article class="card card-alert" data-score="7.83" data-date="2026-04-10" data-themes="" data-text="morgan stanley enters bitcoin etf arena with the launch of a new fund morgan stanley enters bitcoin etf arena with the launch of a new fund cryptoprowl fri, april 10, 2026 at 2:39 pm cdt 2 min read ms msbt btc btc-usd morgan stanley enters bitcoin etf arena with the launch of a new fund the digital asset landscape is witnessing a significant tactical shift as traditional financial institutions aggressively expand their crypto footprints. despite recent price volatility that has characterized the start of the year, institutional adoption has reached a new milestone this week with morgan stanley officially launching its bitcoin trust. the debut signals an end to t">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.83 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: volatility, geopolitical, bitcoin, crypto">7.8 <sup>ℹ</sup></span>
+    
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-enters-bitcoin-etf-193900883.html" target="_blank" rel="noopener">Morgan Stanley Enters Bitcoin ETF Arena With the Launch of a New Fund</a></h3>
+  <p class="preview card-detail">Morgan Stanley Enters Bitcoin ETF Arena With the Launch of a New Fund CryptoProwl Fri, April 10, 2026 at 2:39 PM CDT 2 min read MS MSBT BTC BTC-USD Morgan Stanley Enters Bitcoin ETF Arena With the Launch of a New Fund The digital asset landscape is witnessing a significant tactical shift as traditio&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:39:00Z</time>
+    <span class="kw-hint">🔑 volatility, geopolitical, bitcoin, crypto</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="7.79" data-date="2026-04-05" data-themes="war_conflict" data-text="the professional negotiators who do deals with cyber criminals with ransomware attacks on the rise, businesses are calling on a new class of security expert to help with high-stakes talks">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -11716,6 +11884,20 @@
     <span class="kw-hint">🔑 china, taiwan</span>
   </div>
 </article>
+<article class="card card-alert" data-score="7.13" data-date="2026-04-10" data-themes="war_conflict" data-text="volkswagen makes harsh decision to end ev production in u.s. volkswagen makes harsh decision to end ev production in u.s. hillary remy fri, april 10, 2026 at 2:13 pm cdt 3 min read volkswagen is pulling the plug on its only american-made electric vehicle. the decision is blunt, and the numbers behind it are hard to deny. the company confirmed it will end production of the id.4 electric crossover at its chattanooga, tennessee, plant in mid-april 2026. the plant will pivot to making the gas-powered atlas and atlas cross sport, with the 2027 model year atlas set to begin production this summer and reach dealerships in fall 2026. numbers back up volkswagen ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.13 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: fed, war">7.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/volkswagen-makes-harsh-decision-end-191300551.html" target="_blank" rel="noopener">Volkswagen makes harsh decision to end EV production in U.S.</a></h3>
+  <p class="preview card-detail">Volkswagen makes harsh decision to end EV production in U.S. Hillary Remy Fri, April 10, 2026 at 2:13 PM CDT 3 min read Volkswagen is pulling the plug on its only American-made electric vehicle. The decision is blunt, and the numbers behind it are hard to deny. The company confirmed it will end prod&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:13:00Z</time>
+    <span class="kw-hint">🔑 fed, war</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="7.12" data-date="2026-04-09" data-themes="" data-text="exelon (exc) price target increased to $52 following favorable order by maryland psc exelon (exc) price target increased to $52 following favorable order by maryland psc sultan khalid wed, april 8, 2026 at 9:57 pm edt 1 min read exc exelon corporation (nasdaq: exc ) is included among the 15 utility stocks with highest dividends . exelon (exc) price target increased to $52 following favorable order by maryland psc exelon corporation (nasdaq:exc) is one of the country’s largest utility companies, serving more than 10 million customers through six fully regulated transmission and distribution utilities. on april 2, bmo capital slightly raised its price target on exelon corporatio">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -11868,6 +12050,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-04-11">2026-04-11T15:47:03Z</time>
     <span class="kw-hint">🔑 nasdaq, tariff, bitcoin</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="6.93" data-date="2026-04-10" data-themes="war_conflict" data-text="mild us weather weighs on nat-gas prices mild us weather weighs on nat-gas prices rich asplund fri, april 10, 2026 at 2:17 pm cdt 3 min read ng=f may nymex natural gas (ngk26) on friday closed down -0.022 (-0.82%). nat-gas prices tumbled to a fresh 7.5-month nearest-futures low on friday and settled lower.  forecasts for mild us spring weather that could potentially reduce nat-gas heating demand are weighing on prices.  on friday, the commodity weather group said forecasts show above-average temperatures across the eastern half of the us through april 19. more news from barchart crude prices gain as closure of strait of hormuz curbs ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.93 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, oil">6.9 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/commodities/articles/mild-us-weather-weighs-nat-191716294.html" target="_blank" rel="noopener">Mild US Weather Weighs on Nat-Gas Prices</a></h3>
+  <p class="preview card-detail">Mild US Weather Weighs on Nat-Gas Prices Rich Asplund Fri, April 10, 2026 at 2:17 PM CDT 3 min read NG=F May Nymex natural gas (NGK26) on Friday closed down -0.022 (-0.82%). Nat-gas prices tumbled to a fresh 7.5-month nearest-futures low on Friday and settled lower.  Forecasts for mild US spring wea&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:17:16Z</time>
+    <span class="kw-hint">🔑 war, oil</span>
   </div>
 </article>
 <article class="card card-alert" data-score="6.91" data-date="2026-04-08" data-themes="" data-text="european bonds surge as traders trim bets on interest rate rises government debt in uk and eurozone on course for strongest day since 2023">
@@ -15958,6 +16154,20 @@
     
   </div>
 </article>
+<article class="card" data-score="1.52" data-date="2026-04-10" data-themes="" data-text="these power equipment stocks surge to new highs ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.52 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.5 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.investors.com/stock-lists/new-highs/power-equipment-stocks-ttm-technolgies-ttmi-fabrinet-fn-allient-alnt/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">These Power Equipment Stocks Surge To New Highs</a></h3>
+  <p class="preview card-detail"></p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-04-10">2026-04-10T19:24:23Z</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.50" data-date="2026-04-05" data-themes="" data-text="400% gains for ai stocks help drive hong kong ipos to 5-year high deal backlogs and stricter quality controls are pushing some tech firms back to mainland chinese listings">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -18183,9 +18393,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["04-05", "04-06", "04-07", "04-08", "04-09", "04-10", "04-11"],
+    labels: ["04-06", "04-07", "04-08", "04-09", "04-10", "04-11", "04-12"],
     datasets: [{
-      data: [115, 223, 244, 213, 187, 146, 129],
+      data: [223, 244, 213, 187, 161, 129, 0],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -18199,7 +18409,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [721, 34, 149, 30, 32, 10, 9, 4, 5, 17, 1];
+const themeValues = [734, 34, 150, 32, 32, 11, 9, 4, 5, 17, 1];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
