@@ -68,17 +68,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "OPEC Commits to Boost Output Once Hormuz Reopens",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/opec-commits-boost-output-once-054324481.html",
-      "published_date": "2026-04-06T05:43:24Z",
-      "scrape_timestamp": "2026-04-06T10:01:03.180963+00:00",
-      "content": "OPEC Commits to Boost Output Once Hormuz Reopens Irina Slav Mon, April 6, 2026 at 1:43 AM EDT 2 min read CL=F OPEC on Sunday agreed to boost oil production by another 206,000 barrels daily, which will be theoretical only as production in the Middle East remains constrained by the Strait of Hormuz crisis. The move was expected , with reports saying the eight OPEC members that are managing their production stand ready to start adding barrels quickly should the situation in the Persian Gulf change. More from Yahoo Scout What impact has Trump's Iran threats had on prices? Why is WTI trading at premium to Brent crude? Which OPEC members made the biggest production cuts? How does the Strait of Hormuz crisis affect oil production? More than 20% of global oil flows normally pass through Hormuz. That flow is now constrained by the U.S.-Israeli war with Iran. Saudi Arabia, Iraq, Kuwait, and the UAE have already curtailed output as exports stall, with the combined cuts seen at over 11 million barrels daily. Prices pushed toward $120 per barrel as a result last month but have since retreated somewhat. At the time of writing, Brent crude was trading at $109.73 per barrel, with West Texas Intermediate at a rare premium to the international benchmark, trading at $111.20 per barrel, after President Trump delivered yet another threat to Iran, using unusually strong language and giving Tehran yet another deadline to reopen the Strait of Hormuz or “face hell”. Meanwhile, Reuters reported last week that OPEC’s combined oil output losses for March were estimated at 7.2 million barrels daily, based on data from LSEG and analytics providers including Kpler. The biggest production cuts were made by Kuwait, Iraq, the United Arab Emirates, and Saudi Arabia, for a total OPEC output of 21.57 million barrels daily for March. This is the lowest OPEC production rate since June 2020, Reuters noted in its report. Venezuela and Nigeria were the only OPEC members that saw their oil production increase in March. Iranian attacks on infrastructure in the Gulf countries continued, with UPI reporting Sunday fresh strikes in the UAE, Bahrain, and Kuwait. The prospects of the Strait of Hormuz reopening anytime soon remain distant. By Irina Slav for Oilprice.com More Top Reads From Oilprice.com Trump Says US Could ‘Take the Oil’ in Hormuz Push WTI Prices Soar Past Brent Traders Ramp Up Bearish Oil Bets To Nearly $1 Billion Oilprice Intelligence brings you the signals before they become front-page news. This is the same expert analysis read by veteran traders and political advisors. Get it free, twice a week, and you'll always know why the market is moving before everyone else. You get the geopolitical intelligence, the hidden inventory data, and the market whispers that move billions - and we'll send you $389 in premium energy intelligence, on us, just for subscribing. Join 400,000+ readers today. Get access immediately by clicking here. Terms and Privacy Policy Your Privacy Choices More Info",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Brace for Impact: Why Oil Prices Could Be Extremely Volatile This Week.",
       "link": "https://finance.yahoo.com/sectors/energy/articles/brace-impact-why-oil-prices-093500175.html",
       "published_date": "2026-04-06T09:35:00Z",
@@ -1096,17 +1085,6 @@
       "published_date": "Mon, 06 Apr 2026 09:00:22 GMT",
       "scrape_timestamp": "2026-04-06T18:44:18.320243+00:00",
       "content": "In this valley oasis, Marina O’Loughlin finds the food superb, the bedtimes early and the locals determined to keep it that way",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US employment: more sludge",
-      "link": "https://www.ft.com/content/65d2617f-ebee-488f-9407-aacab8f38e5e",
-      "published_date": "Mon, 06 Apr 2026 05:30:08 GMT",
-      "scrape_timestamp": "2026-04-06T18:44:18.520384+00:00",
-      "content": "Plus, guns and butter redux",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -14530,11 +14508,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The risks of Trump’s Strait of Hormuz blockade plan",
+      "link": "https://www.ft.com/content/54003e09-03dd-4a45-90d3-98354f8aadfb",
+      "published_date": "Mon, 13 Apr 2026 04:46:54 GMT",
+      "scrape_timestamp": "2026-04-13T07:10:00.071180+00:00",
+      "content": "Naval embargo designed to cut off Iran’s exports threatens to destabilise global energy markets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-13T04:52:29.454604+00:00",
+  "last_updated": "2026-04-13T07:10:07.617129+00:00",
   "metadata": {
-    "total_runs": 1010,
+    "total_runs": 1011,
     "sources": [
       "Yahoo Finance",
       "Financial Times"
