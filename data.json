@@ -2,83 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US and Iran agree 2-week ceasefire that will open Strait of Hormuz",
-      "link": "https://www.ft.com/content/d8e9e0e9-9417-47ad-a915-ba08049d643f",
-      "published_date": "Wed, 08 Apr 2026 04:07:07 GMT",
-      "scrape_timestamp": "2026-04-08T04:30:01.821870+00:00",
-      "content": "Donald Trump had warned of attacks that would threaten ‘a whole civilisation’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How private equity became hooked on second-hand deals",
-      "link": "https://www.ft.com/content/d1343e8c-2515-4749-9125-c00e938e76f0",
-      "published_date": "Wed, 08 Apr 2026 04:00:07 GMT",
-      "scrape_timestamp": "2026-04-08T04:30:02.222331+00:00",
-      "content": "Elite private capital firms have piled into the secondaries market as they race to attract assets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Freedom itself is at stake in Hungary",
-      "link": "https://www.ft.com/content/eecc0afe-3042-403e-8844-a9898eca7cf3",
-      "published_date": "Wed, 08 Apr 2026 04:00:16 GMT",
-      "scrape_timestamp": "2026-04-08T04:30:02.422539+00:00",
-      "content": "Sunday’s election will show if it’s possible to defeat Orbán’s illiberal democracy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The dystopian fantasy of uselessness",
-      "link": "https://www.ft.com/content/28dfa485-3c88-4963-82f8-5530a72792fe",
-      "published_date": "Wed, 08 Apr 2026 04:00:07 GMT",
-      "scrape_timestamp": "2026-04-08T04:30:02.622753+00:00",
-      "content": "Fears that AI will strip our lives of meaning are based on three fallacies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Perplexity revenue jumps 50% in pivot from search to AI agents",
-      "link": "https://www.ft.com/content/e9c28d31-a962-4684-8b58-c9e6bc68401f",
-      "published_date": "Wed, 08 Apr 2026 04:00:16 GMT",
-      "scrape_timestamp": "2026-04-08T04:30:02.822953+00:00",
-      "content": "San Francisco-based start-up surges from push into more complex and potentially more lucrative AI services",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Turkey’s gold sales deepen bullion slump",
-      "link": "https://www.ft.com/content/6c931469-495c-4860-a455-4888af072f58",
-      "published_date": "Wed, 08 Apr 2026 04:00:16 GMT",
-      "scrape_timestamp": "2026-04-08T04:30:03.023161+00:00",
-      "content": "Central bank arranged $20bn of sales and swaps in March as it battled to support the lira",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The question over Trump’s ‘historic’ refinery deal: $300bn or $40mn?",
-      "link": "https://www.ft.com/content/f217467c-e113-4aa2-ac5e-7046a1dc9be0",
-      "published_date": "Wed, 08 Apr 2026 04:37:38 GMT",
-      "scrape_timestamp": "2026-04-08T06:16:37.740596+00:00",
-      "content": "Reliance Industries has made no announcement to the stock exchange about the project in Brownsville, Texas",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "European bonds surge as traders trim bets on interest rate rises",
       "link": "https://www.ft.com/content/d95b2a55-9441-4d68-80e3-1dee0ead31c8",
       "published_date": "Wed, 08 Apr 2026 09:16:31 GMT",
@@ -326,17 +249,6 @@
       "published_date": "Wed, 08 Apr 2026 11:21:42 GMT",
       "scrape_timestamp": "2026-04-08T13:00:31.577845+00:00",
       "content": "An idea that didn’t work for Richard Nixon probably won’t for Donald Trump",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US carmakers accuse EU of blocking supersized pick-up trucks from roads",
-      "link": "https://www.ft.com/content/3eb796fd-bcdb-4a9f-89b7-f7d5e692a3cd",
-      "published_date": "Wed, 08 Apr 2026 04:00:16 GMT",
-      "scrape_timestamp": "2026-04-08T13:00:32.578925+00:00",
-      "content": "Brussels is proposing to tighten safety rules that apply to a small number of specialist imports",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -13529,14 +13441,168 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Europe’s Best Energy Startups Are Leaving",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/why-europe-best-energy-startups-170000237.html",
+      "published_date": "2026-04-13T17:00:00Z",
+      "scrape_timestamp": "2026-04-15T04:38:45.535940+00:00",
+      "content": "Why Europe’s Best Energy Startups Are Leaving Leon Stille Mon, April 13, 2026 at 1:00 PM EDT 7 min read Europe has long punched above its weight in research excellence, innovation clusters and academic talent. And yet, when it comes to growing global businesses, particularly in deep technology and energy transition sectors, Europe routinely sees its most promising companies relocate or expand outside its borders. More from Yahoo Scout Why is talent mobility crucial for European competitiveness? How does capital fragmentation impact European business growth? Why are European startups relocating to other markets? What regulatory challenges hinder energy transition companies? A new study from a leading European institution has put more rigour behind a phenomenon many founders quietly acknowledge but few policymakers have fully internalised. The study’s detailed analysis of relocation drivers reveals something that should be front-and-centre in Europe’s energy and industrial strategy: entrepreneurs do not leave because of ideology. They leave because of ecosystem economics . If Europe is serious about leading the next energy transition, it cannot afford to treat relocation as a sideline policy problem. It is central to whether the continent retains its innovative advantage or becomes an exporter of ideas and an importer of solutions. Relocation Is Not a Nuisance. It’s a Structural Signal The study confirms what many founders have been telling investors and policymakers for years: relocation is not random. It is driven by measurable factors, access to finance, regulatory certainty, talent mobility, speed of scaling and quality of markets. In other words, CEOs do not wake up one day and decide to move headquarters for emotional reasons. They do it because their business model requires scale , and the European ecosystem often limits it. Related: The Pentagon Has 268 Days to Replace America’s Most Critical Supply Chain This matters especially in capital-intensive sectors such as energy transition. Scaling a green hydrogen technology, industrial decarbonisation system, electrolysis platform or carbon capture solution is not like launching a mobile app. These businesses need infrastructure, long-term capital, multi-jurisdictional market access and predictable regulatory frameworks. If Europe fails to provide those, it will not just lose companies. It will lose industrial leadership . Capital Follows Certainty One of the most striking insights from the relocation study is the role of financial ecosystem depth. In the United States, a startup can access regional, national and global capital markets without changing base. Venture funds, crossover investors, sovereign and pension funds often participate in the same rounds. This creates a virtuous cycle: more capital attracts more founders; more founders justify more capital. In Europe, by contrast, capital is often fragmented along national lines. A French venture fund may invest domestically but be less comfortable operating in Poland. A Swedish fund may favour the Nordics but be hesitant about Iberia. This national segmentation shapes not just where companies grow, but where they incorporate , raise funds , and ultimately base their long-term operations . Story Continues The result is material. Companies are more likely to relocate to jurisdictions where capital is dense, regulatory frameworks are harmonised and markets are large. For energy transition technologies, this challenge is amplified. These companies are expensive to scale, often require infrastructure partnerships and cannot survive on early-stage capital alone. They need late-stage, patient capital, and increasingly, public investment vehicles that can de-risk first-of-a-kind projects. Europe has some of these mechanisms. But they are not yet aligned at scale the way they are in the U.S. or increasingly in Asia. Regulatory Complexity Is a Hidden Tax Another key driver of relocation identified in the study is regulatory complexity. Founders repeatedly point to permitting delays, inconsistent enforcement, and multi-layered compliance obligations as reasons their businesses cannot scale fast enough in Europe. In the energy transition context, this problem is amplified. Building a green hydrogen facility, bio-refinery, grid-interactive storage system or carbon capture hub means navigating not one set of rules, but a patchwork of electricity laws, environmental permits, energy market codes, safety standards, cross-border transmission rules and local planning laws. It is not surprising that a company with global ambitions might plant roots in a market where regulatory timelines are predictable, permitting is more streamlined, and compliance costs are lower. In an era where time-to-market can make or break billion-euro projects, this is not a comfort issue. It is a competitiveness issue. Talent Mobility and the Innovation Magnet Talent mobility is another structural driver highlighted in the research. Startups relocate not just for capital or rules, but for talent. A founder I recently spoke with described the situation bluntly: “If I cannot hire the engineers and operators I need within a six-month window, I have no choice but to go where they already are.” This is precisely why ecosystems like Silicon Valley, Boston, Berlin, Shenzhen and Bangalore have become self-reinforcing magnets. Talent circulates. Ideas find execution. Scale becomes easier. Europe’s own innovation corridors, Paris, Stockholm, Munich, Amsterdam, have demonstrated the continent’s potential. But these ecosystems remain relatively siloed and not as interconnected as their North American or Asian counterparts. If European startups, especially those in hard tech and energy transition, cannot reliably access pan-European talent pools without excessive bureaucracy, they will continue to look elsewhere. The study’s findings validate this dynamic. And they underline a simple truth: scaling global technologies requires global access to talent. Fragmentation will keep Europe a mosaic of local success stories rather than a continent-wide engine of innovation. Rethinking Incentives for Strategic Industries Where this research intersects most profoundly with the energy transition is in the notion of strategic scale . Not all startups are created equal in their impact on decarbonisation pathways. A mobile app can be valuable. A novel logistics platform can be disruptive. But a company that can produce renewable hydrogen at cost, enable industrial CO? capture and storage, or integrate flexible long-duration storage into Europe’s grid can shape national and continental outcomes . Europe recognises this in its energy policy frameworks, from renewable targets to RFNBO quotas, from offshore wind goals to bioenergy expansions. But the investment environment has not always reflected the same seriousness. Encouraging early-stage investment is good. But preserving these companies and enabling them to grow in Europe is what leads to industrial sovereignty . That means aligning capital incentives, harmonising regulation, easing talent mobility and creating pan-European markets with minimal barriers to scaling. Retaining Companies Is Retaining The Transition If Europe loses startups to relocation, it loses more than jobs and tax revenue. It loses intellectual infrastructure, industrial momentum and future export capacity. In the context of the energy transition, that loss is not academic. It is strategic. Europe has some distinct advantages: high environmental standards, ambitious policy targets, advanced industrial clusters, and deep academic ecosystems. But these advantages mean little if the outcome remains that companies developed in Europe first look internationally for the conditions to scale. The relocation study makes clear that this is not an inevitability. It is a consequence of modifiable conditions, capital fragmentation, regulatory complexity, talent friction and market disintegration. None of t",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Weekly survey of mortgage lenders with the best rates: 4 lenders dip below 6% APR",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-13-2026-170834921.html",
+      "published_date": "2025-11-03T17:08:34Z",
+      "scrape_timestamp": "2026-04-15T04:38:45.535973+00:00",
+      "content": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . Weekly survey of mortgage lenders with the best rates: 4 lenders dip below 6% APR Hal Bundrick, CFP® · Senior Writer Updated Mon, April 13, 2026 at 12:06 PM EDT 4 min read We didn't see this coming: Four mortgage lenders are advertising fee-included rates under 6%, according to our latest analysis. The Yahoo Finance weekly survey ranks lenders by the lowest annual percentage rate (APR), which includes lender fees. Read on to see the 10 lenders with the lowest rates this week. MORE: See our top picks for mortgage lenders for first-time home buyers. Mortgage lenders with the best rates: April 13, 2026 Here are the 10 mortgage lenders with the best interest rates this week, as determined by our survey of the lowest mortgage rates on 30-year, fixed-rate conventional loans. The following numbers are each lender’s annual percentage rate (APR). Navy Federal Credit Union : 5.866% Better : 5.959% Chase Home Loans : 5.965% Citi Mortgage: 5.983% PenFed Credit Union : 6.042% U.S. Bank : 6.122% Truist : 6.275% Wells Fargo : 6.401% Rate : 6.420% Citizens Bank : 6.450% Back under 6%: Navy Federal, Better, Chase, and Citi With continuing bond market volatility, it may not last long, but four national lenders priced mortgages under 6% APR in our latest survey: Navy Federal, Better, Chase Home Loans, and Citi Mortgage. Of the 16 national lenders surveyed on April 13, Flagstar Bank, Fifth Third Bank, PNC, Bank of America, Third Federal, and Rocket Mortgage, failed to make the top 10, based on annual percentage rates. An APR difference of 1.04 percentage points separated the top lender, Navy Federal, from the bottom-ranked lender, Rocket Mortgage. Read more: Is it a good time to refinance? Important note: Sample mortgage rates use generic data These are all sample mortgage rates found on lender websites and are based on generic assumptions. Lenders advertise 30-year mortgage rates based on varying credit scores, down payments, and other credit qualifications. Even where you live affects your mortgage rate. Your rate will be based on your particular credit profile. If a mortgage lender required additional borrower information to provide a sample rate, we supplied a median home value and credit score, with a 20% down payment based on a home located in the Midwest. Read more: See the average mortgage rate in your state How to shop for mortgage rates The key to securing the lowest mortgage rate is shopping around, which could save borrowers up to an average of $44,000 over the life of a 30-year loan, according to analysis by Realtor.com. Focus on the APR We're also looking for details that you will want to consider. Often, borrowers focus on the offered interest rate, as that's what lenders typically highlight. However, the mortgage annual percentage rate, or APR, is the most important number. APR includes both the interest rate and lender fees (for example, the mortgage origination fee ), so it is the most accurate measure of your annual borrowing costs. Discount points are an option Lenders often include mortgage discount points to lower their offered interest rate. That's where things can get confusing. First off, discount points are prepaid interest — an up-front fee paid at closing that reduces your interest rate. Although lenders often include discount points in their advertised rates online, buying points is optional. Each point represents 1% of your loan amount and generally lowers your interest rate by about 0.25%. For example, one point on a $400,000 mortgage would cost $4,000 and reduce a 6.25% home loan to 6%. Just remember, no matter what the lender puts in an advertised rate or in a loan offer, when you get a Loan Estimate , and you see discount points under the lender fees section, you can say “no” and have them removed. But your rate will be higher. Learn more: How mortgage rates are determined Look for special rate offers and fee discounts One thing we're seeing more often: Lenders sometimes offer special discounts off their interest rates and fees. For example, PNC is currently offering $500 off closing costs on purchase loans. If a lender you are interested in is not currently promoting a discount, ask for any concessions they can offer and let them know you are shopping with multiple lenders. Simplify your mortgage rate shopping process That's a lot of moving parts, we know. If possible, when shopping with three or more lenders, have each of them provide a quote for a mortgage rate with zero discount points. Then, focus on the APR for an accurate side-by-side comparison of rates and fees. How we determined the mortgage lenders with the lowest rates See the table below to understand the Yahoo Finance methodology for determining which mortgage lenders have the best rates this week. Remember, we are sorting by APR, which includes both the interest rates and mortgage lender fees, including points. More from Yahoo Scout What are mortgage discount points and fees? Which lenders are offering mortgages under 6% rates? How much can shopping around save borrowers? How should borrowers compare mortgage rates when shopping? Mortgage rates dip back down to near 3-year lows Mortgage rates inched lower this week as an upbeat jobs report bumped the bond market slightly higher. Best mortgage lenders of April 2026 The best mortgage lenders offer low interest rates, a range of loan programs, and high customer satisfaction. Choose the best mortgage lender for your needs. The best VA loan lenders of April 2026 VA loans are great for military personnel, and the top-rated VA mortgage lenders offer low fees and interest rates. Find the best VA loan lender for your family. Navy Federal Credit Union mortgage review 2026 A Navy Federal mortgage is a great option for current and former military members and their families. Find your Navy Federal mortgage rate. Lower Mortgage review 2026 Lower Mortgage offers several mortgage types and fast closing times. Find out if Lower is a good fit for you in this in-depth review. Best mortgage lenders for bad credit in February 2026 The best mortgage lenders for bad credit offer FHA loans, accept alternative credit data, and have unique programs for buyers. Find your best mortgage lender.",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Looking to Profit From the Artemis II Mission? Buy RocketLab and AeroVironment Stocks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/looking-profit-artemis-ii-mission-171602551.html",
+      "published_date": "2026-04-13T17:16:02Z",
+      "scrape_timestamp": "2026-04-15T04:38:45.535998+00:00",
+      "content": "Looking to Profit From the Artemis II Mission? Buy RocketLab and AeroVironment Stocks. Sristi Suman Jayaswal Mon, April 13, 2026 at 1:16 PM EDT 9 min read AVAV LMT BA When Artemis II successfully carried astronauts around the Moon, it did not simply mark a return to deep space after decades. It reignited the market’s fascination with the business of space. Slated as the first crewed lunar flyby in over five decades, the mission is a critical test of life-support systems and deep-space capabilities that could shape humanity’s return to the Moon and, eventually, the path to Mars. According to Bank of America’s (BAC) analyst Ronald Epstein, this is not just a scientific milestone, but an economic signal. Behind the scenes, an entire industrial web is at work, from legacy giants like Lockheed Martin (LMT) and Boeing (BA) to a new wave of agile players. Yet, the road ahead is not without friction. High costs, execution risks, and the urgent push toward reusability are redefining the sustainability of this space race – especially with China accelerating its own lunar ambitions. More News from Barchart As the Cybersecurity Selloff Continues, Palo Alto Just Scored a New Deal with Anthropic. Should You Buy the Dip in PANW Stock? Stocks Recover as Oracle Leads Software Companies Higher Dear ASML Stock Fans, Mark Your Calendars for April 15 Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines. But according to the analyst, investor enthusiasm is increasingly tilting toward emerging space and defense tech players, and companies like Rocket Lab Corporation (RKLB) and AeroVironment (AVAV) are gaining traction. Both stocks have delivered solid returns over the past year. This momentum is being fueled by rising demand for next-generation capabilities, ranging from launch services to drones and autonomous systems, alongside supportive geopolitical tailwinds, reinforcing their position as key growth drivers in an increasingly strategic and fast-evolving space and defense landscape. For investors looking skyward, this may be the moment to snag these stocks while the runway for growth is still expanding. Stock #1: Rocket Lab Rocket Lab, founded in 2006 and headquartered in Long Beach, California, has evolved into a full-scale, end-to-end space company serving both commercial and government clients. It designs, builds, and launches rockets while also offering spacecraft and broader space systems, making it a one-stop shop for space missions. At the core of its operations is the Electron rocket, a lightweight launch vehicle widely used to deploy small satellites into low Earth orbit. With over 250 satellites launched and more than 1,700 already in orbit carrying its technology, Electron has built a strong reputation for reliability and frequent launches. Story Continues Rocket Lab is now aiming bigger with Neutron, its upcoming medium-lift rocket designed for large constellations and deep space missions, capable of delivering a payload of 13,000 kgs. Alongside launch services, the company also focuses on satellite manufacturing and mission management, expanding its reach across the space value chain. With a market cap of about $38.6 billion, Rocket Lab is positioning itself as a key player in the growing space economy. RKLB stock has seen a lot of ups and downs recently. It got a boost after the U.S.-Iran ceasefire eased market worries, helping aerospace stocks move higher as overall sentiment improved. Better outlook for aviation and stable trade routes also supported the trend. The stock had hit a high of $99.58 in January, but is now about 29% below that level, and in 2026, RKLB is up only marginally at 0.06%. Still, looking at the bigger picture, the stock has delivered strong gains of 255.58% over the past 52 weeks. This rise has been backed by solid business growth, increasing revenue, and a strong backlog. The company is also benefiting from rising defense demand and expanding through acquisitions. Even with some recent pullback, the overall story still looks positive. www.barchart.com Rocket Lab continues to build strong momentum, with its financial results showing steady growth across the board. In Q4 2025, the company reported revenue of $179.7 million, up 35.7% year-over-year (YOY), though it posted a loss of -$0.09 per share. For fiscal 2025, Rocket Lab delivered record revenue of $602 million, marking a solid 38% annual increase. Operationally, 2025 was a milestone year. The company completed 21 launches across its Electron and HASTE vehicles, achieving a 100% success rate. At the same time, it made meaningful progress on its next-generation Neutron rocket, reaching key development milestones. Also, Rocket Lab secured its largest contract to date – an $816 million award from the U.S. Space Development Agency to design and manufacture 18 satellites. In addition, it successfully launched two spacecraft for NASA and the University of California, Berkeley, for the ESCAPADE Mars mission, showcasing its deep-space capabilities. The company ended the year with a record backlog of $1.85 billion, up 73% YOY, providing strong revenue visibility. And, it is expanding its space systems segment through acquisitions like Optical Support and Precision Components. With this momentum and a strong pipeline, management expects a solid start to 2026, supported by continued demand across launch and space systems. Looking ahead to Q1, management expects revenue to come in between $185 million and $200 million, with both the Space Systems and Launch segments set to grow annually. However, margins are likely to ease a bit, with non-GAAP gross margins projected in the 39% to 41% range, compared to 44.3% in Q4. Meanwhile, Wall Street analysts tracking the company anticipate losses to be about -$0.07 per share in Q1, while revenue is projected to be around $190.8 million. Looking further ahead to fiscal 2026, confidence builds further. Losses are anticipated to narrow by 52.6% annually to -$0.18 per share, and further shrink by 44.4% YOY to -$0.10 per share. Overall, analysts are upbeat on RKLB, with a “Moderate Buy” consensus. Of the 17 analysts tracking the stock, 10 have a “Strong Buy,” one advises a “Moderate Buy,” and the remaining six are on the sidelines with a “Hold” rating. RKLB has an average price target of $87.21, implying roughly 24% upside potential from current levels. On the bullish end, the Street-high target of $120 points to even sharper gains of 70.6%. www.barchart.com www.barchart.com Stock #2: AeroVironment Founded in 1971 and based in Arlington, Virginia, AeroVironment is a defense technology company focused on autonomous and robotic systems for military and government clients. Its portfolio spans unmanned aircraft systems (drones), loitering munitions, counter-drone and directed energy solutions, as well as space, cyber, and communication systems. The company also develops advanced robotic platforms, positioning itself at the center of modern defense innovation. AeroVironment has a market capitalization of about $9 billion. AeroVironment’s stock has had a volatile run in 2026, moving more sideways than trending up. It started strong, climbing close to its all-time high of $417.86 in October, but then saw a sharp pullback, dropping 54.3% from that peak. The stock briefly bounced during a defense-sector rally in March, moving into the mid-$200s, but now sits below $200. There have been sharp swings along the way. On March 2, for instance, shares jumped to around $303, only to fall back to nearly $196 by the end of the same session. Overall, AVAV is down about 21.6% year-to-date (YTD), largely due to the cancellation of the SCAR contract with the U.S. Space Force. Still, the bigger picture shows some strength. Over the past 52 weeks, AVAV stock is up roughly 29.6%, supported by strong drone demand and contract wins, even as recent uncertainty and profit-taking have weighed on momentum. www.b",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How to start buying crypto with $100",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-crypto-with-100-155125790.html",
+      "published_date": "2026-04-13T15:51:25Z",
+      "scrape_timestamp": "2026-04-15T04:38:45.536005+00:00",
+      "content": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . How to start buying crypto with $100 Rachel Christian Updated Mon, April 13, 2026 at 11:55 AM EDT 8 min read You don’t need thousands of dollars to buy crypto. Many platforms let you buy fractional amounts, so $100 is enough to open a position, learn how the market works, then decide whether crypto belongs in your portfolio. Just get your mindset right first. Starting with $100 is best viewed as a low-stakes way to gain experience — not a fast track to wealth. How to invest in crypto with $100 Crypto can be exciting and chaotic. Prices can swing dramatically in a matter of hours, and bad decisions get punished quickly. It isn’t for everyone. But starting with $100 can work in your favor. It gives you room to learn the ropes without putting too much on the line. Before you buy anything, though, make sure your financial bases are covered. If losing most of that $100 would genuinely muddy your finances, you shouldn’t be using it to buy crypto. Experts generally recommend building an emergency fund and paying off high-interest debt before investing. Starting with $100 allows you to buy exposure and experience. You’re learning how to execute a trade and monitor a position — and maybe most importantly — learning how you react emotionally when your investment jumps or drops. That mindset matters because people who go in expecting moonshot gains overnight are often the same people who tend to panic sell after the first ugly drop. “Having unreasonable expectations will usually lead to disappointing results,” said Adam Blumberg, a CFP and managing partner at Protocol Wealth in Denver. Finally, be honest about your risk tolerance. Crypto is a market where drop, exchange failures, hacks, and liquidity problems are all part of the deal. Again, it’s not for everyone. Still on board? Here’s how to get started. Step 1: Educate yourself and get clear on your goals You don’t need to become a technical expert to buy crypto. But it’s beneficial to know the basics. Start by learning a few key concepts: what cryptocurrency is , how buying and selling works , what a wallet is , and why crypto is generally riskier than traditional investments, such as stocks or mutual funds. Before starting out, it’s also wise to get clear on why you’re buying crypto in the first place. “Why you're investing will often drive your expectations and your behaviors,” said Blumberg. Is this $100 just an experiment? Are you planning to add small amounts over time? Do you want to hold long term, or are you trying to actively trade? Blumberg noted other reasons people may invest in crypto, including wanting a certain uncorrelated return, a hedge against traditional finance, or because they believe in the value of a particular project. “These various reasons will help you make rational decisions, such as exiting your position when you've reached your goal, or when market or economic conditions change,” said Blumberg. Read more: How to invest in cryptocurrency: A beginner’s guide Step 2: Pick your platform The number of places you can buy cryptocurrency has exploded in recent years. From dedicated exchanges to popular payment apps, you’ve got options. Here’s an overview of the primary ways you can buy crypto: Centralized exchanges: These include platforms such as Coinbase and Binance. They’re built specifically for crypto, so they usually offer the widest selection of coins and the most advanced crypto-focused tools. That can be a plus if you want flexibility, but it also offers more chances to chase obscure altcoins or trade more than you can afford. Payment apps: Apps such as Cash App and PayPal let users buy crypto in a more familiar, stripped-down interface. These can be appealing if you already use the app and want a quick way to enter the market. The trade-off is usually higher fees on small purchases and fewer coins to choose from. If you’re only working with $100, staying mindful of fees is crucial. Brokers and trading apps: Some mainstream investing platforms — such as Robinhood, Interactive Brokers, and Public — also offer crypto trading. These can be convenient if you already invest there and want to keep your financial life under one roof. But it’s still important to compare fees, spreads, and available coins. Most platforms let you buy fractional amounts, so your $100 can still get invested without having to purchase a whole coin. If you’re buying crypto for the first time, simplicity matters. A flashy app with endless charts, coin recommendations, or gamification features like exploding confetti when you place a trade may feel exciting, but it can push beginners into trading too often. A boring, easy-to-use platform is usually the best move. Read more: The 7 best crypto exchanges in 2026: Our top picks after hands-on testing Step 3: Pick the best crypto to buy with $100 There are thousands of cryptocurrencies on the market, and truthfully, most of them probably aren’t worth your attention. Crypto is crowded with meme coins, low-quality projects, and thinly veiled pump-and-dump schemes. If you’re only starting with $100, there’s a strong case for sticking with established cryptocurrencies, such as bitcoin or ether . Bitcoin and ethereum are still volatile, but they’ve been around longer, have broader adoption, and offer more liquidity than you’ll see in newer or more speculative tokens. “At this point, over-diversifying into many different coins doesn't often lead to better returns — but it does add more risk,” said Blumberg. Step 4: Set up your account, deposit funds, and make your first trade Next, it’s time to set up your account. This usually involves entering personal information, verifying your identity, and linking a bank account or debit card. Once your account is set up, you can deposit your funds and place your first trade. Review the purchase amount, check the fees, and make sure you understand what you’re buying before you hit confirm. If you think you may want to keep investing over time, you might also consider setting up recurring purchases. This helps you practice dollar-cost averaging, which means investing a set amount at regular intervals instead of putting all your money in at once. This can help you build a position gradually and smooth out your purchase price over time instead of trying to anticipate the perfect entry point. Step 5: Don’t forget about taxes You won’t owe taxes for buying and holding crypto. But selling crypto for a profit — or exchanging one coin for another coin — is a capital gain and considered a taxable event in the eyes of the IRS. If you sell crypto in 2026 through a U.S. exchange or broker, that platform now must send you and the IRS a Form 1099-DA showing key details from the sale, such as the transaction date, proceeds, and, in some cases, cost basis information. That moves crypto closer to the same kind of tax reporting investors already know from Form 1099-B for stocks and mutual funds. In the past, most crypto investors received little or no standardized tax reporting from exchanges, which made it easier to underreport gains, “forget” trades, or assume the IRS wouldn’t connect the dots. With Form 1099-DA — which rolled out to consumers for the first time in calendar year 2026 — there are fewer gray areas and a much clearer paper trail. So if you’re selling crypto, it’s more important than ever to treat taxation here as seriously as you would with stocks or other investments. If your goal is long-term crypto exposure and you want to avoid taxable trades, one alternative is buying crypto-related exchange-traded funds in a tax-advantaged account, such as an IRA . In a traditional IRA, taxes are generally deferred until you withdraw the money, while qualified Roth IRA withdrawals can be tax-free. There are currently only three types of cryptocurrency ETFs on the market — bitc",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Soybeans Slipping Lower on Monday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-lower-monday-172211844.html",
+      "published_date": "2026-04-13T17:22:11Z",
+      "scrape_timestamp": "2026-04-15T04:38:45.536012+00:00",
+      "content": "Soybeans Slipping Lower on Monday Austin Schroeder Mon, April 13, 2026 at 1:22 PM EDT 2 min read Soybeans are trading with front month losses of 8 to 9 cents and new crop down 3 to 5 cents. The cmdtyView national average Cash Bean price is down 8 1/2 cents at $11.00 3/4. Soymeal futures are up $2.10 to $3, with Soy Oil futures down 20 to 25 points. Crude oil is back up just $3.03 this morning, though more than $5 off the overnight highs following the breakdown of US/Iran negotiations this weekend. Crop Progress will be updated later this afternoon, with analysts surveyed by Bloomberg looking for the US soybean crop to be 2% planted as of Sunday. More News from Barchart How Much Higher Can Soybean Meal Prices Go Here? Coffee Prices Climb Amid Below Normal Rainfall in Brazil Soybean Meal Bulls Spring to Life Supporting Soybean Prices; Cotton Prices Surging Stop Missing Market Moves: Get the FREE Barchart Brief – your midday dose of stock movers, trending sectors, and actionable trade ideas, delivered right to your inbox. Sign Up Now! Monday morning’s Export Inspections report showed 814,562 MT (29.93 mbu) of soybeans shipped in the week of 4/9. That was 1.2% above the week prior and 46.8% larger than the same week last year. China was the largest destination of 345,815 MT, with 224,841 MT shipped to Egypt and 80,955 MT to Mexico. The marketing year total is now 31.51 MMT (1.158 bbu) of soybeans shipped since September 1, which is 25.2% below the same period last year. CFTC data was released on Friday, showing spec traders cutting 23,777 contracts from their net long position in soybean futures and options as of 4/7. That net long stood at 189,630 contracts. In bean oil, managed money extended their record net long 14,873 contracts to 150,682 contracts. Brazil’s soybean harvest according to AgRural was estimated at 87% as of Thursday. May 26 Soybeans  are at $11.67 1/4, down 8 1/2 cents, Nearby Cash  is at $11.00 3/4, down 8 1/2 cents, Jul 26 Soybeans  are at $11.82, down 9 1/4 cents, Nov 26 Soybeans  are at $11.53 3/4, down 4 cents, New Crop Cash  is at $10.93 1/2, down 3 3/4 cents, On the date of publication, Austin Schroeder did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cotton Rally Continues on Monday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-rally-continues-monday-172211454.html",
+      "published_date": "2026-04-13T17:22:11Z",
+      "scrape_timestamp": "2026-04-15T04:38:45.536019+00:00",
+      "content": "Cotton Rally Continues on Monday Austin Schroeder Mon, April 13, 2026 at 1:22 PM EDT 1 min read Cotton are extending the gains, with contracts up 40 to 66 points at midday. The US dollar index is $0.039 lower at $98.400. Crude oil is back up just $3.03 this morning, though more than $5 off the overnight highs following the breakdown of US/Iran negotiations this weekend. Managed money was slashing another 10,206 contracts from their net short in cotton futures and options in the week of April 7. That took their near record (in mid-February) net short to just net short 2,020 contracts. More News from Barchart How Much Higher Can Soybean Meal Prices Go Here? Coffee Prices Climb Amid Below Normal Rainfall in Brazil Soybean Meal Bulls Spring to Life Supporting Soybean Prices; Cotton Prices Surging Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines. The Seam showed 3,340 bales sold on 4/10 at an average of 68.29 cents/lb. The Cotlook A Index was 170 points higher on April 10 at 84.25 cents. ICE certified cotton stocks were up 4,360 bales on Friday, with the certified stocks level at 144,211 bales. The Adjusted World Price was up another 175 points last week at 58.74 cents/lb. May 26 Cotton  is at 73.83, up 61 points, Jul 26 Cotton  is at 75.99, up 66 points, Dec 26 Cotton  is at 77.3, up 41 points On the date of publication, Austin Schroeder did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran used Chinese spy satellite to target US bases",
+      "link": "https://www.ft.com/content/1fddd2cd-1294-4e9c-a17d-5ea06b399355",
+      "published_date": "Wed, 15 Apr 2026 04:00:20 GMT",
+      "scrape_timestamp": "2026-04-15T04:39:18.368046+00:00",
+      "content": "Leaked documents show IRGC secretly acquired system and used it to guide strikes during war in March",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran faces halt to oil production within weeks if US blockade succeeds",
+      "link": "https://www.ft.com/content/dec9c510-9dd8-434b-abe8-5f9ecbb41e55",
+      "published_date": "Wed, 15 Apr 2026 04:00:32 GMT",
+      "scrape_timestamp": "2026-04-15T04:39:18.568228+00:00",
+      "content": "Tehran has a maximum of 16 days of storage before it will need to curtail its output",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China shock 2.0: Should Europe repel Chinese investment?",
+      "link": "https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55",
+      "published_date": "Wed, 15 Apr 2026 04:00:11 GMT",
+      "scrape_timestamp": "2026-04-15T04:39:18.968641+00:00",
+      "content": "Brussels wants firms opening factories in the EU to transfer knowledge and employ local staff. Will it work?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can global resilience trump disruption?",
+      "link": "https://www.ft.com/content/32a16d56-41c6-4d13-bbc4-7ea908b6ceae",
+      "published_date": "Wed, 15 Apr 2026 04:00:18 GMT",
+      "scrape_timestamp": "2026-04-15T04:39:19.168849+00:00",
+      "content": "The world’s economy has managed to withstand a great deal of chaos, but new IMF forecasts show that things could get worse",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Bifs’ replace ‘Piigs’ as Europe’s bond market whipping boys",
+      "link": "https://www.ft.com/content/d2d32518-1622-4c45-9ada-569b67c8e4b6",
+      "published_date": "Wed, 15 Apr 2026 04:00:18 GMT",
+      "scrape_timestamp": "2026-04-15T04:39:19.369039+00:00",
+      "content": "Britain, Italy and France have borne the brunt of a sovereign debt sell-off sparked by the Iran war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Uber commits $10bn to robotaxis in strategy shift",
+      "link": "https://www.ft.com/content/564c26d9-489c-435b-88f7-2df388e058d3",
+      "published_date": "Wed, 15 Apr 2026 04:00:18 GMT",
+      "scrape_timestamp": "2026-04-15T04:39:19.569243+00:00",
+      "content": "Ride-hailing app races to make up lost ground with equity investments and vehicle order commitments",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democrats cautioned against angering $300mn AI lobby ahead of US midterms",
+      "link": "https://www.ft.com/content/7529e4cd-e336-4b75-917b-84f91bc48437",
+      "published_date": "Wed, 15 Apr 2026 04:00:11 GMT",
+      "scrape_timestamp": "2026-04-15T04:39:19.969618+00:00",
+      "content": "Pro-industry campaign groups deploy millions amid growing public support for tighter regulation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Kirkland & Ellis set to poach top Wachtell distressed-debt lawyer",
+      "link": "https://www.ft.com/content/81588cbf-cde8-4572-a13e-ad9aa5bafba0",
+      "published_date": "Wed, 15 Apr 2026 01:51:18 GMT",
+      "scrape_timestamp": "2026-04-15T04:39:20.169827+00:00",
+      "content": "Firm offers Joshua Feltman a guaranteed pay package of $80mn over three years",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-15T01:27:58.686906+00:00",
+  "last_updated": "2026-04-15T04:39:27.166016+00:00",
   "metadata": {
-    "total_runs": 1038,
+    "total_runs": 1039,
     "sources": [
-      "Financial Times",
-      "Yahoo Finance"
+      "Yahoo Finance",
+      "Financial Times"
     ],
     "retention_days": 7
   }
