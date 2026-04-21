@@ -1,72 +1,6 @@
 {
   "articles": [
     {
-      "source": "Financial Times",
-      "title": "OpenAI investors question $852bn valuation as strategy shifts",
-      "link": "https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982",
-      "published_date": "Tue, 14 Apr 2026 04:00:15 GMT",
-      "scrape_timestamp": "2026-04-14T04:39:24.894018+00:00",
-      "content": "Chief executive Sam Altman refocuses AI company as Anthropic tests its early lead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China shock 2.0: the flood of high-tech goods that will change the world",
-      "link": "https://www.ft.com/content/7d51a630-a3de-4cc7-9f5f-0f3e7f0d305a",
-      "published_date": "Tue, 14 Apr 2026 04:00:07 GMT",
-      "scrape_timestamp": "2026-04-14T04:39:25.094237+00:00",
-      "content": "Impelled by furious competition, hefty subsidies and sheer scale, the country’s companies are cutting a swath through the world’s most advanced industries",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "JD Vance takes on ‘poisoned chalice’ of Trump’s foreign policy missions",
-      "link": "https://www.ft.com/content/f56823aa-0aa5-4d22-8498-24fc6826c7fc",
-      "published_date": "Tue, 14 Apr 2026 04:00:24 GMT",
-      "scrape_timestamp": "2026-04-14T04:39:25.294489+00:00",
-      "content": "Vice-president returns to Washington empty-handed after twin failures on Iran talks and in Hungary",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why ‘glue work’ can finally shine in the age of AI",
-      "link": "https://www.ft.com/content/5e7e1a4e-050c-4c06-98ea-7be5c91863ab",
-      "published_date": "Tue, 14 Apr 2026 04:00:15 GMT",
-      "scrape_timestamp": "2026-04-14T04:39:25.494713+00:00",
-      "content": "Automating technical skills will transform the value of those who can build relationships and hold projects together",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China’s exports slow as Middle East turmoil weighs on trade",
-      "link": "https://www.ft.com/content/9cb95187-f525-43a8-bd4d-b631e4da8336",
-      "published_date": "Tue, 14 Apr 2026 04:03:36 GMT",
-      "scrape_timestamp": "2026-04-14T04:39:26.295573+00:00",
-      "content": "Rising fuel prices and tech imports spur surge in imports",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Corporate America set to deliver bumper earnings despite Iran war",
-      "link": "https://www.ft.com/content/0b014fbc-e9c9-407d-b8a2-6eafae0507fe",
-      "published_date": "Tue, 14 Apr 2026 04:00:15 GMT",
-      "scrape_timestamp": "2026-04-14T04:39:26.495770+00:00",
-      "content": "Analysts expect profits to be boosted by weak dollar and Trump administration’s tax and spending plans",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Morning Brief: Goldman rakes it in, but issues a warning",
       "link": "https://finance.yahoo.com/news/morning-brief-goldman-rakes-it-in-but-issues-a-warning-100029998.html",
@@ -282,17 +216,6 @@
       "published_date": "Tue, 14 Apr 2026 09:35:59 GMT",
       "scrape_timestamp": "2026-04-14T10:08:07.778113+00:00",
       "content": "First-quarter results come amid growing concerns around the links between traditional lenders and the private credit boom",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Young trader who made $250mn on Russian crude sets sights on Guyana",
-      "link": "https://www.ft.com/content/c58370ba-0d31-4320-ad33-7c2236bd23c8",
-      "published_date": "Tue, 14 Apr 2026 04:00:15 GMT",
-      "scrape_timestamp": "2026-04-14T10:08:08.178491+00:00",
-      "content": "Christopher Eppinger is ‘getting goosebumps’ over opportunities from South American nation’s oil boom",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -14805,14 +14728,157 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What You Need to Know Ahead of Charles River Laboratories' Earnings Release",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/know-ahead-charles-river-laboratories-171045488.html",
+      "published_date": "2026-04-19T17:10:45Z",
+      "scrape_timestamp": "2026-04-21T04:42:14.515425+00:00",
+      "content": "What You Need to Know Ahead of Charles River Laboratories' Earnings Release Neha Panjwani Sun, April 19, 2026 at 10:10 AM MST 2 min read CRL Wilmington, Massachusetts-based Charles River Laboratories International, Inc. (CRL) provides drug discovery, non-clinical development, and safety testing services. Valued at $9.1 billion by market cap, the company offers animal research models in research and development for new drugs, devices, and therapies, serving pharmaceutical and biotechnology companies, hospitals, and academic institutions worldwide. The pharmaceutical company is expected to announce its fiscal first-quarter earnings for 2026 before the market opens on Thursday, May 7. Ahead of the event, analysts expect CRL to report a profit of $1.96 per share on a diluted basis, down 16.2% from $2.34 per share in the year-ago quarter. The company has consistently surpassed Wall Street’s EPS estimates in its last four quarterly reports. More News from Barchart Tesla Earnings, Hormuz and Other Key Things to Watch this Week Netflix Generates Massive FCF and FCF Margins - NFLX Price Targets Are Higher Profit Jumped 58% at Taiwan Semi. Does That Make TSM Stock a Buy Here? Tired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now! For the full year, analysts expect CRL to report EPS of $10.97, up 6.7% from $10.28 in fiscal 2025. Its EPS is expected to rise 9.6% year over year to $12.02 in fiscal 2027. www.barchart.com CRL stock has outperformed the S&P 500 Index’s ($SPX) 34.9% gains over the past 52 weeks, with shares up 73.4% during this period. Similarly, it notably outperformed the State Street Health Care Select Sector SPDR ETF’s (XLV) 9.8% gains over the same time frame. www.barchart.com On Feb. 18, CRL shares closed down marginally after reporting its Q4 results. Its adjusted EPS of $2.39 beat Wall Street expectations of $2.33. The company’s revenue was $994.2 million, beating Wall Street forecasts of $985.9 million. CRL expects full-year adjusted EPS in the range of $10.70 to $11.20. Analysts’ consensus opinion on CRL stock is reasonably bullish, with a “Moderate Buy” rating overall. Out of 17 analysts covering the stock, 11 advise a “Strong Buy” rating, one suggests a “Moderate Buy,” and five give a “Hold.” CRL’s average analyst price target is $204, indicating a potential upside of 10.9% from the current levels. On the date of publication, Neha Panjwani did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What to Expect From Walt Disney's Next Quarterly Earnings Report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/expect-walt-disneys-next-quarterly-170611942.html",
+      "published_date": "2026-04-19T17:06:11Z",
+      "scrape_timestamp": "2026-04-21T04:42:14.515432+00:00",
+      "content": "What to Expect From Walt Disney's Next Quarterly Earnings Report Neha Panjwani Sun, April 19, 2026 at 10:06 AM MST 2 min read DIS ^GSPC Burbank, California-based The Walt Disney Company (DIS) operates as an entertainment company worldwide. Valued at $188.3 billion by market cap, the company's businesses include, media networks, parks and resorts, studio entertainment, consumer products, and interactive media. The entertainment giant is expected to announce its fiscal second-quarter earnings for 2026 before the market opens on Wednesday, May 6. Ahead of the event, analysts expect DIS to report a profit of $1.49 per share on a diluted basis, up 2.8% from $1.45 per share in the year-ago quarter. The company has consistently surpassed Wall Street’s EPS estimates in its last four quarterly reports. More News from Barchart Tesla Earnings, Hormuz and Other Key Things to Watch this Week Netflix Generates Massive FCF and FCF Margins - NFLX Price Targets Are Higher Profit Jumped 58% at Taiwan Semi. Does That Make TSM Stock a Buy Here? Our exclusive Barchart Brief newsletter is your FREE midday guide to what's moving stocks, sectors, and investor sentiment - delivered right when you need the info most. Subscribe today! For the full year, analysts expect DIS to report EPS of $6.61, up 11.5% from $5.93 in fiscal 2025. Its EPS is expected to rise 9.4% year over year to $7.23 in fiscal 2027. www.barchart.com DIS stock has underperformed the S&P 500 Index’s ($SPX) 34.9% gains over the past 52 weeks, with shares up 25.3% during this period. Similarly, it underperformed the State Street Communication Services Select Sector SPDR ETF’s (XLC) 32% gains over the same time frame. www.barchart.com DIS lagged as tighter immigration policy cut high-spend international park traffic, while linear TV declines outpaced streaming gains. Its subscriber growth stalled even as Netflix, Inc. (NFLX) added 23 million members last year. Entertainment profits fell on high content/marketing costs, and ESPN slipped due to rights inflation, sub losses, and distribution issues. Furthermore, DIS’ soft Q2 guidance and margin pressure from streaming investments, expansion, and turnarounds further weighed on sentiment. Analysts’ consensus opinion on DIS stock is bullish, with a “Strong Buy” rating overall. Out of 31 analysts covering the stock, 21 advise a “Strong Buy” rating, five suggest a “Moderate Buy,” four give a “Hold,” and one recommends a “Strong Sell.” DIS’ average analyst price target is $131.64, indicating a potential upside of 23.8% from the current levels. On the date of publication, Neha Panjwani did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What You Need to Know Ahead of Hubbell's Earnings Release",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-hubbells-earnings-release-170131659.html",
+      "published_date": "2026-04-19T17:01:31Z",
+      "scrape_timestamp": "2026-04-21T04:42:14.515452+00:00",
+      "content": "What You Need to Know Ahead of Hubbell's Earnings Release Neha Panjwani Sun, April 19, 2026 at 10:01 AM MST 2 min read HUBB Shelton, Connecticut-based Hubbell Incorporated (HUBB) manufactures and sells electrical and utility solutions that help customers operate critical infrastructure safely, reliably, and efficiently. Valued at $28.5 billion by market cap, the company’s products include plugs, receptacles, connectors, lighting fixtures, high voltage test and measurement equipment, and voice and data signal processing components. The electronics distribution giant is expected to announce its fiscal first-quarter earnings for 2026 before the market opens on Thursday, Apr. 30. Ahead of the event, analysts expect HUBB to report a profit of $3.87 per share on a diluted basis, up 10.6% from $3.50 per share in the year-ago quarter. The company beat the consensus estimates in three of the last four quarters while missing the forecast on another occasion. More News from Barchart Tesla Earnings, Hormuz and Other Key Things to Watch this Week Netflix Generates Massive FCF and FCF Margins - NFLX Price Targets Are Higher Profit Jumped 58% at Taiwan Semi. Does That Make TSM Stock a Buy Here? Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines. For the full year, analysts expect HUBB to report EPS of $19.79, up 8.7% from $18.21 in fiscal 2025. Its EPS is expected to rise 8.5% year over year to $21.48 in fiscal 2027. www.barchart.com HUBB stock has outperformed the S&P 500 Index’s ($SPX) 34.9% gains over the past 52 weeks, with shares up 58% during this period. Similarly, it outperformed the State Street Industrial Select Sector SPDR ETF’s (XLI) 38.5% gains over the same time frame. www.barchart.com HUBB's outperformance was driven by organic demand for grid and infrastructure products, with 60%+ growth in data center sales and double-digit gains in utility transmission/substation markets. In addition, automation, capacity investments, and targeted M&A like DMC Power expanded margins despite mid-single-digit cost inflation. Analysts’ consensus opinion on HUBB stock is reasonably bullish, with a “Moderate Buy” rating overall. Out of 15 analysts covering the stock, seven advise a “Strong Buy” rating, and eight give a “Hold.” HUBB’s average analyst price target is $540.50, indicating a marginal potential upside from the current levels. On the date of publication, Neha Panjwani did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tesla Earnings, Hormuz and Other Key Things to Watch this Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-earnings-hormuz-other-key-170002865.html",
+      "published_date": "2026-04-19T17:00:02Z",
+      "scrape_timestamp": "2026-04-21T04:42:14.515462+00:00",
+      "content": "Tesla Earnings, Hormuz and Other Key Things to Watch this Week Gavin McMaster Sun, April 19, 2026 at 10:00 AM MST 6 min read TSLA Markets face an interesting week following conflicting signals about Strait of Hormuz access as Iran's Foreign Minister announced Friday the waterway was \"completely open\" citing an Israel-Lebanon ceasefire, only for the Islamic Revolutionary Guard Corps to contradict this by asserting continued control over vessel passage. Ships racing to exit the Persian Gulf on Friday reversed course amid the mixed messaging, while Iran's military stated Saturday that \"control of the Strait of Hormuz has returned to its previous state\" under \"strict management\" by armed forces as long as the U.S. blockade of Iranian ports continues. More News from Barchart Netflix Generates Massive FCF and FCF Margins - NFLX Price Targets Are Higher Profit Jumped 58% at Taiwan Semi. Does That Make TSM Stock a Buy Here? Alibaba Just Launched New AI Models for Video Games. Does That Make BABA Stock a Buy? Get exclusive insights with the FREE Barchart Brief newsletter. Subscribe now for quick, incisive midday market analysis you won't find anywhere else. Reports emerged that Iran fired upon at least two Indian-flagged vessels attempting transit, with ships again halting passage attempts. Meanwhile, the Wall Street Journal reports the U.S. military is preparing to board and seize Iran-linked vessels in international waters in coming days, while the Israel-Lebanon ceasefire shows early signs of fraying. President Trump claimed Friday that Iran agreed to stop its nuclear program amid reports of potential $20 billion frozen funds unlock in exchange for enriched uranium, as the two-week ceasefire approaches Wednesday expiration. The week features critical earnings from Tesla (TSLA), Intel (INTC), and commodity producers testing various economic sectors. Here are 5 things to watch this week in the Market. Hormuz Chaos and Ceasefire Expiration The extraordinary whiplash around Strait of Hormuz access creates maximum uncertainty as Iran's Foreign Minister, Revolutionary Guard Corps, and military deliver contradictory statements about vessel passage rights. The Foreign Minister's \"completely open\" declaration proved premature as the IRGC immediately asserted continued authority over crossing decisions, while Iran's military confirmed \"strict management and control\" contingent on U.S. blockade status. The firing upon Indian-flagged vessels attempting transit demonstrates Iran's willingness to enforce closure regardless of diplomatic rhetoric. Ships halting passage attempts following Friday's chaos indicates commercial operators remain unwilling to risk transit despite occasional opening signals. The U.S. military's reported preparation to seize Iran-linked vessels in international waters raises escalation risks if implemented. The two-week ceasefire expiring Wednesday creates binary outcomes—either extension based on Trump's claimed nuclear program agreement or resumed hostilities that could intensify Hormuz closure and energy price spikes. The potential $20 billion frozen funds unlock in exchange for enriched uranium represents substantive diplomatic progress if genuine, but details remain murky. Wednesday's crude oil inventories will provide supply context amid Hormuz uncertainty. Markets face extreme volatility around ceasefire expiration Wednesday. Story Continues Energy Price Volatility and Commodity Market Implications The Hormuz chaos creates extreme volatility in energy markets as initial Friday optimism about reopening reversed sharply on contradictory signals and vessel attacks. Oil prices face whipsaw movements based on hourly updates about passage status, military actions, and diplomatic developments. The fundamental supply-demand picture remains severely constrained as long as Hormuz stays effectively closed, with global shortages of oil, natural gas, and fertilizers intensifying daily. Energy sector stocks benefit from elevated prices but face dramatic reversal risk if genuine Hormuz reopening occurs. Airlines, transportation companies, and industrial operations with high energy inputs await resolution as costs compress margins. The ceasefire expiration Wednesday creates potential for dramatic price moves in either direction—extension with Hormuz access could trigger sharp commodity price declines and market relief rallies, while resumed hostilities could spike prices to economically destabilizing levels. Thursday's earnings from commodity producers Freeport-McMoRan (FCX), Vale (VALE), and Newmont (NEM) will provide perspectives on industrial metals and precious metals demand amid geopolitical turbulence. Tesla and Boeing: Industrial Bellwether Assessment Wednesday's earnings from Tesla (TSLA) and Boeing (BA) will provide critical insights into automotive and aerospace sector health amid geopolitical uncertainties and economic concerns. Tesla's Q1 delivery numbers already released will be analyzed in detail during the earnings call, with focus on automotive margins, energy storage performance, and Full Self-Driving adoption trends. Tesla's commentary about demand resilience across key markets including China, Europe, and North America will be crucial for assessing consumer appetite for EVs amid economic pressures. Boeing's results will test commercial aircraft production recovery, defense business health, and the company's progress addressing manufacturing and regulatory challenges. Boeing's order book and delivery guidance will provide insights into airline capital expenditure plans amid elevated fuel costs from Hormuz closure. Both companies face questions about supply chain resilience and cost pressures from geopolitical disruptions. Wednesday's ServiceNow (NOW) and IBM (IBM) earnings will add enterprise technology perspectives on corporate IT spending amid economic uncertainties. Intel and Semiconductor Sector Crossroads Thursday's Intel (INTC) earnings arrive at a critical juncture as the company attempts to demonstrate turnaround progress in manufacturing technology and competitive positioning against Taiwan Semiconductor and AMD. Intel's results will be scrutinized for data center chip demand, PC market recovery signals, and foundry business development including government subsidy utilization. The company's commentary about AI accelerator competitiveness, manufacturing node progress, and customer design wins will help determine whether Intel can regain lost market share. Intel's guidance about capital expenditure plans and government partnership developments will influence perceptions about domestic semiconductor manufacturing viability. The earnings come as AI infrastructure investment sustainability faces questions following recent sector volatility. Strong results could validate semiconductor ecosystem participation in AI buildouts beyond flagship GPUs, while disappointments could reinforce concerns about Intel's structural competitive challenges. Thursday's preliminary Manufacturing and Services PMI data at 9:45am will provide forward-looking perspectives on business activity entering Q2, complementing corporate earnings commentary about economic conditions. Retail Sales and Consumer Spending Reality Tuesday's March retail sales data at 8:30am will provide critical insights into consumer spending resilience amid geopolitical turmoil, elevated energy prices, and employment weakness from February's job losses. Both headline and core retail sales will be analyzed for evidence of consumer pullback or continued spending despite economic headwinds. The March timing captures consumer behavior during Iran conflict escalation and associated uncertainty, potentially revealing whether households are maintaining discretionary purchases or retrenching. Automotive, electronics, and restaurant categories will be particularly important for assessing spending across different income segments. The retail sales data provides crucial context for interpreting",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IDEX Corporation's Quarterly Earnings Preview: What You Need to Know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/idex-corporations-quarterly-earnings-preview-165836619.html",
+      "published_date": "2026-04-19T16:58:36Z",
+      "scrape_timestamp": "2026-04-21T04:42:14.515470+00:00",
+      "content": "IDEX Corporation's Quarterly Earnings Preview: What You Need to Know Neha Panjwani Sun, April 19, 2026 at 9:58 AM MST 2 min read IEX Northbrook, Illinois-based IDEX Corporation (IEX) offers applied solutions globally. Valued at $15.3 billion by market cap, the company has a diverse portfolio of over 50 businesses, offering products like industrial pumps, lubrication systems, banding and clamping devices, and rescue tools. Theleading applied solutions provider is expected to announce its fiscal first-quarter earnings for 2026 before the market opens on Wednesday, Apr. 29. Ahead of the event, analysts expect IEX to report a profit of $1.78 per share on a diluted basis, up 1.7% from $1.75 per share in the year-ago quarter. The company has consistently surpassed Wall Street’s EPS estimates in its last four quarterly reports. More News from Barchart Tesla Earnings, Hormuz and Other Key Things to Watch this Week Netflix Generates Massive FCF and FCF Margins - NFLX Price Targets Are Higher Profit Jumped 58% at Taiwan Semi. Does That Make TSM Stock a Buy Here? Get exclusive insights with the FREE Barchart Brief newsletter. Subscribe now for quick, incisive midday market analysis you won't find anywhere else. For the full year, analysts expect IEX to report EPS of $8.24, up 3.7% from $7.95 in fiscal 2025. Its EPS is expected to rise 9.1% year over year to $8.99 in fiscal 2027. www.barchart.com IEX stock has underperformed the S&P 500 Index’s ($SPX) 34.9% gains over the past 52 weeks, with shares up 25.6% during this period. Similarly, it underperformed the State Street Industrial Select Sector SPDR ETF’s (XLI) 38.5% gains over the same time frame. www.barchart.com IEX has trailed the broader market over the past year, pressured by a combination of soft organic growth, margin headwinds, and conservative guidance. Revenue growth was held back by weak demand in core end markets, and falling returns on invested capital along with weaker earnings efficiency dented investor confidence. A full valuation also capped upside, especially with industrial activity slowing and spending uncertainty weighing on sentiment compared to the market. Analysts’ consensus opinion on IEX stock is moderately bullish, with a “Moderate Buy” rating overall. Out of 14 analysts covering the stock, seven advise a “Strong Buy” rating, one suggests a “Moderate Buy,” and six give a “Hold.” IEX's average analyst price target is $222.46, indicating a potential upside of 8% from the current levels. On the date of publication, Neha Panjwani did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Vistra Earnings Preview: What to Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-earnings-preview-expect-165339252.html",
+      "published_date": "2026-04-19T16:53:39Z",
+      "scrape_timestamp": "2026-04-21T04:42:14.515476+00:00",
+      "content": "Vistra Earnings Preview: What to Expect Neha Panjwani Sun, April 19, 2026 at 9:53 AM MST 2 min read VST Irving, Texas-based Vistra Corp. (VST) operates as an integrated retail electricity and power generation company. With a market cap of $55.3 billion, the companyis also involved in wholesale energy purchases and sales, commodity risk management, fuel production, and fuel logistics management activities. The leading integrated retail electricity and power generation company is expected to announce its fiscal first-quarter earnings for 2026 before the market opens on Thursday, May 7. Ahead of the event, analysts expect VST to report a profit of $1.41 per share on a diluted basis, up 206.5% from $0.46 per share in the year-ago quarter. The company beat or matched the consensus estimates in three of the last four quarters while missing the forecast on another occasion. More News from Barchart Is Irrational Market Behavior Predictable? Crude Oil Prices Jump as Middle East Tensions Escalate Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines. For the full year, analysts expect VST to report EPS of $8.72, up 65.8% from $5.26 in fiscal 2025. Its EPS is expected to rise 26.6% year over year to $11.04 in fiscal 2027. www.barchart.com VST stock has outperformed the S&P 500 Index’s ($SPX) 34.9% gains over the past 52 weeks, with shares up 41.6% during this period. Similarly, it outperformed the State Street Utilities Select Sector SPDR ETF’s (XLU) 18.7% gains over the same time frame. www.barchart.com On Feb. 26, VST shares closed up marginally after reporting its Q4 results. Its net income came in at $233 million, down 52.4% year over year. The company’s adjusted EBITDA declined 12.2% from the year-ago quarter to $1.7 billion. Analysts’ consensus opinion on VST stock is bullish, with a “Strong Buy” rating overall. Out of 17 analysts covering the stock, 16 advise a “Strong Buy” rating, and one gives a “Hold.” VST’s average analyst price target is $239.75, indicating an ambitious potential upside of 46.7% from the current levels. On the date of publication, Neha Panjwani did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Kiss of death’: How the US killed a Swiss merchant bank",
+      "link": "https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e",
+      "published_date": "Tue, 21 Apr 2026 04:00:09 GMT",
+      "scrape_timestamp": "2026-04-21T04:42:49.009432+00:00",
+      "content": "MBaer survived years of scrutiny at home — before Washington stepped in to seal its fate",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Thom Tillis: the Republican blocking Donald Trump’s pick for Fed chair",
+      "link": "https://www.ft.com/content/9afbd6ad-e5f1-4d66-a9e7-1842f24a6cc8",
+      "published_date": "Tue, 21 Apr 2026 04:00:20 GMT",
+      "scrape_timestamp": "2026-04-21T04:42:49.209626+00:00",
+      "content": "The outgoing North Carolina senator is refusing to back down in fight over president’s probe into Jerome Powell",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will social media addiction go the way of cigarettes?",
+      "link": "https://www.ft.com/content/154d34b6-3e04-456b-af33-ea12c8fa5945",
+      "published_date": "Tue, 21 Apr 2026 04:00:29 GMT",
+      "scrape_timestamp": "2026-04-21T04:42:49.409829+00:00",
+      "content": "Smoking among the rich has declined dramatically — and digital dependency could follow a similar pattern",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Highly unlikely’ Iran ceasefire will be extended if no deal reached, Trump says",
+      "link": "https://www.ft.com/content/18c234e2-019a-448d-bf17-35bb2c146add",
+      "published_date": "Tue, 21 Apr 2026 03:29:56 GMT",
+      "scrape_timestamp": "2026-04-21T04:42:49.610050+00:00",
+      "content": "US delegation expected to leave ‘soon’ for Pakistan peace talks even as Tehran’s attendance remains unclear",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s ‘Board of Peace’ held talks with DP World over Gaza reconstruction",
+      "link": "https://www.ft.com/content/873b866b-fd17-426d-8cb1-a34566e2e1d4",
+      "published_date": "Tue, 21 Apr 2026 04:00:20 GMT",
+      "scrape_timestamp": "2026-04-21T04:42:49.810279+00:00",
+      "content": "Proposal examined having Emirati company manage supply chains and logistics as part of US plan for devastated enclave",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Maga Inc builds nearly $350mn war chest ahead of midterm elections",
+      "link": "https://www.ft.com/content/01e3925e-bca7-4595-9788-ee64f4e94f5f",
+      "published_date": "Tue, 21 Apr 2026 03:00:20 GMT",
+      "scrape_timestamp": "2026-04-21T04:42:50.010473+00:00",
+      "content": "Pro-Trump Super Pac raises $35mn in March with donations from billionaire Diane Hendricks and Andreessen Horowitz",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Japan lifts ban on lethal arms exports",
+      "link": "https://www.ft.com/content/539bdbe1-a535-44fb-aa7a-2c1fe1828adf",
+      "published_date": "Tue, 21 Apr 2026 03:15:23 GMT",
+      "scrape_timestamp": "2026-04-21T04:42:50.210696+00:00",
+      "content": "Major shift from pacifist stance will allow defence contractors to target international markets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-21T01:46:46.897427+00:00",
+  "last_updated": "2026-04-21T04:42:55.719333+00:00",
   "metadata": {
-    "total_runs": 1138,
+    "total_runs": 1139,
     "sources": [
-      "Financial Times",
-      "Yahoo Finance"
+      "Yahoo Finance",
+      "Financial Times"
     ],
     "retention_days": 7
   }
