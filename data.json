@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Iran open to talks with US, president says",
-      "link": "https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1",
-      "published_date": "Tue, 14 Apr 2026 00:57:47 GMT",
-      "scrape_timestamp": "2026-04-14T01:45:43.374487+00:00",
-      "content": "Pezeshkian says discussions can only happen within framework of ‘international law’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "OpenAI investors question $852bn valuation as strategy shifts",
       "link": "https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982",
       "published_date": "Tue, 14 Apr 2026 04:00:15 GMT",
@@ -51,17 +40,6 @@
       "published_date": "Tue, 14 Apr 2026 04:00:15 GMT",
       "scrape_timestamp": "2026-04-14T04:39:25.494713+00:00",
       "content": "Automating technical skills will transform the value of those who can build relationships and hold projects together",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China flexes trade power with soaring use of export controls",
-      "link": "https://www.ft.com/content/a2d7601a-dd2a-4619-ae08-321489f84d23",
-      "published_date": "Tue, 14 Apr 2026 01:37:39 GMT",
-      "scrape_timestamp": "2026-04-14T04:39:26.095353+00:00",
-      "content": "Tripling of restrictions in past five years underlines Beijing’s sway over crucial supply chains",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -1415,17 +1393,6 @@
       "published_date": "Tue, 14 Apr 2026 14:30:08 GMT",
       "scrape_timestamp": "2026-04-15T06:28:24.363093+00:00",
       "content": "US law firm’s revenues surpass $8bn for first time on the back of megamerger mandates",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Blue Owl Private Credit Fund Raises $400 Million in Bond Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-private-credit-fund-234921685.html",
-      "published_date": "2026-04-13T23:49:21Z",
-      "scrape_timestamp": "2026-04-15T10:08:41.879796+00:00",
-      "content": "Blue Owl Private Credit Fund Raises $400 Million in Bond Market 1 / 2 Blue Owl Private Credit Fund Raises $400 Million in Bond Market Davide Barbuscia and Olivia Fishlow Mon, April 13, 2026 at 7:49 PM EDT 2 min read OWL OBDC BX (Bloomberg) -- A Blue Owl Capital Inc. private credit fund raised $400 million from bond investors Monday, marking the first deal of its kind in over a month, as worries about AI-disrupted software bets and looser lending standards have roiled the once red-hot industry. The bonds were issued by Blue Owl Capital Corp. — known as OBDC — a publicly-traded business development company that provides direct loans to mostly small and mid-size companies. The investment-grade rated notes, which mature in 2028, were priced to yield 6.5%, according to a regulatory filing. Private credit managers broadly are grappling with rising concerns about their exposure to companies threatened by artificial intelligence, spurring record redemptions requests from non-traded funds and causing publicly listed vehicles to trade well below their net asset value. Blue Owl has borne the brunt of market fears in recent months, with its share price down 43% this year and OBDC currently trading at a roughly 25% discount to NAV. Still, the bond sale could indicate a nascent rebound in investor confidence in the private credit market. A representative for Blue Owl declined to comment. The OBDC bond sale priced at a roughly 2.7 percentage point spread to similar-maturity Treasuries, according to the filing. US BDC spreads have widened in recent weeks, climbing to about 2.25 percentage points above their benchmark, from 1.7 in January, according to data compiled by Bloomberg. That compares with an average yield gap of about 0.8 percentage point for US high-grade bonds. Morgan Stanley helped arrange the bond sale, with proceeds to be used to repay existing debt, according to the filing. OBDC, with a market capitalization of $5.4 billion and net assets of roughly $7.4 billion, had over $9 billion in outstanding debt as of the end of last year, according to bond documents. The fund last tapped the bond market in May, raising $500 million at a 6.2% coupon. Monday’s bond sale was the first deal of its kind since a publicly-traded fund managed by Blackstone Inc. sold $400 million of debt in late February. Other private credit funds are expected to tap the bond market in the coming weeks, according to bankers. More stories like this are available on bloomberg.com ©2026 Bloomberg L.P. Terms and Privacy Policy Your Privacy Choices More Info",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -14827,14 +14794,25 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is State Street's SPLB ETF's Corporate Bond Focus the Better Choice Over iShares TLT's U.S. Treasuries?",
+      "link": "https://finance.yahoo.com/markets/options/articles/state-streets-splb-etfs-corporate-134901876.html",
+      "published_date": "2026-04-19T13:49:01Z",
+      "scrape_timestamp": "2026-04-21T01:46:03.221762+00:00",
+      "content": "Is State Street's SPLB ETF's Corporate Bond Focus the Better Choice Over iShares TLT's U.S. Treasuries? Robert Izquierdo, The Motley Fool Sun, April 19, 2026 at 7:49 AM MDT 4 min read TLT ^GSPC The iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT) and the State Street SPDR Portfolio Long Term Corporate Bond ETF (NYSEMKT:SPLB) differ most in underlying bond exposure, with TLT focused on U.S. Treasuries and SPLB targeting long-duration investment-grade corporate bonds, while also contrasting on cost and recent performance. Both TLT and SPLB aim to give investors targeted exposure to long maturity bonds, but their portfolios diverge. TLT is a pure-play on U.S. government debt, while SPLB holds a broad basket of long-term corporate bonds. This comparison highlights how their distinct approaches play out in cost, yield, risk, and return. Snapshot (cost & size) Metric TLT SPLB Issuer iShares SPDR Expense ratio 0.15% 0.04% 1-yr return (as of Apr. 15, 2026) 4.0% 8.8% Dividend yield 4.5% 5.4% Beta 0.55 0.67 AUM $42.6 billion $1.3 billion Beta measures price volatility relative to the S&P 500; beta is calculated from five-year monthly returns. The 1-yr return represents total return over the trailing 12 months. SPLB looks more affordable on fees, charging just 0.04% versus TLT’s 0.15%, and also offers a higher yield at 5.4% compared to 4.5%, which may appeal to income-focused investors seeking a higher payout with lower costs. Performance & risk comparison Metric TLT SPLB Max drawdown (5 y) -43.70% -34.49% Growth of $1,000 over 5 years $735 $926 What's inside SPLB tracks a diversified pool of more than 3,000 long-term, investment-grade U.S. corporate bonds, spanning issuers such as Amazon.com Unsecured 03/76 6.05 0.52%, Anheuser Busch Company Guar 02/46 4.9 0.37%, and CVS Health Corp Unsecured 03/48 5.05 0.34%. With over 17 years on the market, SPLB is designed for broad corporate bond exposure with maturities of at least 10 years and no leverage or currency hedging quirks. TLT, by contrast, is exclusively focused on U.S. Treasury bonds with maturities longer than 20 years, including top holdings like Treasury Bond 08/15/2053 4.62%, Treasury Bond 11/15/2053 4.60%, and Treasury Bond 08/15/2051 4.59%. This government-only approach may appeal to those prioritizing credit safety over yield or corporate risk. For more guidance on ETF investing, check out the full guide at this link . What this means for investors Both the iShares 20+ Year Treasury Bond ETF (TLT) and the State Street SPDR Portfolio Long Term Corporate Bond ETF (SPLB) are designed for long-term income. In weighing which to invest in, the choice comes down to your individual goals. TLT is for investors who prioritize capital preservation. It delivers maximum safety, given the ETF’s focus on U.S. Treasury bonds. The fund’s substantial assets under management of $42.6 billion provides high liquidity as well. However, TLT isn’t going to furnish big gains, and its higher expense ratio and lower one-year return demonstrate SPLB is the better choice for those seeking income above all else. Story Continues SPLB supplies more income, as illustrated by its higher dividend yield and one-year return, through its focus on a wide range of investment-grade U.S. corporate bonds. It also sports a low expense ratio, making it a great choice for a bond fund. The tradeoff is that corporate bonds are riskier than investing in U.S. Treasuries. Buying both ETFs is also a good strategy. TLT offers investors a hedge against market downturns, while SPLB offers solid income. Should you buy stock in SPDR Series Trust - State Street SPDR Portfolio Long Termorate Bond ETF right now? Before you buy stock in SPDR Series Trust - State Street SPDR Portfolio Long Termorate Bond ETF, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and SPDR Series Trust - State Street SPDR Portfolio Long Termorate Bond ETF wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $524,786 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,236,406 !* Now, it’s worth noting Stock Advisor’s total average return is 994 % — a market-crushing outperformance compared to 199% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of April 19, 2026. Robert Izquierdo has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy . Is State Street's SPLB ETF's Corporate Bond Focus the Better Choice Over iShares TLT's U.S. Treasuries? was originally published by The Motley Fool Terms and Privacy Policy Privacy Dashboard More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-20T23:35:39.990285+00:00",
+  "last_updated": "2026-04-21T01:46:46.897427+00:00",
   "metadata": {
-    "total_runs": 1137,
+    "total_runs": 1138,
     "sources": [
-      "Yahoo Finance",
-      "Financial Times"
+      "Financial Times",
+      "Yahoo Finance"
     ],
     "retention_days": 7
   }
