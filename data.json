@@ -2,105 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Gulf states turn to private deals in $10bn wartime borrowing spree",
-      "link": "https://www.ft.com/content/3b927d8b-4c6b-414a-bb85-3d6070495df7",
-      "published_date": "Thu, 16 Apr 2026 04:00:22 GMT",
-      "scrape_timestamp": "2026-04-16T04:45:45.495475+00:00",
-      "content": "Abu Dhabi, Qatar and Kuwait avoid public markets for fundraising as Iran conflict delivers economic hit",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The pope versus the president: how Leo became Trump’s fearless foe",
-      "link": "https://www.ft.com/content/4f67aa87-9210-402d-bfef-b71b294d65cb",
-      "published_date": "Thu, 16 Apr 2026 04:00:22 GMT",
-      "scrape_timestamp": "2026-04-16T04:45:45.695613+00:00",
-      "content": "As he steps up his criticism of the Iran war, the pontiff’s American background has given him a role in US politics unlike any predecessor",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How the Strait of Hormuz will change Iran’s regime",
-      "link": "https://www.ft.com/content/f3c8decc-0c59-49fa-9854-ddd9103279f4",
-      "published_date": "Thu, 16 Apr 2026 04:00:22 GMT",
-      "scrape_timestamp": "2026-04-16T04:45:45.895777+00:00",
-      "content": "A system fixated on building up military deterrents has discovered its most important point of leverage over the world",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China shock 2.0: the countries feeling the ‘Chinese squeeze’",
-      "link": "https://www.ft.com/content/ea4c95c0-af00-4b79-8b7e-4bbe6d5e19f9",
-      "published_date": "Thu, 16 Apr 2026 04:07:23 GMT",
-      "scrape_timestamp": "2026-04-16T04:45:46.095933+00:00",
-      "content": "The sheer scale of the manufacturing superpower threatens to shut out south-east Asian rivals before they can rise",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nato in ‘turf war’ with EU over defence spending",
-      "link": "https://www.ft.com/content/00ea4f9b-65f1-4080-b526-9783fa8a4f83",
-      "published_date": "Thu, 16 Apr 2026 04:00:34 GMT",
-      "scrape_timestamp": "2026-04-16T04:45:46.296092+00:00",
-      "content": "At the heart of the dispute is buying US weapons with EU money",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Deterrence costs and we will all have to pay",
-      "link": "https://www.ft.com/content/bfea33f7-a736-4a4c-94b2-5a5eb56b7163",
-      "published_date": "Thu, 16 Apr 2026 04:00:34 GMT",
-      "scrape_timestamp": "2026-04-16T04:45:46.496243+00:00",
-      "content": "There is a need to stop wishful thinking on defence expenditure",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The tax-focused hedge fund craze taking over Wall Street",
-      "link": "https://www.ft.com/content/fad9d0ca-0b7a-4c22-8cfe-fb26fea9219b",
-      "published_date": "Thu, 16 Apr 2026 04:00:14 GMT",
-      "scrape_timestamp": "2026-04-16T04:45:46.696400+00:00",
-      "content": "New breed of products from firms such as AQR and Quantinno has soared in popularity, raising regulatory concerns",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China’s first-quarter GDP grows 5%, driven by industrial output",
-      "link": "https://www.ft.com/content/f2b53afc-be95-4788-bb03-9227d4bc7379",
-      "published_date": "Thu, 16 Apr 2026 02:08:14 GMT",
-      "scrape_timestamp": "2026-04-16T04:45:46.896560+00:00",
-      "content": "Exports and fiscal stimulus offset a still weak domestic economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Spain’s Repsol wins back control of Venezuelan oil operations",
-      "link": "https://www.ft.com/content/622a60db-6e0f-40bb-835c-8542bd83d72a",
-      "published_date": "Thu, 16 Apr 2026 04:00:41 GMT",
-      "scrape_timestamp": "2026-04-16T06:29:38.305774+00:00",
-      "content": "Deal with South American nation’s government includes guaranteed payment system and plan to triple production",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "EU to relax merger rules in bid to create ‘European champions’",
       "link": "https://www.ft.com/content/75073836-d923-4b3f-a1ca-5ae83dcd705a",
       "published_date": "Thu, 16 Apr 2026 09:41:35 GMT",
@@ -728,28 +629,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "‘$20bn in 20 minutes’: the man turning Trump into a global deal machine",
-      "link": "https://www.ft.com/content/2a7f4575-8c94-4258-9ff4-6b6c74815d07",
-      "published_date": "Thu, 16 Apr 2026 04:00:22 GMT",
-      "scrape_timestamp": "2026-04-16T17:04:20.522304+00:00",
-      "content": "Paolo Zampolli provides access to the US president and his officials — at a price",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Can Trump unseat Powell as Fed chair?",
-      "link": "https://www.ft.com/content/07476cf0-7dbf-43a1-b29c-1c0c75783518",
-      "published_date": "Thu, 16 Apr 2026 04:00:22 GMT",
-      "scrape_timestamp": "2026-04-16T17:04:20.722461+00:00",
-      "content": "President has said he will seek to fire the head of the central bank if Kevin Warsh is not confirmed before May 15",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Peter Mandelson failed UK Foreign Office vetting",
       "link": "https://www.ft.com/content/f0f5fddc-04e8-4cf2-8dd8-eb6d760b9fff",
       "published_date": "Thu, 16 Apr 2026 16:36:30 GMT",
@@ -1069,33 +948,11 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Iran war brings US close to net crude exporter for first time since World War Two",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/iran-war-brings-us-close-023327078.html",
-      "published_date": "2026-04-16T02:36:31Z",
-      "scrape_timestamp": "2026-04-17T12:57:41.491345+00:00",
-      "content": "Iran war brings US close to net crude exporter for first time since World War Two By Arathy Somasekhar and Georgina McCartney Wed, April 15, 2026 at 9:36 PM CDT 4 min read CL=F By Arathy Somasekhar and Georgina McCartney HOUSTON, April 15 (Reuters) - The U.S. nearly turned into a net crude exporter last week for the first time since World War Two as shipments surged close to a record high to meet demand from Asian and European buyers scrambling to ‌replace Middle East supplies cut by the Iran war. More from Yahoo Scout How did Middle East conflicts affect US crude exports? How do oil price differentials impact global trade flows? Why are US crude exports approaching capacity limits? What factors are driving record US oil export demand? The U.S. and Israel's war with Iran triggered the largest ever disruption to the global energy market ‌as Iranian threats to shipping stopped around a fifth of the world's oil and gas supplies from transiting the Strait of Hormuz waterway. Refiners in Asia and Europe that depend on those supplies have bought alternative ​cargoes from wherever they can, sharply boosting demand for oil from the U.S., the world's largest producer. However, analysts and traders say the U.S. is rapidly approaching its export capacity. Net imports of crude oil, or the difference between imports and exports, narrowed to 66,000 barrels per day last week, the lowest on record in weekly data that goes back to 2001, according to U.S. government data released on Wednesday, while exports climbed to 5.2 million bpd, the highest in seven months. On an annual basis, the U.S. was last ‌a net exporter of crude in 1943, data showed. Rising U.S. ⁠crude exports are evidence that Atlantic Basin and Asian buyers are reaching further out for available supply, with regional oil price differences making up for the costs of shipping, said Rystad vice president of oil markets, Janiv Shah. Countries such as Greece have snapped ⁠up U.S. crude for the first time ever in recent months. About 2.4 million bpd, or some 47% of U.S. exports last week sailed toward Europe, according to ship tracking service Kpler. Around 1.49 million bpd, or about 37%, headed to Asia, up from 30% a year ago. Top buyers included the Netherlands, Japan, France, Germany and South Korea. A vessel carrying 500,000 barrels of crude ​signaled ​it was en route to Turkey, which would mark the first U.S. export to the ​country in at least a year, Kpler data showed. SOARING BENCHMARK BRENT ‌MAKES US OIL ATTRACTIVE Imports to the U.S., meanwhile, dropped by more than 1 million bpd to 5.3 million bpd last week. The U.S. still imports a lot of its crude as its refineries are designed to take heavier, more sour grades than the light sweet crude it produces. The disruption to Middle East supplies blew out the premium for Brent crude futures over U.S. West Texas Intermediate crude futures to as much as $20.69 a barrel last month, reducing U.S. buyers' appetite for imports, while making U.S. crude attractive to refiners in Europe and Asia. Story Continues The price of physical crude oil cargoes for prompt delivery to Europe hit a record high near $150 a barrel on ‌Monday, and those for Africa hit new peaks, according to LSEG data and traders. EXPORTS NEARING ​CAPACITY U.S. exports are likely to touch about 5.2 million bpd for April, Matt Smith, an analyst at ​Kpler said, adding that exports were pushing up against capacity limits on ​a monthly basis. The U.S. can export as much as 6 million bpd, traders and analysts said, citing limited pipeline capacity and vessel ‌availability. Its exports hit a record high of 5.6 million bpd ​in 2023, government data shows. \"The market is ​already testing the export ceiling with 5.2 million bpd exported last week. Every incremental barrel from here costs more in freight and logistics than the last one,\" according to Bekzod Zukhritdinov, a Dubai-based oil trader. A release of medium sour crude from the Strategic Petroleum Reserve could push more light, low sulfur ​U.S. crude grades out for export, Rystad's Shah said. ‌But a shortage of tankers, and higher freight rates could hurt that export demand, he added. About 80 empty supertankers were heading to the Gulf ​of Mexico as of Wednesday, likely to pick up crude over April and May, said Rohit Rathod, a senior analyst at Vortexa. (Reporting by ​Arathy Somasekhar and Georgina McCartney in Houston; Editing by Liz Hampton and Sonali Paul) Terms and Privacy Policy Privacy Dashboard More Info",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Analyst Report: Prologis Inc",
       "link": "https://finance.yahoo.com/research/reports/ARGUS_2705_AnalystReport_1776424379000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "published_date": "2026-04-17T11:12:59Z",
       "scrape_timestamp": "2026-04-17T12:57:41.491360+00:00",
       "content": "Summary Prologis is a global industrial REIT that owns, builds, and manages space for warehouses, manufacturing, distribution, and large-scale storage. PLD became the world's largest industrial REIT by focusing on business-to-business fulfillment and e-commerce. As of the beginning of 2026, PLD's portfolio had just under 5,900 buildings with 1.3 billion square feet of space in 20 countries. Many properties have on-site solar, and about one-fifth of assets are warehouses over 500,000 square feet and about 65% of total properties are in North America. The company's top tenants are Amazon, Home Depot, and FedEx, with Amazon accounting for about 5.3% of net effective rent. PLD partners with other companies in joint ventures to reduce risk. The REIT also has a co-investment program labeled Strategic Capital that creates venture opportunities for institutional capital partners. Total revenues in 2025 reached about $8.8 billion and Strategic Capital accounted for about 7% of total 2025 revenues with $235 billion of assets under management. PLD has faced pressure from an oversupply of warehouse space due to slowing sales at online retailers. In response, the company Upgrade to begin using premium research reports and get so much more. Exclusive reports, detailed company profiles, and best-in-class trade insights to take your portfolio to the next level Upgrade",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Loosening Rules for Day Traders Is a Victory for Brokers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-loosening-rules-day-traders-040100956.html",
-      "published_date": "2026-04-16T04:01:00Z",
-      "scrape_timestamp": "2026-04-17T12:57:41.491403+00:00",
-      "content": "Why Loosening Rules for Day Traders Is a Victory for Brokers Brian Boyle Wed, April 15, 2026 at 11:01 PM CDT 2 min read HOOD BULL Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors . The US Securities and Exchange Commission is taking a hacksaw to the shackles on day traders. Shares of retail trading platforms such as Robinhood, Interactive Brokers, and Webull all surged on Wednesday, a day after the SEC gave the green light to scrap long-held capital requirements for day traders. To put it plainly: Wall Street believes what’s good for day traders (or, at least, freeing for day traders) is definitely good for brokers. Sign up for The Daily Upside at no cost for premium analysis on all your favorite stocks. READ ALSO: PepsiCo’s Lower Snack Prices Dish Up an Earnings Win and Cruel Summer Proves Kind to Madison Air in Largest Industrial IPO of 2000s Caps Off In place since 2001, the SEC’s so-called pattern day-trader rules had banned making more than four day trades within a five-day period if a trader’s margin account held less than $25,000 in assets. Day traders and Wall Street alike had long opposed the threshold; the Financial Industry Regulatory Authority (FINRA), a self-regulatory body, had proposed scrapping the rule, which the SEC approved on Tuesday. The new margin standards, set to take effect no sooner than 45 days after FINRA publishes a formal notice of the change, will require traders only to hold enough equity to cover current risks. While the long-term effects on markets may be hard to quantify, it seems all but certain that retail-friendly financial plumbers just scored a big victory: In a note to clients, Goldman Sachs analyst James Yaro wrote that brokers Robinhood, Interactive Brokers and eToro all stand to benefit, flagging Robinhood as a particularly good bet given that its smaller average account size suggests it’s more popular with smaller day traders, who are most likely to benefit from the rule change. Shares of Robinhood jumped more than 10% on Wednesday, while shares of Webull climbed more than 11% and shares of eToro and Interactive Brokers climbed 6.4% and 3.4%, respectively. Retail Revolution: “By eliminating antiquated barriers, this change better reflects the modern trading landscape and ensures everyone has the freedom to invest and participate in the markets on their own terms,” Steve Quirk, Robinhood’s chief brokerage officer, told Bloomberg. Shares of Robinhood have tumbled some 24% this year; in its latest earnings report in February, the company posted lower-than-expected revenue, due largely to the long crypto winter. Perhaps a little more access to good old-fashioned equities is enough to bring about spring. This post first appeared on The Daily Upside . To receive razor sharp analysis and perspective on all things finance, economics, and markets, subscribe to our free The Daily Upside newsletter. Terms and Privacy Policy Privacy Dashboard More Info",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -14057,14 +13914,344 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Forestar Group Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forestar-group-inc-q2-2026-164630250.html",
+      "published_date": "2026-04-21T16:46:30Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798190+00:00",
+      "content": "Forestar Group Inc. Q2 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:46 AM CDT 3 min read DHI FOR Forestar Group Inc. Q2 2026 Earnings Call Summary - Moby Operational Strategy and Market Dynamics Revenue growth of 7% was supported by 2,938 lot sales, despite persistent affordability constraints and cautious consumer sentiment impacting the broader new home sales pace. Management is prioritizing inventory turnover and return maximization over aggressive expansion to navigate current market volatility and maintain a strong balance sheet. The company's capital structure is cited as a primary competitive advantage, as project-level development loans for competitors have become more expensive and restrictive. Operational efficiency efforts led to an 8% year-over-year headcount reduction, aimed at managing SG&A expenses while maintaining national footprint capabilities. Strategic alignment with D.R. Horton remains a core driver, with a long-term goal for Forestar to provide one out of every three lots D.R. Horton sells. Underwriting discipline is maintained through a strict requirement for a minimum 15% pre-tax return and a full cash investment recovery within 36 months. Fiscal 2026 Outlook and Strategic Assumptions Fiscal 2026 lot delivery guidance was narrowed to 14,000 to 14,500 lots, while revenue guidance remains steady at $1.6 billion to $1.7 billion. The company plans to invest approximately $1.4 billion in land acquisition and development for the full year, subject to evolving market conditions. Management expects a return to stronger volume growth in future periods, supported by a current lot position of 94,400 lots and a $2.2 billion revenue backlog. Headcount is expected to remain relatively flat for the remainder of the year to support future growth initiatives without inflating the cost structure. Capital allocation will remain flexible, with management monitoring local market conditions across 200 active projects to balance sales pace and pricing. Financial Adjustments and Risk Factors Gross profit margin of 21.4% included $6.3 million in planned option charges and pre-acquisition write-offs, up from $0.9 million in the prior-year quarter. Infrastructure cost reimbursements from utility and improvement districts contributed $130.9 million to liquidity during the quarter. The company increased its senior unsecured revolving credit facility capacity by $50 million, contributing to total liquidity exceeding $1 billion. Management flagged that project-level land acquisition loans are becoming less available for competitors, potentially accelerating Forestar's market share gains. Q&A Session Summary Market share goals and reduction in controlled lot counts Management explained that builders have been working through existing lot portfolios over the last two quarters. They anticipate a return to more robust lot closing patterns in 2026 as builder starts and sales accelerate. Story Continues Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Rationale for increased land option charges in the quarter Charges were concentrated in a handful of communities where projects no longer met strict underwriting standards. Management emphasized they will walk away from projects rather than purchase assets that do not meet return thresholds, citing a robust alternative pipeline. Capital allocation priorities regarding potential share repurchases The primary use of cash remains reinvestment into the business for future growth. High liquidity is being maintained to provide flexibility for opportunistic acquisitions or responding to market shifts. Demand trends from non-D.R. Horton homebuilders Demand remains strong despite a year-over-year decline in sales to other builders, which was attributed to a difficult comparison involving a large lot banker sale in the prior year. The timing of deliveries is currently driven by the specific cadence of new community openings. Impact of rising fuel prices on development margins Management has not yet seen cost increases tied to fuel, though they are monitoring the situation closely. Increased contractor availability is currently helping to offset other cost pressures by improving development timelines. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mercantile Bank Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mercantile-bank-corporation-q1-2026-164713560.html",
+      "published_date": "2026-04-21T16:47:13Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798199+00:00",
+      "content": "Mercantile Bank Corporation Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:47 AM CDT 3 min read MBWM Mercantile Bank Corporation Q1 2026 Earnings Call Summary - Moby Strategic Performance Drivers Management attributed strong first-quarter performance to the successful integration of Eastern Michigan Financial Corporation, which bolstered deposit growth and margin stability. The net interest margin increased to 3.55% despite a 67 basis point drop in the 90-day SOFR average, which management cited as evidence of effective matched funding and a lack of asset sensitivity. Loan growth was temporarily constrained by approximately $80 million in elevated payoffs from asset sales and multifamily refinancing into secondary markets, which exceeded historical norms. Asset quality remains a core strategic pillar, with non-performing assets at 11 basis points of total assets and an allowance for credit losses providing nearly 10x coverage of non-performing loans. Fee income growth was driven by a 35% increase in treasury management service charges and double-digit gains in mortgage banking and card offerings, reflecting deeper commercial relationship penetration. Operational efficiency was maintained through disciplined expense management, with occupancy and data processing costs remaining stable as a percentage of net revenue despite expansion investments. 2026 Outlook and Strategic Assumptions Management projects annualized loan growth of 5% to 7% for the remainder of 2026, supported by a commercial loan pipeline currently at 5-quarter highs. The net interest margin is expected to remain stable in the second quarter with steady increases in the second half of the year as low-yielding fixed-rate loans and securities reprice. Guidance assumes no changes in the federal funds rate for the remainder of 2026, though management believes the balance sheet is positioned to remain stable in various rate environments. The bank expects to realize sizable savings following its core and digital banking system conversion next year, though management is still calculating the specific impact on personnel and total expense reductions. Strategic expansion in Southeast Michigan remains a priority, with ongoing investments in personnel expected to drive both asset and liability growth in that market. Non-Recurring Items and Risk Factors Reported earnings included $3.2 million in pre-tax one-time costs related to the Eastern Michigan acquisition and the upcoming core system conversion. A negative provision for credit losses of $1.8 million was recorded, primarily due to improved economic forecasts and a lack of net loan growth during the quarter. Other expenses were impacted by a $1.2 million increase in reserves for unfunded loan commitments, reflecting a significantly higher level of accepted commercial loan commitments. The bank utilized $0.8 million in tax benefits from transferable energy credits and low-income housing activities, with a projected full-year effective tax rate of 17%. Story Continues Q&A Session Highlights Drivers of the adjusted net interest margin guidance Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Management explained that the slightly lower margin range reflects a shift in balance sheet mix, specifically higher-than-expected deposit growth being held in lower-yielding Federal Reserve accounts. They expect the margin to improve as excess liquidity is redeployed into the commercial loan portfolio throughout the year. Sustainability of the current loan loss reserve level Management stated that 60% of the reserve is supported by qualitative factors due to a long history of minimal losses. Future provision expense is expected to turn positive as loan growth accelerates, assuming asset quality remains at its current pristine levels. Capital allocation and share repurchase strategy The bank did not repurchase shares in Q1, prioritizing capital to support organic growth and navigating regulatory uncertainty regarding risk-based capital calculations. Management noted that while buybacks remain 'on the stovetop,' they are maintaining a cautious stance given global economic volatility. Yield pickup from fixed-rate loan and security repricing Approximately $50 million in securities yielding under 1% will mature this year, with reinvestment opportunities currently yielding around 3.5%. Fixed-rate commercial loans yielding approximately 5% are expected to reprice into the upper 6% to 7% range over the next several quarters. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "D.R. Horton, Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/d-r-horton-inc-q2-164636596.html",
+      "published_date": "2026-04-21T16:46:36Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798207+00:00",
+      "content": "D.R. Horton, Inc. Q2 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:46 AM CDT 3 min read DHI D.R. Horton, Inc. Q2 2026 Earnings Call Summary - Moby Strategic Performance and Market Positioning Net sales orders increased 11% year-over-year as the company successfully balanced sales pace, pricing, and incentives to navigate affordability constraints. Management attributed the 35% year-over-year reduction in completed unsold homes to a disciplined focus on inventory turns and capital efficiency. The company's affordability strategy is centered on pricing homes approximately $160,000 below the national average for new homes, targeting the underserved first-time homebuyer segment. Operational improvements, including a one-month reduction in median cycle times, have enabled the company to hold less inventory and improve capital turnover. Strategic land management remains a priority, with 77% of lots controlled through purchase contracts to enhance operational flexibility and minimize balance sheet risk. Management noted that 65% of mortgage closings were to first-time buyers, reinforcing the company's core focus on entry-level market segments. Consolidated pretax profit margins exceeded guidance due to a combination of construction cost savings and a favorable litigation outcome. Outlook and Strategic Assumptions Management expects sales incentives to remain elevated for the remainder of the year, with specific levels dependent on mortgage rate volatility and consumer demand. Third quarter guidance assumes home sales gross margins will remain stable at approximately 19.7% or slightly higher, supported by realized construction cost savings. The company anticipates a sequential decline in housing starts for the third quarter as it continues to align production with specific community-level demand. Full-year revenue guidance was narrowed at the top end to reflect lower-than-expected average sales prices and closing volumes in the first half of the year. Capital allocation remains focused on returning approximately $2.5 billion to shareholders via repurchases while maintaining a target leverage ratio of around 20%. Non-Recurring Items and Risk Factors Second quarter gross margins included a 40 basis point benefit from a favorable litigation outcome and lower-than-normal warranty costs. Management flagged potential legislative uncertainty regarding the rental segment, specifically concerning proposed 7-year sale requirements for build-for-rent properties. While stick and brick costs have declined, lot costs increased 4% year-over-year, acting as a persistent headwind to margin expansion. The company is monitoring potential inflation stemming from elevated oil prices, though no tangible impact has been realized yet. Story Continues Q&A Session Highlights Sustainability of gross margins and construction cost tailwinds Management expects incremental benefits from lower labor and material costs to flow through in Q3 and Q4, potentially offsetting rising lot costs. The company noted that while price increases are frequently announced by suppliers, they do not always translate into higher realized costs for D.R. Horton due to its scale. Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Impact of mortgage rate buy-downs and ARM products Approximately 73% of closings utilized some form of mortgage buy-down, with permanent and temporary buy-downs remaining the primary incentive tool. Adjustable-rate mortgage (ARM) usage moderated to 10% of closings, down from 13% sequentially, as buyers still largely prefer 30-year fixed-rate products. Strategic rationale for selling homes earlier in the construction cycle Selling homes earlier in the process typically yields higher margins than selling completed specs, as it reduces the need for aggressive 'aged inventory' discounting. Improved cycle times have allowed the company to offer earlier sales while still meeting buyer timelines for move-in. Legislative risks and demand trends in the rental segment Management noted a 'pause' in some rental market activity due to proposed legislation, but emphasized that most rental projects are underwritten to be sold as individual homes if necessary. The company is shifting toward 'forward sales' in the rental space, only starting construction once a contract and firm commitment are in place. Regional demand trends and market share gains Demand in Texas and Florida remains resilient, while the North region is seeing outsized growth following several years of strategic investment and penetration. Management observed that cancellation rates remained stable throughout the quarter, with the vast majority of 'cans' due to mortgage qualification issues rather than buyer cold feet. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Halliburton Company Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/halliburton-company-q1-2026-earnings-164632814.html",
+      "published_date": "2026-04-21T16:46:32Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798213+00:00",
+      "content": "Halliburton Company Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:46 AM CDT 3 min read HAL Halliburton Company Q1 2026 Earnings Call Summary - Moby Strategic Performance and Market Dynamics Management asserts that the global energy landscape has fundamentally shifted toward energy security, which will drive multi-year investment in localized oil and gas development. The Middle East conflict has created a cumulative production deficit of several hundred million barrels, leading to a structurally tighter market that supports a durably stronger commodity environment. North America is showing early signs of a recovery, characterized by the elimination of 'white space' in the first-half frac calendar and an uptick in inbound calls for spot work. International growth outside the Middle East is being led by Latin America, specifically through a multibillion-dollar integrated completions award in Argentina with YPF. The company is prioritizing returns over market share in North America, focusing on improving the profitability of existing fleets before considering capacity additions. Strategic technology adoption is accelerating, highlighted by the acquisition of Sekal to provide 'closed-loop' automated geosteering that integrates the bottom hole assembly with rig hydraulics. Operational disruptions in the Middle East, including the closure of the Strait, have forced the use of alternative supply chain routes, increasing logistics and material costs. Outlook and Strategic Assumptions Full-year 2026 international revenue growth is projected in the mid- to high-single digits, excluding the Middle East, driven by strong activity in Latin America and West Africa. Q2 2026 financial guidance includes an estimated impact of $0.07 to $0.09 per share due to ongoing Middle East conflict disruptions and associated supply chain costs. Capital expenditures for 2026 are targeted at $1.1 billion, reflecting a slight increase due to delayed delivery of capital equipment rather than a shift in market strategy. Management expects North American capacity to tighten further as smaller operators absorb remaining premium equipment, potentially leading to improved pricing power. The company anticipates a sequential increase in shareholder returns, with buybacks in the second half of 2026 expected to exceed first-half levels. Risk Factors and Structural Developments The Middle East conflict resulted in a Q1 earnings impact of approximately $0.02 to $0.03 per share due to lower activity and increased logistics expenses. A multibillion-dollar contract in Argentina marks the first deployment of Zeus electric fracturing services outside of North America, signaling a pivot toward international unconventional scale. The acquisition of Sekal was completed to internalize rig automation technology, specifically the Drilltronics platform, to differentiate Halliburton's offshore drilling offering. SAP S/4 migration costs are expected to remain a steady headwind, with approximately $45 million in expenses projected for the second quarter. Story Continues Q&A Session Highlights Impact of Middle East conflict on long-term global supply strategy Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Management stated the supply overhang concern has been 'swept away' and replaced by a focus on energy security that will drive activity for several years. The rebalancing of global inventories is expected to move closer as structural demand remains intact despite regional disruptions. North American market signposts and equipment tightness The industry is within a 'handful of premium fleets' of being absolutely sold out, with smaller operators currently driving the leading edge of capacity tightening. While larger public E&Ps remain disciplined, the influx of work from smaller players is successfully removing 'white space' from the 2026 calendar. International shale opportunities and Zeus technology deployment Zeus technology is being deployed in Argentina because the market has reached the necessary scale and contract duration to return the cost of capital. Management noted that other international unconventional markets are not yet mature enough to demand the high-end 'closed-loop' fracturing capabilities of the Zeus platform. Middle East production restart and service line potential Restarting shut-in production will not be immediate and will likely require complex intervention work, favoring Halliburton's leadership in coiled tubing and hydraulic workovers. Management declined to provide a specific timeline for a return to pre-conflict activity levels, citing the complexity of the supply chain and well-specific conditions. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Northrop Grumman Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-corporation-q1-2026-164729356.html",
+      "published_date": "2026-04-21T16:47:29Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798227+00:00",
+      "content": "Northrop Grumman Corporation Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:47 AM CDT 3 min read NOC Northrop Grumman Corporation Q1 2026 Earnings Call Summary - Moby Strategic Execution and Capacity Expansion Performance was driven by the modernization of the nuclear triad, a top priority in the U.S. National Defense Strategy, resulting in 5% organic sales growth. Management is pivoting toward speed and scale, having opened over 20 new facilities and added 2 million square feet of manufacturing space in the last two years to meet heightened demand. The company reached a strategic agreement with the Air Force to increase B-21 annual production rates by 25%, supported by a mix of customer funding and approximately $2.5 billion in company-funded investment phased over several years. Strategic positioning in the solid rocket motor (SRM) market has doubled tactical production capacity, with the company now supplying more than 15 major missile systems. Growth in the Defense Systems segment is being fueled by a fundamental shift in the geopolitical environment, leading to a 40% rise in global military spending over the past decade. The weapons business is nearing 10% of total company sales and is expected to grow at a pace well above the corporate average as new programs mature into production. Management attributes strong bookings and a $96 billion backlog to a robust demand environment where Western nations are modernizing forces to Cold War-era spending levels. Outlook and Strategic Assumptions The FY 2027 defense budget request of $1.5 trillion, if enacted, would increase spending to approximately 5% of GDP, providing a long-term demand signal for key programs like B-21 and Sentinel. Sentinel program growth is expected to remain in the low double digits for the remainder of the year, with a Milestone B decision anticipated later in 2026 and first flight in 2027. The B-21 program is on a trajectory to reach initial operating capability at Ellsworth Air Force Base in 2027, with revenue profiles following the completion of new production facilities. Management assumes high single-digit sequential sales growth in the second quarter, with margins expected to improve throughout the year due to production timing and mix. Capital expenditure for 2026 has been revised upward to $1.85 billion to support B-21 capacity, though the company maintains its free cash flow guidance by working to offset these impacts. Operational Adjustments and Risk Factors The Space segment faced a year-over-year headwind due to a $98 million contract closeout benefit in the prior year and a $71 million unfavorable adjustment on the GEM 63XL program. A B-21 test asset was sold to the Air Force, accelerating revenue into the first quarter without changing the total number of aircraft expected in the LRIP phase. Management flagged concurrent development and production risks for the F-35 radar, noting plans to accelerate production capacity and quickly ramp production once development and testing milestones are completed. The company is actively addressing supply chain bottlenecks by helping sub-tier suppliers resource their own scaling efforts to match Northrop's increased production rates. Story Continues Q&A Strategic Insights Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. B-21 production acceleration and program of record stability Management confirmed the 25% capacity increase is supported by committed quantities and strong administrative support for triad modernization. The agreement improves the long-term return on invested capital (ROIC) for the program, positioning it to exceed the company's cost of capital over its lifecycle. International demand acceleration and export approval timelines Urgency in the Middle East is pulling demand forward for integrated air defense and counter-UAS solutions. While international cycles remain longer than domestic ones, the company is working with the DoD to aggregate demand and accelerate export approvals. Competitive positioning for the Navy's F/A-XX fighter program Management expressed confidence in their capacity to deliver the next-generation fighter, citing their B-21 track record as evidence of handling complex aircraft schedules. A potential award in the third quarter would represent significant upside to current sales and earnings guidance. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Equifax Inc. Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equifax-inc-q1-2026-earnings-164657709.html",
+      "published_date": "2026-04-21T16:46:57Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798238+00:00",
+      "content": "Equifax Inc. Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:46 AM CDT 3 min read EFX Equifax Inc. Q1 2026 Earnings Call Summary - Moby Strategic Performance Drivers Achieved 13% organic constant currency revenue growth in the first quarter, driven by significant outperformance in U.S. mortgage and broad-based execution in Workforce Solutions. Expanded EBITDA margins by 80 basis points through strong operating leverage, mortgage flow-through, and early-stage AI-driven cost productivity. Reached a record 17% Vitality Index, reflecting accelerated product innovation enabled by the substantially complete transition to cloud-native infrastructure. Leveraged proprietary data moats, with 90% of revenue generated from non-public data sources that are inaccessible to open-web AI models. Gained significant market share in mortgage pre-approval via the TWN Indicator solution, which provides instant income visibility to lenders at no cost to drive credit file adoption. Maintained 2026 guidance despite Q1 outperformance due to macroeconomic uncertainty and interest rate volatility stemming from the Iran conflict. Strategic Outlook and Guidance Framework Guidance assumes mortgage originations will be down low single digits for the full year, with current run rates slightly below February framework levels. Expects 2026 diversified markets revenue to grow high single digits, supported by EFX.AI-driven new products and customer share gains. Anticipates 75 basis points of full-year margin expansion, exceeding the long-term 50 basis point framework through continued AI operational efficiencies. Projects over $1 billion in free cash flow for 2026, providing $1.5 billion in capacity for bolt-on M&A and shareholder returns. Assumes no VantageScore conversion or FICO vintage changes in 2026 guidance, treating potential industry shifts as purely incremental upside. Operational Context and Risk Factors Identified a $35 million annual margin upside opportunity from a full industry conversion to VantageScore at current mortgage run rates. Noted a temporary headwind in Employer Services due to the expiration of federal Work Opportunity Tax Credit (WOTC) legislation. Highlighted a challenging Q2 comparison for the government vertical following a large Social Security Administration contract win in the prior year. Flagged potential timing issues in government deal closures as state agencies manage technology implementations and budget constraints. Q&A Insights Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Impact of AI on proprietary data moats and manual verification Management emphasized that AI cannot access Equifax's proprietary income and employment data because it is not available on the web. Stated that agentic AI is unlikely to displace manual verification due to the strict consumer permissioning and regulatory requirements of the FCRA. Story Continues Strategic rationale for VantageScore pricing reduction to $1 Lowered pricing from $4.50 to $1 to incentivize mortgage originators to switch from FICO, citing a potential $1 billion annual savings for the industry. Confirmed that Equifax earns margin on VantageScore sales while earning zero margin on FICO score pass-throughs. Sustainability of AI-driven cost productivity and margin expansion Identified call centers, paper document processing, and software coding as the primary frontiers for multi-year AI-driven efficiency gains. Indicated that while the current long-term framework is 50 basis points, the company will evaluate raising this target as AI benefits mature. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Synchrony Financial Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-q1-2026-earnings-164705921.html",
+      "published_date": "2026-04-21T16:47:05Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798246+00:00",
+      "content": "Synchrony Financial Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:47 AM CDT 3 min read SYF SYF-PB Synchrony Financial Q1 2026 Earnings Call Summary - Moby Strategic Performance Drivers and Market Dynamics Achieved record first-quarter purchase volume of $43 billion, driven by a 20% increase in co-branded card utility and enhanced product value propositions. Observed a strategic shift toward discretionary spending, which outpaced nondiscretionary growth for the third consecutive quarter, signaling resilient consumer confidence despite rising fuel costs. Attributed strong credit performance and a 96 basis point decrease in net charge-offs to disciplined underwriting and the efficacy of prior credit tightening actions. Expanded the CareCredit ecosystem through strategic integrations with Planet DDS and new pet insurance reimbursement partnerships to improve patient access and operational efficiency. Benefited from a 76 basis point expansion in net interest margin, primarily fueled by higher loan yields and lower interest-bearing liability costs resulting from lower benchmark rates. The payment rate of 16.3% was approximately 110 basis points above the pre-pandemic first quarter average, reflecting shifts in portfolio and product mix, the impacts of new portfolio seasoning, previous credit actions, and higher average tax refunds. Outlook and Strategic Growth Framework Expects mid-single-digit growth in ending loan receivables by year-end, supported by the onboarding of approximately $725 million in Lowe's commercial co-brand receivables. Anticipates net charge-offs to remain below 5.5% for the full year, with losses expected to peak seasonally in the second quarter. Projects net interest income growth driven by the continued build of pricing actions and a reduction in funding liability costs, offsetting lower late fee incidence. Assumes a second-half acceleration in account acquisitions and purchase volume as recently launched programs like OnePay and RH reach scale. Maintains a flexible capital return strategy following the approval of a new $6.5 billion share repurchase program, prioritizing aggressive but prudent distribution. Structural Shifts and Risk Factors Under the proposed Basel III standardized approach, the company could see a capital relief benefit of 125 to 150 basis points due to favorable retail exposure risk weighting, though management noted the enhanced risk-based approach would be a net negative due to charges for operational risk and open-to-buy portfolios. Noted that while fuel prices rose significantly in March, total portfolio spend-per-account remained strong, suggesting limited immediate impact on broader consumer behavior. Flagged higher operational losses in the first quarter as an idiosyncratic item that is expected to normalize in subsequent periods. Highlighted the strategic transition to 'Agentic Commerce' (AgenTek) to ensure financing options are embedded in emerging AI-driven consumer research and purchase paths. Story Continues Q&A Session Highlights Sustainability of elevated payment rates and impact on loan growth Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Management clarified that the current 16.3% payment rate is not a permanent reset but a result of credit mix shifts and lower promotional financing participation. Expects payment rates to normalize as discretionary big-ticket purchases in Home and Auto platforms recover, which typically carry lower payment rates. Capital relief and RWA impact under Basel III proposal The standardized approach offers a net benefit of 125-150 basis points, while the enhanced risk-based approach (ERBA) presents challenges due to open-to-buy capital charges. Management is actively evaluating the proposal to provide comments on eliminating double-counting for operational risk and refining open-to-buy conversion factors. Expense trajectory and operating leverage through 2027 Synchrony intends to keep headcount flat while using AI and engineering efficiencies to ensure NII growth outpaces operating expense growth. Incremental spending will be prioritized for high-differentiation technology like cloud and AI, while core operating costs are disciplined to drive long-term leverage. Divergence in consumer behavior by credit cohort The 780+ super-prime cohort shows the strongest increase in payment rates, while the 650-780 prime segment shows a gradual shift from statement-in-full to minimum payments. Non-prime populations are currently outperforming relative to historical trends, which management attributes to successful prior credit actions. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Quest Diagnostics Incorporated Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/quest-diagnostics-incorporated-q1-2026-164641314.html",
+      "published_date": "2026-04-21T16:46:41Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798254+00:00",
+      "content": "Quest Diagnostics Incorporated Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:46 AM CDT 3 min read DGX Quest Diagnostics Incorporated Q1 2026 Earnings Call Summary - Moby Strategic Performance Drivers Revenue growth of over 9% was driven almost entirely by organic demand across physician, hospital, and consumer channels, reflecting broad-based adoption of clinical innovations. The hospital channel achieved double-digit growth primarily through collaborative lab solutions, specifically the Corewell Health implementation which is proceeding smoothly. Advanced diagnostics in brain health, specifically the AD-Detect Alzheimer's portfolio, saw revenue more than double year-over-year as physicians increasingly adopt blood-based testing over costly PET/CT scans. The consumer channel experienced robust growth through questhealth.com and partnerships where Quest serves as the 'lab engine' for wearables and health apps. Operational excellence initiatives, branded as Invigorate, delivered productivity gains through the deployment of automation and AI in both laboratory and administrative functions. Management attributed a 2.5% increase in revenue per requisition (excluding specific partnerships) to a favorable shift in test mix toward more complex, high-value clinical areas. Strategic expansion into end-stage renal disease via the Fresenius Medical Care collaboration added significant volume and established a foothold in a new clinical vertical. Outlook and Strategic Assumptions Full-year revenue and EPS guidance were raised based on Q1 momentum, though the outlook explicitly excludes any contribution from prospective M&A. Project Nova, a multi-year initiative to transform order-to-cash processes, is on track for a fall 2027 implementation with $0.25 of dilution expected in 2026. Guidance assumes a 30 basis point revenue impact from potential ACA disenrollments, though management noted no material impact was observed in the first quarter. Operating margins are expected to expand for the full year, supported by the ramp-up of the Fresenius partnership toward enterprise average margins by the second half. Management anticipates continued double-digit growth in advanced diagnostics, supported by new clinical guidelines for biomarkers like Lp(a) and ApoB. Risk Factors and Operational Context Weather events in January and February resulted in a $9 million revenue headwind, though approximately 70% of canceled appointments were recovered in March. Higher fuel costs for the company's transportation fleet and aircraft are expected to create a $7 million to $10 million headwind ($0.05 to $0.07 EPS impact) over the next three quarters. Management addressed the CMS 'CRUSH' initiative, stating Quest had no involvement in the seven proprietary test categories identified and only de minimis exposure to the remaining three genetic or molecular-based tests targeted for oversight. The PAMA data collection period beginning May 2026 is viewed as a potential catalyst for rate increases if hospital labs comply with reporting requirements as mandated. Story Continues Q&A Session Highlights Organic volume dynamics and contribution from major partnerships Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Organic volume grew 10.8%, with approximately 7% of that growth coming from the Fresenius and Corewell Health relationships. Excluding these partnerships, organic volume grew 3.8%, while revenue per requisition rose 2.5% due to increased tests per requisition and advanced diagnostic mix. PAMA data submission and 2027 Medicare rate expectations Quest is prepared to submit data by the July deadline and noted that CMS has increased pressure on hospital labs to participate via potential fines. Management believes that if the 80% of the market currently not reporting (mostly hospitals) submits data, it should demonstrate that current Medicare rates are undervalued. Strategic rationale for the Haystack MRD oncology test The company is making progress on reimbursement, having submitted for Medicare Advantage coverage and established PLA codes for baseline and monitoring tests. Management emphasized the test's low limits of detection as a key differentiator for oncologists in recurrence monitoring. Future of consumer health and the 'Physical of the Future' Management envisions a shift where longitudinal lab data and wearable biometrics are analyzed by AI before a patient ever sees a doctor. This convergence is expected to drive higher testing frequency as consumers use biomarkers to monitor the effectiveness of lifestyle changes and therapies. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Postal Realty (PSTL) Q4 2025 Earnings Transcript",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/postal-realty-pstl-q4-2025-165022294.html",
+      "published_date": "2026-04-21T16:50:22Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798261+00:00",
+      "content": "Postal Realty (PSTL) Q4 2025 Earnings Transcript Motley Fool Transcribing, The Motley Fool Tue, April 21, 2026 at 11:50 AM CDT 16 min read Image source: The Motley Fool. Date Wednesday, Feb. 25, 2026, 9 a.m. ET Call participants Chief Executive Officer — Andrew Spodek Chief Financial Officer — Stephen Bakke President — Jeremy Garber Need a quote from a Motley Fool analyst? Email pr@fool.com Full Conference Call Transcript Andrew Spodek: Good morning, and thank you for joining us today. In 2025, we exceeded expectations on all fronts. Our results reflect the stability and growth inherent in our portfolio of critical logistics infrastructure leased to the U.S. Postal Service and our unique operating approach. It was the successful execution of our business plan, coupled with the strength of the Postal Service's tenancy that enabled us to exceed our 2025 guidance. We're building on these results with the strong 2026 guidance we issued yesterday. Our business is benefiting more than ever from economies of scale resulting from the growth of our portfolio and the technology and systems investments we've made in recent years. We grew our asset base by approximately 20% last year, increasing our gross real estate value by 10x since IPO. Our access to capital to fund growth is deeper than it's ever been, bolstered by a BBB investment-grade rating from Kroll, KBRA. Our year-end liquidity rises to $271 million, including the revolver upsize we announced yesterday as well as the successful equity raising activity we have completed to date in the first quarter. Looking to the future, we have a strong pipeline of acquisitions to fuel our value creation machine. We generate substantial value through acquisitions by applying our efficient operating approach, marking rents to market and extending lease terms to 10 years with annual rent escalators. Our acquisition strategy remains unchanged for volume to be day 1 accretive and furnish meaningful growth over time. Based on our robust pipeline, we are introducing initial guidance of $115 million to $125 million at a mid-7% weighted average cap rate, fully funded by recent capital markets activity. As our cost of capital continues to improve and our pipeline of deals continues to expand, we will revisit acquisition guidance as needed in future quarters. 2025 brought with it changes at the Postal Service. A new Postmaster General took the reins in July and has been vocal about the value of the last mile. The launch of the auction process to broaden last mile access only reinforces what we've been saying for years. These real estate locations are the backbone of the U.S. Postal Service's delivery network. This infrastructure enables universal service across more than 170 million delivery points nationwide and is utilized 6 days a week by logistics providers and online retailers. As we like to remind investors, through government shutdowns, recessions and pandemics, the Postal Service pays 100% of the monthly rent 100% of the time. Lease expenses represent 1.5% of the Postal Service's total operating expenses, and they have remained in our building 99% of the time. Story Continues I believe that in uncertain times, the consistency of the Postal Service's tenancy can be of even more value. I'm proud of our progress and our strong position to start the year. I'll now turn the call over to Steve. Stephen Bakke: Thanks, Andrew. Yesterday, we reported AFFO per share of $0.33 for the fourth quarter of 2025, bringing full year AFFO per share to $1.32. This was at the high end of our most recent guidance and represents growth of 13.8% for the year. Reviewing 2025 guidance items, acquisitions totaled $123.1 million, slightly ahead of our December guidance and nearly $40 million above the midpoint of our guidance at the start of the year. Full year cash G&A of $10.9 million came in slightly better than the guidance midpoint of $11 million. As a share of total revenue, cash G&A declined by nearly 130 basis points in 2025, an indicator of the scale efficiencies we are experiencing. Lastly, our 2025 same-store cash NOI performance was 8.9%. For 2026, we are providing AFFO per share guidance of $1.39 to $1.41, which represents 6.1% growth from last year at the midpoint. This is above our annual growth rate since 2020 of 5.8% per year. Guidance assumptions include the following: acquisitions of $115 million to $125 million; same-store cash NOI growth of 6.0% to 7.0% and cash G&A of $11.5 million to $12.5 million. For the first quarter, we expect recurring capital expenditures of approximately $125,000 to $200,000. Lastly, guidance includes approximately $0.05 per share of dilutive impact from forward equity calculated in accordance with the treasury stock method since the company's stock price is above the net price of outstanding forwards. Turning to sources and uses of capital. In 2025, we raised $55 million via ATM and OP unit issuance, $40 million via term loans, borrowed on our revolver and utilized retained cash flow to fund acquisitions. For 2026, as Andrew mentioned, we have fully funded the entirety of our acquisition guidance at the high end on a leverage-neutral basis through equity and debt raise as well as growing retained free cash flow. In 2026, we've raised a total of $44 million of equity at an average gross price of $17.67 per share, of which $36 million was sold on a forward basis at a gross price of $17.88 per share. We executed via the forward ATM to match share issuance with future acquisition closings. As it relates to debt funding, on February 20, we closed on $115 million of new revolving credit facility commitments, welcoming Scotiabank as a new lender. The added liquidity puts our balance sheet in an even stronger position to support the growth of our business. Turning to balance sheet metrics. We ended the year with net debt to annualized adjusted EBITDA of 5.2x or 4.6x after giving effect to unsettled forward equity. Our philosophy as a public company and even before that, when we were private, has been to operate at a low leverage level. Our net debt to annualized adjusted EBITDA has averaged in the low to mid-5x range over the past 5 years. And going forward, we plan to continue operating in the same range. As such, we are updating our leverage target for net debt to adjusted EBITDA to below 6x from a prior target of below 7x. At year-end, our balance sheet consisted of 89% fixed rate debt, 91% unsecured debt and $113 million of liquidity, which rises to about $270 million, including capital raised in the first quarter. Going forward, we plan to borrow predominantly with fixed rate unsecured debt and to maintain ample liquidity. Finally, in January, we increased our dividend by 1% to $0.245 per quarter, continuing our track record of raising the dividend each year since our IPO. We are committed to growing the dividend while utilizing retained cash flow to reinvest in the business and maintain a strong financial position. With that, I'll turn it over to Jeremy. Jeremy Garber: Thank you, Steve. I will provide an update on our re-leasing efforts, followed by more detail on our fourth quarter acquisition activity. Starting with re-leasing. As of today, we have executed all new leases for properties that expired in 2025, except for 5 properties acquired during 2025 and 1 acquired in holdover status during 2026. The 5 properties acquired during 2025 have agreed upon rents and the leases are in lease production. As it relates to 2026 re-leasing, other than 4 recently acquired properties, all rents have been agreed upon and are currently in lease production. We are currently negotiating rents for the 2027 leases. All leases will have 3% escalators and the vast majority will have 10-year terms. Finally, as part of our shared goal with the USPS to get further ahead of expirations, we have already started discussions on the 2028, and we look forward to updating on our progress in the coming quarters. The rollout of",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "OFG Bancorp Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ofg-bancorp-q1-2026-earnings-164718154.html",
+      "published_date": "2026-04-21T16:47:18Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798268+00:00",
+      "content": "OFG Bancorp Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:47 AM CDT 3 min read OFG OFG Bancorp Q1 2026 Earnings Call Summary - Moby Strategic Performance Drivers Performance was driven by a 4% increase in core revenues and 5% loan growth, supported by high-quality credit and disciplined expense management. The 'Digital First' strategy is successfully driving market adoption through targeted accounts: Libre for mass market, Elite for mass affluent, and MyBiz for small businesses. Core deposits grew more than 4% year-over-year when excluding a previously announced $500 million government deposit transfer to wealth management. Management attributes improved credit metrics to 2022 underwriting adjustments that shifted the auto portfolio to 99% prime quality. The Puerto Rico economy provides a constructive backdrop with historically low unemployment and significant annual reconstruction fund inflows of $4 billion to $6 billion. Operational efficiency is being realized through omnichannel technology adoption, allowing the bank to reinvest savings into new digital products and value-added services. Outlook and Strategic Assumptions Net Interest Margin (NIM) guidance is updated to 5.1% to 5.2% for the full year, assuming no interest rate cuts in 2026. The NIM outlook incorporates the anticipated exit of a large $600 million government deposit later this year, which management plans to replace with core retail and commercial growth. Loan growth is expected to remain in the low single digits as expanding commercial pipelines are partially offset by an intentional moderation in the auto loan book. Non-interest expenses are projected to remain stable within a range of $380 million to $385 million for the full year. Management is leveraging data and real-time insights through its intelligent banking pillar to drive innovation and free up teams for value-added services. Risk Factors and Specific Items A $3.3 million interest recovery from a PCD loan paid in full positively impacted first-quarter interest income and NIM. Management is monitoring geopolitical uncertainties and rising energy prices as potential inflationary headwinds for the Puerto Rico economy. The commercial portfolio includes a single-name telecommunication exposure on nonaccrual, which management characterizes as an idiosyncratic risk rather than a broad trend. Capital management remains active, with $44.5 million in share repurchases and a 17% dividend increase executed during the quarter. Q&A Session Highlights Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. NIM guidance conservatism and government deposit replacement strategy Management characterized the 5.1% to 5.2% NIM guidance as conservative due to the uncertain timing of a $600 million government deposit exit. The bank intends to replace these funds through its commercial and retail teams, which outperformed expectations in deposit gathering during the first quarter. Story Continues Sustainability of credit quality improvements and delinquency trends While first-quarter improvements were partly seasonal due to high consumer liquidity, management expects lower loss content long-term due to higher FICO scores in recent vintages. The net charge-off rate is projected to remain around 1% for the full year, despite the strong first-quarter performance. Impact of interest rate scenario changes on financial outlook The shift from two expected rate cuts to zero cuts in 2026, combined with a better funding mix from first-quarter inflows, positively impacted the guidance by approximately 10 basis points. The bank remains asset sensitive, though management noted that a 50 basis point cut would have a minimal impact of less than 1% on Net Interest Income. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Genuine Parts Company Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/genuine-parts-company-q1-2026-164722891.html",
+      "published_date": "2026-04-21T16:47:22Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798275+00:00",
+      "content": "Genuine Parts Company Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:47 AM CDT 3 min read GPC Genuine Parts Company Q1 2026 Earnings Call Summary - Moby Strategic Performance and Operational Context Performance exceeded internal expectations in Q1, driven by sequential improvements across all three business segments and disciplined execution of strategic pricing and sourcing initiatives. The Global Industrial segment achieved significant EBITDA margin expansion of 90 basis points, leveraging scale and diverse end-market growth in 10 of 14 tracked sectors. North America Automotive saw a 5.5% comparable sales increase in company-owned stores, validating the strategy to optimize internal operations while supporting independent owners. International Automotive results improved sequentially despite challenging market conditions in Europe and fuel-related headwinds in the Asia-Pacific region. Management attributes resilience to global scale and established playbooks, which allow the company to capture market share during periods of geopolitical and economic disruption. The ongoing war in the Middle East is identified as a primary driver of supply chain friction, inflationary pressure on logistics, and incremental customer uncertainty. Outlook and Guidance Assumptions Full-year 2026 guidance is maintained, balancing Q1 outperformance against a prudent view of potential second and third quarter volatility driven specifically by the uncertainty of the conflict in Iran. Management anticipates a $10 million to $20 million net negative EBITDA impact in Q2 specifically due to the conflict in Iran, primarily from higher freight and fuel costs. Revenue outlook assumes roughly flat market growth, with a 2% benefit from pricing and tariffs and approximately 1 point of growth from strategic initiatives. Gross margin expansion of 40 to 60 basis points is expected for the full year, supported by the sequential build of restructuring benefits and cost-pass-through strategies. The separation into two independent public companies remains on track for completion in the first quarter of 2027, with a focus on validating dis-synergy estimates and the design of the new public company's personnel and functions. Strategic Separation and Risk Factors Estimated run-rate dis-synergies and stand-alone costs for the separation are projected at $100 million to $150 million, consistent with initial strategic review estimates. Dis-synergies of $50 million to $75 million are expected from loss of scale in indirect sourcing and the need to replicate back-office and technology functions. Incremental stand-alone costs of $50 million to $75 million will primarily impact the Global Industrial business due to new public company functions and facilities. Geopolitical risks in the Middle East pose a threat to consumer sentiment and miles driven, though direct product exposure to the region is less than 0.5% of total purchases. Story Continues Q&A Session Highlights Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Impact of Iran conflict on pricing and freight pass-through Management expects the conflict's impact to be most pronounced in Q2, with downside risk already incorporated into the reaffirmed annual guidance. The company intends to pass through increased freight-in and product costs to customers, though they are monitoring consumer elasticity and demand carefully. Internal 'command centers' remain active to manage tariff-related pricing adjustments and supplier negotiations in a normalized rhythm. Capital allocation and dividend policy for the two future companies Post-separation, the Automotive business will likely focus on shareholder returns and bolt-on M&A, while the Industrial business will prioritize a higher volume of M&A. Management intends for both entities to maintain investment-grade ratings and remain faithful to a strong dividend culture. Specific dividend payout ratios and capital structures will be finalized as the growth strategies for each stand-alone entity are refined. Profitability and support for independent NAPA owners Management declined to disclose specific profit margins for company-owned versus independent stores but noted that company-owned stores are reaching 'best-in-class' entitlement levels. The company is reimagining how to use its balance sheet to support independent owners with inventory investments and favorable capital access. Independent owner sentiment has improved sequentially, and their 'sales out' performance is viewed as a critical indicator of system health. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tractor Supply Company Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tractor-supply-company-q1-2026-164754291.html",
+      "published_date": "2026-04-21T16:47:54Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798282+00:00",
+      "content": "Tractor Supply Company Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:47 AM CDT 3 min read TSCO Tractor Supply Company Q1 2026 Earnings Call Summary - Moby Strategic Performance Drivers Performance was driven by a resilient needs-based model, with consistent demand in core categories like poultry and livestock feed offsetting a cautious consumer environment. Management attributed the 100 basis point drag on comparable sales to structural headwinds in the companion animal category, specifically declining dog ownership and an under-index in the growing cat and fresh nutrition segments. Market share gains in the farm and ranch sector reached one of their best levels in the first quarter, even as the broader market slowed. Consumer behavior reflected trip consolidation and a shift toward essential spending, with tax refunds being used for debt reduction and savings rather than discretionary purchases. Digital business growth of over 20% was fueled by enhancements to the subscription model and the expansion of the Final Mile delivery network. New store productivity remained high at 65% to 70%, with a record 40 stores opened in the quarter to drive total net sales growth of 3.6%. Outlook and Strategic Assumptions Management expects sequential improvement in comparable sales for the second quarter as seasonal demand ramps up in Northern regions and big-ticket categories like riding mowers gain momentum. The companion animal category is expected to remain under pressure for the remainder of the year, with guidance assuming flat to slightly negative comps in that segment. Gross margin is projected to strengthen in the second half of the year as comparisons ease and efficiencies from the new 11th distribution center begin to flow through. Strategic investments in the pet category include scaling fresh and frozen offerings from 80 stores to 700 stores by year-end to capture higher-growth nutrition segments. The company plans to convert approximately 700 stores to include dedicated wildlife and recreation departments by year-end, up from the previous target of 500. Operational Risks and Structural Factors Gross margin remains pressured by tariff costs, freight inflation, and a higher mix of digital and delivery-related sales, though management believes these impacts are currently being mitigated through cost management and supply chain efficiencies. SG&A deleverage of 70 basis points was driven by fixed cost pressure from low comparable sales and the front-loaded timing of new store openings and strategic investments. The dog population in the U.S. has declined from 96 million in 2023 to approximately 92 million in 2025, creating a persistent headwind for the company's dog-heavy mix. Fuel and oil price volatility is being managed with a conservative outlook, with higher costs already incorporated into the reaffirmed full-year guidance. Story Continues Q&A Session Highlights Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Timeline for improvement in the companion animal category Management expects continued pressure in the near term but anticipates gradual improvement as assortment transformations and fresh pet expansions reach scale. The company noted that pet food share is actually stable or growing by species, but the total category is weighed down by the mix shift toward cat and fresh food where they currently under-index. Impact of new store cannibalization on existing store performance Cannibalization remains modest and manageable, with management viewing it as 'healthy' when adding stores to high-demand markets. New store approvals are based on internal rate of return (IRR) metrics that account for incremental benefits net of any cannibalization. Efficiency and cost benefits of the Final Mile delivery program The program is lowering the cost per delivery by orchestrating inventory upstream and using third-party partners for small items while using internal teams for large, complex deliveries. Final Mile hubs are enabling larger order quantities, such as bulk shavings and fence panels, that are difficult for competitors to deliver nationally. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "RTX Corporation Q1 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-q1-2026-earnings-164750605.html",
+      "published_date": "2026-04-21T16:47:50Z",
+      "scrape_timestamp": "2026-04-23T04:44:33.798288+00:00",
+      "content": "RTX Corporation Q1 2026 Earnings Call Summary Moby Intelligence Tue, April 21, 2026 at 11:47 AM CDT 3 min read RTX RTX Corporation Q1 2026 Earnings Call Summary - Moby Operational Execution and Strategic Positioning Organic sales growth of 10% was driven by robust demand across all three segments, with defense volume and commercial aftermarket leading performance. Management attributed the 21% EPS growth to strong segment operating profit drop-through and productivity gains, despite significant headwinds from tariffs. The GTF fleet management plan remains on track, with AOG aircraft down 15% compared to the end of 2025 due to a 23% year-over-year increase in MRO output. Raytheon's performance was bolstered by a 40% year-over-year increase in munitions deliveries, supported by 12 consecutive quarters of material receipt growth. Strategic investments in automation, such as robotics in Singapore MRO facilities, have reduced assembly times by 50% and supported an 80% increase in facility output. The company is leveraging five landmark framework agreements with the Department of Defense for critical munitions. to provide long-term demand signals for critical munitions like Tomahawk and AMRAAM. Commercial OE performance remained in line with expectations, with management maintaining a disciplined balance between OE deliveries and aftermarket material allocation. FY 2026 Outlook and Strategic Assumptions Full-year adjusted sales guidance was raised by $500 million to a range of $92.5-$93.5 billion, primarily reflecting accelerated defense volume at Raytheon. Adjusted EPS guidance increased to $6.70-$6.90, driven by $0.05 of drop-through on higher sales at Raytheon and the remainder from below-the-line items including lower-than-anticipated interest expenses. The GTF Advantage engine is on track for entry into service later in 2026, following recent aircraft certification and the start of production line integration. Defense growth expectations were upgraded to mid-to-high single digits, assuming continued funding priorities for munitions depth and integrated air defense in the 2027 budget. Free cash flow guidance of $8.25-$8.75 billion remains unchanged, incorporating approximately $170 million in powder metal-related compensation paid in Q1. Risk Factors and Structural Dynamics Tariffs remained a significant headwind in Q1, impacting Collins margins by 130 basis points and Pratt & Whitney by 50 basis points; however, both segments expanded their overall margins by 10 and 70 basis points, respectively. Management noted that while near-term critical mineral supplies are secured, they are actively seeking long-term partnerships to mitigate future supply chain volatility. The defense industrial base requires a 'step change' in resiliency, with RTX advocating for additional suppliers to enter the market to support massive production ramps. A $500 million debt repayment was completed in Q1 as part of a broader deleveraging strategy to strengthen the balance sheet following recent capital deployments. Story Continues Q&A Session Key Insights Supply chain resiliency for munitions production ramp Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here. Management stated that meeting the 40% production increase requires a step change in the supply chain, particularly for rocket motors and microelectronics. The new framework agreements are designed to provide the long-term visibility necessary for suppliers to invest in tooling and capacity. Pricing strategy for GTF Advantage and Hot Section Plus RTX intends to capture value for the significant R&D investment in the Advantage engine through improved pricing and durability benefits. The 'Hot Section Plus' retrofit package will provide 95% of the Advantage's durability benefits to the legacy fleet starting later this year. Impact of potential air travel slowdown on aftermarket Management remains confident in aftermarket durability because 50% of the V2500 fleet has not yet reached its second shop visit. The GTF fleet is viewed as insulated from fuel-driven capacity cuts because it is the most fuel-efficient asset in airline portfolios. Tariff refund potential following court rulings RTX has paid approximately $500 million in IEEPA-related tariffs that may now be subject to refund following a Supreme Court ruling. The company has not yet recorded any income or guidance upside from these potential refunds, pending the government's formal process. One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Escape from Hormuz: the oil tankers running the Iranian gauntlet",
+      "link": "https://www.ft.com/content/836ea939-c1a0-4943-8608-71dc3d4d838d",
+      "published_date": "Thu, 23 Apr 2026 04:06:52 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:08.747959+00:00",
+      "content": "How trading houses Vitol, Trafigura and Mercuria have managed to get some of their oil tankers out of the Gulf",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The secret diary of a middle power",
+      "link": "https://www.ft.com/content/cac5870b-5507-4130-b4fd-a1c60d0ed6f3",
+      "published_date": "Thu, 23 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:08.948173+00:00",
+      "content": "So much economic conflict, so many feelings",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "It’s a ‘sontaku’ world — we are just living in it",
+      "link": "https://www.ft.com/content/2fcaac18-3c01-40d6-be15-58365a873172",
+      "published_date": "Thu, 23 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:09.148377+00:00",
+      "content": "Pre-emptive interpretation of a leader’s wishes can be dangerous and reveals a vacuum where direction should be",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "SpaceX and Tesla are on an inevitable collision course",
+      "link": "https://www.ft.com/content/6ca9125f-f6fa-47ed-9a3b-5202757c02e9",
+      "published_date": "Thu, 23 Apr 2026 03:09:01 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:09.548775+00:00",
+      "content": "To the extent shareholders just want exposure to Elon Musk, a single security seems like the sensible end state",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brussels set to lure Iceland into EU with fishing policy exceptions",
+      "link": "https://www.ft.com/content/eea7f28b-2c4e-44b9-8c52-8723741b18a7",
+      "published_date": "Thu, 23 Apr 2026 04:00:07 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:09.949263+00:00",
+      "content": "More flexibility over contentious marine issue with Reykjavik could tempt other ‘like-minded’ countries to join bloc",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Top Republican pushes party to shun $300mn AI lobby",
+      "link": "https://www.ft.com/content/3fd0a5d9-99cd-41a1-af79-7987c73d9fd3",
+      "published_date": "Thu, 23 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:10.149491+00:00",
+      "content": "Senator Josh Hawley warns of ‘political cost’ if Washington fails to rein in Big Tech and artificial intelligence",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: UK crime agency reviewed Mandelson allegations in 2024",
+      "link": "https://www.ft.com/content/6791ebd8-89b6-47d5-8f80-d72f6d63594b",
+      "published_date": "Thu, 23 Apr 2026 04:31:06 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:10.740723+00:00",
+      "content": "Also in today’s newsletter: US Navy secretary fired and EU Arctic drilling rethink",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Japan moves to block foreign takeover deal on national security grounds",
+      "link": "https://www.ft.com/content/1db673a1-7158-4834-8a73-5d01f6f2da9d",
+      "published_date": "Thu, 23 Apr 2026 04:29:55 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:10.940923+00:00",
+      "content": "Government asks South Korean private equity group MBK Partners to drop attempt to buy Makino Milling",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "PE firm L Catterton launches new fund staked by top athletes",
+      "link": "https://www.ft.com/content/799a742d-ded8-4d23-9e03-c3bc61c36bd2",
+      "published_date": "Thu, 23 Apr 2026 04:00:25 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:11.341343+00:00",
+      "content": "LVMH-backed group will seek to harness influence of sports personalities to enhance portfolio companies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sadiq Khan: Labour risks being ‘stonked’ in London elections",
+      "link": "https://www.ft.com/content/0de4e436-f67b-444a-bfb5-f50b85710deb",
+      "published_date": "Thu, 23 Apr 2026 04:00:25 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:11.541550+00:00",
+      "content": "Mayor says campaigning ahead of May 7 local elections is some of ‘most difficult’ he has experienced in more than 40 years",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Private equity courts OpenAI and Anthropic",
+      "link": "https://www.ft.com/content/693d3077-7416-4bb7-8826-31e4692db4d2",
+      "published_date": "Thu, 23 Apr 2026 04:00:25 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:11.741761+00:00",
+      "content": "The start-ups are in talks with private equity firms over joint ventures intended to help deploy AI in businesses",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nelson Peltz’s son builds first public activist stake in Intertek",
+      "link": "https://www.ft.com/content/6153dca4-ce70-4dfd-946e-811cc1d4794b",
+      "published_date": "Thu, 23 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:11.942029+00:00",
+      "content": "Matt Peltz’s new firm Lost Coast Collective has invested in the UK testing company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How many people would Reform UK deport?",
+      "link": "https://www.ft.com/content/a76216cc-4bf9-4db6-8166-ae23f3777ed3",
+      "published_date": "Thu, 23 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:12.142254+00:00",
+      "content": "At least two million are at risk but the plans are ambiguous and their effect hinges on Labour’s own decisions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "House of Fidelity — the dynasty at the heart of the investment powerhouse",
+      "link": "https://www.ft.com/content/d8d9f0e5-d26d-4d6b-97c0-c6374ea0a6d5",
+      "published_date": "Thu, 23 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:12.342450+00:00",
+      "content": "A journalist lifts the lid on how the Johnson family battled to keep control of the asset manager in a history packed with luminaries of finance",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK could save £2.5bn by helping banks to buy gilts, says Barclays",
+      "link": "https://www.ft.com/content/e351c513-ef18-4fbe-8406-c297efbad8e2",
+      "published_date": "Thu, 23 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:12.542668+00:00",
+      "content": "Idea long pursued by banking sector lobbyists faces opposition from regulators",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How Beirut was turned into a bystander in its own ceasefire talks",
+      "link": "https://www.ft.com/content/b6faa531-072b-4cb8-a9f4-4025a98c247c",
+      "published_date": "Thu, 23 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:13.343482+00:00",
+      "content": "Deal brokered by Donald Trump to pause Israel’s offensive highlights Lebanon’s weakness",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘The last thing we needed’: US farmers hit by spiralling prices due to Iran war",
+      "link": "https://www.ft.com/content/c3b70fde-3e8a-4661-a4cb-7dc1564f43b1",
+      "published_date": "Thu, 23 Apr 2026 04:00:07 GMT",
+      "scrape_timestamp": "2026-04-23T04:45:13.543649+00:00",
+      "content": "Conflict has hit fertiliser costs in an agricultural sector already reeling from Trump’s trade war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-23T01:49:57.632693+00:00",
+  "last_updated": "2026-04-23T04:45:29.410885+00:00",
   "metadata": {
-    "total_runs": 1168,
+    "total_runs": 1169,
     "sources": [
-      "Yahoo Finance",
-      "Financial Times"
+      "Financial Times",
+      "Yahoo Finance"
     ],
     "retention_days": 7
   }
