@@ -1,83 +1,6 @@
 {
   "articles": [
     {
-      "source": "Financial Times",
-      "title": "Oil prices set for more turbulence in months ahead, warns Gunvor chief",
-      "link": "https://www.ft.com/content/70b0ecee-7cc8-4257-be44-104460a84632",
-      "published_date": "Mon, 20 Apr 2026 04:00:23 GMT",
-      "scrape_timestamp": "2026-04-20T04:51:57.198307+00:00",
-      "content": "World’s fourth-largest independent crude trader says markets may be ‘very choppy’ between April and June",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Kevin Warsh: Trump’s next fall guy at the Fed?",
-      "link": "https://www.ft.com/content/a11d75a8-5885-4d65-97c1-0cab85f7df4d",
-      "published_date": "Mon, 20 Apr 2026 04:00:04 GMT",
-      "scrape_timestamp": "2026-04-20T04:51:57.398494+00:00",
-      "content": "The nominee to lead the world’s most powerful central bank wants big changes. But there’s risk of confrontation with the president over interest rates",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The return of the e-merging markets",
-      "link": "https://www.ft.com/content/3f3324fa-c0b6-479e-9ed4-10b72f0a75f8",
-      "published_date": "Mon, 20 Apr 2026 04:00:13 GMT",
-      "scrape_timestamp": "2026-04-20T04:51:57.598684+00:00",
-      "content": "For now South Korea and Taiwan are the biggest beneficiaries of the AI wave",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How the Iran war could hurt Wall Street",
-      "link": "https://www.ft.com/content/12ae430c-2909-4b1c-b121-7376dce76fa3",
-      "published_date": "Mon, 20 Apr 2026 04:00:22 GMT",
-      "scrape_timestamp": "2026-04-20T04:51:57.798875+00:00",
-      "content": "The big unknown is how the conflict could alter the Gulf’s investment priorities in the next year or two",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russian economy is faltering despite oil windfall, Sweden warns",
-      "link": "https://www.ft.com/content/04a9d05d-2502-44d4-b7e0-041aaa4f83cd",
-      "published_date": "Mon, 20 Apr 2026 04:00:23 GMT",
-      "scrape_timestamp": "2026-04-20T04:51:57.999052+00:00",
-      "content": "Stockholm’s military intelligence head says Moscow is manipulating data to make its economy look better",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "ECB frontrunner Hernández de Cos is most qualified candidate for top job, economists say",
-      "link": "https://www.ft.com/content/29fc4cd8-1c93-4d76-b2a3-1fb7c0d9f4aa",
-      "published_date": "Mon, 20 Apr 2026 03:00:08 GMT",
-      "scrape_timestamp": "2026-04-20T04:51:58.199227+00:00",
-      "content": "Former Spanish central bank chief ranks first in poll of monetary policy experts in ‘tight race’ for Lagarde succession",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Defence spending is ‘magnet’ for criminals, warns EU fraud chief",
-      "link": "https://www.ft.com/content/fe78cee3-c1a0-453a-b7da-683963c6e52a",
-      "published_date": "Mon, 20 Apr 2026 04:00:13 GMT",
-      "scrape_timestamp": "2026-04-20T04:51:58.399413+00:00",
-      "content": "Huge sums being invested in European rearmament are attracting fraudsters, says agency head Petr Klement",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Equinor Expects Strong Trading Profits in Q1 Amid US-Iran War",
       "link": "https://finance.yahoo.com/sectors/energy/articles/equinor-expects-strong-trading-profits-072203117.html",
@@ -244,33 +167,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Out of office, still hyper-responsive",
-      "link": "https://www.ft.com/content/98ab4190-9dbc-4f6c-bc3f-1a8afd0f4cc1",
-      "published_date": "Mon, 20 Apr 2026 04:00:13 GMT",
-      "scrape_timestamp": "2026-04-20T09:49:59.898728+00:00",
-      "content": "Once established by professional training, the addictive pull of screens, newsfeeds and email replies is impossible to shake",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Japan issues tsunami warning after strong earthquake",
       "link": "https://www.ft.com/content/2840bbee-d440-40c8-b339-3c2ad2296dbf",
       "published_date": "Mon, 20 Apr 2026 08:24:02 GMT",
       "scrape_timestamp": "2026-04-20T09:50:00.299189+00:00",
       "content": "Warning for wave up to 3 metres high on north-eastern coast",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "AI boom poised to be ‘massively disinflationary’, Northern Trust says",
-      "link": "https://www.ft.com/content/7ec229f4-200e-4f34-ba6d-0642397d03e3",
-      "published_date": "Mon, 20 Apr 2026 04:00:22 GMT",
-      "scrape_timestamp": "2026-04-20T09:50:00.699624+00:00",
-      "content": "Head of financial services group’s $1.4tn asset management division expects new tech to unleash huge productivity gains",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -16378,14 +16279,91 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Vicor Stock Skyrocketed This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-vicor-stock-skyrocketed-week-175151835.html",
+      "published_date": "2026-04-25T17:51:51Z",
+      "scrape_timestamp": "2026-04-27T05:16:12.448010+00:00",
+      "content": "Why Vicor Stock Skyrocketed This Week Keith Noonan, The Motley Fool Sat, April 25, 2026 at 1:51 PM EDT 2 min read VICR ^GSPC ^IXIC Vicor (NASDAQ: VICR) stock closed out this week's trading stretch with big gains. The tech company's share price ended Friday's session up 25.4% compared to its level at the end of the previous week's trading. Tech stocks enjoyed a bullish backdrop over the last week, with the S&P 500 climbing 0.5% and the Nasdaq Composite rising 1.5%. With the market's appetite for tech stocks already rising, the stage was set for Vicor's better-than-expected Q1 results to power huge gains for the stock. Will AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need. Continue » Image source: Getty Images. Vicor crushed Wall Street's Q1 forecast Vicor recorded earnings per share of $0.44 on sales of $113 million in the first quarter. Earnings per share beat the average analyst estimate by $0.11, and sales came in $3.65 million higher than anticipated. The power-components specialist's revenue surged roughly 20% higher year over year, and the company reported an order backlog of $301 million at the end of the quarter -- up 75% year over year . What's next for Vicor? In addition to posting strong sales and earnings beats in the first quarter, Vicor returned to providing definitive forward guidance. The company said that it anticipates second-quarter revenue to come in at nearly $126 million. Meanwhile, sales for the full-year period are projected to come in at nearly $570 million. For reference, the business recorded sales of $452.7 million last year. Vicor's return to providing detailed forward guidance even amid geopolitical instability is a positive development for shareholders, and investors poured back into the stock this week. Should you buy stock in Vicor right now? Before you buy stock in Vicor, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Vicor wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $498,522 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,276,807 !* Now, it’s worth noting Stock Advisor’s total average return is 983 % — a market-crushing outperformance compared to 200% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. Story Continues See the 10 stocks » *Stock Advisor returns as of April 25, 2026. Keith Noonan has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy . Why Vicor Stock Skyrocketed This Week was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Leading central banks play for time on interest rate rises",
+      "link": "https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f",
+      "published_date": "Mon, 27 Apr 2026 04:00:25 GMT",
+      "scrape_timestamp": "2026-04-27T05:16:46.019913+00:00",
+      "content": "Convulsions in energy markets, often driven by Donald Trump’s posts on Truth Social, are complicating inflation forecasts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Inside China’s plans to fight in space",
+      "link": "https://ig.ft.com/space-weapons/",
+      "published_date": "Mon, 27 Apr 2026 04:00:24 GMT",
+      "scrape_timestamp": "2026-04-27T05:16:46.220122+00:00",
+      "content": "From seizing satellites to striking Earth from orbit — Beijing is developing dual-use capabilities in an intensifying arms race with the US",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How ‘conflict entrepreneurs’ are inflaming US political violence",
+      "link": "https://www.ft.com/content/b52113b5-5c83-408b-ba2e-b0269290e153",
+      "published_date": "Mon, 27 Apr 2026 04:00:34 GMT",
+      "scrape_timestamp": "2026-04-27T05:16:46.420320+00:00",
+      "content": "Americans are increasingly accepting of ideologically motivated crimes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why the UAE asked Pakistan for its $3.5bn back",
+      "link": "https://www.ft.com/content/99073d6e-4b57-417f-88fb-7a2c0e55eef3",
+      "published_date": "Mon, 27 Apr 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-04-27T05:16:46.620529+00:00",
+      "content": "Tensions between Abu Dhabi and Islamabad have burst into the open",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Private equity backers raise new conflict concerns over sweetheart deals",
+      "link": "https://www.ft.com/content/ded6dc6f-9632-450d-ac62-ad80614436da",
+      "published_date": "Mon, 27 Apr 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-04-27T05:16:47.221123+00:00",
+      "content": "Investors question if some institutions rubber-stamp deals that could benefit other businesses",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Prosecute Russian-sponsored saboteurs, Estonia tells Europe",
+      "link": "https://www.ft.com/content/341577b9-df93-4fa8-a3c8-c11e97c3e9eb",
+      "published_date": "Mon, 27 Apr 2026 04:00:34 GMT",
+      "scrape_timestamp": "2026-04-27T05:16:47.421329+00:00",
+      "content": "Countries must do more to deter Moscow’s shadowy campaign to recruit marginalised people to carry out attacks, says Estonian spy chief",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-27T01:55:48.971139+00:00",
+  "last_updated": "2026-04-27T05:16:53.409798+00:00",
   "metadata": {
-    "total_runs": 1236,
+    "total_runs": 1237,
     "sources": [
-      "Yahoo Finance",
-      "Financial Times"
+      "Financial Times",
+      "Yahoo Finance"
     ],
     "retention_days": 7
   }
