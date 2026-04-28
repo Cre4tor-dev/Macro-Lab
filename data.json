@@ -1,105 +1,6 @@
 {
   "articles": [
     {
-      "source": "Financial Times",
-      "title": "‘Kiss of death’: How the US killed a Swiss merchant bank",
-      "link": "https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e",
-      "published_date": "Tue, 21 Apr 2026 04:00:09 GMT",
-      "scrape_timestamp": "2026-04-21T04:42:49.009432+00:00",
-      "content": "MBaer survived years of scrutiny at home — before Washington stepped in to seal its fate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Thom Tillis: the Republican blocking Donald Trump’s pick for Fed chair",
-      "link": "https://www.ft.com/content/9afbd6ad-e5f1-4d66-a9e7-1842f24a6cc8",
-      "published_date": "Tue, 21 Apr 2026 04:00:20 GMT",
-      "scrape_timestamp": "2026-04-21T04:42:49.209626+00:00",
-      "content": "The outgoing North Carolina senator is refusing to back down in fight over president’s probe into Jerome Powell",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will social media addiction go the way of cigarettes?",
-      "link": "https://www.ft.com/content/154d34b6-3e04-456b-af33-ea12c8fa5945",
-      "published_date": "Tue, 21 Apr 2026 04:00:29 GMT",
-      "scrape_timestamp": "2026-04-21T04:42:49.409829+00:00",
-      "content": "Smoking among the rich has declined dramatically — and digital dependency could follow a similar pattern",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Highly unlikely’ Iran ceasefire will be extended if no deal reached, Trump says",
-      "link": "https://www.ft.com/content/18c234e2-019a-448d-bf17-35bb2c146add",
-      "published_date": "Tue, 21 Apr 2026 03:29:56 GMT",
-      "scrape_timestamp": "2026-04-21T04:42:49.610050+00:00",
-      "content": "US delegation expected to leave ‘soon’ for Pakistan peace talks even as Tehran’s attendance remains unclear",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump’s ‘Board of Peace’ held talks with DP World over Gaza reconstruction",
-      "link": "https://www.ft.com/content/873b866b-fd17-426d-8cb1-a34566e2e1d4",
-      "published_date": "Tue, 21 Apr 2026 04:00:20 GMT",
-      "scrape_timestamp": "2026-04-21T04:42:49.810279+00:00",
-      "content": "Proposal examined having Emirati company manage supply chains and logistics as part of US plan for devastated enclave",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Maga Inc builds nearly $350mn war chest ahead of midterm elections",
-      "link": "https://www.ft.com/content/01e3925e-bca7-4595-9788-ee64f4e94f5f",
-      "published_date": "Tue, 21 Apr 2026 03:00:20 GMT",
-      "scrape_timestamp": "2026-04-21T04:42:50.010473+00:00",
-      "content": "Pro-Trump Super Pac raises $35mn in March with donations from billionaire Diane Hendricks and Andreessen Horowitz",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Japan lifts ban on lethal arms exports",
-      "link": "https://www.ft.com/content/539bdbe1-a535-44fb-aa7a-2c1fe1828adf",
-      "published_date": "Tue, 21 Apr 2026 03:15:23 GMT",
-      "scrape_timestamp": "2026-04-21T04:42:50.210696+00:00",
-      "content": "Major shift from pacifist stance will allow defence contractors to target international markets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Marine Le Pen’s niece seeks rightwing alliance for 2027 French election",
-      "link": "https://www.ft.com/content/40a6192e-4c45-44cf-aa8c-34bf1c89bcd9",
-      "published_date": "Tue, 21 Apr 2026 04:00:09 GMT",
-      "scrape_timestamp": "2026-04-21T06:30:13.261246+00:00",
-      "content": "Marion Maréchal returns to family fold and will back Rassemblement National’s presidential campaign",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "MSCI boots Indonesian tycoon-owned stocks from indices",
-      "link": "https://www.ft.com/content/d37d17d2-e0ec-426d-bde7-bf18990d7a7c",
-      "published_date": "Tue, 21 Apr 2026 04:55:59 GMT",
-      "scrape_timestamp": "2026-04-21T06:30:13.461440+00:00",
-      "content": "Index provider delays decision on whether to downgrade south-east Asia’s largest economy to frontier market",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Piper Sandler Reiterates Overweight Rating on Amplitude (AMPL)",
       "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-reiterates-overweight-rating-095153984.html",
@@ -1327,17 +1228,6 @@
       "published_date": "Tue, 21 Apr 2026 15:10:01 GMT",
       "scrape_timestamp": "2026-04-21T17:53:41.410955+00:00",
       "content": "There are two kinds of companies — those that can do CEO transitions without intense upheaval and those that can’t",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Private credit funds strained as borrowing costs edge higher",
-      "link": "https://www.ft.com/content/47606fe2-108e-4a71-ba2b-9e1b779edda8",
-      "published_date": "Tue, 21 Apr 2026 04:00:29 GMT",
-      "scrape_timestamp": "2026-04-21T17:53:42.211721+00:00",
-      "content": "Bond investors and banks are seeking greater premiums on new financing as a precaution before lending",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -15289,14 +15179,245 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Monster Dividend Stock Boasts the Free Cash Flow to Mint Millionaires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/monster-dividend-stock-boasts-free-180500015.html",
+      "published_date": "2026-04-26T18:05:00Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.972953+00:00",
+      "content": "This Monster Dividend Stock Boasts the Free Cash Flow to Mint Millionaires Todd Shriber, The Motley Fool Sun, April 26, 2026 at 1:05 PM CDT 3 min read VZ NVDA ^GSPC INTC Given that so many blue chip dividend stocks are old companies from defensive or value sectors, investors can be forgiven if they don't readily associate dividends with rapid short-term gains. On that note, it's not a stretch to say Verizon Communications (NYSE: VZ) usually isn't atop investors' \"millionaire maker\" lists. The telecom giant may not be on those lists at all, particularly as so many newer market participants come of age amid extended leadership by growth stocks . Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue » Verizon's free cash flow supports a dividend that could be a wealth-enhancer. Image source: Getty Images. Still, even the most growth-enthused investors ought to consider some dividend exposure. From 1957 through May 2025, dividends accounted for nearly a quarter of the S&P 500 's average monthly return. Sometimes the percentage is higher, and sometimes it's lower, but the point is that dividends are helpful in investors' quest to reach the seven-figure club, which could heighten the allure of Verizon. Dial up dividend yield, growth with Verizon One reason Verizon stock has so many fans in the equity income community is its 6.12% dividend yield, nearly 6x what investors earn on a basic S&P 500 index fund. Dividend yield can be seductive, and not always in a positive way. Sure, when that metric is high, it can drive eyeballs to a stock, but yield alone doesn't paint a full picture of a company's payout sustainability. Actually, elevated yields can be red flags, signaling to investors that the financially strapped companies to which those yields belong may be nearing dividend cuts or suspensions. Fortunately for investors evaluating Verizon as a potential wealth enhancer, this stock isn't a yield trap. It's actually a dividend growth story, as highlighted by a 19-year payout increase streak. That's the kind of dependability dividend investors crave, and that reliability is crucial in evaluating Verizon's wealth-building chops. Good news: This dividend and its potential growth are backstopped by an impressive free cash flow trajectory. In 2025, Verizon generated free cash flow of $20.1 billion, up from $19.8 billion the year prior. The company forecast 2026 free cash flow of at least $21.5 billion, which would be good for the highest level since 2020. A dividend call worth answering Among dividend stocks that can help patient investors boost their net worth, Verizon is a call worth answering. The aforementioned growing free cash flow confirms this, as last year the company directed 60% of that cash flow to dividends. Story Continues Verizon also expects net leverage to decline to management's desired range at some point in 2027, even as it buys back shares this year. For investors who want more near-term insight into cash flow and debt reduction, those issues may be highlighted when Verizon reports first-quarter results on April 27. Should you buy stock in Verizon Communications right now? Before you buy stock in Verizon Communications, consider this: The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Verizon Communications wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years. Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $498,522 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,276,807 !* Now, it’s worth noting Stock Advisor’s total average return is 983 % — a market-crushing outperformance compared to 200% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors. See the 10 stocks » *Stock Advisor returns as of April 26, 2026. Todd Shriber has no position in any of the stocks mentioned. The Motley Fool recommends Verizon Communications. The Motley Fool has a disclosure policy . This Monster Dividend Stock Boasts the Free Cash Flow to Mint Millionaires was originally published by The Motley Fool Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Lindsay Corporation (LNN) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lindsay-corporation-lnn-good-stock-194020681.html",
+      "published_date": "2026-04-26T19:40:20Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973002+00:00",
+      "content": "Is Lindsay Corporation (LNN) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:40 PM CDT 3 min read LNN Is LNN a good stock to buy? We came across a bearish thesis on Lindsay Corporation on r/ValueInvesting by roysten_m. In this article, we will summarize the bears’ thesis on LNN. Lindsay Corporation's share was trading at $108.18 as of April 20th. LNN’s trailing and forward P/E were 19.78 and 22.22 respectively according to Yahoo Finance. Is LNN a good stock to buy? ivan-bandura-Ac97OqAWDvg-unsplash Lindsay Corporation, together with its subsidiaries, provides water management and road infrastructure products and services in the United States and internationally. LNN reported a severe Q2 2026 earnings miss, sending the stock tumbling nearly 10% toward 52-week lows. The company posted EPS of $1.15, falling well short of the $1.70 consensus estimate, while revenue came in at $157.72 million versus the expected $173.11 million. Operating margins collapsed to 8.3% from 17.2% a year ago, reflecting rising costs and declining efficiency. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential The domestic irrigation segment faced sharply weakened demand, and infrastructure revenue plummeted 58% due to the absence of major Road Zipper projects, exacerbating the downturn. These headwinds indicate that Lindsay is struggling to manage cyclical agricultural pressures alongside higher operational expenses. The stock has broken below its 50-day moving average on heavy volume, erasing months of gains and signaling technical weakness. Analysts are now framing the company’s outlook as a fundamental reset, with little visibility on near-term growth catalysts. Given the combination of shrinking margins, missed guidance, and exposure to volatile end markets, Lindsay currently appears more like a value trap than a compelling growth opportunity. Investors may face further downside if the company cannot stabilize demand or offset operational pressures, making the stock a cautious or bearish play in the near term. Previously, we covered a bullish thesis on Deere & Company (DE) by Best Anchor Stocks in May 2025, which highlighted strong quarterly results with double-digit beats on revenue and EPS, robust 18% operating margins, margin resilience near a cycle trough, aggressive buybacks, and expanding ag tech and SaaS capabilities. DE’s stock price has appreciated by approximately 17.03% since our coverage. roysten_m shares a contrarian view but emphasizes Lindsay Corporation’s (LNN) Q2 earnings miss, collapsing margins, and cyclical headwinds, presenting a bearish case in contrast to DE’s growth and profitability story. Story Continues Lindsay Corporation is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 21 hedge fund portfolios held LNN at the end of the fourth quarter which was 19 in the previous quarter. While we acknowledge the risk and potential of LNN as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than LNN and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Veteran analyst delivers surprise message on tech stocks",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/veteran-analyst-delivers-surprise-message-180300639.html",
+      "published_date": "2026-04-26T18:03:00Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973009+00:00",
+      "content": "Veteran analyst delivers surprise message on tech stocks Moz Farooque Sun, April 26, 2026 at 1:03 PM CDT 4 min read MSFT AMZN GOOG Dan Ives just made a massive call that cuts straight through the noise on tech stock volatility . In an appearance on CNBC this week , the Wedbush tech analyst delivered an urgent message, layering his unshaken AI thesis onto a powerful signal. Despite the market’s sluggishness, Ives predicts tech stocks could climb another 15% this year. Though investors are still in “show me” mode with AI and the broader tech space, the veteran analyst believes we’re in the “third inning” call, and the dynamic just switched up in a big way. According to Ives, “We’re in the third inning of this nine-inning game relative to AI, and that’s bullish.” The hyperscaler earnings are the real test, and he’s predicting beats across the board. Hence, if Amazon, Google, and Microsoft raise AI infrastructure spending when they report, the monetization fears that punished Microsoft can start to unwind. For chip makers in particular, the setup could be a game-changer. Wedbush’s Dan Ives says the AI buildout is still early, with hyperscaler spending likely to drive the next leg higherTIMOTHY A. CLARY / AFP via Getty Images) The forces anchoring his 15% upside call Hyperscaler capex beats: “I think what you’re gonna see is not just a reiteration of CapEx. Monetization is starting to happen from an AI perspective,” Ives said. Broadening AI demand: Cisco and Dell are seeing lifts directly tied to the Nvidia multiplier. The chip multiplier: With demand outstripping supply 12-to-1, every Nvidia sale triggers $8–$10 of parallel ecosystem spending. Palantir ’s enterprise momentum: Ives named it his top non-Mag Seven pick. Intel’s resurrection: A comeback in CPU demand for AI inference adds a fresh leg to the semiconductor story. Palantir’s trillion-dollar call stunned investors and shifted the narrative When CNBC asked Ives to name his favorite tech stock outside the mega-caps, he didn’t hesitate. “That’s at the epicenter. That’s, I believe, a trillion-dollar market cap in the next two or three years,” he said. More AI: Micron sits at the center of a red-hot chip rally IBM CEO sends blunt message on AI and quantum computing Anthropic CEO makes shocking admission about AI A trillion-dollar Palantir is the kind of call that either cements a reputation or hangs it. Ives seems entirely comfortable with that risk. For some color, Palantir stock has had an incredibly rough year in the markets. According to Seeking Alpha , the stock tanked 20% year-to-date, and over 22%| in the past six months. In the past month alone, it has shed almost 8% in value. Ives’s bigger AI infrastructure grab Palantir is the latest to be rewarded in Ives's play on the semiconductor ecosystem, but his thesis goes much deeper. Earlier this year, he extended his thesis to Cisco and Dell, calling them some of the direct beneficiaries of Nvidia. Story Continues He linked it to the hyperscaler build-out, bringing in context on cloud spending, enterprise AI spending, and supply checks in Asia. Ives delved deeper into the chipspotting adventure via Intel's rebirth of the CPU through the monetization of the AI copilots and the fact that for every $1 spent on Nvidia chips, $8 to $10 get spent in the rest of tech. Beyond the Mag Seven, he is also watching enterprise software growth in companies like Palantir that feed into the AI effort. Also, his supply-and-demand data, collected from a recent Asia tour, reveal a 12-to-1 imbalance in orders that he claims can sustain demand for much longer than the crowd assumes. For perspective, Ives’ bull case first emerged with his hyperscaler capex call and has since gained traction, offering a framework that views sell-offs as noise and sees AI enterprise adoption continuing to accelerate. Moreover, his demand data now stretches to a 12-to-1 ratio, a massive flex that means Nvidia’s ecosystem will create far more sequential revenue tailwinds than the market is pricing in. According to Ives, “I think what you’re gonna see is not just a reiteration of CapEx. Monetization is starting to happen from an AI perspective.” The standout numbers underpinning the cal l $8-$10 multiplier: For every dollar spent on Nvidia chips, Ives estimates an $8 to $10 ripple effect across technology. 12-to-1 supply gap: Based on his Asia checks, demand for Nvidia chips is outpacing supply by a factor of 12, meaning the pipeline isn’t cooling off. 15% upside: Ives told CNBC tech stocks could climb another 15% this year, anchored to the AI buildout that “hasn’t even reached halftime.” The Magnificent Seven, a deeply divided house Even after the recent rally, Big Tech’s 2026 scorecard is anything but uniform, though Yahoo Finance data paints a far brighter picture than earlier third-party estimates suggested. Here’s where the Magnificent Seven stand year-to-date as of late April, according to Barchart data . Amazon ( AMZN ): +14.37%. Nvidia ( NVDA ): +11.67%. Alphabet ( GOOGL ): +10.03%. Meta Platforms ( META ): +2.26%. Apple ( AAPL ): -0.29%. Microsoft ( MSFT ): -12.20%. Tesla ( TSLA ): -16.33%. Related: Morgan Stanley issues blunt take on Tesla stock after earnings This story was originally published by TheStreet on Apr 26, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Nova Ltd. (NVMI) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nova-ltd-nvmi-good-stock-194059692.html",
+      "published_date": "2026-04-26T19:40:59Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973016+00:00",
+      "content": "Is Nova Ltd. (NVMI) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:40 PM CDT 2 min read NVMI Is NVMI a good stock to buy? We came across a bullish thesis on Nova Ltd. on Thinking Tech Stocks’s Substack. In this article, we will summarize the bulls’ thesis on NVMI. Nova Ltd.'s share was trading at $532.17 as of April 20th. NVMI’s trailing and forward P/E were 66.86 and 50.25 respectively according to Yahoo Finance. Is NVMI a good stock to buy? l-n-r2tVRjxzFM8-unsplash Nova Ltd (NVMI) is a specialist in metrology, providing critical measurement and inspection tools for semiconductor manufacturing. The company focuses on ensuring precision and accuracy during the chip production process, a capability that has become increasingly essential as the industry shifts toward more complex designs. High Bandwidth Memory (HBM) production has emerged as a key growth driver, as these chips involve stacking multiple layers where even minor misalignments can render an entire unit defective. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential Nova’s tools are embedded directly into production lines, enabling real-time detection of defects and helping manufacturers maintain high yields, which is critical for foundry profitability. The broader industry trend toward 3D chip structures has increased both the frequency and intensity of measurements, creating strong secular demand for Nova’s solutions. As semiconductor manufacturers ramp up investment in metrology to support this transition, Nova is well-positioned to benefit from the heightened reliance on its technologies. Its integrated, real-time inspection capabilities offer a direct impact on manufacturing efficiency and quality, reinforcing the company’s strategic importance in the semiconductor ecosystem. Overall, Nova represents a compelling opportunity in the high-growth segment of advanced semiconductor manufacturing, with strong tailwinds from the shift to stacked memory and 3D chip architectures, a market where precision metrology is increasingly indispensable. Previously, we covered a bullish thesis on KLA Corporation (KLAC) by Quality Equities in January 2025, which highlighted its leadership in semiconductor process control, AI-driven chip demand, and upside from TSMC’s increased capex. KLAC’s stock has appreciated by approximately 138.33% since our coverage. Thinking Tech Stocks shares a similar view but emphasizes Nova Ltd.’s (NVMI) critical role in real-time metrology for complex 3D chip structures, benefiting from the industry’s shift toward stacked memory and precision manufacturing. Story Continues Nova Ltd. is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 20 hedge fund portfolios held NVMI at the end of the fourth quarter which was 18 in the previous quarter. While we acknowledge the risk and potential of NVMI as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than NVMI and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is DexCom, Inc. (DXCM) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dexcom-inc-dxcm-good-stock-194143494.html",
+      "published_date": "2026-04-26T19:41:43Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973027+00:00",
+      "content": "Is DexCom, Inc. (DXCM) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:41 PM CDT 3 min read DXCM Is DXCM a good stock to buy? We came across a bullish thesis on DexCom, Inc. on Part-Time Compounder’s Substack by Francesco Ferrari. In this article, we will summarize the bulls’ thesis on DXCM. DexCom, Inc.'s share was trading at $64.62 as of April 20th. DXCM’s trailing and forward P/E were 30.92 and 25.91, respectively according to Yahoo Finance. Is DXCM a good stock to buy DexCom, Inc., a medical device company, focuses on the design, development, and commercialization of continuous glucose monitoring (CGM) systems for the management of diabetes and metabolic health in the United States and internationally. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential DXCM has become an overlooked opportunity in the healthcare technology space, specializing in continuous glucose monitors (CGMs) that track blood sugar every few minutes without finger sticks. Historically focused on Type 1 and insulin-intensive Type 2 diabetics, DexCom derives the majority of its revenue from recurring sales of disposable sensors and transmitters, primarily distributed through pharmacies and medical equipment providers. These consumables, which need replacing every couple of weeks, provide a highly recurring revenue stream, supporting strong U.S. and international growth. The company has consistently expanded its top line while maintaining a return on invested capital above 30%, demonstrating both operational efficiency and scalable growth. Forward-looking analysis shows a compelling risk/reward setup. DexCom’s revenue growth over the past three years has averaged 17.4% annually, and projections suggest 15.2% growth going forward, aligning with targets to achieve a 15% annual return in a reverse DCF framework. Several catalysts support this trajectory: the Stelo over-the-counter CGM, launched in 2024, opens a new U.S. addressable market of roughly 25 million adults not using insulin. The upcoming G7 15-day sensor is expected to increase gross margins to 63-64% while improving user retention, and broader coverage through pharmacy benefit managers and anticipated Medicare expansion could add millions of insured lives. Internationally, DexCom is aggressively penetrating Western Europe, Japan, and Australia to capture double-digit growth against competitors like Abbott. Additionally, the anticipated G8 sensor underscores DexCom’s continued technological leadership. With recurring revenues, expanding markets, innovation, and operational strength, DexCom presents a compelling investment with significant upside potential for both equity and health-tech-focused investors. Story Continues Previously, we covered a bullish thesis on DexCom, Inc. (DXCM) by Na’s Substack in May 2025, which highlighted its leadership in continuous glucose monitoring, recurring revenue from disposable sensors, Stelo OTC expansion, and the G7 15-day sensor. DXCM’s stock price has depreciated by approximately 20.74% since our coverage. Francesco Ferrari shares a similar view but emphasizes the risk/reward setup and international growth with G8 as key catalysts. DexCom, Inc. is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 71 hedge fund portfolios held DXCM at the end of the fourth quarter which was 71 in the previous quarter. While we acknowledge the risk and potential of DXCM as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than DXCM and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Amphenol Corporation (APH) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amphenol-corporation-aph-good-stock-194219374.html",
+      "published_date": "2026-04-26T19:42:19Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973035+00:00",
+      "content": "Is Amphenol Corporation (APH) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:42 PM CDT 3 min read APH Is APH a good stock to buy? We came across a bullish thesis on Amphenol Corporation on Part-Time Compounder’s Substack by Francesco Ferrari. In this article, we will summarize the bulls’ thesis on APH. Amphenol Corporation's share was trading at $152.81 as of April 20th. APH’s trailing and forward P/E were 45.75 and 34.36 respectively according to Yahoo Finance. Is APH a good stock to buy? Amphenol Corporation (APH), historically viewed as a steady but unexciting industrial conglomerate, has transformed into a high-growth powerhouse, driven primarily by its Communication Solutions (CS) segment focused on data centers. The company operates through three main divisions: Harsh Environment Solutions (HES), serving aerospace, defense, and oil & gas with specialized connectors, cables, and PCBs; Communication Solutions, providing high-speed data transmission components for IT, mobile, broadband, and increasingly AI-focused data centers; and Interconnect & Sensor Systems (ISS), delivering power connectors, sensors, and specialized components for automotive, industrial, and medical applications. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential APH has a long history as a serial acquirer, systematically targeting complementary businesses to consolidate a fragmented industry while generating external profitable growth across all segments. This strategy has fueled extraordinary revenue acceleration, particularly in its data center business, where the IT Datacom unit experienced organic growth of 110–120% in 2025 and became a key supplier for NVIDIA’s Blackwell GB200 AI systems. Recent acquisitions, including CommScope (CCS) in January 2026, Carlisle Interconnect Technologies (CIT) in 2024, and Trexon and Rochester Sensors in 2025, have expanded both scale and market reach, with future revenue contributions still to be fully realized. Beyond data centers, secular tailwinds are lifting other divisions, with the HES segment benefiting from rising defense spending and ISS capitalizing on automotive electrification trends. With strong cash flow, disciplined acquisitions, and a diverse yet synergistic portfolio, Amphenol is positioned for continued double-digit growth, supported by its dominant role in high-density interconnects, fiber optics, and sensors. The combination of organic growth, strategic acquisitions, and favorable industry trends creates a compelling multi-year investment opportunity, as the market may yet fully recognize the transformative impact of the company’s data center focus. Story Continues Previously, we covered a bullish thesis on Amphenol Corporation (APH) by TMTMoats in March 2025, which highlighted the company’s diversified exposure across aerospace, defense, mobile, and data centers, its strategic acquisitions, and AI- and EV-driven growth catalysts. APH’s stock price has appreciated by approximately 143.21% since our coverage. Francesco Ferrari shares a similar view but emphasizes data center growth and the impact of multiple acquisitions. Amphenol Corporation is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 103 hedge fund portfolios held APH at the end of the fourth quarter which was 89 in the previous quarter. While we acknowledge the risk and potential of APH as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than APH and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is VeriSign, Inc. (VRSN) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verisign-inc-vrsn-good-stock-194252488.html",
+      "published_date": "2026-04-26T19:42:52Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973043+00:00",
+      "content": "Is VeriSign, Inc. (VRSN) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:42 PM CDT 3 min read VRSN GDDY Is VRSN a good stock to buy? We came across a bullish thesis on VeriSign, Inc. on The Finance Corner’s Substack by Kostadin Ristovski, ACCA. In this article, we will summarize the bulls’ thesis on VRSN. VeriSign, Inc.'s share was trading at $275.81 as of April 20th. VRSN’s trailing and forward P/E were 31.31 and 29.41 respectively according to Yahoo Finance. Is VRSN a good stock to buy Copyright: scyther5 / 123RF Stock Photo VeriSign, Inc., together with its subsidiaries, provides internet infrastructure and domain name registry services that enables internet navigation for various recognized domain names worldwide. VRSN represents a rare legal monopoly at the core of the internet’s infrastructure, serving as the authoritative registry for .com and .net top-level domains (TLDs). While consumers interact with registrars such as GoDaddy or Wix, these platforms merely act as resellers, purchasing domains wholesale from VeriSign and adding their own markup. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential This structure positions VeriSign as the invisible toll collector of the digital economy, earning a fixed fee—currently $10.26 per .com domain—regardless of the point of sale, supported by relationships with over 3,000 ICANN-accredited registrars. Its control over these critical TLDs stems from its 2000 acquisition of Network Solutions and is reinforced by longաժամ-standing contracts with ICANN, including a 2024 agreement that allows price increases of up to 7% in four out of six years, creating a clear and predictable revenue growth lever. The company’s financial model is exceptionally resilient and scalable, driven by a combination of pricing power and a steadily growing domain base, which now exceeds 170 million registrations. Despite modest fluctuations, including a temporary post-pandemic decline, domain growth has resumed, supported by stable renewal rates of approximately 73% and favorable long-term trends in digital presence and entrepreneurship. This dynamic, combined with minimal operational complexity and limited need for reinvestment, has enabled VeriSign to grow revenue by 45% over the past decade while reducing headcount, highlighting strong operating leverage. As a result, VeriSign has achieved industry-leading profitability, with operating margins expanding to 68%, up from 60% in 2017. With built-in pricing escalators, a mission-critical role in global internet infrastructure, and a highly predictable, cash-generative business model, VeriSign stands out as a uniquely durable and compelling long-term investment. Story Continues Previously, we covered a bullish thesis on Cloudflare, Inc. (NET) by Oliver | MMMT Wealth in April 2025, which highlighted the company’s strong network effects, 20%+ growth outlook, and approaching profitability inflection as it scales internet infrastructure. NET’s stock price has appreciated by approximately 91.75% since our coverage. Kostadin Ristovski, ACCA shares a similar view but emphasizes on VeriSign’s legal monopoly, predictable pricing power, and superior margins within internet infrastructure. VeriSign, Inc. is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 54 hedge fund portfolios held VRSN at the end of the fourth quarter which was 44 in the previous quarter. While we acknowledge the risk and potential of VRSN as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than VRSN and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "JELD-WEN Virtual Annual Meeting: Shareholders OK Directors, Say-on-Pay, PwC, and 2026 Equity Plan",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jeld-wen-virtual-annual-meeting-180233923.html",
+      "published_date": "2026-04-26T18:02:33Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973050+00:00",
+      "content": "JELD-WEN Virtual Annual Meeting: Shareholders OK Directors, Say-on-Pay, PwC, and 2026 Equity Plan MarketBeat Sun, April 26, 2026 at 1:02 PM CDT 5 min read JELD JELD-WEN logo Key Points Stockholders preliminarily approved all four proposals — the election of 10 directors, a non-binding say-on-pay vote, ratification of PwC as auditor, and approval of the 2026 Omnibus Equity Plan . CEO William Christensen said the company is prioritizing operational excellence, cost discipline, footprint optimization and workforce realignment to address persistent headwinds, and announced a strategic review of its Europe business . The company will file final voting results on a Form 8‑K with the SEC within four business days, and the inspector’s final report will be appended to the meeting minutes. Interested in JELD-WEN Holding, Inc.? Here are five stocks we like better. 3 construction stocks you need to know about JELD-WEN (NYSE:JELD) held its 2026 Annual Meeting of Stockholders in a virtual format, with Chair of the Board David Nord saying the online format was intended “to increase accessibility for all of our stockholders.” Nord was joined by members of the company’s board and executive leadership team, including Executive Vice President and Chief Financial Officer Samantha Stoddard, as well as PwC lead engagement audit partner Daniel Swigut. Meeting procedures and voting items Nord said Jas Hayes, Executive Vice President, General Counsel, and Corporate Secretary, served as secretary of the meeting and recorded the proceedings. Hayes received an affidavit from Broadridge Financial Solutions stating that on or about March 12, 2026, the notice of the meeting and notice of internet availability of proxy materials was mailed to stockholders of record as of Feb. 23, 2026, which was the record date for the meeting. Nord also noted that John Mirva of American Election Services was appointed inspector of election and signed an oath to act in that role. → The Trade Desk: Down 75%, But a Reversal May Be Near JELD-WEN stock: When Execution Counts With Hayes advising that a quorum was present, Nord declared the meeting “duly and lawfully convened.” Stockholders were asked to vote on four proposals: Election of 10 directors to the board A non-binding advisory vote to approve compensation of the company’s named executive officers Ratification of PwC as independent auditor for 2026 Approval of the 2026 Omnibus Equity Plan Director nominees and board recommendations For the election of directors, Nord listed the 10 nominees reflected in the proxy statement: William Christensen, Antonella Franzen, Catherine Halligan, Michael Hilton, Tracey Joubert, Cynthia Marshall, David Nord, Bruce Taten, Roderick Wendt, and Steven Wynne. → Google Cloud Next 2026 Event Bets Big on AI Infrastructure Story Continues Nord said the company’s bylaws require stockholders to provide advance notice of intent to nominate director candidates, and “no such notice was received.” He then declared nominations closed and stated that the board recommended voting for each of the 10 nominees. Say-on-pay, auditor ratification, and equity plan Nord described the executive compensation proposal as a non-binding advisory vote and directed stockholders to the compensation discussion and analysis section of the proxy statement. He said the board recommended voting in favor of the advisory proposal on named executive officer compensation. → Pipelines and Automation: 2 Energy Plays Built for Any Oil Price For the third proposal, Nord said the board recommended ratifying PwC as the company’s independent auditor for 2026. For the fourth proposal, he said the board recommended approval of the 2026 Omnibus Equity Plan. Preliminary results and next steps After opening and closing the polls, Nord reported that a preliminary tabulation indicated all four proposals were approved by the required votes cast. He said the final voting results would be reported in a Form 8-K to be filed with the U.S. Securities and Exchange Commission within four business days of the meeting, and requested that the final report of the inspector of election be filed with the meeting minutes. Following the completion of formal business and adjournment, the company moved to the question period, with Nord noting that only stockholders were permitted to submit questions. The transcript then turned to a brief business update from CEO William Christensen. CEO business update: operations, costs, and Europe review Christensen told stockholders the company is focused on “delivering reliability, quality, and performance customers can count on.” He described the environment as challenging and said operational excellence remains a daily priority as the company works “to improve execution, rebuild trust through action, and deliver a more consistent experience for our customers and partners.” Christensen said that amid “persistent headwinds and price cost pressures,” JELD-WEN advanced strategic efforts to strengthen the company. He cited “decisive actions to optimize our operating footprint, realign production, rebalance workforce levels, and improve cost discipline,” while maintaining a focus on safety, quality, and delivery. Looking ahead, Christensen said the company intends to execute “with discipline through uncertainty,” accelerate operational improvements, and assess “a range of options for our Europe business through a strategic review.” He also referenced targeted cost actions aimed at positioning the company to strengthen performance, better serve customers, and build a more resilient foundation. Christensen added that the company’s values-based culture emphasizes “safety, urgency, accountability, and continuous improvement,” and reiterated a commitment to building “a more resilient and sustainable future” for employees, communities, and the environment while creating long-term value for shareholders. He closed by thanking stockholders for their support. The operator then concluded the meeting. About JELD-WEN (NYSE:JELD) JELD-WEN is a global manufacturer of windows and doors and related building products, serving both residential and commercial markets. The company's portfolio includes wood, vinyl and aluminum windows; interior wood doors; and exterior doors crafted from steel, fiberglass and composite materials. JELD-WEN's products are designed for new construction and remodeling applications, with an emphasis on quality, durability and energy efficiency. Founded in 1960 in Klamath Falls, Oregon, JELD-WEN has grown through a combination of organic expansion and strategic acquisitions to establish a manufacturing footprint in North America, Europe and Australasia. The article \" JELD-WEN Virtual Annual Meeting: Shareholders OK Directors, Say-on-Pay, PwC, and 2026 Equity Plan \" was originally published by MarketBeat. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Vir Biotechnology, Inc. (VIR) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vir-biotechnology-inc-vir-good-194326916.html",
+      "published_date": "2026-04-26T19:43:26Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973057+00:00",
+      "content": "Is Vir Biotechnology, Inc. (VIR) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:43 PM CDT 3 min read VIR ALNY Is VIR a good stock to buy? We came across a bullish thesis on Vir Biotechnology, Inc. on BioEquity Watch’s Substack. In this article, we will summarize the bulls’ thesis on VIR. Vir Biotechnology, Inc.'s share was trading at $11.09 as of April 20th. VIR’s trailing P/E was 5.92 according to Yahoo Finance. Is VIR a good stock to buy? Photo by National Cancer Institute on Unsplash Vir Biotechnology, Inc., a clinical-stage biopharmaceutical company, discovers and develops therapeutic products to treat and prevent serious infectious diseases in the United States and internationally. VIR is repositioning its business around Chronic Hepatitis Delta (HDV) and its masked T cell engager oncology platform, with HDV emerging as the primary value driver. Its lead program combines tobevibart, a neutralizing monoclonal antibody, with elebsiran, an siRNA partnered with Alnylam Pharmaceuticals. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential Phase 2 SOLSTICE data showed a 77% Target Not Detected (TND) rate at Week 72 for the combination versus 53% for monotherapy, reinforcing the dual-mechanism approach. However, regulatory uncertainty remains around whether on-treatment TND is sufficient or if durability data post-treatment will be required, potentially delaying the expected 2027 BLA timeline. The Phase 3 ECLIPSE program is critical, with full topline data expected in Q1 2027; successful replication of efficacy would significantly de-risk the asset, while failure could compress valuation materially. In oncology, Vir’s PRO-XTEN platform aims to reduce off-target toxicity through dual masking, though its clinical validity remains unproven. Early data from VIR-5500 shows promising PSA responses, but the key risk lies in translating these into RECIST-confirmed tumor responses. Without this correlation, the platform may be assigned minimal value. Competitive pressure in HDV is intensifying, particularly from Gilead Sciences’ bulevirtide and Mirum Pharmaceuticals’ brelovitug, both of which could challenge Vir’s positioning depending on durability outcomes. Financially, Vir holds $781 million in cash with runway into late 2027 under stable conditions, though dilution risk persists ahead of key data. A recent partnership with Norgine provides limited relief. With a 65% internal probability of success versus a 55% market-implied level, the stock offers moderate upside, but remains highly sensitive to the binary Q1 2027 readout, where success could drive a sharp rerating while failure may push shares toward liquidation-adjusted levels. Story Continues Previously, we covered a bullish thesis on CRISPR Therapeutics AG (CRSP) by MADD-Scientis in March 2025, which highlighted the strong commercial potential of Casgevy, favorable reimbursement progress, and a deep gene-editing pipeline supporting long-term upside. CRSP’s stock price has appreciated by approximately 40.81% since our coverage. BioEquity Watch shares a similar view but emphasizes on Vir Biotechnology’s HDV program and binary clinical outcomes driving valuation. Vir Biotechnology, Inc. is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 30 hedge fund portfolios held VIR at the end of the fourth quarter which was 25 in the previous quarter. While we acknowledge the risk and potential of VIR as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than VIR and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Western Digital Corporation (WDC) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-good-194355456.html",
+      "published_date": "2026-04-26T19:43:55Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973064+00:00",
+      "content": "Is Western Digital Corporation (WDC) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:43 PM CDT 3 min read WDC SNDK Is WDC a good stock to buy? We came across a bullish thesis on Western Digital Corporation on Thinking Tech Stocks’s Substack. In this article, we will summarize the bulls’ thesis on WDC. Western Digital Corporation's share was trading at $374.11 as of April 20th. WDC’s trailing and forward P/E were 35.36 and 29.50 respectively according to Yahoo Finance. Is WDC a good stock to buy? Copyright: ralwel / 123RF Stock Photo Western Digital Corporation (WDC) has emerged as a critical enabler of the AI-driven data economy following its February 2025 separation from SanDisk Corporation, which now focuses exclusively on high-speed NAND flash. The “new” WDC is a pure-play leader in mass-capacity, low-cost hard disk drives (HDDs), serving as the essential “vault” for AI data lakes. Investors have recognized the strategic importance of its offerings, with WDC stock surging roughly 190% in 2025 as demand for cold storage to train large AI models accelerated. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential The company commands a 48% share of the Nearline exabyte market, delivering the lowest total cost of ownership to hyperscalers and cloud giants such as Amazon, Google, and Microsoft. Its UltraSMR technology enables 32TB drives by overlapping data tracks, while its rollout of HAMR—using lasers to heat the storage medium—targets 40TB+ capacities, ensuring WDC remains at the forefront of high-density storage innovation. Vertical integration allows the company to manufacture its own heads and media, driving superior margins and operational control. With lead times for high-capacity HDDs extending to 12 months, WDC is experiencing unprecedented demand, positioning it as an indispensable partner in the AI data cycle. As enterprises ingest, train, checkpoint, and archive massive datasets, WDC’s storage solutions provide the most cost-efficient and scalable option, making it a cornerstone of future AI infrastructure. Even amid the broader memory and storage ecosystem, WDC stands out for its unmatched capacity, profitability, and growth potential, offering investors a compelling opportunity to capitalize on the structural shift toward AI-driven data accumulation and the increasing reliance on cold storage solutions. Previously, we covered a bullish thesis on Seagate Technology Holdings plc (STX) by fortitudelkw in January 2025, which highlighted the company’s leadership in high-capacity HDDs, HAMR technology adoption, strong cloud customer base, and positioning to benefit from the AI-driven data storage boom. STX’s stock price has appreciated by approximately 398.93% since our coverage. Thinking Tech Stocks shares a similar view but emphasizes Western Digital Corporation’s (WDC) focus on mass-capacity HDDs, vertical integration, and dominance in the Nearline exabyte market as a critical enabler of AI data lakes. Story Continues Western Digital Corporation is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 79 hedge fund portfolios held WDC at the end of the fourth quarter which was 84 in the previous quarter. While we acknowledge the risk and potential of WDC as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than WDC and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Upwork Inc. (UPWK) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/upwork-inc-upwk-good-stock-194524672.html",
+      "published_date": "2026-04-26T19:45:24Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973071+00:00",
+      "content": "Is Upwork Inc. (UPWK) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:45 PM CDT 3 min read UPWK Is UPWK a good stock to buy? We came across a bullish thesis on Upwork Inc. on NSI STRATEGY’s Substack by Noorshazril Iqmal. In this article, we will summarize the bulls’ thesis on UPWK. Upwork Inc.'s share was trading at $11.09 as of April 20th. UPWK’s trailing and forward P/E were 13.20 and 7.76 respectively according to Yahoo Finance. Tucows (TCX) Reports 45% Annual Adjusted EBITDA Growth Despite Q4 Decline Antonio Guillem/Shutterstock.com Upwork Inc. operates as one of the world’s largest online work marketplaces, connecting businesses with independent talent globally through a digitally native platform that facilitates hiring, contracting, and payment. The company’s Marketplace segment remains the primary growth engine, generating $682.9 million—or 87% of total revenue—as of FY2025, and delivering a 17.3% CAGR since FY2018. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential Upwork has strategically shifted the segment toward higher-value engagements through tiered offerings like Business Plus, which targets SMB teams with enhanced collaborative tools and premium features, resulting in clients spending approximately 2.5x more than the marketplace average. The Enterprise segment, representing 13% of revenue, has grown even faster at nearly 20% CAGR and focuses on large organizations with specialized infrastructure, including custom reporting, invoicing, and access to vetted talent pools. The launch of Lifted, a wholly owned subsidiary, further expands Upwork into workforce management, integrating Employer of Record services and contingent labor solutions to capture larger, previously inaccessible projects. Upwork’s monetization has evolved with a variable pricing structure for Talent Service Fees and a “pay-as-you-go” model for client fees, enhancing scalability and aligning incentives with platform usage. Historical headwinds, including stagnant Gross Service Volume (GSV) and client contraction, reflect a deliberate pivot toward higher lifetime value clients and enterprise-grade projects, while minimizing exposure to low-value, AI-substitutable tasks. AI adoption, via the Mindful AI agent Uma, has driven $100 million incremental GSV in FY2025 and positioned the platform to convert AI disruption into a high-margin growth engine. Financially, Upwork is now GAAP profitable, with record free cash flow margins of 30.8% and a capital-light balance sheet, although integration of Lyfted and execution risks in enterprise scaling remain key considerations. With robust cash generation, strategic AI initiatives, and expansion into enterprise workforce solutions, Upwork presents a compelling growth and monetization story with multiple catalysts for upside. Story Continues Previously, we covered a bullish thesis on Upwork Inc. (NASDAQ:UPWK) by Oliver | MMMT Wealth in December 2024, which highlighted the company’s strong revenue growth, scalable platform with 77% gross margins, record free cash flow, and the launch of Business Plus to strengthen recurring client spending. UPWK’s stock price has depreciated by approximately 33.75% since our coverage due to weaker-than-expected Q1-2026 guidance and reported a decline in active clients. Noorshazril Iqmal shares a similar view but emphasizes the Enterprise segment expansion, Lifted subsidiary integration, and AI-driven growth through the Mindful AI agent Uma. Upwork Inc. is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 28 hedge fund portfolios held UPWK at the end of the fourth quarter which was 32 in the previous quarter. While we acknowledge the risk and potential of UPWK as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than UPWK and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Uniti Group Inc. (UNIT) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uniti-group-inc-unit-good-194614096.html",
+      "published_date": "2026-04-26T19:46:14Z",
+      "scrape_timestamp": "2026-04-28T05:50:04.973078+00:00",
+      "content": "Is Uniti Group Inc. (UNIT) A Good Stock To Buy Now? Ricardo Pillai Sun, April 26, 2026 at 2:46 PM CDT 3 min read UNIT Is UNIT a good stock to buy? We came across a bullish thesis on Uniti Group Inc. on Danny’s Substack by Danny Green. In this article, we will summarize the bulls’ thesis on UNIT. Uniti Group Inc.'s share was trading at $11.93 as of April 20th. UNIT’s trailing and forward P/E were 2.45 and 11.86 respectively according to Yahoo Finance. Mizuho Sees Long-Term Upside in CoreWeave (CRWV) Despite Near-Term Risks Copyright: hywards / 123RF Stock Photo Uniti Group Inc. (UNIT) operates a fiber infrastructure business with a defensible but nuanced moat built on first-mover advantages in underserved Tier II and III markets, high replacement costs for buried fiber, and long-term contracts across wholesale and enterprise customers. Its owned network enables strong incremental margins and density-driven economics, where expanding regional coverage lowers connection costs and enhances network value. Read More: 15 AI Stocks That Are Quietly Making Investors Rich Read More: Undervalued AI Stock Poised For Massive Gains: 10000% Upside Potential Switching costs are meaningful, particularly for enterprise and carrier clients locked into 10–20 year IRU agreements, while consumer stickiness in fiber-to-the-home (FTTH) markets is supported by limited alternatives and service reliability. However, the moat is not absolute, as competition from well-capitalized incumbents like AT&T and Comcast, alongside emerging threats from 5G fixed wireless and Starlink, increases the risk of overbuild even in historically underserved regions. Financially, Uniti presents a mixed profile. While incremental fiber investments can generate attractive returns and merger synergies with Windstream are expected to unlock cost efficiencies, the company remains highly capital intensive, with capex consuming a significant portion of revenue and free cash flow remaining constrained. Elevated leverage of approximately 5.5x EBITDA and modest interest coverage introduce balance sheet risk, particularly in adverse macro scenarios. Although asset-backed securitization financing and potential government subsidies through programs like BEAD could improve funding efficiency, execution risk remains high. Valuation appears optically inexpensive on an EV/EBITDA basis relative to peers, but this reflects leverage and operational uncertainty. As a result, the equity represents a high-risk, high-reward proposition, where successful deleveraging and growth execution could drive substantial upside, while missteps could significantly impair equity value. Previously, we covered a bullish thesis on Weyerhaeuser Company (WY) by DB_SILVER_FOX in May 2025, which highlighted the company’s vast timberland assets, inflation-protected cash flows, and undervaluation relative to NAV. WY’s stock price has appreciated by approximately 0.83% since our coverage. Danny Green shares a similar view but emphasizes on Uniti Group’s fiber infrastructure moat and higher-risk, leverage-driven return profile. Story Continues Uniti Group Inc. is not on our list of the 40 Most Popular Stocks Among Hedge Funds . As per our database, 22 hedge fund portfolios held UNIT at the end of the fourth quarter which was 28 in the previous quarter. While we acknowledge the risk and potential of UNIT as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than UNIT and that has 10,000% upside potential, check out our report about this cheapest AI stock . Disclosure: None. Terms and Privacy Policy Your Privacy Choices More Info",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wall Street dealers boost Treasury holdings to highest level since 2007",
+      "link": "https://www.ft.com/content/bdbfeee1-6780-4df7-9c42-34b9bc07f233",
+      "published_date": "Tue, 28 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:35.878768+00:00",
+      "content": "Trump administration’s push to cut regulations prompts big banks to facilitate more trading in government debt",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran’s hardliners fight over talks with US",
+      "link": "https://www.ft.com/content/53a428c7-5242-4e90-ba87-71730128379a",
+      "published_date": "Tue, 28 Apr 2026 04:00:29 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:36.078964+00:00",
+      "content": "As the regime’s leaders project unity, lawmakers are divided on negotiations about Tehran’s nuclear programme",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Coffee, fuel and houses: why Trump has an inflation problem",
+      "link": "https://www.ft.com/content/401a7647-5593-4a58-8592-92caf9dbd440",
+      "published_date": "Tue, 28 Apr 2026 04:00:29 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:36.279199+00:00",
+      "content": "The US president’s war in Iran has worsened America’s affordability crisis",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "A troubling plan to revive the frozen US property market",
+      "link": "https://www.ft.com/content/8927eabf-3c0f-4a5a-bf13-ee6b99225742",
+      "published_date": "Tue, 28 Apr 2026 04:00:19 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:36.479406+00:00",
+      "content": "Buyers should beware the real estate dark pools",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rivian CEO’s $403mn pay package dwarfs those of top US car bosses",
+      "link": "https://www.ft.com/content/aabef226-0a42-4cde-9cc1-687e0f4a9d3a",
+      "published_date": "Tue, 28 Apr 2026 00:27:50 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:36.679597+00:00",
+      "content": "Founder of electric-truck maker earns about 13 times more than next best-paid American auto executive",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Milken family office alumni raise $4bn to target private capital upheaval",
+      "link": "https://www.ft.com/content/4bd56a80-948c-4749-a3ce-4cb1ae4ddfc5",
+      "published_date": "Tue, 28 Apr 2026 04:00:28 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:36.879760+00:00",
+      "content": "Silver Rock Capital Partners draws in biggest credit fund to date",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Abu Dhabi state energy group to invest ‘tens of billions’ in US push",
+      "link": "https://www.ft.com/content/e48d4c9b-36b8-476c-81a8-faccb1a981c0",
+      "published_date": "Tue, 28 Apr 2026 04:00:29 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:37.079919+00:00",
+      "content": "Adnoc accelerates effort to diversify into US natural gas as Iran war rattles Middle Eastern energy industry",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "European airlines seize on jet fuel crisis to lobby against passenger perks",
+      "link": "https://www.ft.com/content/4004f61e-23a1-428a-b43a-7d2ac4af17c4",
+      "published_date": "Tue, 28 Apr 2026 04:00:20 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:37.280097+00:00",
+      "content": "Proposals such as extra free baggage allowance would make it harder to cope with rising costs, industry says",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Two Spirit Airlines creditor groups back Trump bailout plan",
+      "link": "https://www.ft.com/content/8ac0973c-198c-4359-a06a-68ee3fffb60f",
+      "published_date": "Tue, 28 Apr 2026 04:36:06 GMT",
+      "scrape_timestamp": "2026-04-28T05:50:37.480273+00:00",
+      "content": "Bondholder group remains divided over $500mn on offer from White House that would rescue bankrupt budget carrier",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-04-28T02:02:39.947201+00:00",
+  "last_updated": "2026-04-28T05:50:43.666814+00:00",
   "metadata": {
-    "total_runs": 1249,
+    "total_runs": 1250,
     "sources": [
-      "Financial Times",
-      "Yahoo Finance"
+      "Yahoo Finance",
+      "Financial Times"
     ],
     "retention_days": 7
   }
