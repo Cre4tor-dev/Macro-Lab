@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-05-09 23:38 UTC</title>
+  <title>Macro Lab — 2026-05-10 02:02 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,15 +130,15 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-05-09 23:38 UTC<br>Seuil alerte: 5.0 · 926 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-05-10 02:02 UTC<br>Seuil alerte: 5.0 · 938 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1416</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1431</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">926</div></div>
-    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">9.1</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">938</div></div>
+    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">9.2</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
 
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-05-09">Sat 09 May</option>
+        <option value="2026-05-10">Sun 10 May</option>
+<option value="2026-05-09">Sat 09 May</option>
 <option value="2026-05-08">Fri 08 May</option>
 <option value="2026-05-07">Thu 07 May</option>
 <option value="2026-05-06">Wed 06 May</option>
 <option value="2026-05-05">Tue 05 May</option>
 <option value="2026-05-04">Mon 04 May</option>
-<option value="2026-05-03">Sun 03 May</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -190,7 +190,21 @@
 
   <div class="view active" id="view-top">
     <div class="section-title">Top 20 articles — cette heure</div>
-    <div id="cards-top"><article class="card card-alert" data-score="42.09" data-date="2026-05-04" data-themes="war_conflict,geopolitical_shock,recession,oil_energy" data-text="market greed is back: oil and the hormuz strait didn’t get the memo. market greed is back: oil and the hormuz strait didn’t get the memo. gerelyn terzo mon, may 4, 2026 at 9:54 am cdt 4 min read ^vix cl=f ^gspc pltr qqq quick read the cboe volatility index (vix) rose 2.2% to above 17 on renewed middle east tensions and crude prices spiking above $100 per barrel. middle east conflict escalation and opec production cuts have tightened oil supply at a critical chokepoint, introducing risk premium back into options markets despite strong stock market gains. the fear and greed index hovers at 66, an indication that market greed has returned. the analyst who called n">
+    <div id="cards-top"><article class="card card-alert" data-score="42.35" data-date="2026-05-08" data-themes="war_conflict,banking_crisis,sanctions_major,inflation,oil_energy" data-text="from panic to ruin to revolution: how the 1970s oil shock, iran’s upheaval, and the 1980s crash still govern american energy power from panic to ruin to revolution: how the 1970s oil shock, iran’s upheaval, and the 1980s crash still govern american energy power oil & gas 360 fri, may 8, 2026 at 3:30 pm edt 7 min read cl=f (oil & gas 360) by greg barnett, mba – the modern american oil and gas system was not engineered in calm conditions. it was forged amid gasoline lines, collapsing banks, and geopolitical revolutions that redirected the flow of oil and power simultaneously. from panic to ruin to revolution: how the 1970s oil shock, iran’s upheaval, and the 1980s crash still govern american energy power- oil and gas 360 th">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 42.35 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: fed, inflation, volatility, war, military, sanctions, middle east, oil">42.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🏦 Banking Crisis</span><span class="theme-tag">🚫 Sanctions</span><span class="theme-tag">🔥 Inflation</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/energy/articles/panic-ruin-revolution-1970s-oil-193048620.html" target="_blank" rel="noopener">From Panic to Ruin to Revolution: How the 1970s Oil Shock, Iran’s Upheaval, and the 1980s Crash Still Govern American Energy Power</a></h3>
+  <p class="preview card-detail">From Panic to Ruin to Revolution: How the 1970s Oil Shock, Iran’s Upheaval, and the 1980s Crash Still Govern American Energy Power Oil & Gas 360 Fri, May 8, 2026 at 3:30 PM EDT 7 min read CL=F (Oil & Gas 360) By Greg Barnett, MBA – The modern American oil and gas system was not engineered in calm co&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:30:48Z</time>
+    <span class="kw-hint">🔑 fed, inflation, volatility, war, military</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="42.09" data-date="2026-05-04" data-themes="war_conflict,geopolitical_shock,recession,oil_energy" data-text="market greed is back: oil and the hormuz strait didn’t get the memo. market greed is back: oil and the hormuz strait didn’t get the memo. gerelyn terzo mon, may 4, 2026 at 9:54 am cdt 4 min read ^vix cl=f ^gspc pltr qqq quick read the cboe volatility index (vix) rose 2.2% to above 17 on renewed middle east tensions and crude prices spiking above $100 per barrel. middle east conflict escalation and opec production cuts have tightened oil supply at a critical chokepoint, introducing risk premium back into options markets despite strong stock market gains. the fear and greed index hovers at 66, an indication that market greed has returned. the analyst who called n">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 42.09 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, stock market, equities, s&p 500, nasdaq, vix, volatility, earnings">42.1 <sup>ℹ</sup></span>
@@ -218,7 +232,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, rate hike, fomc</span>
   </div>
 </article>
-<article class="card card-alert" data-score="41.09" data-date="2026-05-06" data-themes="war_conflict,central_bank" data-text="the stock market may have a federal reserve problem with kevin warsh replacing jerome powell the stock market may have a federal reserve problem with kevin warsh replacing jerome powell trevor jennewine, the motley fool wed, may 6, 2026 at 2:08 am mst 5 min read ^gspc the s&p 500 (snpindex: ^gspc) has more than doubled since the current bull market began in october 2022, and the index currently trades near its record high. but the stock market may run into trouble when kevin warsh potentially replaces federal reserve chair jerome powell in may. last week, the senate banking committee voted to advance warsh's nomination to the full senate, but the vote fell entirely along party lines f">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="41.09" data-date="2026-05-06" data-themes="war_conflict,central_bank" data-text="the stock market may have a federal reserve problem with kevin warsh replacing jerome powell the stock market may have a federal reserve problem with kevin warsh replacing jerome powell trevor jennewine, the motley fool wed, may 6, 2026 at 2:08 am mst 5 min read ^gspc the s&p 500 (snpindex: ^gspc) has more than doubled since the current bull market began in october 2022, and the index currently trades near its record high. but the stock market may run into trouble when kevin warsh potentially replaces federal reserve chair jerome powell in may. last week, the senate banking committee voted to advance warsh's nomination to the full senate, but the vote fell entirely along party lines f">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 41.09 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: federal reserve, fed, rate cut, interest rate, jerome powell, quantitative easing, stock market, s&p 500">41.1 <sup>ℹ</sup></span>
@@ -231,7 +245,7 @@
     <time datetime="2026-05-06">2026-05-06T09:08:00Z</time>
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, jerome powell</span>
   </div>
-</article>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="39.46" data-date="2026-05-04" data-themes="war_conflict,oil_energy,central_bank" data-text="stocks turn lower as middle east tensions rise stocks turn lower as middle east tensions rise rich asplund mon, may 4, 2026 at 11:16 am edt 7 min read ^ndx ^gspc ^ixic ^dji cl=f the s&p 500 index ($spx) (spy) today is down -0.35%, the dow jones industrial average ($dowi) (dia) is down -0.75%, and the nasdaq 100 index ($iuxx) (qqq) is down -0.23%.  june e-mini s&p futures (esm26) are down -0.44%, and june e-mini nasdaq futures (nqm26) are down -0.37%. stock indexes gave up an early advance and turned lower as middle east tensions flared up after the united arab emirates (uae) said an iranian drone attack caused a fire at the fujairah oil in">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -414,6 +428,20 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, inflation</span>
   </div>
 </article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="34.86" data-date="2026-05-08" data-themes="war_conflict,sovereign_default,central_bank" data-text="fed: risks from private credit are 'limited and manageable' fed: risks from private credit are 'limited and manageable' jennifer schonberger · senior reporter fri, may 8, 2026 at 4:00 pm edt 2 min read owl a new report out from the federal reserve on friday says risks to the financial system from private credit “appear limited and manageable.” however, the central bank warned that “redemptions and negative sentiment could lead to a reduction in credit availability for some borrowers, especially those with relatively higher credit risk, who could find other sources of credit costly or difficult to access.” concern has rippled through private credit mark">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 34.86 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, jerome powell, stock market, s&p 500, earnings, war, crisis">34.9 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">💀 Default</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/article/fed-risks-from-private-credit-are-limited-and-manageable-200000556.html" target="_blank" rel="noopener">Fed: Risks from private credit are 'limited and manageable'</a></h3>
+  <p class="preview card-detail">Fed: Risks from private credit are 'limited and manageable' Jennifer Schonberger · Senior Reporter Fri, May 8, 2026 at 4:00 PM EDT 2 min read OWL A new report out from the Federal Reserve on Friday says risks to the financial system from private credit “appear limited and manageable.” However, the c&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T20:00:00Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, jerome powell, stock market, s&p 500</span>
+  </div>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="34.18" data-date="2026-05-07" data-themes="war_conflict,sanctions_major,oil_energy" data-text="crude oil recovers as us may restart operations to reopen the strait of hormuz crude oil recovers as us may restart operations to reopen the strait of hormuz rich asplund thu, may 7, 2026 at 3:31 pm edt 5 min read cl=f rb=f june wti crude oil (clm26) on thursday closed down -0.27 (-0.28%), and june rbob gasoline (rbm26) closed down -0.0033 (-0.10%).  crude oil and gasoline prices closed lower on thursday on optimism that a us-iran peace deal is imminent.  the markets await further updates after the us presented a proposal to iran that would gradually reopen the strait of hormuz and lift the us blockade on iranian ports.   iran is expected to respond via pakistan in the n">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -441,40 +469,26 @@
     <time datetime="2026-05-07">2026-05-07T15:30:15Z</time>
     <span class="kw-hint">🔑 earnings, war, conflict, sanctions, ukraine</span>
   </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="33.57" data-date="2026-05-07" data-themes="war_conflict,oil_energy,central_bank" data-text="s&p 500 reverses after hitting record high as oil prices bounce back s&p 500 reverses after hitting record high as oil prices bounce back rich asplund thu, may 7, 2026 at 10:15 am cdt 8 min read cl=f ^gspc ^dji ^ndx the s&p 500 index ($spx) (spy) today is down -0.40%, the dow jones industrial average ($dowi) (dia) is down -0.51%, and the nasdaq 100 index ($iuxx) (qqq) is down -0.28%. equity markets retreated this afternoon, erasing earlier gains as a resurgence in crude oil prices weighed on sentiment. while the international brent benchmark saw a slight dip yet remained above $100, u.s. west texas intermediate futures surged past the $95-per-barrel mark. more ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 33.57 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, rate cut, rate hike, interest rate, fomc, ecb, inflation, stock market">33.6 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/p-500-reverses-hitting-record-151509488.html" target="_blank" rel="noopener">S&P 500 Reverses After Hitting Record High as Oil Prices Bounce Back</a></h3>
-  <p class="preview card-detail">S&P 500 Reverses After Hitting Record High as Oil Prices Bounce Back Rich Asplund Thu, May 7, 2026 at 10:15 AM CDT 8 min read CL=F ^GSPC ^DJI ^NDX The S&P 500 Index ($SPX) (SPY) today is down -0.40%, the Dow Jones Industrial Average ($DOWI) (DIA) is down -0.51%, and the Nasdaq 100 Index ($IUXX) (QQQ&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-05-07">2026-05-07T15:15:09Z</time>
-    <span class="kw-hint">🔑 fed, rate cut, rate hike, interest rate, fomc</span>
-  </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="32.61" data-date="2026-05-07" data-themes="war_conflict,geopolitical_shock,central_bank" data-text="fed's hammack says rates likely on hold 'for quite some time' amid elevated inflation fed's hammack says rates likely on hold 'for quite some time' amid elevated inflation by michael s. derby thu, may 7, 2026 at 3:33 pm edt 2 min read by michael s. derby may 7 (reuters) - federal reserve bank of cleveland president beth hammack said in a radio interview on thursday she expects the central bank to hold interest rates steady well into ‌the future as it navigates a climate of considerable uncertainty. “my outlook right now is that interest rates ‌will be on hold for quite some time,” with the amount of time on hold not yet clear, hammack said in an interview on the ​wosu public ra">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 32.61 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate cut, interest rate, inflation, war, invasion, conflict">32.6 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🌐 Geo Shock</span><span class="theme-tag">🏛️ Central Bank</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/feds-hammack-says-rates-likely-152808913.html" target="_blank" rel="noopener">Fed's Hammack says rates likely on hold 'for quite some time' amid elevated inflation</a></h3>
-  <p class="preview card-detail">Fed's Hammack says rates likely on hold 'for quite some time' amid elevated inflation By Michael S. Derby Thu, May 7, 2026 at 3:33 PM EDT 2 min read By Michael S. Derby May 7 (Reuters) - Federal Reserve Bank of Cleveland President Beth Hammack said in a radio interview on Thursday she expects the ce&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-05-07">2026-05-07T19:33:27Z</time>
-    <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, inflation</span>
-  </div>
 </article></div></div></div>
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (1416 articles)</div>
-    <div id="cards-all"><article class="card card-alert" data-score="42.09" data-date="2026-05-04" data-themes="war_conflict,geopolitical_shock,recession,oil_energy" data-text="market greed is back: oil and the hormuz strait didn’t get the memo. market greed is back: oil and the hormuz strait didn’t get the memo. gerelyn terzo mon, may 4, 2026 at 9:54 am cdt 4 min read ^vix cl=f ^gspc pltr qqq quick read the cboe volatility index (vix) rose 2.2% to above 17 on renewed middle east tensions and crude prices spiking above $100 per barrel. middle east conflict escalation and opec production cuts have tightened oil supply at a critical chokepoint, introducing risk premium back into options markets despite strong stock market gains. the fear and greed index hovers at 66, an indication that market greed has returned. the analyst who called n">
+    <div class="section-title">Historique complet — 7 derniers jours (1431 articles)</div>
+    <div id="cards-all"><article class="card card-alert" data-score="42.35" data-date="2026-05-08" data-themes="war_conflict,banking_crisis,sanctions_major,inflation,oil_energy" data-text="from panic to ruin to revolution: how the 1970s oil shock, iran’s upheaval, and the 1980s crash still govern american energy power from panic to ruin to revolution: how the 1970s oil shock, iran’s upheaval, and the 1980s crash still govern american energy power oil & gas 360 fri, may 8, 2026 at 3:30 pm edt 7 min read cl=f (oil & gas 360) by greg barnett, mba – the modern american oil and gas system was not engineered in calm conditions. it was forged amid gasoline lines, collapsing banks, and geopolitical revolutions that redirected the flow of oil and power simultaneously. from panic to ruin to revolution: how the 1970s oil shock, iran’s upheaval, and the 1980s crash still govern american energy power- oil and gas 360 th">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 42.35 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: fed, inflation, volatility, war, military, sanctions, middle east, oil">42.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🏦 Banking Crisis</span><span class="theme-tag">🚫 Sanctions</span><span class="theme-tag">🔥 Inflation</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/energy/articles/panic-ruin-revolution-1970s-oil-193048620.html" target="_blank" rel="noopener">From Panic to Ruin to Revolution: How the 1970s Oil Shock, Iran’s Upheaval, and the 1980s Crash Still Govern American Energy Power</a></h3>
+  <p class="preview card-detail">From Panic to Ruin to Revolution: How the 1970s Oil Shock, Iran’s Upheaval, and the 1980s Crash Still Govern American Energy Power Oil & Gas 360 Fri, May 8, 2026 at 3:30 PM EDT 7 min read CL=F (Oil & Gas 360) By Greg Barnett, MBA – The modern American oil and gas system was not engineered in calm co&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:30:48Z</time>
+    <span class="kw-hint">🔑 fed, inflation, volatility, war, military</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="42.09" data-date="2026-05-04" data-themes="war_conflict,geopolitical_shock,recession,oil_energy" data-text="market greed is back: oil and the hormuz strait didn’t get the memo. market greed is back: oil and the hormuz strait didn’t get the memo. gerelyn terzo mon, may 4, 2026 at 9:54 am cdt 4 min read ^vix cl=f ^gspc pltr qqq quick read the cboe volatility index (vix) rose 2.2% to above 17 on renewed middle east tensions and crude prices spiking above $100 per barrel. middle east conflict escalation and opec production cuts have tightened oil supply at a critical chokepoint, introducing risk premium back into options markets despite strong stock market gains. the fear and greed index hovers at 66, an indication that market greed has returned. the analyst who called n">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 42.09 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, stock market, equities, s&p 500, nasdaq, vix, volatility, earnings">42.1 <sup>ℹ</sup></span>
@@ -698,6 +712,20 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, inflation</span>
   </div>
 </article>
+<article class="card card-alert" data-score="34.86" data-date="2026-05-08" data-themes="war_conflict,sovereign_default,central_bank" data-text="fed: risks from private credit are 'limited and manageable' fed: risks from private credit are 'limited and manageable' jennifer schonberger · senior reporter fri, may 8, 2026 at 4:00 pm edt 2 min read owl a new report out from the federal reserve on friday says risks to the financial system from private credit “appear limited and manageable.” however, the central bank warned that “redemptions and negative sentiment could lead to a reduction in credit availability for some borrowers, especially those with relatively higher credit risk, who could find other sources of credit costly or difficult to access.” concern has rippled through private credit mark">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 34.86 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, jerome powell, stock market, s&p 500, earnings, war, crisis">34.9 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">💀 Default</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/article/fed-risks-from-private-credit-are-limited-and-manageable-200000556.html" target="_blank" rel="noopener">Fed: Risks from private credit are 'limited and manageable'</a></h3>
+  <p class="preview card-detail">Fed: Risks from private credit are 'limited and manageable' Jennifer Schonberger · Senior Reporter Fri, May 8, 2026 at 4:00 PM EDT 2 min read OWL A new report out from the Federal Reserve on Friday says risks to the financial system from private credit “appear limited and manageable.” However, the c&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T20:00:00Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, jerome powell, stock market, s&p 500</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="34.18" data-date="2026-05-07" data-themes="war_conflict,sanctions_major,oil_energy" data-text="crude oil recovers as us may restart operations to reopen the strait of hormuz crude oil recovers as us may restart operations to reopen the strait of hormuz rich asplund thu, may 7, 2026 at 3:31 pm edt 5 min read cl=f rb=f june wti crude oil (clm26) on thursday closed down -0.27 (-0.28%), and june rbob gasoline (rbm26) closed down -0.0033 (-0.10%).  crude oil and gasoline prices closed lower on thursday on optimism that a us-iran peace deal is imminent.  the markets await further updates after the us presented a proposal to iran that would gradually reopen the strait of hormuz and lift the us blockade on iranian ports.   iran is expected to respond via pakistan in the n">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -726,6 +754,20 @@
     <span class="kw-hint">🔑 earnings, war, conflict, sanctions, ukraine</span>
   </div>
 </article>
+<article class="card card-alert" data-score="33.98" data-date="2026-05-08" data-themes="war_conflict,central_bank" data-text="dollar slides on stock strength and weak consumer sentiment dollar slides on stock strength and weak consumer sentiment rich asplund fri, may 8, 2026 at 3:33 pm edt 6 min read dx-y.nyb eur=x eurusd=x usd=x cny=x the dollar index (dxy00) on friday fell by -0.19%.  the dollar was under pressure on friday after the s&p 500 rallied to a new all-time high, curbing liquidity demand for the dollar.  also, the university of michigan's us may consumer sentiment index fell more than expected to a record low.  in addition, strength in the chinese yuan weighed on the dollar today after the yuan rallied to a 3-year high.  finally, strength in eur/usd is negative fo">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 33.98 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: rate cut, rate hike, interest rate, fomc, ecb, boj, inflation, s&p 500">34.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/currencies/articles/dollar-slides-stock-strength-weak-193321516.html" target="_blank" rel="noopener">Dollar Slides on Stock Strength and Weak Consumer Sentiment</a></h3>
+  <p class="preview card-detail">Dollar Slides on Stock Strength and Weak Consumer Sentiment Rich Asplund Fri, May 8, 2026 at 3:33 PM EDT 6 min read DX-Y.NYB EUR=X EURUSD=X USD=X CNY=X The dollar index (DXY00) on Friday fell by -0.19%.  The dollar was under pressure on Friday after the S&P 500 rallied to a new all-time high, curbin&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:33:21Z</time>
+    <span class="kw-hint">🔑 rate cut, rate hike, interest rate, fomc, ecb</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="33.57" data-date="2026-05-07" data-themes="war_conflict,oil_energy,central_bank" data-text="s&p 500 reverses after hitting record high as oil prices bounce back s&p 500 reverses after hitting record high as oil prices bounce back rich asplund thu, may 7, 2026 at 10:15 am cdt 8 min read cl=f ^gspc ^dji ^ndx the s&p 500 index ($spx) (spy) today is down -0.40%, the dow jones industrial average ($dowi) (dia) is down -0.51%, and the nasdaq 100 index ($iuxx) (qqq) is down -0.28%. equity markets retreated this afternoon, erasing earlier gains as a resurgence in crude oil prices weighed on sentiment. while the international brent benchmark saw a slight dip yet remained above $100, u.s. west texas intermediate futures surged past the $95-per-barrel mark. more ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -738,6 +780,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-05-07">2026-05-07T15:15:09Z</time>
     <span class="kw-hint">🔑 fed, rate cut, rate hike, interest rate, fomc</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="33.06" data-date="2026-05-08" data-themes="war_conflict,sanctions_major,oil_energy" data-text="crude oil prices edge higher on heightened middle east tensions crude oil prices edge higher on heightened middle east tensions rich asplund fri, may 8, 2026 at 3:20 pm edt 5 min read cl=f rb=f june wti crude oil (clm26) on friday closed up +0.61 (+0.64%), and june rbob gasoline (rbm26) closed up +0.0707 (+2.05%).  crude oil and gasoline prices settled higher on friday due to concerns about the sustainability of the ceasefire between the us and iran amid fresh hostilities in the strait of hormuz.  the markets await further updates after the us presented a proposal to iran that would gradually reopen the strait of hormuz and lift the us blockade on iranian ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 33.06 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, conflict, military, sanctions, ukraine, russia, middle east, oil">33.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🚫 Sanctions</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-edge-higher-192039991.html" target="_blank" rel="noopener">Crude Oil Prices Edge Higher on Heightened Middle East Tensions</a></h3>
+  <p class="preview card-detail">Crude Oil Prices Edge Higher on Heightened Middle East Tensions Rich Asplund Fri, May 8, 2026 at 3:20 PM EDT 5 min read CL=F RB=F June WTI crude oil (CLM26) on Friday closed up +0.61 (+0.64%), and June RBOB gasoline (RBM26) closed up +0.0707 (+2.05%).  Crude oil and gasoline prices settled higher on&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:20:39Z</time>
+    <span class="kw-hint">🔑 war, conflict, military, sanctions, ukraine</span>
   </div>
 </article>
 <article class="card card-alert" data-score="32.61" data-date="2026-05-07" data-themes="war_conflict,geopolitical_shock,central_bank" data-text="fed's hammack says rates likely on hold 'for quite some time' amid elevated inflation fed's hammack says rates likely on hold 'for quite some time' amid elevated inflation by michael s. derby thu, may 7, 2026 at 3:33 pm edt 2 min read by michael s. derby may 7 (reuters) - federal reserve bank of cleveland president beth hammack said in a radio interview on thursday she expects the central bank to hold interest rates steady well into ‌the future as it navigates a climate of considerable uncertainty. “my outlook right now is that interest rates ‌will be on hold for quite some time,” with the amount of time on hold not yet clear, hammack said in an interview on the ​wosu public ra">
@@ -1606,6 +1662,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-05-04">2026-05-04T15:21:55Z</time>
     <span class="kw-hint">🔑 war, oil, geopolitical, tariff</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="23.16" data-date="2026-05-08" data-themes="war_conflict,oil_energy" data-text="tech stocks are on fire right now. can they get any hotter? tech stocks are on fire right now. can they get any hotter? colin laidley fri, may 8, 2026 at 3:21 pm edt 4 min read ^ixic ^sox ^gspc the nasdaq has gained about a quarter of its value in the last six weeks alone. credit: michael nagle / bloomberg via getty images key takeaways tech stocks extended a weeks-long rally on friday as ai enthusiasm sent semiconductor and memory stocks sharply higher. some analysts expect tech to continue to lead the market, buoyed by strong earnings growth that has prevented stock valuations from ballooning with share prices. watching the stock market, you'd be for">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 23.16 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: stock market, s&p 500, nasdaq, earnings, war, oil, bond">23.2 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/tech-stocks-fire-now-hotter-192102739.html" target="_blank" rel="noopener">Tech Stocks Are on Fire Right Now. Can They Get Any Hotter?</a></h3>
+  <p class="preview card-detail">Tech Stocks Are on Fire Right Now. Can They Get Any Hotter? Colin Laidley Fri, May 8, 2026 at 3:21 PM EDT 4 min read ^IXIC ^SOX ^GSPC The Nasdaq has gained about a quarter of its value in the last six weeks alone. Credit: Michael Nagle / Bloomberg via Getty Images Key Takeaways Tech stocks extended &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:21:02Z</time>
+    <span class="kw-hint">🔑 stock market, s&p 500, nasdaq, earnings, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="23.09" data-date="2026-05-08" data-themes="war_conflict" data-text="strong jobs report to keep fed on hold as war and energy prices make inflation the bigger worry strong jobs report to keep fed on hold as war and energy prices make inflation the bigger worry jennifer schonberger · senior reporter updated fri, may 8, 2026 at 10:24 am edt 3 min read a stronger-than-expected april jobs report is expected to keep the federal reserve on hold as kevin warsh prepares to take over as chair in a week. payrolls added 115,000 jobs in april , trumping the 65,000 jobs analysts expected, as the unemployment rate held steady at 4.3%. job gains, which have been concentrated mostly in the healthcare sector, began to broaden to other sectors, with payroll gains in transp">
@@ -4814,6 +4884,20 @@
     <span class="kw-hint">🔑 nasdaq, earnings, war, tariff</span>
   </div>
 </article>
+<article class="card card-alert" data-score="12.92" data-date="2026-05-08" data-themes="war_conflict,oil_energy" data-text="nat-gas prices fall as seasonal maintenance limits us lng exports nat-gas prices fall as seasonal maintenance limits us lng exports rich asplund fri, may 8, 2026 at 3:18 pm edt 3 min read ng=f june nymex natural gas (ngm26) on friday closed down -0.012 (-0.43%). nat-gas prices gave up an early advance on friday and settled lower amid a decline in flows to us liquefied natural gas (lng) export terminals, which boost supplies in the domestic market and expand inventories.   feedgas to lng plants decreased to 17.7 bcf on friday, down -4.6% w/w as some export facilities reduced output due to seasonal maintenance. more news from barchart crude oil prices edge hig">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.92 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, middle east, oil">12.9 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-fall-seasonal-191856278.html" target="_blank" rel="noopener">Nat-Gas Prices Fall as Seasonal Maintenance Limits US LNG Exports</a></h3>
+  <p class="preview card-detail">Nat-Gas Prices Fall as Seasonal Maintenance Limits US LNG Exports Rich Asplund Fri, May 8, 2026 at 3:18 PM EDT 3 min read NG=F June Nymex natural gas (NGM26) on Friday closed down -0.012 (-0.43%). Nat-gas prices gave up an early advance on Friday and settled lower amid a decline in flows to US lique&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:18:56Z</time>
+    <span class="kw-hint">🔑 war, middle east, oil</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="12.92" data-date="2026-05-06" data-themes="war_conflict,banking_crisis" data-text="'being real, i'm going to buy a car': nfl star odell beckham jr. says $20m a year isn't enough. could you make it last? 'being real, i'm going to buy a car': nfl star odell beckham jr. says $20m a year isn't enough. could you make it last? jing pan wed, may 6, 2026 at 6:15 am mdt 7 min read moneywise and yahoo finance llc may earn commission or revenue through links in the content below. for most americans, a six-figure salary equals financial security. so it’s easy to assume nfl star odell beckham jr. has cemented his security with an eight-figure, $100-million, five-year contract. but on a recent episode of the pivot podcast , the 33-year-old suggested that living off $20-million a year is a challenge. “that’">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -4938,6 +5022,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-05-03">2026-05-03T10:53:43Z</time>
     <span class="kw-hint">🔑 nasdaq, war, tariff, gold</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="12.78" data-date="2026-05-08" data-themes="war_conflict" data-text="why poet stock gained 19.9% last month and is skyrocketing in may why poet stock gained 19.9% last month and is skyrocketing in may keith noonan, the motley fool fri, may 8, 2026 at 3:24 pm edt 3 min read poet intc ^gspc ^ixic nvda poet technologies (nasdaq: poet) stock saw some huge fluctuations in april's trading, but it managed to close out the month with big gains. the fiber-optics company's share price rose 19.9% in the month's trading, far exceeding the s&p 500 's impressive gain of 10.4% and the nasdaq composite 's even more striking 15.3% surge. poet stock enjoyed strong bullish momentum in conjunction with broader-market trends last month as investo">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.78 | Seuil: 5.0 | Sentiment: Extreme Positive| Mots-cles: s&p 500, nasdaq, war">12.8 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/why-poet-stock-gained-19-192402315.html" target="_blank" rel="noopener">Why Poet Stock Gained 19.9% Last Month and Is Skyrocketing in May</a></h3>
+  <p class="preview card-detail">Why Poet Stock Gained 19.9% Last Month and Is Skyrocketing in May Keith Noonan, The Motley Fool Fri, May 8, 2026 at 3:24 PM EDT 3 min read POET INTC ^GSPC ^IXIC NVDA Poet Technologies (NASDAQ: POET) stock saw some huge fluctuations in April's trading, but it managed to close out the month with big g&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:24:02Z</time>
+    <span class="kw-hint">🔑 s&p 500, nasdaq, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="12.77" data-date="2026-05-09" data-themes="war_conflict" data-text="caretrust reit q1 earnings call highlights caretrust reit q1 earnings call highlights marketbeat sat, may 9, 2026 at 4:03 pm pdt 8 min read ctre caretrust reit logo key points interested in caretrust reit, inc.? here are five stocks we like better. caretrust reit posted strong first-quarter results , with normalized ffo up 38% year over year and normalized ffo per share up 14% to $0.48. management also raised full-year 2026 guidance for both ffo and fad. investment activity accelerated sharply , with about $1.1 billion of year-to-date investments completed at a blended stabilized yield of roughly 8.9%. the mix included u.s. skilled nur">
@@ -6494,6 +6592,20 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="11.69" data-date="2026-05-08" data-themes="war_conflict" data-text="how intel stock could be the biggest winner from amd’s explosive earnings win how intel stock could be the biggest winner from amd’s explosive earnings win ebube jones fri, may 8, 2026 at 3:15 pm edt 5 min read amd intc just days after advanced micro devices (amd) delivered a blockbuster first-quarter 2026 earnings report, the semiconductor industry is experiencing a major shift. on may 5, amd posted revenue of $10.3 billion, up 38% year-over-year (yoy), beating consensus estimates of around $9.9 billion. but what especially caught investors' attention was the q2 guidance of approximately $11.2 billion and management's sharply upgraded outlook for the server cpu market,">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.69 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: earnings, war, taiwan">11.7 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/intel-stock-could-biggest-winner-191514977.html" target="_blank" rel="noopener">How Intel Stock Could Be the Biggest Winner from AMD’s Explosive Earnings Win</a></h3>
+  <p class="preview card-detail">How Intel Stock Could Be the Biggest Winner from AMD’s Explosive Earnings Win Ebube Jones Fri, May 8, 2026 at 3:15 PM EDT 5 min read AMD INTC Just days after Advanced Micro Devices (AMD) delivered a blockbuster first-quarter 2026 earnings report, the semiconductor industry is experiencing a major sh&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:15:14Z</time>
+    <span class="kw-hint">🔑 earnings, war, taiwan</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="11.69" data-date="2026-05-05" data-themes="war_conflict" data-text="unity software stock is down nearly 40% ytd but wedbush is pounding the table ahead of earnings unity software stock is down nearly 40% ytd but wedbush is pounding the table ahead of earnings aanchal sugandh tue, may 5, 2026 at 12:41 pm cdt 5 min read u goog unity software (u), the company that powers the world's leading platform for creating and operating interactive, real-time 3d content, has had a rough ride through 2026, and the market has been anything but kind to it. weak financial guidance and a bruising macroeconomic environment have ganged up on the stock, sending it down a steep 37.54% year-to-date (ytd). and investors are losing sleep over the growing threat from artificial in">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -6800,6 +6912,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-05-06">2026-05-06T16:27:16Z</time>
     <span class="kw-hint">🔑 interest rate, stock market, volatility, earnings, war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="11.50" data-date="2026-05-08" data-themes="war_conflict" data-text="real home prices plunge to lowest level since 2014: are luxury sales 'inflating' data? real home prices plunge to lowest level since 2014: are luxury sales 'inflating' data? rishabh mishra fri, may 8, 2026 at 3:30 pm edt 9 min read benzinga and yahoo finance llc may earn commission or revenue on some items through the links below. the u.s. housing market is showing signs of a significant fracture as new home prices plummet to decade-long lows when adjusted for inflation, even as a surge in luxury sales creates a massive distortion in market data. a market weakening beneath the surface fresh data from march reveals a cooling landscape for the american dream. the median sales pric">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.50 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: inflation, equities, volatility, war">11.5 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/real-home-prices-plunge-lowest-193045372.html" target="_blank" rel="noopener">Real Home Prices Plunge To Lowest Level Since 2014: Are Luxury Sales 'Inflating' Data?</a></h3>
+  <p class="preview card-detail">Real Home Prices Plunge To Lowest Level Since 2014: Are Luxury Sales 'Inflating' Data? Rishabh Mishra Fri, May 8, 2026 at 3:30 PM EDT 9 min read Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. The U.S. housing market is showing signs of a signific&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:30:45Z</time>
+    <span class="kw-hint">🔑 inflation, equities, volatility, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="11.47" data-date="2026-05-05" data-themes="war_conflict" data-text="annaly capital management, inc. (nly): a top undervalued reit stock on balanced risk profile annaly capital management, inc. (nly): a top undervalued reit stock on balanced risk profile neha gupta tue, may 5, 2026 at 3:09 pm cdt 2 min read nly nly-pf nly-pi nly-pj annaly capital management (nyse: nly ) is one of the top undervalued reit stocks to buy now . on april 24, bofa securities reiterated a neutral rating on annaly capital management (nyse:nly) and lowered the price target to $23 from $23.50. annaly capital management, inc. (nly) a top undervalued reit stock on balanced risk profile according to the research firm, the risk-reward profile for the stock remains balanced, thus the">
@@ -7794,6 +7920,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-05-07">2026-05-07T16:40:04Z</time>
     <span class="kw-hint">🔑 war, tariff, gold</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="10.74" data-date="2026-05-08" data-themes="war_conflict" data-text="american cattle ranchers want their beef back in china american cattle ranchers want their beef back in china srividya kalyanaraman fri, may 8, 2026 at 3:52 pm edt 7 min read nvda eur le=f american cattle ranchers want their beef back in china - moby the gist our analysts just identified a stock with the potential to be the next nvidia. tell us how you invest and we'll show you why it's our #1 pick. tap here. everyone has an agenda for the upcoming u.s.-china summit. china wants to export semiconductors, and the u.s. wants china’s rare earth minerals — call it a supply chain. and american cattle ranchers want access back into the chinese market. w">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.74 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war, china, tariff">10.7 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/american-cattle-ranchers-want-beef-195239409.html" target="_blank" rel="noopener">American Cattle Ranchers Want Their Beef Back in China</a></h3>
+  <p class="preview card-detail">American Cattle Ranchers Want Their Beef Back in China Srividya Kalyanaraman Fri, May 8, 2026 at 3:52 PM EDT 7 min read NVDA EUR LE=F American Cattle Ranchers Want Their Beef Back in China - Moby THE GIST Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:52:39Z</time>
+    <span class="kw-hint">🔑 war, china, tariff</span>
   </div>
 </article>
 <article class="card card-alert" data-score="10.73" data-date="2026-05-04" data-themes="war_conflict" data-text="what makes merck & co. (mrk) an investment bet? what makes merck & co. (mrk) an investment bet? soumya eswaran mon, may 4, 2026 at 6:06 am mdt 4 min read mrk baron capital , an investment management company, released its q1 2026 investor letter for the “baron health care fund”. a copy of the letter is available to download here . baron health care fund (the fund) declined 6.97% (institutional shares) in the quarter, compared to the 4.88% decline for the russell 3000 health care index (the benchmark) and the 3.96% decline for the russell 3000 index (the index). the fund appreciated 9.39% on an annualized basis since its inception, compared t">
@@ -10890,6 +11030,20 @@
     <span class="kw-hint">🔑 nasdaq, earnings, tariff</span>
   </div>
 </article>
+<article class="card card-alert" data-score="8.12" data-date="2026-05-08" data-themes="war_conflict" data-text="mrna stock alert: moderna surges on hantavirus vaccine hopes mrna stock alert: moderna surges on hantavirus vaccine hopes wajeeh khan fri, may 8, 2026 at 4:04 pm edt 2 min read mrna moderna (mrna) stock pushed meaningfully higher on friday following reports that the biotech giant is leveraging its mrna platform to develop a vaccine for hantavirus. the news, which arrived after a deadly hantavirus outbreak on the mv hondius cruise ship, helped mrna break above key resistance levels coinciding with its 20-day and 50-day ma. more news from barchart how intel stock could be the biggest winner from amd’s explosive earnings win as cpus steal the show, amd sto">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 8.12 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: earnings, war">8.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/mrna-stock-alert-moderna-surges-200415418.html" target="_blank" rel="noopener">MRNA Stock Alert: Moderna Surges on Hantavirus Vaccine Hopes</a></h3>
+  <p class="preview card-detail">MRNA Stock Alert: Moderna Surges on Hantavirus Vaccine Hopes Wajeeh Khan Fri, May 8, 2026 at 4:04 PM EDT 2 min read MRNA Moderna (MRNA) stock pushed meaningfully higher on Friday following reports that the biotech giant is leveraging its mRNA platform to develop a vaccine for hantavirus. The news, w&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T20:04:15Z</time>
+    <span class="kw-hint">🔑 earnings, war</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="8.11" data-date="2026-05-09" data-themes="sanctions_major" data-text="us imposes sanctions on chinese companies for allegedly helping iran us imposes sanctions on chinese companies for allegedly helping iran subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newslette">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -11952,6 +12106,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-05-03">2026-05-03T15:51:19Z</time>
     <span class="kw-hint">🔑 nasdaq, earnings, tariff</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="6.64" data-date="2026-05-08" data-themes="" data-text="nike sued by consumers for not refunding tariff costs nike sued by consumers for not refunding tariff costs by jonathan stempel fri, may 8, 2026 at 3:41 pm edt 1 min read nke by jonathan stempel may 8 (reuters) - nike was sued on friday by consumers who accused the athletic apparel and ‌footwear maker of not refunding tariff-related costs it passed ‌on in the form of higher prices. in a proposed class action, consumers said ​nike should not be allowed to keep significant refunds it can expect after the u.s. supreme court in february struck down sweeping tariffs that president donald trump imposed under the international emergency economic power">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.64 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, tariff">6.6 <sup>ℹ</sup></span>
+    
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/nike-sued-consumers-not-refunding-194112736.html" target="_blank" rel="noopener">Nike sued by consumers for not refunding tariff costs</a></h3>
+  <p class="preview card-detail">Nike sued by consumers for not refunding tariff costs By Jonathan Stempel Fri, May 8, 2026 at 3:41 PM EDT 1 min read NKE By Jonathan Stempel May 8 (Reuters) - Nike was sued on Friday by consumers who accused the athletic apparel and ‌footwear maker of not refunding tariff-related costs it passed ‌on&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:41:12Z</time>
+    <span class="kw-hint">🔑 fed, tariff</span>
   </div>
 </article>
 <article class="card card-alert" data-score="6.63" data-date="2026-05-09" data-themes="" data-text="strong q1 execution sets cms energy corporation (cms) for full-year growth strong q1 execution sets cms energy corporation (cms) for full-year growth neha gupta sat, may 9, 2026 at 2:28 pm pdt 2 min read cms cms energy corporation (nyse: cms ) is one of the high growth utility stocks to buy according to analysts . on april 28, cms energy corporation (nyse:cms) reiterated strong execution in the first quarter, positioning it for an impressive year. the company is also building momentum across its triple bottom line in support of customers and investors. strong q1 execution sets cms energy corporation (cms) for full-year growth the sentiments align with the company del">
@@ -15146,6 +15314,20 @@
     <span class="kw-hint">🔑 tariff</span>
   </div>
 </article>
+<article class="card" data-score="3.23" data-date="2026-05-08" data-themes="" data-text="why these four biotech stocks prove that follow-on entries still pop up in stock market leaders ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.23 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: stock market">3.2 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.investors.com/stock-lists/ibd-50/biotech-stocks-follow-on-entries-stock-market-leaders-anab-axsm-indv-tvtx/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">Why These Four Biotech Stocks Prove That Follow-On Entries Still Pop Up In Stock Market Leaders</a></h3>
+  <p class="preview card-detail"></p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:45:40Z</time>
+    <span class="kw-hint">🔑 stock market</span>
+  </div>
+</article>
 <article class="card" data-score="3.16" data-date="2026-05-08" data-themes="" data-text="americold (cold) bags $1.3-b joint venture, climbs 17.9% americold (cold) bags $1.3-b joint venture, climbs 17.9% angelica ballesteros thu, may 7, 2026 at 10:42 pm edt 2 min read cold americold realty trust inc. (nyse:cold) is one of the 10 stocks outperforming wall street with monster returns. americold realty trust extended its winning streak to a third straight session on thursday, soaring 17.87 percent to finish at $14.97 apiece, after clinching a $1.3 billion joint venture with global investment firm eqt group for the development of new cold storage facilities in the us. under the agreement, americold realty trust inc. (nyse:cold) will build 12">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -16574,6 +16756,20 @@
     
   </div>
 </article>
+<article class="card" data-score="1.39" data-date="2026-05-08" data-themes="" data-text="'plumbing' for ai data centers — and visions of 372% growth — have funds salivating for this ibd 50 stock ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.39 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.4 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.investors.com/research/ibd-stock-analysis/credo-stock-crdo-ai-infrastructure-nvdia-amd-marvell-peer/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">'Plumbing' For AI Data Centers — And Visions Of 372% Growth — Have Funds Salivating For This IBD 50 Stock</a></h3>
+  <p class="preview card-detail"></p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T20:00:09Z</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.36" data-date="2026-05-06" data-themes="" data-text="cnn’s amanpour airs concerns for news channel’s independence under ellison cnn’s christiane amanpour airs concerns for news channel’s independence under david ellison subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment colum">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -16697,20 +16893,6 @@
   <p class="preview card-detail"></p>
   <div class="card-footer card-detail">
     <time datetime="2026-05-08">2026-05-08T15:33:01Z</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.24" data-date="2026-05-03" data-themes="" data-text="trump says he is reviewing iran peace plan but would consider new strikes trump says he is reviewing iran peace plan but would consider new strikes subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium news">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.24 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.2 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/fb1aae4a-ec0c-48ed-bf0a-6639071499d3" target="_blank" rel="noopener">Trump says he is reviewing Iran peace plan but would consider new strikes</a></h3>
-  <p class="preview card-detail">Trump says he is reviewing Iran peace plan but would consider new strikes Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for unde&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-05-03">Sun, 03 May 2026 01:19:06</time>
     
   </div>
 </article>
@@ -20018,6 +20200,20 @@
     
   </div>
 </article>
+<article class="card" data-score="0.47" data-date="2026-05-08" data-themes="" data-text="most retirees don't live mostly off social security—here's how they're paying the bills most retirees don't live mostly off social security—here's how they're paying the bills sarina trangle fri, may 8, 2026 at 3:30 pm edt 2 min read most senior citizens don't primarily rely on social security payments. credit: jose luis raota via getty images key takeaways social security's share of older americans' income climbs with age, reaching 40% among those 80 and older. most older adults supplement social security with wages, pensions, retirement funds, and income from assets. you may envision relying on social security during retirement, but the data shows older adults tend to depend on">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.47 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.5 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/most-retirees-dont-live-mostly-193000987.html" target="_blank" rel="noopener">Most Retirees Don't Live Mostly Off Social Security—Here's How They're Paying the Bills</a></h3>
+  <p class="preview card-detail">Most Retirees Don't Live Mostly Off Social Security—Here's How They're Paying the Bills Sarina Trangle Fri, May 8, 2026 at 3:30 PM EDT 2 min read Most senior citizens don't primarily rely on Social Security payments. Credit: Jose Luis Raota via Getty Images Key Takeaways Social Security's share of o&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:30:00Z</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.46" data-date="2026-05-05" data-themes="" data-text="hsbc profits fall on higher credit charges hsbc profits hit by fraud-related credit losses subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading exper">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -20297,6 +20493,20 @@
     <time datetime="2026-05-09">2026-05-09T12:44:29Z</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-05-08" data-themes="" data-text="what is agentic ai? these companies sit atop $4 trillion idea ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.investors.com/news/what-is-agentic-ai-microsoft-google/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">What Is Agentic AI? These Companies Sit Atop $4 Trillion Idea</a></h3>
+  <p class="preview card-detail"></p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-08">2026-05-08T19:52:46Z</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -20409,9 +20619,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09"],
+    labels: ["05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10"],
     datasets: [{
-      data: [209, 199, 230, 268, 234, 178, 98],
+      data: [199, 230, 268, 234, 194, 98, 0],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -20425,7 +20635,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [709, 41, 30, 26, 11, 124, 7, 10, 1, 1, 1, 4];
+const themeValues = [720, 43, 30, 28, 11, 128, 8, 11, 1, 1, 2, 4];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
