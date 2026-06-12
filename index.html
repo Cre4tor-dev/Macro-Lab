@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-06-11 23:15 UTC</title>
+  <title>Macro Lab — 2026-06-12 02:40 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,15 +130,15 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-06-11 23:15 UTC<br>Seuil alerte: 5.0 · 614 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-06-12 02:40 UTC<br>Seuil alerte: 5.0 · 620 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1028</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">1040</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">614</div></div>
-    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">8.0</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">620</div></div>
+    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">8.1</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
 
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-06-11">Thu 11 Jun</option>
+        <option value="2026-06-12">Fri 12 Jun</option>
+<option value="2026-06-11">Thu 11 Jun</option>
 <option value="2026-06-10">Wed 10 Jun</option>
 <option value="2026-06-09">Tue 09 Jun</option>
 <option value="2026-06-08">Mon 08 Jun</option>
 <option value="2026-06-07">Sun 07 Jun</option>
 <option value="2026-06-06">Sat 06 Jun</option>
-<option value="2026-06-05">Fri 05 Jun</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -190,7 +190,21 @@
 
   <div class="view active" id="view-top">
     <div class="section-title">Top 20 articles — cette heure</div>
-    <div id="cards-top"><article class="card card-alert" data-score="40.17" data-date="2026-06-09" data-themes="war_conflict,geopolitical_shock,inflation,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq slide as cpi report lands, us-iran truce teeters live stock market today: dow, s&p 500, nasdaq slide as cpi report lands, us-iran truce teeters amalya dubrovsky , karen friar and jake conley updated wed, june 10, 2026 at 8:50 am cdt 1 min read ^ixic ^gspc ^dji ^ndx orcl us stocks slid into the red on wednesday after consumer inflation soared to its highest level in three years, and renewed us-iran military clashes cast doubt on the odds for peace talks. the nasdaq composite ( ^ixic ) led the pullback, down 0.7% as tuesday's sell-off in tech stocks deepened, while the s&p 500 ( ^gspc ) and the dow jones industrial average ( ^dji ) both fell a">
+    <div id="cards-top"><article class="card card-alert" data-score="42.09" data-date="2026-06-10" data-themes="war_conflict,recession,oil_energy" data-text="world markets walk a tightrope between ai stocks and oil shocks world markets walk a tightrope between ai stocks and oil shocks naomi rovnick wed, june 10, 2026 at 10:43 am edt 4 min read cl=f by naomi rovnick london, june 9 (reuters) - tumult on world markets in the past week shows the economic outlook is now on a knife edge, investors said, with equal odds of an ai boom lifting growth or oil shocks from the u.s.-iran war pushing stocks and bonds into a tailspin. global equities hit an all-time ‌peak on june 3, suffered their worst day since october two days later, and have spent this week reversing course constantly in line with u.s. president donald tru">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 42.09 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: rate hike, interest rate, inflation, stock market, equities, s&p 500, volatility, war">42.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">📉 Recession</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/articles/world-markets-walk-tightrope-between-144305301.html" target="_blank" rel="noopener">World markets walk a tightrope between AI stocks and oil shocks</a></h3>
+  <p class="preview card-detail">World markets walk a tightrope between AI stocks and oil shocks Naomi Rovnick Wed, June 10, 2026 at 10:43 AM EDT 4 min read CL=F By Naomi Rovnick LONDON, June 9 (Reuters) - Tumult on world markets in the past week shows the economic outlook is now on a knife edge, investors said, with equal odds of &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:43:05Z</time>
+    <span class="kw-hint">🔑 rate hike, interest rate, inflation, stock market, equities</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="40.17" data-date="2026-06-09" data-themes="war_conflict,geopolitical_shock,inflation,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq slide as cpi report lands, us-iran truce teeters live stock market today: dow, s&p 500, nasdaq slide as cpi report lands, us-iran truce teeters amalya dubrovsky , karen friar and jake conley updated wed, june 10, 2026 at 8:50 am cdt 1 min read ^ixic ^gspc ^dji ^ndx orcl us stocks slid into the red on wednesday after consumer inflation soared to its highest level in three years, and renewed us-iran military clashes cast doubt on the odds for peace talks. the nasdaq composite ( ^ixic ) led the pullback, down 0.7% as tuesday's sell-off in tech stocks deepened, while the s&p 500 ( ^gspc ) and the dow jones industrial average ( ^dji ) both fell a">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 40.17 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, interest rate, inflation, cpi, stock market, s&p 500, nasdaq">40.2 <sup>ℹ</sup></span>
@@ -218,7 +232,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, inflation, cpi</span>
   </div>
 </article>
-<article class="card card-alert" data-score="39.18" data-date="2026-06-05" data-themes="war_conflict,oil_energy,market_volatility" data-text="stocks slump as big tech sinks and a strong may jobs report boosts odds for higher interest rates stocks slump as big tech sinks and a strong may jobs report boosts odds for higher interest rates specialist anthony matesic works at his post on the floor of the new york stock exchange, wednesday, june 3, 2026. (ap photo/richard drew) · associated press damian j. troise and alex veiga fri, june 5, 2026 at 1:03 am edt 4 min read ^gspc ^dji mu ^ixic nvda the u.s. stock market had its worst day since october friday as a sell-off in big technology companies weighed down the broader market and a strong jobs report boosted expectations that the federal reserve will be forced to hike interest rates">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="39.18" data-date="2026-06-05" data-themes="war_conflict,oil_energy,market_volatility" data-text="stocks slump as big tech sinks and a strong may jobs report boosts odds for higher interest rates stocks slump as big tech sinks and a strong may jobs report boosts odds for higher interest rates specialist anthony matesic works at his post on the floor of the new york stock exchange, wednesday, june 3, 2026. (ap photo/richard drew) · associated press damian j. troise and alex veiga fri, june 5, 2026 at 1:03 am edt 4 min read ^gspc ^dji mu ^ixic nvda the u.s. stock market had its worst day since october friday as a sell-off in big technology companies weighed down the broader market and a strong jobs report boosted expectations that the federal reserve will be forced to hike interest rates">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 39.18 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: federal reserve, fed, rate cut, interest rate, inflation, stock market, s&p 500, nasdaq">39.2 <sup>ℹ</sup></span>
@@ -231,7 +245,7 @@
     <time datetime="2026-06-05">2026-06-05T05:03:34Z</time>
     <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, inflation</span>
   </div>
-</article>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="38.77" data-date="2026-06-10" data-themes="war_conflict,geopolitical_shock,oil_energy,central_bank" data-text="stock market today: dow, s&p 500, nasdaq rise after us completes fresh round of iran strikes live stock market today: dow, s&p 500, nasdaq rise after us completes fresh round of iran strikes amalya dubrovsky and jake conley updated thu, june 11, 2026 at 10:22 am edt 1 min read ^dji ^ixic orcl ^gspc us stocks climbed after the us struck iran in a major escalation of the war, setting up for a rebound from the market's latest sell-off as investors weighed the latest moves in the conflict. the dow jones industrial average ( ^dji ) rose 0.4%, and the benchmark s&p 500 ( ^gspc ) moved up by 0.2%, while the nasdaq composite ( ^ixic ) climbed 0.2%. the us's latest round of strikes against ira">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -386,6 +400,20 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate hike, interest rate, inflation</span>
   </div>
 </article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="31.68" data-date="2026-06-10" data-themes="oil_energy,central_bank" data-text="dollar weakens on as expected us may cpi dollar weakens on as expected us may cpi rich asplund wed, june 10, 2026 at 10:36 am edt 4 min read dx-y.nyb dxy00 gc*0 si*0 ^usdjpy the dollar index (dxy00) today is down by -0.13%.  the dollar is under pressure today after us may consumer prices rose as expected, easing inflation fears and potentially keeping the fed from tightening monetary policy. losses in the dollar are limited as today's stock weakness has boosted liquidity demand for the dollar. also, today's +1% jump in crude oil prices raises inflation expectations and could prompt the fed to tighten monetary policy, a supportive fac">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 31.68 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, rate cut, rate hike, interest rate, fomc, ecb, boj, inflation">31.7 <sup>ℹ</sup></span>
+    <span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-expected-us-may-143629510.html" target="_blank" rel="noopener">Dollar Weakens on as Expected US May CPI</a></h3>
+  <p class="preview card-detail">Dollar Weakens on as Expected US May CPI Rich Asplund Wed, June 10, 2026 at 10:36 AM EDT 4 min read DX-Y.NYB DXY00 GC*0 SI*0 ^USDJPY The dollar index (DXY00) today is down by -0.13%.  The dollar is under pressure today after US May consumer prices rose as expected, easing inflation fears and potenti&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:36:29Z</time>
+    <span class="kw-hint">🔑 fed, rate cut, rate hike, interest rate, fomc</span>
+  </div>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="30.98" data-date="2026-06-05" data-themes="war_conflict,oil_energy" data-text="iran called for lebanon ceasefire and got it: how markets have moved iran called for lebanon ceasefire and got it: how markets have moved darryn pollock fri, june 5, 2026 at 1:55 am edt 2 min read cl=f gc=f dx-y.nyb a ceasefire between israel and lebanon just moved two of the world's biggest commodity markets simultaneously. israel and lebanon agreed to implement a ceasefire on thursday, june 4. wti crude dropped more than 3% to $92.87 per barrel in one of the sharpest single-session moves in weeks. spot gold settled at $4,475, up more than 1%, as the dollar weakened and treasury yields eased on the prospect of lower geopolitical risk. traders are also watching">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -441,40 +469,26 @@
     <time datetime="2026-06-05">2026-06-05T06:17:51Z</time>
     <span class="kw-hint">🔑 inflation, cpi, war, conflict, sanctions</span>
   </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="29.46" data-date="2026-06-09" data-themes="war_conflict,monetary_emergency,banking_crisis,recession" data-text="best cd rates today, tuesday, june 9, 2026: lock in up to 4% apy today some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. see our advertiser disclosure . best cd rates today, tuesday, june 9, 2026: lock in up to 4% apy today here's a look at how today's cd rates stack up. tim manni · lead editor tue, june 9, 2026 at 6:00 am edt 4 min read deposit account rates are on the decline — but the good news is you can lock in a competitive return on a certificate of deposit (cd) today and preserve your earning power. in fact, the best cds still pay rates of 4% or higher. read on for a snap">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 29.46 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate cut, interest rate, yield curve, inflation, war, crisis">29.5 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🚨 Fed Emergency</span><span class="theme-tag">🏦 Banking Crisis</span><span class="theme-tag">📉 Recession</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-june-9-2026-100000440.html" target="_blank" rel="noopener">Best CD rates today, Tuesday, June 9, 2026: Lock in up to 4% APY today</a></h3>
-  <p class="preview card-detail">Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . Best CD rates today, Tuesday, June 9, 2026: Lock in up to 4% APY today Here's a look at how today's CD rates stack up. Tim Manni · Le&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-09">2026-06-09T10:00:00Z</time>
-    <span class="kw-hint">🔑 federal reserve, fed, rate cut, interest rate, yield curve</span>
-  </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="29.34" data-date="2026-06-08" data-themes="oil_energy" data-text="stock market today: dow, s&p 500, nasdaq futures mixed as oil rises after iran and israel exchange strikes stock market today: dow, s&p 500, nasdaq futures mixed as oil rises after iran and israel exchange strikes grace o'donnell · editor, special projects mon, june 8, 2026 at 2:53 am mdt 2 min read es=f ym=f nq=f ^dji ^ixic us stock futures were mixed on monday morning after iran attacked israel, putting pressure on a fragile ceasefire in the middle east, and investors continued to reprice rate-hike bets and assess the artificial intelligence trade. futures tied to the dow jones industrial average ( ym=f ) moved down 0.3%. meanwhile, s&p 500 futures (es=f) rose 0.2% as contracts on the tech-expose">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 29.34 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: federal reserve, fed, interest rate, inflation, stock market, s&p 500, nasdaq, earnings">29.3 <sup>ℹ</sup></span>
-    <span class="theme-tag">🛢️ Oil/Energy</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-as-oil-rises-after-iran-and-israel-exchange-strikes-085310526.html" target="_blank" rel="noopener">Stock market today: Dow, S&P 500, Nasdaq futures mixed as oil rises after Iran and Israel exchange strikes</a></h3>
-  <p class="preview card-detail">Stock market today: Dow, S&P 500, Nasdaq futures mixed as oil rises after Iran and Israel exchange strikes Grace O'Donnell · Editor, Special Projects Mon, June 8, 2026 at 2:53 AM MDT 2 min read ES=F YM=F NQ=F ^DJI ^IXIC US stock futures were mixed on Monday morning after Iran attacked Israel, puttin&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-08">2026-06-08T08:53:10Z</time>
-    <span class="kw-hint">🔑 federal reserve, fed, interest rate, inflation, stock market</span>
-  </div>
 </article></div></div></div>
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (1028 articles)</div>
-    <div id="cards-all"><article class="card card-alert" data-score="40.17" data-date="2026-06-09" data-themes="war_conflict,geopolitical_shock,inflation,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq slide as cpi report lands, us-iran truce teeters live stock market today: dow, s&p 500, nasdaq slide as cpi report lands, us-iran truce teeters amalya dubrovsky , karen friar and jake conley updated wed, june 10, 2026 at 8:50 am cdt 1 min read ^ixic ^gspc ^dji ^ndx orcl us stocks slid into the red on wednesday after consumer inflation soared to its highest level in three years, and renewed us-iran military clashes cast doubt on the odds for peace talks. the nasdaq composite ( ^ixic ) led the pullback, down 0.7% as tuesday's sell-off in tech stocks deepened, while the s&p 500 ( ^gspc ) and the dow jones industrial average ( ^dji ) both fell a">
+    <div class="section-title">Historique complet — 7 derniers jours (1040 articles)</div>
+    <div id="cards-all"><article class="card card-alert" data-score="42.09" data-date="2026-06-10" data-themes="war_conflict,recession,oil_energy" data-text="world markets walk a tightrope between ai stocks and oil shocks world markets walk a tightrope between ai stocks and oil shocks naomi rovnick wed, june 10, 2026 at 10:43 am edt 4 min read cl=f by naomi rovnick london, june 9 (reuters) - tumult on world markets in the past week shows the economic outlook is now on a knife edge, investors said, with equal odds of an ai boom lifting growth or oil shocks from the u.s.-iran war pushing stocks and bonds into a tailspin. global equities hit an all-time ‌peak on june 3, suffered their worst day since october two days later, and have spent this week reversing course constantly in line with u.s. president donald tru">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 42.09 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: rate hike, interest rate, inflation, stock market, equities, s&p 500, volatility, war">42.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">📉 Recession</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/articles/world-markets-walk-tightrope-between-144305301.html" target="_blank" rel="noopener">World markets walk a tightrope between AI stocks and oil shocks</a></h3>
+  <p class="preview card-detail">World markets walk a tightrope between AI stocks and oil shocks Naomi Rovnick Wed, June 10, 2026 at 10:43 AM EDT 4 min read CL=F By Naomi Rovnick LONDON, June 9 (Reuters) - Tumult on world markets in the past week shows the economic outlook is now on a knife edge, investors said, with equal odds of &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:43:05Z</time>
+    <span class="kw-hint">🔑 rate hike, interest rate, inflation, stock market, equities</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="40.17" data-date="2026-06-09" data-themes="war_conflict,geopolitical_shock,inflation,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq slide as cpi report lands, us-iran truce teeters live stock market today: dow, s&p 500, nasdaq slide as cpi report lands, us-iran truce teeters amalya dubrovsky , karen friar and jake conley updated wed, june 10, 2026 at 8:50 am cdt 1 min read ^ixic ^gspc ^dji ^ndx orcl us stocks slid into the red on wednesday after consumer inflation soared to its highest level in three years, and renewed us-iran military clashes cast doubt on the odds for peace talks. the nasdaq composite ( ^ixic ) led the pullback, down 0.7% as tuesday's sell-off in tech stocks deepened, while the s&p 500 ( ^gspc ) and the dow jones industrial average ( ^dji ) both fell a">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 40.17 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, interest rate, inflation, cpi, stock market, s&p 500, nasdaq">40.2 <sup>ℹ</sup></span>
@@ -670,6 +684,20 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate hike, interest rate, inflation</span>
   </div>
 </article>
+<article class="card card-alert" data-score="31.68" data-date="2026-06-10" data-themes="oil_energy,central_bank" data-text="dollar weakens on as expected us may cpi dollar weakens on as expected us may cpi rich asplund wed, june 10, 2026 at 10:36 am edt 4 min read dx-y.nyb dxy00 gc*0 si*0 ^usdjpy the dollar index (dxy00) today is down by -0.13%.  the dollar is under pressure today after us may consumer prices rose as expected, easing inflation fears and potentially keeping the fed from tightening monetary policy. losses in the dollar are limited as today's stock weakness has boosted liquidity demand for the dollar. also, today's +1% jump in crude oil prices raises inflation expectations and could prompt the fed to tighten monetary policy, a supportive fac">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 31.68 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, rate cut, rate hike, interest rate, fomc, ecb, boj, inflation">31.7 <sup>ℹ</sup></span>
+    <span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-expected-us-may-143629510.html" target="_blank" rel="noopener">Dollar Weakens on as Expected US May CPI</a></h3>
+  <p class="preview card-detail">Dollar Weakens on as Expected US May CPI Rich Asplund Wed, June 10, 2026 at 10:36 AM EDT 4 min read DX-Y.NYB DXY00 GC*0 SI*0 ^USDJPY The dollar index (DXY00) today is down by -0.13%.  The dollar is under pressure today after US May consumer prices rose as expected, easing inflation fears and potenti&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:36:29Z</time>
+    <span class="kw-hint">🔑 fed, rate cut, rate hike, interest rate, fomc</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="30.98" data-date="2026-06-05" data-themes="war_conflict,oil_energy" data-text="iran called for lebanon ceasefire and got it: how markets have moved iran called for lebanon ceasefire and got it: how markets have moved darryn pollock fri, june 5, 2026 at 1:55 am edt 2 min read cl=f gc=f dx-y.nyb a ceasefire between israel and lebanon just moved two of the world's biggest commodity markets simultaneously. israel and lebanon agreed to implement a ceasefire on thursday, june 4. wti crude dropped more than 3% to $92.87 per barrel in one of the sharpest single-session moves in weeks. spot gold settled at $4,475, up more than 1%, as the dollar weakened and treasury yields eased on the prospect of lower geopolitical risk. traders are also watching">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -794,6 +822,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-10">2026-06-10T15:41:13Z</time>
     <span class="kw-hint">🔑 war, conflict, military, sanctions, ukraine</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="27.06" data-date="2026-05-05" data-themes="war_conflict,recession" data-text="best hedges against inflation: 6 ways to protect your purchasing power some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. see our advertiser disclosure . best hedges against inflation: 6 ways to protect your purchasing power ivana pino · senior writer updated wed, june 10, 2026 at 8:52 am edt 4 min read inflation — the increase in the cost of goods and services over time — impacts your purchasing power. as prices rise, your dollars don't buy as much as they used to. according to the bureau of labor statistics, consumer prices shot up 4.2% in may from the previous year, the hottest">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 27.06 | Seuil: 5.0 | Sentiment: Extreme Negative| Mots-cles: fed, interest rate, inflation, cpi, volatility, war, conflict, oil">27.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">📉 Recession</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/personal-finance/banking/article/best-hedges-against-inflation-231136070.html" target="_blank" rel="noopener">Best hedges against inflation: 6 ways to protect your purchasing power</a></h3>
+  <p class="preview card-detail">Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . Best hedges against inflation: 6 ways to protect your purchasing power Ivana Pino · Senior Writer Updated Wed, June 10, 2026 at 8:52 &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-05">2026-05-05T23:11:36Z</time>
+    <span class="kw-hint">🔑 fed, interest rate, inflation, cpi, volatility</span>
   </div>
 </article>
 <article class="card card-alert" data-score="26.95" data-date="2026-06-10" data-themes="oil_energy" data-text="morning bid: the chips are blue morning bid: the chips are blue by mike dolan wed, june 10, 2026 at 4:37 am mdt 3 min read cl=f by mike dolan june 10 (reuters) - what matters in u.s. and global markets today by mike dolan, editor-at-large, finance and markets the unnerving thing about tuesday's relapse in u.s. tech stocks is that it happened even as oil prices fell sharply during the session, ‌showing that stock market nervousness extends well beyond the energy story. on that front, crude prices were volatile early on wednesday after the ‌u.s. and iran traded missile strikes overnight - the most alarming direct exchange betw">
@@ -1160,6 +1202,20 @@
     <span class="kw-hint">🔑 gdp, stock market, s&p 500, earnings, war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="20.37" data-date="2026-06-12" data-themes="war_conflict,oil_energy" data-text="asia energy crisis at ‘worst’ case scenario, adb warns asia energy crisis at ‘worst’ case scenario, adb warns subscribe to unlock this article try unlimited access only $1 for 4 weeks then $75 per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for $1 what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading experts ft digital">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 20.37 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, energy crisis, crisis">20.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/087d6ccb-30a9-409e-90ea-b42b897f4fb4" target="_blank" rel="noopener">Asia energy crisis at ‘worst’ case scenario, ADB warns</a></h3>
+  <p class="preview card-detail">Asia energy crisis at ‘worst’ case scenario, ADB warns Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for $1 What’s included Global news & ana&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-12">Fri, 12 Jun 2026 02:02:41</time>
+    <span class="kw-hint">🔑 war, energy crisis, crisis</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="20.29" data-date="2026-06-06" data-themes="war_conflict,market_crash" data-text="oil tanker owners fear market crash after iran war drove record profits oil tanker owners fear market crash after iran war drove record profits subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsle">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1216,6 +1272,20 @@
     <span class="kw-hint">🔑 inflation, gdp, stock market, s&p 500, nasdaq</span>
   </div>
 </article>
+<article class="card card-alert" data-score="20.02" data-date="2024-04-19" data-themes="war_conflict,banking_crisis" data-text="i bond vs. high-yield savings account: which is better for beating inflation? some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. see our advertiser disclosure . i bond vs. high-yield savings account: which is better for beating inflation? earning a high interest rate on your savings helps preserve your purchasing power. ivana pino · senior writer k kat tretina updated wed, june 10, 2026 at 8:59 am edt 7 min read with inflation accelerating to 4.2% year over year, leaving your money in a basic savings account can cost you money: the average interest rate on a savings account is just 0.38%">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 20.02 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, interest rate, inflation, cpi, earnings, war, treasury, bond">20.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🏦 Banking Crisis</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/personal-finance/banking/comparison/i-bond-vs-savings-account-185055035.html" target="_blank" rel="noopener">I bond vs. high-yield savings account: Which is better for beating inflation?</a></h3>
+  <p class="preview card-detail">Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . I bond vs. high-yield savings account: Which is better for beating inflation? Earning a high interest rate on your savings helps pres&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2024-04-19">2024-04-19T18:50:55Z</time>
+    <span class="kw-hint">🔑 fed, interest rate, inflation, cpi, earnings</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="19.76" data-date="2026-06-05" data-themes="war_conflict" data-text="quanex (nx) q2 2026 earnings call transcript quanex (nx) q2 2026 earnings call transcript logo of jester cap with thought bubble. motley fool transcribing, the motley fool fri, june 5, 2026 at 12:06 pm edt 23 min read nx image source: the motley fool. date friday, june 5, 2026 at 11 a.m. et call participants president & chief executive officer — george l. wilson senior vice president, chief financial officer & treasurer — scott michael zuehlke full conference call transcript george l. wilson: i will now turn the call over to george for his prepared remarks. thanks, scott, and good morning to everyone on the call. in my commentary, i will">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -1256,6 +1326,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-09">Tue, 09 Jun 2026 13:00:07</time>
     <span class="kw-hint">🔑 fed, war, military, china, taiwan</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="19.27" data-date="2026-06-10" data-themes="war_conflict,oil_energy" data-text="opec oil output lowest since at least 2000 as us blockade squeezes iran, reuters survey shows opec oil output lowest since at least 2000 as us blockade squeezes iran, reuters survey shows by alex lawler wed, june 10, 2026 at 10:39 am edt 1 min read cl=f by alex lawler london, june 10 (reuters) - opec oil output in may hit its lowest in more than two ‌decades, a reuters survey found, as a u.s. naval ‌blockade cut iran's exports and iran's effective closure of the strait of hormuz ​slashed exports by other gulf producers. output by the 11-member organization of the petroleum exporting countries fell by 1.06 million barrels per day month-on-month to 16.13 million bpd, the survey found. mo">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 19.27 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, russia, oil, collapse">19.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/energy/articles/opec-oil-output-lowest-since-143907047.html" target="_blank" rel="noopener">OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows</a></h3>
+  <p class="preview card-detail">OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows By Alex Lawler Wed, June 10, 2026 at 10:39 AM EDT 1 min read CL=F By Alex Lawler LONDON, June 10 (Reuters) - OPEC oil output in May hit its lowest in more than two ‌decades, a Reuters survey found, as a U.S&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:39:07Z</time>
+    <span class="kw-hint">🔑 war, russia, oil, collapse</span>
   </div>
 </article>
 <article class="card card-alert" data-score="19.26" data-date="2026-06-08" data-themes="war_conflict" data-text="bell global equities fund bets on mercadolibre (meli) amid weakness bell global equities fund bets on mercadolibre (meli) amid weakness soumya eswaran mon, june 8, 2026 at 9:37 am cdt 3 min read meli mstr bell global equities fund, managed by bell asset management , released its latest investor update, available for download . march saw heightened volatility due to the middle east conflict, with the msci world ex australia index falling 2.5% and the bell global equities fund (wholesale class) declining 3.1%. the portfolio's underweight in energy was the primary headwind to relative performance, compounded by poor stock selection in communication services, heal">
@@ -1382,6 +1466,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-05">2026-06-05T21:24:33Z</time>
     <span class="kw-hint">🔑 fed, nasdaq, earnings, war, tariff</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="17.92" data-date="2026-05-13" data-themes="war_conflict" data-text="should you buy series i bonds as inflation heats up again? some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. see our advertiser disclosure . should you buy series i bonds as inflation heats up again? ivana pino · senior writer updated wed, june 10, 2026 at 9:20 am edt 4 min read with everyday costs trending upward, many savers may be looking for ways to inflation-proof their wallets — including their savings. the latest consumer price index paints a daunting picture for americans as prices continue to rise. according to the most recent data from the bureau of labor st">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 17.92 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, interest rate, inflation, earnings, war, treasury, bond">17.9 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/personal-finance/investing/article/should-you-buy-series-i-bonds-as-inflation-heats-up-again-191012835.html" target="_blank" rel="noopener">Should you buy Series I bonds as inflation heats up again?</a></h3>
+  <p class="preview card-detail">Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . Should you buy Series I bonds as inflation heats up again? Ivana Pino · Senior Writer Updated Wed, June 10, 2026 at 9:20 AM EDT 4 min&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-05-13">2026-05-13T19:10:12Z</time>
+    <span class="kw-hint">🔑 fed, interest rate, inflation, earnings, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="17.70" data-date="2026-06-08" data-themes="war_conflict" data-text="the silver miners etf (slvr) that gained 434% just dropped 12% in a day — leverage cuts both ways the silver miners etf (slvr) that gained 434% just dropped 12% in a day — leverage cuts both ways olivier le moal / istock via getty images michael williams mon, june 8, 2026 at 9:30 am edt 6 min read si=f nvda quick read slvr fell 12% friday and is down 17% for the week, but early buyers still hold a 434% gain from the 2021 trough. ag shed 14% and paas fell 10%, roughly double silver's decline, as operating leverage amplifies small metal price moves into outsized earnings swings. may payrolls crushed at 172,000 versus an 80,000 estimate, spiking the 2-year treasury to a 16-month high and putt">
@@ -1986,6 +2084,20 @@
     <span class="kw-hint">🔑 stock market, s&p 500, nasdaq, earnings, war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="15.09" data-date="2026-06-10" data-themes="war_conflict,sanctions_major" data-text="paradigm, hyperliquid policy center push back on genius act stablecoin aml rule paradigm, hyperliquid policy center push back on genius act stablecoin aml rule vince dioquino wed, june 10, 2026 at 10:33 am edt 3 min read hype32196-usd genius-usd crypto investment firm paradigm and the hyperliquid policy center warned u.s. regulators that proposed stablecoin anti-money laundering rules could push regulated dollar tokens away from permissionless defi if issuers are made responsible for secondary market activity. in a letter sent tuesday to fincen and ofac, the two industry groups challenged a proposed rule implementing the genius act’s anti-money laundering and sanctions re">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 15.09 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, sanctions, crypto">15.1 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🚫 Sanctions</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/crypto/articles/paradigm-hyperliquid-policy-center-push-143350080.html" target="_blank" rel="noopener">Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule</a></h3>
+  <p class="preview card-detail">Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule Vince Dioquino Wed, June 10, 2026 at 10:33 AM EDT 3 min read HYPE32196-USD GENIUS-USD Crypto investment firm Paradigm and the Hyperliquid Policy Center warned U.S. regulators that proposed stablecoin anti-money launderin&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:33:50Z</time>
+    <span class="kw-hint">🔑 war, sanctions, crypto</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="15.06" data-date="2026-06-09" data-themes="war_conflict" data-text="retail diesel continues to fall while some voices fear what’s ahead retail diesel continues to fall while some voices fear what’s ahead the benchmark used for most fuel surcharges took a big slide this week. (photo: jim allen/freightwaves) john kingston tue, june 9, 2026 at 11:43 am edt 5 min read diesel prices are continuing on a mostly downward trend, with the benchmark price used for most fuel surcharges falling to one of its lowest levels since military action against iran commenced at the beginning of march. the department of energy/energy information administration average weekly retail diesel price was published tuesday, effective monday, at $5.21/gallo">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -2263,20 +2375,6 @@
   <p class="preview card-detail">3 High-Growth Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now Keithen Drury, The Motley Fool Sun, June 7, 2026 at 7:25 PM EDT 4 min read NVDA SNDK MU CRWV If you've got $5,000 sitting around waiting to invest, now could be a smart time to put it to work. Several high-growth investme&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-06-07">2026-06-07T23:25:00Z</time>
-    <span class="kw-hint">🔑 s&p 500, nasdaq, earnings, war</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="14.27" data-date="2026-06-04" data-themes="war_conflict" data-text="5 top artificial intelligence (ai) stocks to buy with $5,000 right now 5 top artificial intelligence (ai) stocks to buy with $5,000 right now keithen drury, the motley fool thu, june 4, 2026 at 7:41 pm edt 5 min read nvda if you're looking to deploy some money to the artificial intelligence (ai) investing realm, i've got five stocks that look like solid picks. while $5,000 is a great starting point, with access to fractional shares at many brokerages, it could take as little as $5 to buy shares in all of these stocks. these five have led the market higher, but could reach greater heights as more ai infrastructure is built out. the future is bright for these five ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 14.27 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: s&p 500, nasdaq, earnings, war">14.3 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/5-top-artificial-intelligence-ai-234100682.html" target="_blank" rel="noopener">5 Top Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now</a></h3>
-  <p class="preview card-detail">5 Top Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now Keithen Drury, The Motley Fool Thu, June 4, 2026 at 7:41 PM EDT 5 min read NVDA If you're looking to deploy some money to the artificial intelligence (AI) investing realm, I've got five stocks that look like solid picks. While $5&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:41:00Z</time>
     <span class="kw-hint">🔑 s&p 500, nasdaq, earnings, war</span>
   </div>
 </article>
@@ -3176,6 +3274,20 @@
     <span class="kw-hint">🔑 nasdaq, war, china, tariff</span>
   </div>
 </article>
+<article class="card card-alert" data-score="12.82" data-date="2026-06-10" data-themes="war_conflict" data-text="nuvini nears beyondsoft acquisition, creating a $148 million revenue technology platform (nvni) nuvini nears beyondsoft acquisition, creating a $148 million revenue technology platform (nvni) fiona craig wed, june 10, 2026 at 10:33 am edt 3 min read 002649.sz computer software code programming new size ©shutterstock the proposed beyondsoft transaction would dramatically expand nuvini’s scale, geographic reach, and ai capabilities, potentially transforming the company into a global technology platform. key investor takeaways nuvini (nasdaq:nvni) reported significant progress toward closing its beyondsoft acquisition, its largest transaction to date. the combined business is expected to ge">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.82 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: nasdaq, earnings, war">12.8 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/nuvini-nears-beyondsoft-acquisition-creating-143314232.html" target="_blank" rel="noopener">Nuvini Nears Beyondsoft Acquisition, Creating a $148 Million Revenue Technology Platform (NVNI)</a></h3>
+  <p class="preview card-detail">Nuvini Nears Beyondsoft Acquisition, Creating a $148 Million Revenue Technology Platform (NVNI) Fiona Craig Wed, June 10, 2026 at 10:33 AM EDT 3 min read 002649.SZ computer software code programming NEW SIZE ©Shutterstock The proposed Beyondsoft transaction would dramatically expand Nuvini’s scale, &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:33:14Z</time>
+    <span class="kw-hint">🔑 nasdaq, earnings, war</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="12.77" data-date="2026-06-07" data-themes="war_conflict,geopolitical_shock" data-text="is vici properties inc. (vici) a good stock to buy now? is vici properties inc. (vici) a good stock to buy now? ricardo pillai sun, june 7, 2026 at 3:27 pm mdt 3 min read vici is vici a good stock to buy? we came across a bullish thesis on vici properties inc. on investing lawyer’s substack. in this article, we will summarize the bulls’ thesis on vici. vici properties inc.'s share was trading at $28.63 as of may 27 th . vici’s trailing and forward p/e were 9.80 and 9.87 respectively according to yahoo finance. pixabay/public domain vici properties inc. (vici) is a $34 billion real estate investment trust focused on owning and leasing premier gaming">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -3216,6 +3328,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-07">2026-06-07T15:00:02Z</time>
     <span class="kw-hint">🔑 cpi, earnings, war, collapse</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="12.72" data-date="2026-06-10" data-themes="war_conflict" data-text="after uk deal, nebius stock is still too expensive to buy after uk deal, nebius stock is still too expensive to buy ai infrastructure by fotogrin via shutterstock larry ramer wed, june 10, 2026 at 10:31 am edt 3 min read nvda nbis spcx msft meta nebius' (nbis) shares rallied on june 8 after the company disclosed that it would spend roughly 1.7 billion british pounds to develop three new uk sites, which will utilize nvidia's (nvda) “ai factory platform technology.” but given the u.k.'s relatively small, slow-growing economy, the project may not move the needle much for nebius' financial results. moreover, the stock's valuation is extraordinarily high,">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.72 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: gdp, earnings, war, china">12.7 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/uk-deal-nebius-stock-still-143128788.html" target="_blank" rel="noopener">After UK Deal, Nebius Stock Is Still Too Expensive to Buy</a></h3>
+  <p class="preview card-detail">After UK Deal, Nebius Stock Is Still Too Expensive to Buy AI Infrastructure by FOTOGRIN via Shutterstock Larry Ramer Wed, June 10, 2026 at 10:31 AM EDT 3 min read NVDA NBIS SPCX MSFT META Nebius' (NBIS) shares rallied on June 8 after the company disclosed that it would spend roughly 1.7 billion Brit&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:31:28Z</time>
+    <span class="kw-hint">🔑 gdp, earnings, war, china</span>
   </div>
 </article>
 <article class="card card-alert" data-score="12.69" data-date="2026-06-07" data-themes="war_conflict" data-text="centene (cnc) earns a spot on bank of america’s highest-conviction list centene (cnc) earns a spot on bank of america’s highest-conviction list sajjl nooranne sun, june 7, 2026 at 6:43 pm edt 2 min read cnc bac bcs with 72 hedge fund holders as of q1 2026, centene corporation (nyse: cnc ) is among the top 10 stocks that members of congress own . on may 27, analysts at bofa added centene corporation (nyse:cnc) to the firm’s prestigious “us 1 list.” the us 1 list represents bank of america’s highest-conviction investment ideas and highlights companies that the firm believes offer particularly attractive risk-reward profiles and strong potential for outperformance. o">
@@ -3582,20 +3708,6 @@
     <span class="kw-hint">🔑 war, china, bond</span>
   </div>
 </article>
-<article class="card card-alert" data-score="12.34" data-date="2026-06-04" data-themes="war_conflict" data-text="spacex blocked from early us benchmark index entry as s&p reaffirms existing rules spacex blocked from early us benchmark index entry as s&p reaffirms existing rules by pritam biswas and noel randewich thu, june 4, 2026 at 7:42 pm edt 3 min read spax.pvt ^gspc by pritam biswas and noel randewich june 4 (reuters) - s&p global said on thursday it was not changing the requirements for entry into its major indices, dealing a setback to elon musk's spacex by effectively ruling out ‌a swift entry for the world's biggest-ever ipo into the benchmark s&p 500 index. more from yahoo scout what are the current s&p 500 inclusion requirements? how does spacex's ipo structure differ from t">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.34 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: stock market, s&p 500, nasdaq, war">12.3 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/spacex-blocked-early-us-benchmark-234232885.html" target="_blank" rel="noopener">SpaceX blocked from early US benchmark index entry as S&P reaffirms existing rules</a></h3>
-  <p class="preview card-detail">SpaceX blocked from early US benchmark index entry as S&P reaffirms existing rules By Pritam Biswas and Noel Randewich Thu, June 4, 2026 at 7:42 PM EDT 3 min read SPAX.PVT ^GSPC By Pritam Biswas and Noel Randewich June 4 (Reuters) - S&P Global said on Thursday it was not changing the requirements fo&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:42:32Z</time>
-    <span class="kw-hint">🔑 stock market, s&p 500, nasdaq, war</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="12.33" data-date="2026-06-06" data-themes="war_conflict" data-text="globant s.a. (glob) one of the most shorted small cap stocks to buy on expected organic growth globant s.a. (glob) one of the most shorted small cap stocks to buy on expected organic growth neha gupta fri, june 5, 2026 at 8:18 pm edt 2 min read glob globant s.a. (nyse: glob ) is one of the most shorted mid-cap and small-cap stocks to buy now . on may 19, mizuho reiterated an outperform rating on globant s.a. (nyse:glob) but lowered its price target to $59 from $76. globant s.a. (glob) one of the most shorted small cap stocks to buy on expected organic growth the price target cut is in stark contrast to the company delivering solid first-quarter results at the high end of its growth guid">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -3692,6 +3804,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-09">2026-06-09T13:00:00Z</time>
     <span class="kw-hint">🔑 earnings, war, systemic risk</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="12.26" data-date="2026-06-10" data-themes="geopolitical_shock" data-text="bitcoin and ethereum prices today, june 10, 2026: btc, eth open lower and falling further some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. see our advertiser disclosure . bitcoin and ethereum prices today, june 10, 2026: btc, eth open lower and falling further tim manni · lead editor wed, june 10, 2026 at 7:47 am edt 3 min read bitcoin ( btc-usd ) opened at $61,672.20 on wednesday, down 2.3% from tuesday's opening price. the price of bitcoin as of 7:32 a.m. et moved down to $60,937.81. ethereum ( eth-usd ) opened at $1,638.45 on wednesday, 3.1% lower than tuesday's opening price. ethereum fell fur">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.26 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: inflation, volatility, middle east, bitcoin, crypto">12.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">🌐 Geo Shock</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-june-10-2026-btc-eth-open-lower-and-falling-further-114713805.html" target="_blank" rel="noopener">Bitcoin and ethereum prices today, June 10, 2026: BTC, ETH open lower and falling further</a></h3>
+  <p class="preview card-detail">Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . Bitcoin and ethereum prices today, June 10, 2026: BTC, ETH open lower and falling further Tim Manni · Lead Editor Wed, June 10, 2026 &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T11:47:13Z</time>
+    <span class="kw-hint">🔑 inflation, volatility, middle east, bitcoin, crypto</span>
   </div>
 </article>
 <article class="card card-alert" data-score="12.26" data-date="2026-06-09" data-themes="war_conflict" data-text="is amazon.com (amzn) one of the best nasdaq stocks to buy and hold for 3 years? is amazon.com (amzn) one of the best nasdaq stocks to buy and hold for 3 years? noor ul ain rehman tue, june 9, 2026 at 1:23 pm edt 1 min read amzn amazon.com, inc. (nasdaq: amzn ) is one of the best nasdaq stocks to buy and hold for 3 years . reuters reported on june 4 that pinterest announced that it would pay amazon.com’s (nasdaq:amzn) aws $4 ​billion for cloud services through 2031 in an attempt to bolster a long-term partnership between the two companies. pinterest’s chief technology officer matt madrigal stated that the expanded commitment with aws offers compute flexibility, infrastruct">
@@ -4240,20 +4366,6 @@
     <span class="kw-hint">🔑 equities, s&p 500, earnings, war, crypto</span>
   </div>
 </article>
-<article class="card card-alert" data-score="11.61" data-date="2026-06-04" data-themes="war_conflict" data-text="quantum computing’s biggest ipo arrives with a fizzle, not a pop quantum computing’s biggest ipo arrives with a fizzle, not a pop jacob robbins thu, june 4, 2026 at 7:52 pm edt 3 min read quantum computing’s biggest ipo started with a pop and ended with a fizzle. quantinuum , the honeywell -backed company that builds quantum computing hardware and software, made its nasdaq debut thursday, opening at $68 per share, raising $1.68 billion at a $15.6 billion valuation. but despite momentum and initial enthusiasm, the company closed the day just a hair above its $60 ipo price. it stands in stark contrast to the blockbuster listings that have so far defined this ">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.61 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: nasdaq, volatility, war">11.6 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/quantum-computing-biggest-ipo-arrives-235203444.html" target="_blank" rel="noopener">Quantum computing’s biggest IPO arrives with a fizzle, not a pop</a></h3>
-  <p class="preview card-detail">Quantum computing’s biggest IPO arrives with a fizzle, not a pop Jacob Robbins Thu, June 4, 2026 at 7:52 PM EDT 3 min read Quantum computing’s biggest IPO started with a pop and ended with a fizzle. Quantinuum , the Honeywell -backed company that builds quantum computing hardware and software, made &#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:52:03Z</time>
-    <span class="kw-hint">🔑 nasdaq, volatility, war</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="11.59" data-date="2026-06-08" data-themes="war_conflict" data-text="is fatpipe (fatn) one of the hot tech stocks to buy according to analysts? is fatpipe (fatn) one of the hot tech stocks to buy according to analysts? maham fatima mon, june 8, 2026 at 2:25 am mdt 2 min read fatn fatpipe (nasdaq: fatn ) is one of the hot tech stocks to buy according to analysts . on may 18, fatpipe reported strong results for fq4 2026, highlighted by a 90% year-over-year revenue increase to $7.2 million. for the full fiscal year, the company achieved $19.2 million in revenue, an 18% growth over the previous year, alongside a 154% increase in net income to $5.0 million. the company’s quarterly performance was bolstered by a 56% growth in monthly recurr">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -4772,20 +4884,6 @@
     <span class="kw-hint">🔑 s&p 500, earnings, war, nato</span>
   </div>
 </article>
-<article class="card card-alert" data-score="11.15" data-date="2026-06-04" data-themes="war_conflict" data-text="unitedhealth just raised its dividend 5%. why you should buy unh stock here. unitedhealth just raised its dividend 5%. why you should buy unh stock here. glass jar with the word dividend by andrii yalanskyi via shutterstock ebube jones thu, june 4, 2026 at 7:30 pm edt 4 min read unh wtw global health insurance costs are expected to rise by an average of 10.3% this year, according to wtw’s 2026 global medical trends report. that follows increases of 10% in 2025 and 9.5% in 2024, a run of higher costs that is putting steady pressure on insurers’ margins. even so, one of the biggest names in the sector is choosing this moment to step up what it returns to investors. unite">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.15 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: earnings, war">11.1 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-just-raised-dividend-5-233002973.html" target="_blank" rel="noopener">UnitedHealth Just Raised Its Dividend 5%. Why You Should Buy UNH Stock Here.</a></h3>
-  <p class="preview card-detail">UnitedHealth Just Raised Its Dividend 5%. Why You Should Buy UNH Stock Here. Glass jar with the word Dividend by Andrii Yalanskyi via Shutterstock Ebube Jones Thu, June 4, 2026 at 7:30 PM EDT 4 min read UNH WTW Global health insurance costs are expected to rise by an average of 10.3% this year, acco&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:30:02Z</time>
-    <span class="kw-hint">🔑 earnings, war</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="11.15" data-date="2026-06-08" data-themes="war_conflict" data-text="argosy investors chose fomento económico mexicano, s.a.b. de c.v. (fmx) for growth and income stability argosy investors chose fomento económico mexicano, s.a.b. de c.v. (fmx) for growth and income stability soumya eswaran mon, june 8, 2026 at 9:45 am edt 3 min read fmx argosy investors, an investment management company, released its q1 2026 investor letter. a copy is available to download here . the letter discussed the current transformative investment landscape driven by the ai capex boom. the author expressed skepticism about the durability of the earnings flowing to its market participants and suppliers. the main challenge during capex booms is balancing supply and demand, especially the ac">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -5050,20 +5148,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-09">Tue, 09 Jun 2026 11:30:07</time>
     <span class="kw-hint">🔑 fed, war</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="10.85" data-date="2026-06-04" data-themes="war_conflict" data-text="nominate your company for the 2026 ai excellence in supply chain award nominate your company for the 2026 ai excellence in supply chain award (photo: jim allen/freightwaves) freightwaves staff thu, june 4, 2026 at 7:45 pm edt 4 min read artificial intelligence has moved from the edges of the supply chain to its center. what began as experimental pilots and proof-of-concept projects has become the operating reality for a growing share of the logistics industry, with ai, machine learning, and large language models now driving the demand forecasting, real-time visibility, document processing, and route optimization that move freight every day. to recognize the compa">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.85 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war">10.9 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/nominate-company-2026-ai-excellence-234539444.html" target="_blank" rel="noopener">Nominate Your Company for the 2026 AI Excellence in Supply Chain Award</a></h3>
-  <p class="preview card-detail">Nominate Your Company for the 2026 AI Excellence in Supply Chain Award (Photo: Jim Allen/FreightWaves) FreightWaves Staff Thu, June 4, 2026 at 7:45 PM EDT 4 min read Artificial intelligence has moved from the edges of the supply chain to its center. What began as experimental pilots and proof-of-con&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:45:39Z</time>
-    <span class="kw-hint">🔑 war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="10.84" data-date="2026-06-09" data-themes="war_conflict" data-text="102-year-old fashion giant faces 400 store closures 102-year-old fashion giant faces 400 store closures fernanda tronco tue, june 9, 2026 at 11:46 am mst 5 min read a major international retailer is preparing for a significant overhaul of its store network after warning that dozens of locations will close and hundreds more are under review. the company's latest results show a business facing growing profitability challenges despite continued revenue growth. its performance reflects broader pressures across the apparel industry, where rising operating costs and softer discretionary spending have weighed on margins even as sales remain resilient.">
@@ -5344,6 +5428,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-08">2026-06-08T16:27:25Z</time>
     <span class="kw-hint">🔑 s&p 500, war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="10.60" data-date="2026-03-09" data-themes="" data-text="how inflation affects savings: here's the interest rate you need to beat some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. see our advertiser disclosure . how inflation affects savings: here's the interest rate you need to beat sarah c. brady · contributor updated wed, june 10, 2026 at 9:14 am edt 5 min read save, save, save! it's a message you'll hear repeatedly from financial educators, gurus, and finfluencers . but many fail to mention that if your savings account isn't earning enough interest to keep up with inflation, you could actually be losing money despite your efforts. th">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.60 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, interest rate, inflation, earnings, bond">10.6 <sup>ℹ</sup></span>
+    
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/personal-finance/banking/article/how-does-inflation-affect-savings-interest-rate-to-beat-202821596.html" target="_blank" rel="noopener">How inflation affects savings: Here's the interest rate you need to beat</a></h3>
+  <p class="preview card-detail">Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . How inflation affects savings: Here's the interest rate you need to beat Sarah C. Brady · Contributor Updated Wed, June 10, 2026 at 9&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-03-09">2026-03-09T20:28:21Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, interest rate, inflation, earnings</span>
   </div>
 </article>
 <article class="card card-alert" data-score="10.53" data-date="2026-06-05" data-themes="market_crash" data-text="technical assessment: bullish in the intermediate-term summary we widen our lens today, looking at the big-picture monthly chart of the s&p 500 (spx) going back to 1980, a shift from the mundane minutiae of day-to-day activity. the monthly chart shows two secular bull markets (1982 to 2000 and 2009 to the current day) as well as two market crashes (2000 to 2003 and 2007 to 2009). the price structure of the current bull market versus the 1982 bull run is somewhat similar. the first bull was 18 years long, and the current is 17 years old and counting. the spx rose 1,39 upgrade to begin using premium research reports and get so much more. exclusive r">
@@ -5892,6 +5990,20 @@
     <span class="kw-hint">🔑 nasdaq, volatility, earnings, gold, bitcoin</span>
   </div>
 </article>
+<article class="card card-alert" data-score="9.95" data-date="2026-06-10" data-themes="war_conflict" data-text="super micro sinks 13% on a $7 billion raise, but dell climbs 4% as the ai-server trade splits super micro sinks 13% on a $7 billion raise, but dell climbs 4% as the ai-server trade splits david moadel wed, june 10, 2026 at 10:27 am edt 4 min read smci dell googl goog spcx quick read smci sank 13% on a $7 billion equity raise sparking dilution fears, while dell climbed 3% as the cash-flow-funded ai server winner. alphabet's $85 billion equity raise and looming ipos from spacex, anthropic, and openai signal the ai buildout's escalating capital demands. it sounds nuts, but sofi is giving new active invest users up to $1,000 in stock for a limited time, and all it takes is a $50 deposit to">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.95 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: nasdaq, selloff, war">10.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/super-micro-sinks-13-7-142722341.html" target="_blank" rel="noopener">Super Micro Sinks 13% on a $7 Billion Raise, but Dell Climbs 4% as the AI-Server Trade Splits</a></h3>
+  <p class="preview card-detail">Super Micro Sinks 13% on a $7 Billion Raise, but Dell Climbs 4% as the AI-Server Trade Splits David Moadel Wed, June 10, 2026 at 10:27 AM EDT 4 min read SMCI DELL GOOGL GOOG SPCX Quick Read SMCI sank 13% on a $7 billion equity raise sparking dilution fears, while DELL climbed 3% as the cash-flow-fun&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:27:22Z</time>
+    <span class="kw-hint">🔑 nasdaq, selloff, war</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="9.93" data-date="2026-06-05" data-themes="war_conflict" data-text="resmed (rmd) acquires noctrix health to expand sleep disorder portfolio resmed (rmd) acquires noctrix health to expand sleep disorder portfolio maham fatima fri, june 5, 2026 at 3:24 pm mdt 2 min read rmd resmed inc. (nyse: rmd ) is one of the most undervalued large cap stocks to buy according to analysts . on june 1, resmed finalized its acquisition of noctrix health, a medical device company known for developing non-pharmacologic wearable therapeutics. this strategic move expands resmed’s clinical sleep health portfolio into the treatment of restless legs syndrome/rls, which is the third most prevalent sleep disorder globally. the centerpiece of the acquisition ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -6380,20 +6492,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-08">2026-06-08T16:16:50Z</time>
     <span class="kw-hint">🔑 war, tariff</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="9.37" data-date="2026-06-04" data-themes="war_conflict" data-text="an indie semiconductor co-founder sold company shares worth $3.8 million. here's what that mean for investors. an indie semiconductor co-founder sold company shares worth $3.8 million. here's what that mean for investors. robert izquierdo, the motley fool thu, june 4, 2026 at 7:31 pm edt 4 min read indi on may 27, 2026 through may 29, 2026, ichiro aoki, co-founder and president of indie semiconductor (nasdaq:indi) , reported the open-market sale of 729,900 shares of class a common stock following the exercise of adk class a units, as disclosed in the sec form 4 filing . transaction summary metric value context shares sold (direct) 729,900 directly-owned class a shares sold in this filing transaction va">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.37 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: s&p 500, nasdaq, earnings, war">9.4 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/indie-semiconductor-co-founder-sold-233122972.html" target="_blank" rel="noopener">An indie Semiconductor Co-Founder Sold Company Shares Worth $3.8 Million. Here's What That Mean for Investors.</a></h3>
-  <p class="preview card-detail">An indie Semiconductor Co-Founder Sold Company Shares Worth $3.8 Million. Here's What That Mean for Investors. Robert Izquierdo, The Motley Fool Thu, June 4, 2026 at 7:31 PM EDT 4 min read INDI On May 27, 2026 through May 29, 2026, Ichiro Aoki, co-founder and president of indie Semiconductor (NASDAQ&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:31:22Z</time>
-    <span class="kw-hint">🔑 s&p 500, nasdaq, earnings, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="9.36" data-date="2026-06-08" data-themes="war_conflict" data-text="quantum blockchain ceo: 'now we are finally ready and we are generating the data' quantum blockchain ceo: 'now we are finally ready and we are generating the data' proactive updated mon, june 8, 2026 at 3:24 am pdt qbt.l orcl btc-usd quantum blockchain technologies plc (aim:qbt, fra:bya1) ceo francesco gardin tells proactive's stephen gunnion that the company has completed the key integration work on a new asic manufacturer's mining rig - and the data needed to train its method c ai oracle is now flowing. gardin compares the process to a formula one driver learning a new circuit: the oracle needs a complete data picture from the new hardware before it can be effectively tra">
@@ -7150,20 +7248,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-09">2026-06-09T10:01:15Z</time>
     <span class="kw-hint">🔑 s&p 500, nasdaq, war, gold</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="8.20" data-date="2026-06-04" data-themes="war_conflict" data-text="spacex ipo date: what investors need to know before june 12 spacex ipo date: what investors need to know before june 12 john bromels, the motley fool thu, june 4, 2026 at 7:25 pm edt 5 min read nvda spax.pvt in less than two weeks, on friday, june 12, elon musk's spacex will begin trading on the nasdaq , under the ticker spcx (barring unforeseen circumstances, of course). demand is expected to be enormous. the initial public offering (ipo) is expected to raise $75 billion making it by far the largest ipo in history . if all goes well, the stock might even join the nasdaq-100 in july. missed nvidia in 2009? this rare signal is flashing again. in 2009, a">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 8.20 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: s&p 500, nasdaq, war">8.2 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-date-investors-know-232500223.html" target="_blank" rel="noopener">SpaceX IPO Date: What Investors Need to Know Before June 12</a></h3>
-  <p class="preview card-detail">SpaceX IPO Date: What Investors Need to Know Before June 12 John Bromels, The Motley Fool Thu, June 4, 2026 at 7:25 PM EDT 5 min read NVDA SPAX.PVT In less than two weeks, on Friday, June 12, Elon Musk's SpaceX will begin trading on the Nasdaq , under the ticker SPCX (barring unforeseen circumstance&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:25:00Z</time>
-    <span class="kw-hint">🔑 s&p 500, nasdaq, war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="8.15" data-date="2026-06-06" data-themes="war_conflict" data-text="forget timing the market: just buy these dividend stocks and hold forever forget timing the market: just buy these dividend stocks and hold forever micah zimmerman, the motley fool sat, june 6, 2026 at 7:50 am edt 5 min read nvda there are certain kinds of investors who drive themselves bonkers trying to figure out exactly the right moment to buy. i know: i'm that way. you can watch the charts, wait for a dip, panic when it dips too far, and end up holding cash through years of compounding that you will never get back. the honest answer to the question of when should i buy? is usually simpler than anyone wants it to be: when you find a great business at a reasonab">
@@ -8146,6 +8230,20 @@
     <span class="kw-hint">🔑 nasdaq, tariff</span>
   </div>
 </article>
+<article class="card card-alert" data-score="6.38" data-date="2026-06-10" data-themes="war_conflict" data-text="sugar prices keep falling on surplus fears, changing consumer preferences sugar prices keep falling on surplus fears, changing consumer preferences many sugar cubes in pile by pasja1000 via pixabay jim wyckoff wed, june 10, 2026 at 10:47 am edt 2 min read sb=f october sugar (sbv26) futures present a selling opportunity on more price weakness. see on the daily bar chart for october sugar futures that prices are trending lower and have just hit a six-week low. see, too, at the bottom of the chart that the moving average convergence divergence (macd) indicator is also in a bearish mode as the blue macd line is below the red trigger line and both lines are trending down">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.38 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">6.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/commodities/articles/sugar-prices-keep-falling-surplus-144754262.html" target="_blank" rel="noopener">Sugar Prices Keep Falling on Surplus Fears, Changing Consumer Preferences</a></h3>
+  <p class="preview card-detail">Sugar Prices Keep Falling on Surplus Fears, Changing Consumer Preferences Many sugar cubes in pile by Pasja1000 via Pixabay Jim Wyckoff Wed, June 10, 2026 at 10:47 AM EDT 2 min read SB=F October sugar (SBV26) futures present a selling opportunity on more price weakness. See on the daily bar chart fo&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:47:54Z</time>
+    <span class="kw-hint">🔑 war</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="6.35" data-date="2026-06-06" data-themes="" data-text="why astera labs rocketed higher in may why astera labs rocketed higher in may billy duberstein, the motley fool sat, june 6, 2026 at 12:05 pm cdt 3 min read alab nvda shares of ai connectivity provider astera labs (nasdaq: alab) rallied 76.1% in may, according to data from s&p global market intelligence . astera has become one of the leading names in connectivity for artificial intelligence systems, as networking between servers, chips, and memory is increasingly important in the age of agentic ai. missed nvidia in 2009? this rare signal is flashing again. in 2009, a double down signal flashed for a little-known chipmaker called ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -8944,20 +9042,6 @@
     <span class="kw-hint">🔑 interest rate, tariff</span>
   </div>
 </article>
-<article class="card card-alert" data-score="5.06" data-date="2026-06-04" data-themes="" data-text="assured guaranty's insider sale lands mid-pivot — here's what to watch assured guaranty's insider sale lands mid-pivot — here's what to watch seena hassouna, the motley fool thu, june 4, 2026 at 7:28 pm edt 4 min read ago on may 11, 2026, assured guaranty ltd. (nyse:ago) chief operating officer robert bailenson reported the direct open-market sale of 50,000 common shares for ~$3.93 million, according to a sec form 4 filing . transaction summary metric value shares sold (direct) 50,000 transaction value $3.9 million post-transaction shares (direct) 256,251 post-transaction value (direct ownership) ~$20.12 million transaction value based on sec form 4 weighted aver">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.06 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: s&p 500, volatility, earnings, bond">5.1 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/assured-guarantys-insider-sale-lands-232801185.html" target="_blank" rel="noopener">Assured Guaranty's Insider Sale Lands Mid-Pivot — Here's What to Watch</a></h3>
-  <p class="preview card-detail">Assured Guaranty's Insider Sale Lands Mid-Pivot — Here's What to Watch Seena Hassouna, The Motley Fool Thu, June 4, 2026 at 7:28 PM EDT 4 min read AGO On May 11, 2026, Assured Guaranty Ltd. (NYSE:AGO) Chief Operating Officer Robert Bailenson reported the direct open-market sale of 50,000 common shar&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:28:01Z</time>
-    <span class="kw-hint">🔑 s&p 500, volatility, earnings, bond</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="5.04" data-date="2026-06-05" data-themes="" data-text="dol’s private assets in 401(k)s proposal draws 40,000 comment letters dol’s private assets in 401(k)s proposal draws 40,000 comment letters photo by alex shuper via unsplash john manganaro fri, june 5, 2026 at 12:01 am edt 3 min read concerned about an ai bubble? sign up for the daily upside for smart and actionable market news, built for investors . please, mr. postman, is there a letter in your bag for me? the marvelettes didn’t get an answer to that question, posed in the chorus of their 1961 motown hit please, mr. postman , but the department of labor sure did. financial advisors, trade groups, consumer advocates and individual americans submitted more than ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -9054,6 +9138,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-06">2026-06-06T17:24:54Z</time>
     <span class="kw-hint">🔑 nasdaq, tariff</span>
+  </div>
+</article>
+<article class="card" data-score="4.97" data-date="2026-06-10" data-themes="" data-text="draftkings (dkng) stock soars on prediction markets optimism draftkings (dkng) stock soars on prediction markets optimism wajeeh khan wed, june 10, 2026 at 10:50 am edt 2 min read dkng draftkings (dkng) stock closed meaningfully higher on june 9 after the company’s 8-k disclosed accelerating momentum in its fledgling prediction markets business. in may, the nasdaq-listed firm witnessed a 24% month-on-month increase in annualized consumer volume in its predictions offering to $1.3 billion. more news from barchart dear nvidia stock fans, mark your calendars for june 11 creating a 65% “dividend” on rklb stock using options oracle earnings could reveal a ma">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.97 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: nasdaq, earnings">5.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/draftkings-dkng-stock-soars-prediction-145042483.html" target="_blank" rel="noopener">DraftKings (DKNG) Stock Soars on Prediction Markets Optimism</a></h3>
+  <p class="preview card-detail">DraftKings (DKNG) Stock Soars on Prediction Markets Optimism Wajeeh Khan Wed, June 10, 2026 at 10:50 AM EDT 2 min read DKNG DraftKings (DKNG) stock closed meaningfully higher on June 9 after the company’s 8-K disclosed accelerating momentum in its fledgling Prediction Markets business. In May, the N&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:50:42Z</time>
+    <span class="kw-hint">🔑 nasdaq, earnings</span>
   </div>
 </article>
 <article class="card" data-score="4.95" data-date="2026-06-09" data-themes="" data-text="is fastenal stock underperforming the nasdaq? is fastenal stock underperforming the nasdaq? fastenal co_ truck and logo on building-by jetcityimage via istock aritra gangopadhyay tue, june 9, 2026 at 4:52 am pdt 2 min read fast gww $nasx ^ixic winona, minnesota-based fastenal company (fast) engages in the wholesale distribution of industrial and construction supplies in the united states and internationally. valued at a market capitalization of $52.8 billion, the company’s offerings include fasteners and related industrial and construction supplies under the fastenal brand name. companies with a market cap of $10 billion or more are typic">
@@ -9588,20 +9686,6 @@
     <span class="kw-hint">🔑 russia</span>
   </div>
 </article>
-<article class="card" data-score="4.07" data-date="2026-06-04" data-themes="" data-text="china's solar majors charge into batteries as panel sales falter china's solar majors charge into batteries as panel sales falter file photo: file photo: a photographer takes pictures of an installation featuring catl shenxing battery iii during company’s tech day event ahead of the auto china show, in beijing, china, april 21, 2026. reuters/maxim shemetov/file photo · reuters by sudarshan varadhan and colleen howe thu, june 4, 2026 at 7:32 pm edt 3 min read jks 601012.ss 688599.ss by sudarshan varadhan and colleen howe shanghai, june 5 (reuters) - china's major solar panel manufacturers are ramping up higher-margin battery exports to boost revenue as growt">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.07 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: china">4.1 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/energy/articles/chinas-solar-majors-charge-batteries-233206867.html" target="_blank" rel="noopener">China's solar majors charge into batteries as panel sales falter</a></h3>
-  <p class="preview card-detail">China's solar majors charge into batteries as panel sales falter FILE PHOTO: FILE PHOTO: A photographer takes pictures of an installation featuring CATL Shenxing Battery III during company’s Tech Day event ahead of the Auto China show, in Beijing, China, April 21, 2026. REUTERS/Maxim Shemetov/File P&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:32:06Z</time>
-    <span class="kw-hint">🔑 china</span>
-  </div>
-</article>
 <article class="card" data-score="4.06" data-date="2026-06-06" data-themes="" data-text="pro-russian billionaire under house arrest seeks power in armenia pro-russian billionaire under house arrest seeks power in armenia subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters ">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -10132,6 +10216,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-09">Tue, 09 Jun 2026 16:09:36</time>
     <span class="kw-hint">🔑 fed</span>
+  </div>
+</article>
+<article class="card" data-score="3.29" data-date="2026-06-12" data-themes="" data-text="governor’s illness complicates boj’s task as landmark 1% rate move looms governor’s illness complicates boj’s task as landmark 1% rate move looms subscribe to unlock this article try unlimited access only $1 for 4 weeks then $75 per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for $1 what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading ">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.29 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: boj">3.3 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/bfc06c94-2d6f-48e9-94a7-c4f4e8154c55" target="_blank" rel="noopener">Governor’s illness complicates BoJ’s task as landmark 1% rate move looms</a></h3>
+  <p class="preview card-detail">Governor’s illness complicates BoJ’s task as landmark 1% rate move looms Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for $1 What’s included&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-12">Fri, 12 Jun 2026 01:34:41</time>
+    <span class="kw-hint">🔑 boj</span>
   </div>
 </article>
 <article class="card" data-score="3.27" data-date="2026-06-06" data-themes="" data-text="stock market week ahead: spacex and the power trend ">
@@ -10890,6 +10988,20 @@
     
   </div>
 </article>
+<article class="card" data-score="2.10" data-date="2026-06-10" data-themes="" data-text="google and meta denied new trial in youth social media addiction case google and meta denied new trial in youth social media addiction case 1 / 2 google and meta denied new trial in youth social media addiction case file photo: the google logo is pictured at the entrance to the google offices in london jody godoy wed, june 10, 2026 at 10:26 am edt 1 min read goog meta by jody godoy june 10 (reuters) - a california state court judge has denied motions by meta platforms and google's youtube seeking ‌a new trial after a jury found the companies liable for ‌designing social media platforms that are harmful to young people. los angeles superior court judge ​carolyn k">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.10 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: fed">2.1 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/sectors/technology/articles/google-meta-denied-trial-youth-142607290.html" target="_blank" rel="noopener">Google and Meta denied new trial in youth social media addiction case</a></h3>
+  <p class="preview card-detail">Google and Meta denied new trial in youth social media addiction case 1 / 2 Google and Meta denied new trial in youth social media addiction case FILE PHOTO: The Google logo is pictured at the entrance to the Google offices in London Jody Godoy Wed, June 10, 2026 at 10:26 AM EDT 1 min read GOOG META&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:26:07Z</time>
+    <span class="kw-hint">🔑 fed</span>
+  </div>
+</article>
 <article class="card" data-score="2.08" data-date="2026-06-06" data-themes="" data-text="is public storage stock underperforming the dow? is public storage stock underperforming the dow? barcharts neharika jain fri, june 5, 2026 at 11:03 pm pdt 2 min read glendale, california-based public storage (psa) is a real estate investment trust (reit) that owns, operates, and develops self-storage facilities. valued at a market cap of $53.8 billion, the company’s primary offerings center on the rental of a vast array of secure, flexible storage options, including traditional self-storage, climate-controlled units, dedicated business storage, and specialized vehicle spaces for cars, boats, and rvs. companies valued at $10 billion or more ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -10986,20 +11098,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-06-08">Mon, 08 Jun 2026 04:02:25</time>
     
-  </div>
-</article>
-<article class="card" data-score="2.00" data-date="2026-06-04" data-themes="" data-text="lob's ceo sold a sliver of his stake — this bank's sba connection is what makes it special lob's ceo sold a sliver of his stake — this bank's sba connection is what makes it special seena hassouna, the motley fool thu, june 4, 2026 at 7:45 pm edt 4 min read lob chief executive officer james s. iii mahan reported the sale of 10,000 shares of live oak bancshares (nyse:lob) on may 14, 2026, for a transaction value of approximately $362,000, according to a sec form 4 filing . transaction summary metric value shares sold (indirect) 10,000 transaction value $362,260.00 post-transaction shares (direct) 0 post-transaction shares (indirect) 6,354,875 post-transaction value (direct ownership)">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: s&p 500">2.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/lobs-ceo-sold-sliver-stake-234501365.html" target="_blank" rel="noopener">LOB's CEO Sold a sliver of His Stake — this bank's SBA connection is what makes it special</a></h3>
-  <p class="preview card-detail">LOB's CEO Sold a sliver of His Stake — this bank's SBA connection is what makes it special Seena Hassouna, The Motley Fool Thu, June 4, 2026 at 7:45 PM EDT 4 min read LOB Chief Executive Officer James S. Iii Mahan reported the sale of 10,000 shares of Live Oak Bancshares (NYSE:LOB) on May 14, 2026, &#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-06-04">2026-06-04T23:45:01Z</time>
-    <span class="kw-hint">🔑 s&p 500</span>
   </div>
 </article>
 <article class="card" data-score="1.98" data-date="2026-06-10" data-themes="" data-text="trump suggests he may not renew trade deal with mexico and canada donald trump suggests he may not renew trade deal with mexico and canada subscribe to unlock this article try unlimited access only $1 for 4 weeks then $75 per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for $1 what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading ">
@@ -11503,6 +11601,20 @@
   <p class="preview card-detail">MP Materials Stock's Bull Signal Has Never Been Wrong Liliana Orozco Mon, June 8, 2026 at 11:49 AM CDT 1 min read MP MP Materials Corp (NYSE:MP) stock was last seen down 1.2% at $58.46, heading for its fourth-straight loss. The shares are still up 128% year-over-year, however, with the rare earth ma&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-06-08">2026-06-08T16:49:48Z</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.44" data-date="2026-06-10" data-themes="" data-text="cracker barrel jumps into a short squeeze on upgrade, target hikes ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.44 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.4 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.investors.com/news/short-squeeze-cracker-barrel-stocks-investing/?src=A00220&yptr=yahoo" target="_blank" rel="noopener">Cracker Barrel Jumps Into A Short Squeeze On Upgrade, Target Hikes</a></h3>
+  <p class="preview card-detail"></p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:33:11Z</time>
     
   </div>
 </article>
@@ -14278,6 +14390,34 @@
     
   </div>
 </article>
+<article class="card" data-score="1.01" data-date="2026-06-12" data-themes="" data-text="clsa name to vanish after four decades in asian brokerage clsa name to vanish after four decades in asian brokerage subscribe to unlock this article try unlimited access only $1 for 4 weeks then $75 per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for $1 what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading experts ft digi">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/942eb90b-fc6e-459c-9137-c224dbd19d18" target="_blank" rel="noopener">CLSA name to vanish after four decades in Asian brokerage</a></h3>
+  <p class="preview card-detail">CLSA name to vanish after four decades in Asian brokerage Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for $1 What’s included Global news & &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-12">Fri, 12 Jun 2026 01:55:10</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.01" data-date="2026-06-12" data-themes="" data-text="why worry about the rupee? why worry about the rupee? subscribe to unlock this article try unlimited access only $1 for 4 weeks then $75 per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for $1 what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from leading experts ft digital edition: our digitised prin">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/6dd3f083-f880-4773-9d5d-55170cd59098" target="_blank" rel="noopener">Why worry about the rupee?</a></h3>
+  <p class="preview card-detail">Why worry about the rupee? Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for $1 What’s included Global news & analysis Expert opinion FT App &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-12">Fri, 12 Jun 2026 01:30:08</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.92" data-date="2026-06-10" data-themes="" data-text="abacus global management launches ai lifespan modeling platform abacus global management launches ai lifespan modeling platform abacus global management launches ai lifespan modeling platform proactive uses images sourced from shutterstock proactive wed, june 10, 2026 at 5:41 am pdt 2 min read abx abacus global management (nyse:abx) has unveiled lifearc, a proprietary ai-powered platform that generates personalized lifespan models for individuals using medical history, medications, genetics, and biometrics. the alternative asset manager said lifearc draws on 20 years of proprietary data to produce individualized longevity projections. lifearc harnesses ai">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -14541,6 +14681,20 @@
   <p class="preview card-detail">AstraZeneca advances weight-loss pill to take aim at obesity leaders Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for $1 What’s included Glo&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-06-08">Mon, 08 Jun 2026 20:15:09</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.59" data-date="2026-06-10" data-themes="" data-text="sonar launches accepted truckload volume index to close the gap between tendered and moving freight sonar launches accepted truckload volume index to close the gap between tendered and moving freight julie van de kamp wed, june 10, 2026 at 10:46 am edt 1 min read tender acceptance rates have long signaled stress in the truckload market — but until now, users had no direct index tracking the volume of freight that actually cleared that process and moved. sonar’s new accepted sonar truckload volume index (astvi) fills that gap. the dataset family isolates accepted truckload demand by stripping out rejection activity, giving a cleaner read on what’s actually flowing through the market versus wh">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.59 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.6 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/articles/sonar-launches-accepted-truckload-volume-144623173.html" target="_blank" rel="noopener">SONAR Launches Accepted Truckload Volume Index to Close the Gap Between Tendered and Moving Freight</a></h3>
+  <p class="preview card-detail">SONAR Launches Accepted Truckload Volume Index to Close the Gap Between Tendered and Moving Freight Julie Van de Kamp Wed, June 10, 2026 at 10:46 AM EDT 1 min read Tender acceptance rates have long signaled stress in the truckload market — but until now, users had no direct index tracking the volume&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:46:23Z</time>
     
   </div>
 </article>
@@ -14865,6 +15019,20 @@
     <time datetime="2026-06-11">Thu, 11 Jun 2026 04:00:19</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-06-10" data-themes="" data-text="eu orders meta to reopen whatsapp to rival ai chatbots free eu orders meta to reopen whatsapp to rival ai chatbots free quartz · nurphoto / getty images cris tolomia wed, june 10, 2026 at 10:26 am edt 2 min read meta the european commission ordered meta platforms to restore free access to the whatsapp for business api for rival ai assistant providers, saying the company's policy change risked serious and permanent harm to competition in the ai market. meta said it would appeal. the commission said meta must reinstate the terms and conditions that were in place before oct. 15, 2025, when the company banned third-party general-purpose ai assistants from ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/eu-orders-meta-reopen-whatsapp-142603730.html" target="_blank" rel="noopener">EU orders Meta to reopen WhatsApp to rival AI chatbots free</a></h3>
+  <p class="preview card-detail">EU orders Meta to reopen WhatsApp to rival AI chatbots free Quartz · NurPhoto / Getty Images Cris Tolomia Wed, June 10, 2026 at 10:26 AM EDT 2 min read META The European Commission ordered Meta Platforms to restore free access to the WhatsApp for Business API for rival AI assistant providers, saying&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-06-10">2026-06-10T14:26:03Z</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -14977,9 +15145,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["06-05", "06-06", "06-07", "06-08", "06-09", "06-10", "06-11"],
+    labels: ["06-06", "06-07", "06-08", "06-09", "06-10", "06-11", "06-12"],
     datasets: [{
-      data: [138, 143, 174, 171, 169, 126, 97],
+      data: [143, 174, 171, 169, 140, 97, 4],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -14993,7 +15161,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [467, 6, 20, 48, 3, 4, 3, 9, 13, 7, 11, 1];
+const themeValues = [471, 6, 21, 52, 3, 5, 3, 10, 15, 7, 12, 1];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
