@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-09-14 23:36 UTC</title>
+  <title>Macro Lab — 2026-09-15 02:32 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-09-14 23:36 UTC<br>Seuil alerte: 5.0 · 523 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-09-15 02:32 UTC<br>Seuil alerte: 5.0 · 518 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">863</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">861</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">523</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">518</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">9.0</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-09-14">Mon 14 Sep</option>
+        <option value="2026-09-15">Tue 15 Sep</option>
+<option value="2026-09-14">Mon 14 Sep</option>
 <option value="2026-09-13">Sun 13 Sep</option>
 <option value="2026-09-12">Sat 12 Sep</option>
 <option value="2026-09-11">Fri 11 Sep</option>
 <option value="2026-09-10">Thu 10 Sep</option>
 <option value="2026-09-09">Wed 09 Sep</option>
-<option value="2026-09-08">Tue 08 Sep</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -190,7 +190,21 @@
 
   <div class="view active" id="view-top">
     <div class="section-title">Top 20 articles — cette heure</div>
-    <div id="cards-top"><article class="card card-alert" data-score="48.04" data-date="2026-09-09" data-themes="war_conflict,geopolitical_shock,recession,oil_energy,central_bank" data-text="s&p futures slip as bond yields climb after oil tops $100 s&p futures slip as bond yields climb after oil tops $100 oleksandr pylypenko wed, september 9, 2026 at 5:14 am cdt 8 min read cl=f september s&p 500 e-mini futures (esu26) are down -0.27% this morning as escalating hostilities in the middle east pushed oil prices higher, fueling inflation concerns and sapping risk appetite. oil prices climbed on wednesday as fighting between the u.s. and iran intensified, with no clear path toward de-escalation in sight. brent crude rose above $100 a barrel for the first time since july, while wti crude climbed above $95 a barrel. the u.s. military destroyed ">
+    <div id="cards-top"><article class="card card-alert" data-score="48.32" data-date="2026-09-13" data-themes="war_conflict,recession,oil_energy,central_bank" data-text="fed decision, retail sales and other can't miss items this week fed decision, retail sales and other can't miss items this week gavin mcmaster sun, september 13, 2026 at 10:00 am pdt 4 min read cl=f markets converge wednesday on federal reserve's critical september rate decision at 2:00pm. fed chair kevin warsh's press conference at 2:30pm will establish policy direction amid rate hike speculation. august retail sales at 8:30am precede the fed decision providing consumer spending context. thursday's philadelphia fed manufacturing index and jobless claims complete economic assessment. oil price volatility and elevated bond yields continue pressuring equity ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 48.32 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate hike, fomc, inflation, cpi, volatility, war">48.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">📉 Recession</span><span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/fed-decision-retail-sales-other-170002358.html" target="_blank" rel="noopener">Fed Decision, Retail Sales and Other Can't Miss Items This Week</a></h3>
+  <p class="preview card-detail">Fed Decision, Retail Sales and Other Can't Miss Items This Week Gavin McMaster Sun, September 13, 2026 at 10:00 AM PDT 4 min read CL=F Markets converge Wednesday on Federal Reserve's critical September rate decision at 2:00pm. Fed Chair Kevin Warsh's press conference at 2:30pm will establish policy &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-09-13">2026-09-13T17:00:02Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, rate hike, fomc, inflation</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="48.04" data-date="2026-09-09" data-themes="war_conflict,geopolitical_shock,recession,oil_energy,central_bank" data-text="s&p futures slip as bond yields climb after oil tops $100 s&p futures slip as bond yields climb after oil tops $100 oleksandr pylypenko wed, september 9, 2026 at 5:14 am cdt 8 min read cl=f september s&p 500 e-mini futures (esu26) are down -0.27% this morning as escalating hostilities in the middle east pushed oil prices higher, fueling inflation concerns and sapping risk appetite. oil prices climbed on wednesday as fighting between the u.s. and iran intensified, with no clear path toward de-escalation in sight. brent crude rose above $100 a barrel for the first time since july, while wti crude climbed above $95 a barrel. the u.s. military destroyed ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 48.04 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, rate hike, ecb, inflation, cpi, stock market, s&p 500, nasdaq">48.0 <sup>ℹ</sup></span>
@@ -218,7 +232,7 @@
     <span class="kw-hint">🔑 federal reserve, fed, rate hike, interest rate, fomc</span>
   </div>
 </article>
-<article class="card card-alert" data-score="44.94" data-date="2026-09-08" data-themes="war_conflict,oil_energy,central_bank" data-text="stock market today: dow, s&p 500, nasdaq futures slip amid rising oil prices live stock market today: dow, s&p 500, nasdaq futures slip amid rising oil prices grace o'donnell · editor, special projects updated tue, september 8, 2026 at 7:09 am cdt 1 min read cl=f orcl ^dji ^gspc ^ixic us stock futures slipped on tuesday as rising oil prices and inflation jitters took focus at the start of the holiday-shortened week. futures on the dow jones industrial average ( ym=f ) declined by 0.7%, while those on the s&p 500 ( es=f ) fell 0.2%. contracts for the nasdaq-100 ( nq=f ) rose just above the flatline as investors eyed inflation data and oracle earnings later this week. ri">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="44.94" data-date="2026-09-08" data-themes="war_conflict,oil_energy,central_bank" data-text="stock market today: dow, s&p 500, nasdaq futures slip amid rising oil prices live stock market today: dow, s&p 500, nasdaq futures slip amid rising oil prices grace o'donnell · editor, special projects updated tue, september 8, 2026 at 7:09 am cdt 1 min read cl=f orcl ^dji ^gspc ^ixic us stock futures slipped on tuesday as rising oil prices and inflation jitters took focus at the start of the holiday-shortened week. futures on the dow jones industrial average ( ym=f ) declined by 0.7%, while those on the s&p 500 ( es=f ) fell 0.2%. contracts for the nasdaq-100 ( nq=f ) rose just above the flatline as investors eyed inflation data and oracle earnings later this week. ri">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 44.94 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate hike, yield curve, inflation, stock market, s&p 500, nasdaq">44.9 <sup>ℹ</sup></span>
@@ -231,7 +245,7 @@
     <time datetime="2026-09-08">2026-09-08T08:04:40Z</time>
     <span class="kw-hint">🔑 federal reserve, fed, rate hike, yield curve, inflation</span>
   </div>
-</article>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="42.39" data-date="2026-09-10" data-themes="war_conflict,geopolitical_shock,oil_energy" data-text="stock market today: dow, s&p 500, nasdaq extend losses as bond yields jump, oil holds above $100 live stock market today: dow, s&p 500, nasdaq extend losses as bond yields jump, oil holds above $100 grace o'donnell · editor, special projects updated thu, september 10, 2026 at 11:42 am cdt 2 min read ^ixic cl=f ^dji ^gspc ^tnx us stocks sank on thursday morning as oil prices and treasury yields continued to climb and investors assessed fresh wholesale inflation data. the dow jones industrial average ( ^dji ) fell 0.5%, while the s&p 500 ( ^gspc ) fell 0.4%. the tech-heavy nasdaq composite ( ^ixic ) dropped 0.5%, with all three indexes deepening losses from the past three days. stocks have ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -455,26 +469,26 @@
     <time datetime="2026-09-12">2026-09-12T16:17:00Z</time>
     <span class="kw-hint">🔑 federal reserve, fed, rate hike, interest rate, fomc</span>
   </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="33.12" data-date="2026-09-10" data-themes="war_conflict,oil_energy,central_bank" data-text="morning bid: forever war? morning bid: forever war? by mike dolan thu, september 10, 2026 at 6:45 am edt 3 min read cl=f by mike dolan sept 10 (reuters) - energy and bond markets are on edge once again after u.s. president donald trump said the iran war would not end until after november's midterm elections. that came amid the most intense attacks on gulf ‌shipping in the conflict so far. meanwhile, markets await a likely european central bank interest rate rise and the first of the week's ‌u.s. inflation updates on thursday, as treasury secretary scott bessent's bond buyback salvo appeared to flop after details of the">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 33.12 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: rate hike, interest rate, ecb, inflation, war, conflict, oil, treasury">33.1 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/morning-bid-forever-war-104203691.html" target="_blank" rel="noopener">Morning Bid: Forever war?</a></h3>
-  <p class="preview card-detail">Morning Bid: Forever war? By Mike Dolan Thu, September 10, 2026 at 6:45 AM EDT 3 min read CL=F By Mike Dolan Sept 10 (Reuters) - Energy and bond markets are on edge once again after U.S. President Donald Trump said the Iran war would not end until after November's midterm elections. That came amid t&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-10">2026-09-10T10:45:50Z</time>
-    <span class="kw-hint">🔑 rate hike, interest rate, ecb, inflation, war</span>
-  </div>
 </article></div></div></div>
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (863 articles)</div>
-    <div id="cards-all"><article class="card card-alert" data-score="48.04" data-date="2026-09-09" data-themes="war_conflict,geopolitical_shock,recession,oil_energy,central_bank" data-text="s&p futures slip as bond yields climb after oil tops $100 s&p futures slip as bond yields climb after oil tops $100 oleksandr pylypenko wed, september 9, 2026 at 5:14 am cdt 8 min read cl=f september s&p 500 e-mini futures (esu26) are down -0.27% this morning as escalating hostilities in the middle east pushed oil prices higher, fueling inflation concerns and sapping risk appetite. oil prices climbed on wednesday as fighting between the u.s. and iran intensified, with no clear path toward de-escalation in sight. brent crude rose above $100 a barrel for the first time since july, while wti crude climbed above $95 a barrel. the u.s. military destroyed ">
+    <div class="section-title">Historique complet — 7 derniers jours (861 articles)</div>
+    <div id="cards-all"><article class="card card-alert" data-score="48.32" data-date="2026-09-13" data-themes="war_conflict,recession,oil_energy,central_bank" data-text="fed decision, retail sales and other can't miss items this week fed decision, retail sales and other can't miss items this week gavin mcmaster sun, september 13, 2026 at 10:00 am pdt 4 min read cl=f markets converge wednesday on federal reserve's critical september rate decision at 2:00pm. fed chair kevin warsh's press conference at 2:30pm will establish policy direction amid rate hike speculation. august retail sales at 8:30am precede the fed decision providing consumer spending context. thursday's philadelphia fed manufacturing index and jobless claims complete economic assessment. oil price volatility and elevated bond yields continue pressuring equity ">
+  <div class="card-header">
+    <span class="source-badge">Yahoo Finance</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 48.32 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: federal reserve, fed, rate hike, fomc, inflation, cpi, volatility, war">48.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">📉 Recession</span><span class="theme-tag">🛢️ Oil/Energy</span><span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://finance.yahoo.com/economy/policy/articles/fed-decision-retail-sales-other-170002358.html" target="_blank" rel="noopener">Fed Decision, Retail Sales and Other Can't Miss Items This Week</a></h3>
+  <p class="preview card-detail">Fed Decision, Retail Sales and Other Can't Miss Items This Week Gavin McMaster Sun, September 13, 2026 at 10:00 AM PDT 4 min read CL=F Markets converge Wednesday on Federal Reserve's critical September rate decision at 2:00pm. Fed Chair Kevin Warsh's press conference at 2:30pm will establish policy &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-09-13">2026-09-13T17:00:02Z</time>
+    <span class="kw-hint">🔑 federal reserve, fed, rate hike, fomc, inflation</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="48.04" data-date="2026-09-09" data-themes="war_conflict,geopolitical_shock,recession,oil_energy,central_bank" data-text="s&p futures slip as bond yields climb after oil tops $100 s&p futures slip as bond yields climb after oil tops $100 oleksandr pylypenko wed, september 9, 2026 at 5:14 am cdt 8 min read cl=f september s&p 500 e-mini futures (esu26) are down -0.27% this morning as escalating hostilities in the middle east pushed oil prices higher, fueling inflation concerns and sapping risk appetite. oil prices climbed on wednesday as fighting between the u.s. and iran intensified, with no clear path toward de-escalation in sight. brent crude rose above $100 a barrel for the first time since july, while wti crude climbed above $95 a barrel. the u.s. military destroyed ">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
     <span class="score-pill" style="background:color-mix(in srgb,#f0883e 18%,transparent);color:#f0883e;border-color:color-mix(in srgb,#f0883e 35%,transparent)" title="Score: 48.04 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: fed, rate hike, ecb, inflation, cpi, stock market, s&p 500, nasdaq">48.0 <sup>ℹ</sup></span>
@@ -1130,20 +1144,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-09-09">2026-09-09T10:41:23Z</time>
     <span class="kw-hint">🔑 fed, interest rate, stock market, volatility, war</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="25.18" data-date="2026-09-07" data-themes="war_conflict,oil_energy" data-text="piper sandles sees exxonmobil (xom) heading toward new highs piper sandles sees exxonmobil (xom) heading toward new highs sultan khalid mon, september 7, 2026 at 4:41 pm pdt 4 min read xom cl=f exxonmobil holdings corporation (nyse: xom ) is the largest oil company in the united states, and one of the largest integrated energy companies in the world. the stock has rallied by 30% since the beginning of 2026 and even hit its all-time high earlier in march, driven primarily by the soaring oil prices and solid earnings amid the middle east disruptions. following a slight pullback over the last few months, exxon has started to regain momentum, and piper sand">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 25.18 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: s&p 500, earnings, war, conflict, middle east, oil, geopolitical, tariff">25.2 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">🛢️ Oil/Energy</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/energy/articles/piper-sandles-sees-exxonmobil-xom-234156306.html" target="_blank" rel="noopener">Piper Sandles Sees ExxonMobil (XOM) Heading Toward New Highs</a></h3>
-  <p class="preview card-detail">Piper Sandles Sees ExxonMobil (XOM) Heading Toward New Highs Sultan Khalid Mon, September 7, 2026 at 4:41 PM PDT 4 min read XOM CL=F ExxonMobil Holdings Corporation (NYSE: XOM ) is the largest oil company in the United States, and one of the largest integrated energy companies in the world. The stoc&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-07">2026-09-07T23:41:56Z</time>
-    <span class="kw-hint">🔑 s&p 500, earnings, war, conflict, middle east</span>
   </div>
 </article>
 <article class="card card-alert" data-score="25.16" data-date="2026-09-13" data-themes="war_conflict,recession" data-text="wall street's biggest bubble may be bursting before our eyes, and the consequences for the stock market are nothing short of disastrous wall street's biggest bubble may be bursting before our eyes, and the consequences for the stock market are nothing short of disastrous sean williams, the motley fool sun, september 13, 2026 at 3:56 am mst 6 min read nvda ^dji ^ixic for the better part of the last four years, the stock market has been unstoppable. the artificial intelligence (ai) infrastructure build-out has lifted the time-tested dow jones industrial average (djindices:^dji), benchmark s&p 500 (snpindex:^gspc), and innovation-propelled nasdaq composite (nasdaqindex:^ixic) to several new highs. however, not even a historic ai-">
@@ -2012,20 +2012,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-09-10">2026-09-10T17:30:03Z</time>
     <span class="kw-hint">🔑 volatility, earnings, war, nato, middle east</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="16.46" data-date="2026-09-08" data-themes="war_conflict,sovereign_default" data-text="eu regulators send early warning to oracle ahead of earnings eu regulators send early warning to oracle ahead of earnings peace longe mon, september 7, 2026 at 7:03 pm cdt 4 min read orcl oracle (orcl) has enough on its plate heading into earnings week. now brussels wants a word. european antitrust regulators are quietly examining how oracle licenses its software, and the timing could hardly be more inconvenient for shareholders. the stock trades near $158.78 , down about 19% so far in 2026 and roughly 54% below its 52-week high of $345.72 . investors were already nervous about oracle's debt-heavy artificial intelligence (ai) buildout. this regulatory q">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 16.46 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: earnings, war, default">16.5 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span><span class="theme-tag">💀 Default</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/markets/stocks/articles/eu-regulators-send-early-warning-000300590.html" target="_blank" rel="noopener">EU regulators send early warning to Oracle ahead of earnings</a></h3>
-  <p class="preview card-detail">EU regulators send early warning to Oracle ahead of earnings Peace Longe Mon, September 7, 2026 at 7:03 PM CDT 4 min read ORCL Oracle (ORCL) has enough on its plate heading into earnings week. Now Brussels wants a word. European antitrust regulators are quietly examining how Oracle licenses its soft&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-08">2026-09-08T00:03:00Z</time>
-    <span class="kw-hint">🔑 earnings, war, default</span>
   </div>
 </article>
 <article class="card card-alert" data-score="16.40" data-date="2026-09-10" data-themes="war_conflict" data-text="northern trust (ntrs) won a £3.6b pension mandate. can it move fee growth? northern trust (ntrs) won a £3.6b pension mandate. can it move fee growth? jeff lewis thu, september 10, 2026 at 2:37 pm mst 3 min read northern trust corporation (nasdaq: ntrs ) announced on september 7 that warwickshire pension fund had appointed it to provide global custody, valuation reporting, capital call execution and performance measurement. the uk public pension fund has approximately £3.6 billion, or $4.8 billion, in assets. the appointment strengthens the pension-servicing franchise of northern trust corporation (nasdaq:ntrs). contract duration and fees were not disclosed in the ann">
@@ -3919,20 +3905,6 @@ NYSE forecast Key Points &#8230;</p>
     <span class="kw-hint">🔑 earnings, war, tariff</span>
   </div>
 </article>
-<article class="card card-alert" data-score="12.13" data-date="2026-09-07" data-themes="war_conflict" data-text="nextera-dominion merger wins shareholder backing: what’s next? nextera-dominion merger wins shareholder backing: what’s next? sultan khalid mon, september 7, 2026 at 4:37 pm pdt 3 min read d nee-pt it was reported on september 3 that nextera energy, inc. (nyse: nee ) and dominion energy, inc. (nyse: d ) shareholders have overwhelmingly approved the companies' merger, clearing a major hurdle for the blockbuster transaction. first announced in may, the combination is expected to create the world's largest regulated electric utility business by market capitalization. the merger comes at a time when us electricity demand is soaring to record levels, particula">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 12.13 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: fed, war, tariff">12.1 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/energy/articles/nextera-dominion-merger-wins-shareholder-233730229.html" target="_blank" rel="noopener">NextEra-Dominion Merger Wins Shareholder Backing: What’s Next?</a></h3>
-  <p class="preview card-detail">NextEra-Dominion Merger Wins Shareholder Backing: What’s Next? Sultan Khalid Mon, September 7, 2026 at 4:37 PM PDT 3 min read D NEE-PT It was reported on September 3 that NextEra Energy, Inc. (NYSE: NEE ) and Dominion Energy, Inc. (NYSE: D ) shareholders have overwhelmingly approved the companies' m&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-07">2026-09-07T23:37:30Z</time>
-    <span class="kw-hint">🔑 fed, war, tariff</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="12.13" data-date="2026-09-13" data-themes="war_conflict" data-text="draftkings and flutter jump after court rules prediction markets are gambling, not federally regulated trading draftkings and flutter jump after court rules prediction markets are gambling, not federally regulated trading sheryar siddiq sun, september 13, 2026 at 12:46 pm mst 4 min read dkng flut klsh.pvt hood shares of draftkings inc. (nasdaq: dkng ) and flutter entertainment plc (nyse: flut ) soared on august 28 after the ninth circuit court of appeals ruled that sports-related contracts at issue were not 'swaps' under federal commodities law, clearing the way for nevada to apply its gaming regulations to them and handing a significant victory to states seeking to shut down platforms like kalshi. dra">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -4841,20 +4813,6 @@ NYSE forecast Key Points &#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-09-14">2026-09-14T14:47:05Z</time>
     <span class="kw-hint">🔑 war, oil, tariff</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="11.00" data-date="2026-09-08" data-themes="war_conflict" data-text="what lisraya’s $35,000 monthly price could mean for roivant (roiv) what lisraya’s $35,000 monthly price could mean for roivant (roiv) noor ul ain rehman mon, september 7, 2026 at 5:27 pm pdt 4 min read roiv roivant sciences ltd. (nasdaq: roiv ) and priovant therapeutics have moved quickly to commercialize lisraya following its fda approval for dermatomyositis. the partners launched the daily pill immediately and set a list price of $35,000 for a 30-day supply. the price illustrates the potential value of introducing the first targeted oral treatment for a rare condition with limited options. it also raises the central question facing the launch: whether roiva">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.00 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: nasdaq, war, tariff">11.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/healthcare/articles/lisraya-35-000-monthly-price-002705163.html" target="_blank" rel="noopener">What Lisraya’s $35,000 Monthly Price Could Mean for Roivant (ROIV)</a></h3>
-  <p class="preview card-detail">What Lisraya’s $35,000 Monthly Price Could Mean for Roivant (ROIV) Noor Ul Ain Rehman Mon, September 7, 2026 at 5:27 PM PDT 4 min read ROIV Roivant Sciences Ltd. (NASDAQ: ROIV ) and Priovant Therapeutics have moved quickly to commercialize Lisraya following its FDA approval for dermatomyositis. The &#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-08">2026-09-08T00:27:05Z</time>
-    <span class="kw-hint">🔑 nasdaq, war, tariff</span>
   </div>
 </article>
 <article class="card card-alert" data-score="10.93" data-date="2026-09-10" data-themes="war_conflict" data-text="amgen vs. moderna: which healthcare stock is a better buy in 2026? amgen vs. moderna: which healthcare stock is a better buy in 2026? sara appino, the motley fool thu, september 10, 2026 at 11:21 am cdt 5 min read amgn mrna mck cor cah should you bet on an established giant or a pipeline-driven innovator? this comparison examines amgen (nasdaq:amgn) and moderna (nasdaq:mrna) to see which stock is a better buy today. amgen is a veteran in the drug manufacturing world, focusing on long-term stability and diverse treatments for chronic conditions. moderna is a biotechnology pioneer that transformed during the pandemic and is now pivoting toward a broader mrna pl">
@@ -5918,20 +5876,6 @@ NYSE forecast Key Points &#8230;</p>
   <p class="preview card-detail">Is Chewy’s (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity? Venkatesh Srinivasalu Sun, September 13, 2026 at 12:57 PM MST 3 min read CHWY Chewy, Inc. (NYSE: CHWY ) reported second-quarter results on September 9, 2026. The results highlighted a 7.3% increase in net sales to $3.33 b&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-09-13">2026-09-13T19:57:17Z</time>
-    <span class="kw-hint">🔑 earnings, war, tariff</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="9.20" data-date="2026-09-08" data-themes="war_conflict" data-text="102-year-old mall retailer quietly closes 25 stores 102-year-old mall retailer quietly closes 25 stores nina zdinjak mon, september 7, 2026 at 8:37 pm cdt 6 min read vra fosl gco a mall chain many consumers around the united states grew up visiting has closed another 25 stores over the last three months. earlier this year, we saw a number of mall retailers close locations, despite july 2026 placer.ai data revealing that foot traffic across all three mall formats grew year over year. as part of my retail coverage for thestreet, i reported on vera bradley cutting its traditional mall footprint by more than 43%, and fossil group quietly closing 21">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.20 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: earnings, war, tariff">9.2 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/small-business/articles/102-old-mall-retailer-quietly-013700033.html" target="_blank" rel="noopener">102-year-old mall retailer quietly closes 25 stores</a></h3>
-  <p class="preview card-detail">102-year-old mall retailer quietly closes 25 stores Nina Zdinjak Mon, September 7, 2026 at 8:37 PM CDT 6 min read VRA FOSL GCO A mall chain many consumers around the United States grew up visiting has closed another 25 stores over the last three months. Earlier this year, we saw a number of mall ret&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-08">2026-09-08T01:37:00Z</time>
     <span class="kw-hint">🔑 earnings, war, tariff</span>
   </div>
 </article>
@@ -7335,20 +7279,6 @@ NYSE forecast Key Points &#8230;</p>
     <span class="kw-hint">🔑 nasdaq, tariff</span>
   </div>
 </article>
-<article class="card card-alert" data-score="5.89" data-date="2026-09-08" data-themes="" data-text="fda authorization expands philip morris’s zyn bet, can it pay off? fda authorization expands philip morris’s zyn bet, can it pay off? noor ul ain rehman mon, september 7, 2026 at 5:04 pm pdt 4 min read pm philip morris international inc. (nyse: pm ) has received fda authorization for 11 nicotine-pouch products, bolstering its position in the fastest-growing nicotine category in the united states. the newly authorized products include higher-strength zyn ultra pouches that philip morris (nyse:pm) launched in june at prices below those of its flagship zyn brand. the strategy could help the company reach more consumers and defend its market position, but lower p">
-  <div class="card-header">
-    <span class="source-badge">Yahoo Finance</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.89 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: earnings, tariff">5.9 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://finance.yahoo.com/healthcare/articles/fda-authorization-expands-philip-morris-000459840.html" target="_blank" rel="noopener">FDA Authorization Expands Philip Morris’s Zyn Bet, Can It Pay Off?</a></h3>
-  <p class="preview card-detail">FDA Authorization Expands Philip Morris’s Zyn Bet, Can It Pay Off? Noor Ul Ain Rehman Mon, September 7, 2026 at 5:04 PM PDT 4 min read PM Philip Morris International Inc. (NYSE: PM ) has received FDA authorization for 11 nicotine-pouch products, bolstering its position in the fastest-growing nicotin&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-08">2026-09-08T00:04:59Z</time>
-    <span class="kw-hint">🔑 earnings, tariff</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="5.82" data-date="2026-09-09" data-themes="" data-text="servicetitan (ttan) bets on max despite near-term headwinds servicetitan (ttan) bets on max despite near-term headwinds ali ahmed wed, september 9, 2026 at 6:35 pm edt 3 min read ttan on september 8, servicetitan, inc. (nasdaq:ttan) reported its fiscal second-quarter financial results, which showed impressive growth. the company's revenue increased 21% year-over-year to $292.8 million and non-gaap free cash flow reached a record $50.5 million. the company's non-gaap operating margin also improved to 15.2%. servicetitan (ttan) bets on max despite near-term headwinds a key highlight of the quarter was the growing adoption of servicetitan, inc.'s (nasdaq:">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -8189,6 +8119,20 @@ NYSE forecast Key Points &#8230;</p>
     <span class="kw-hint">🔑 military</span>
   </div>
 </article>
+<article class="card" data-score="3.83" data-date="2026-09-15" data-themes="" data-text="india rethinks newly implemented stock market pricing mechanism india rethinks newly implemented stock market pricing mechanism subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.83 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: stock market">3.8 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/20605850-6fe4-43ce-bc8a-fd6e95231350?syn-25a6b1a6=1" target="_blank" rel="noopener">India rethinks newly implemented stock market pricing mechanism</a></h3>
+  <p class="preview card-detail">India rethinks newly implemented stock market pricing mechanism Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-09-15">Tue, 15 Sep 2026 01:30:06</time>
+    <span class="kw-hint">🔑 stock market</span>
+  </div>
+</article>
 <article class="card" data-score="3.83" data-date="2026-09-13" data-themes="" data-text="german military start-up seeks carmakers’ help to re-arm europe german military start-up seeks carmakers’ help to re-arm europe subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -8229,6 +8173,20 @@ NYSE forecast Key Points &#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-09-14">Mon, 14 Sep 2026 04:00:12</time>
     <span class="kw-hint">🔑 ecb</span>
+  </div>
+</article>
+<article class="card" data-score="3.83" data-date="2026-09-15" data-themes="" data-text="russian businessman bankrolls donald trump jr’s bahamas wedding after-party russian businessman bankrolls donald trump jr’s bahamas wedding after-party subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more o">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.83 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: russia">3.8 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/3de68677-ef80-4dd9-b31b-7a10fea385ed?syn-25a6b1a6=1" target="_blank" rel="noopener">Russian businessman bankrolls Donald Trump Jr’s Bahamas wedding after-party</a></h3>
+  <p class="preview card-detail">Russian businessman bankrolls Donald Trump Jr’s Bahamas wedding after-party Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised mon&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-09-15">Tue, 15 Sep 2026 01:03:47</time>
+    <span class="kw-hint">🔑 russia</span>
   </div>
 </article>
 <article class="card" data-score="3.81" data-date="2026-09-10" data-themes="" data-text="imf ditched top candidate for chief economist job over trump tariff remarks imf ditched top candidate for chief economist job over trump tariff remarks subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more o">
@@ -8551,6 +8509,20 @@ NYSE forecast Key Points &#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-09-14">Mon, 14 Sep 2026 14:51:43</time>
     <span class="kw-hint">🔑 treasury</span>
+  </div>
+</article>
+<article class="card" data-score="3.26" data-date="2026-09-15" data-themes="" data-text="china tightens control of overseas travel in sweeping new law china tightens control of overseas travel in sweeping new law subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial u">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.26 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: china">3.3 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1" target="_blank" rel="noopener">China tightens control of overseas travel in sweeping new law</a></h3>
+  <p class="preview card-detail">China tightens control of overseas travel in sweeping new law Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Su&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-09-15">Tue, 15 Sep 2026 00:28:53</time>
+    <span class="kw-hint">🔑 china</span>
   </div>
 </article>
 <article class="card" data-score="3.25" data-date="2026-09-11" data-themes="" data-text="stock market leaders often shine, helped by this sign of liquidity strength it might be easy to quickly dismiss a stock just because it's thinly traded in the stock market with an average daily volume that sits below 400,000 shares. liquidity is important for a stock, make no mistake. but while investor's business daily measures a stock's 50-day average trading volume, there's another way to gauge a stock's liquidity — and keep… copyright ©2026 investor's business daily, llc. all rights reserved. 87990cbe856818d5eddac44c7b1cdeb8">
@@ -9225,20 +9197,6 @@ NYSE forecast Key Points &#8230;</p>
     
   </div>
 </article>
-<article class="card" data-score="1.77" data-date="2026-09-08" data-themes="" data-text="korea’s ai property boom puts pressure on president south korea’s ai property boom puts pressure on president subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium newsletters from lea">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.77 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.8 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/3ba7440d-c4f9-4f13-8e60-98719059d1a7?syn-25a6b1a6=1" target="_blank" rel="noopener">Korea’s AI property boom puts pressure on president</a></h3>
-  <p class="preview card-detail">South Korea’s AI property boom puts pressure on president Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for undefined What’s inc&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-08">Tue, 08 Sep 2026 00:35:41</time>
-    
-  </div>
-</article>
 <article class="card" data-score="1.75" data-date="2026-09-11" data-themes="" data-text="claude thinks i’m an investment dunce claude thinks i’m an investment dunce subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial undefined for 4 weeks the">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -9544,20 +9502,6 @@ NYSE forecast Key Points &#8230;</p>
   <p class="preview card-detail">Cathie Wood's ARK Invest keeps shedding highflier Advanced Micro Devices (AMD) and rebounding AI data analytics firm Palantir (PLTR), while adding to its hefty position in Robinhood (HOOD). On Tuesday, ARK Invest bought 27,083 shares of Robinhood valued around $3.1 million for its flagship ARK Innov&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-09-09">2026-09-09T13:06:56Z</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.24" data-date="2026-09-08" data-themes="" data-text="india’s national stock exchange to list after finally clearing ipo hurdles india’s national stock exchange to list after finally clearing ipo hurdles subscribe to unlock this article try unlimited access only undefined for 4 weeks then undefined per month. complete digital access to quality ft journalism on any device. cancel anytime during your trial. keep reading for undefined what’s included global news & analysis expert opinion ft app on android & ios first ft: the day’s biggest stories 20+ curated newsletters follow topics & set alerts with myft ft videos & podcasts 10 additional monthly gift articles to share lex: ft’s flagship investment column 15+ premium new">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.24 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.2 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/32bee3d5-f018-4e8e-86cf-7ebe37f6c4a3?syn-25a6b1a6=1" target="_blank" rel="noopener">India’s National Stock Exchange to list after finally clearing IPO hurdles</a></h3>
-  <p class="preview card-detail">India’s National Stock Exchange to list after finally clearing IPO hurdles Subscribe to unlock this article Try unlimited access Only undefined for 4 weeks Then undefined per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for und&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-08">Tue, 08 Sep 2026 01:30:06</time>
     
   </div>
 </article>
@@ -12095,6 +12039,34 @@ NYSE forecast Key Points &#8230;</p>
     
   </div>
 </article>
+<article class="card" data-score="1.01" data-date="2026-09-15" data-themes="" data-text="supreme court rejects trump’s mail-in ballot restrictions for midterms supreme court rejects donald trump’s restrictions on mail-in ballots for midterms subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore ">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1" target="_blank" rel="noopener">Supreme Court rejects Trump’s mail-in ballot restrictions for midterms</a></h3>
+  <p class="preview card-detail">Supreme Court rejects Donald Trump’s restrictions on mail-in ballots for midterms Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualis&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-09-15">Tue, 15 Sep 2026 01:46:51</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.01" data-date="2026-09-14" data-themes="" data-text="dogs join diners as hong kong bets on the pet economy dogs join diners as hong kong bets on the pet economy subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial undefined">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/a718a93c-5565-46ec-be3e-f9f67d5e6864?syn-25a6b1a6=1" target="_blank" rel="noopener">Dogs join diners as Hong Kong bets on the pet economy</a></h3>
+  <p class="preview card-detail">Dogs join diners as Hong Kong bets on the pet economy Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Subscribe &#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-09-14">Mon, 14 Sep 2026 23:01:05</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.98" data-date="2026-09-09" data-themes="" data-text="aurora and curaleaf continue sniping as hostile bid heats up aurora and curaleaf continue sniping as hostile bid heats up jeremy berke wed, september 9, 2026 at 9:22 am cdt 2 min read cura.to nvda acb curlf aurora and curaleaf continue sniping as hostile bid heats up - moby breaking news our analysts just identified a stock with the potential to be the next nvidia. tell us how you invest and we'll show you why it's our #1 pick. tap here. the biggest takeover battle in the legal cannabis industry's relatively short history is spilling out into the public as both curaleaf and aurora continue to trade barbs. fresh off the long weekend, curaleaf published a">
   <div class="card-header">
     <span class="source-badge">Yahoo Finance</span>
@@ -12668,9 +12640,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["09-08", "09-09", "09-10", "09-11", "09-12", "09-13", "09-14"],
+    labels: ["09-09", "09-10", "09-11", "09-12", "09-13", "09-14", "09-15"],
     datasets: [{
-      data: [164, 167, 150, 116, 107, 88, 69],
+      data: [167, 150, 116, 107, 89, 70, 4],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -12684,12 +12656,12 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [417, 70, 42, 5, 15, 1, 1, 12, 5, 3];
+const themeValues = [413, 70, 43, 15, 1, 1, 13, 5, 4, 3];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
     data: {
-      labels: ["\u2694\ufe0f War/Conflict", "\ud83d\udee2\ufe0f Oil/Energy", "\ud83c\udfdb\ufe0f Central Bank", "\ud83d\udc80 Default", "\ud83c\udf10 Geo Shock", "\ud83d\udea8 Fed Emergency", "\ud83c\udfe6 Banking Crisis", "\ud83d\udcc9 Recession", "\ud83d\udeab Sanctions", "\ud83d\udcca Volatility"],
+      labels: ["\u2694\ufe0f War/Conflict", "\ud83d\udee2\ufe0f Oil/Energy", "\ud83c\udfdb\ufe0f Central Bank", "\ud83c\udf10 Geo Shock", "\ud83d\udea8 Fed Emergency", "\ud83c\udfe6 Banking Crisis", "\ud83d\udcc9 Recession", "\ud83d\udeab Sanctions", "\ud83d\udc80 Default", "\ud83d\udcca Volatility"],
       datasets: [{
         data: themeValues,
         backgroundColor: ['#f85149','#d29922','#3fb950','#58a6ff','#ff7b72','#79c0ff','#56d364','#e3b341','#ffa657','#d2a8ff','#7ee787','#a5d6ff'],
