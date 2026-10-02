@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-10-01 20:42 UTC</title>
+  <title>Macro Lab — 2026-10-02 00:21 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-10-01 20:42 UTC<br>Seuil alerte: 5.0 · 77 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-10-02 00:21 UTC<br>Seuil alerte: 5.0 · 78 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">366</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">365</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">77</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">78</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">3.2</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-10-01">Thu 01 Oct</option>
+        <option value="2026-10-02">Fri 02 Oct</option>
+<option value="2026-10-01">Thu 01 Oct</option>
 <option value="2026-09-30">Wed 30 Sep</option>
 <option value="2026-09-29">Tue 29 Sep</option>
 <option value="2026-09-28">Mon 28 Sep</option>
 <option value="2026-09-27">Sun 27 Sep</option>
 <option value="2026-09-26">Sat 26 Sep</option>
-<option value="2026-09-25">Fri 25 Sep</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -473,7 +473,7 @@
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (366 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (365 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="36.25" data-date="2026-09-30" data-themes="war_conflict,geopolitical_shock,oil_energy,central_bank" data-text="inflation and interest rates tracker: see how your country compares inflation and interest rates tracker: see how your country compares on x (opens in a new window) inflation and interest rates tracker: see how your country compares on facebook (opens in a new window) inflation and interest rates tracker: see how your country compares on linkedin (opens in a new window) inflation and interest rates tracker: see how your country compares on whatsapp (opens in a new window) inflation and interest rates tracker: see how your country compares on x (opens in a new window) inflation and interest rates tracker: see how your country compares on facebook (opens in a ne">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1132,6 +1132,20 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="8.33" data-date="2026-10-01" data-themes="sanctions_major" data-text="us sanctions kremlin-backed fintech a7 for allegedly assisting iran payments group that moved almost $7bn through global banks designated a transnational criminal organisation">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 8.33 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: sanctions">8.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">🚫 Sanctions</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1" target="_blank" rel="noopener">US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran</a></h3>
+  <p class="preview card-detail">Payments group that moved almost $7bn through global banks designated a transnational criminal organisation</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-01">Thu, 01 Oct 2026 21:20:36</time>
+    <span class="kw-hint">🔑 sanctions</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="8.31" data-date="2026-09-26" data-themes="sanctions_major" data-text="medicines run short in iran under us sanctions medicines run short in iran under us sanctions subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial undefined for 4 ">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1550,6 +1564,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-09-27">Sun, 27 Sep 2026 04:00:19</time>
     <span class="kw-hint">🔑 oil</span>
+  </div>
+</article>
+<article class="card" data-score="4.18" data-date="2026-10-01" data-themes="" data-text="us deploys thousands of troops to middle east as trump weighs strikes on iran aircraft carrier uss theodore roosevelt expected to arrive in the region by the end of november, a us official says">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.18 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: middle east">4.2 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/352e14c5-267d-4c8f-981d-6ae8bea531f9?syn-25a6b1a6=1" target="_blank" rel="noopener">US deploys thousands of troops to Middle East as Trump weighs strikes on Iran</a></h3>
+  <p class="preview card-detail">Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the end of November, a US official says</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-01">Thu, 01 Oct 2026 21:05:29</time>
+    <span class="kw-hint">🔑 middle east</span>
   </div>
 </article>
 <article class="card" data-score="4.10" data-date="2026-09-28" data-themes="" data-text="erdoğan bids to contain fallout from turkey’s $18bn stock market scandal erdoğan bids to contain fallout from turkey’s $18bn stock market scandal subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offe">
@@ -2028,20 +2056,6 @@
     <span class="kw-hint">🔑 china</span>
   </div>
 </article>
-<article class="card" data-score="3.24" data-date="2026-09-24" data-themes="" data-text="firstft: xi jinping says us and china must ‘coexist in peace’ at white house summit firstft: xi jinping says us and china must ‘coexist in peace’ at white house summit subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explor">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.24 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: china">3.2 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/91f6e99d-b953-4056-ae72-30464b87ab5c?syn-25a6b1a6=1" target="_blank" rel="noopener">FirstFT: Xi Jinping says US and China must ‘coexist in peace’ at White House summit</a></h3>
-  <p class="preview card-detail">FirstFT: Xi Jinping says US and China must ‘coexist in peace’ at White House summit Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annual&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-24">Thu, 24 Sep 2026 21:33:30</time>
-    <span class="kw-hint">🔑 china</span>
-  </div>
-</article>
 <article class="card" data-score="3.20" data-date="2026-09-27" data-themes="" data-text="will us jobs data add to pressure on fed policymakers? will us jobs data add to pressure on fed policymakers? subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial undefine">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2292,20 +2306,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-09-30">Wed, 30 Sep 2026 15:53:05</time>
     <span class="kw-hint">🔑 bond</span>
-  </div>
-</article>
-<article class="card" data-score="1.89" data-date="2026-09-24" data-themes="" data-text="australia’s rival football giants kick off global growth push australia’s rival football giants kick off global growth push subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial u">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.89 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.9 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/19b54cea-1fdc-40ba-b09b-d289b7f39295?syn-25a6b1a6=1" target="_blank" rel="noopener">Australia’s rival football giants kick off global growth push</a></h3>
-  <p class="preview card-detail">Australia’s rival football giants kick off global growth push Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Su&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-24">Thu, 24 Sep 2026 21:00:06</time>
-    
   </div>
 </article>
 <article class="card" data-score="1.89" data-date="2026-09-25" data-themes="" data-text="iran offers us new ‘7-day’ ceasefire proposal iran offers us new ‘7-day’ ceasefire proposal subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial undefined for 4 w">
@@ -2585,6 +2585,20 @@
   <p class="preview card-detail">Foreign capital flows into US stocks hit record as appetite for debt fades Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised mont&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-09-26">Sat, 26 Sep 2026 10:00:04</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.45" data-date="2026-10-01" data-themes="" data-text="nike to cut jobs as it forecasts revenue decline in the coming year us sneaker and sportswear group to open an india campus under its turnaround plan">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.45 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: —">1.5 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/08eeee4a-903b-4889-92ef-61ebaeea682a?syn-25a6b1a6=1" target="_blank" rel="noopener">Nike to cut jobs as it forecasts revenue decline in the coming year</a></h3>
+  <p class="preview card-detail">US sneaker and sportswear group to open an India campus under its turnaround plan</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-01">Thu, 01 Oct 2026 22:07:54</time>
     
   </div>
 </article>
@@ -2921,48 +2935,6 @@
   <p class="preview card-detail">Donald Trump raised weak yen with Sanae Takaichi, Japan finance minister says Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised m&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-09-25">Fri, 25 Sep 2026 04:58:32</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.01" data-date="2026-09-24" data-themes="" data-text="openai breach of australian government linked to wider ai hacking campaign openai breach of australian government linked to wider ai hacking campaign subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more of">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1" target="_blank" rel="noopener">OpenAI breach of Australian government linked to wider AI hacking campaign</a></h3>
-  <p class="preview card-detail">OpenAI breach of Australian government linked to wider AI hacking campaign Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised mont&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-24">Thu, 24 Sep 2026 21:06:45</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.01" data-date="2026-09-24" data-themes="" data-text="oracle on the hook to pay data centre investors even if site has no electricity oracle on the hook to pay data centre investors even if site has no electricity subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore mo">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25a6b1a6=1" target="_blank" rel="noopener">Oracle on the hook to pay data centre investors even if site has no electricity</a></h3>
-  <p class="preview card-detail">Oracle on the hook to pay data centre investors even if site has no electricity Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-24">Thu, 24 Sep 2026 23:47:35</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.01" data-date="2026-09-24" data-themes="" data-text="why new delhi is a battleground in the fight over tata why new delhi is a battleground in the fight over tata subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial undefine">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/43d16d38-23ab-4f13-ab7a-833a45e7643f?syn-25a6b1a6=1" target="_blank" rel="noopener">Why New Delhi is a battleground in the fight over Tata</a></h3>
-  <p class="preview card-detail">Why New Delhi is a battleground in the fight over Tata Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Subscribe&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-09-24">Thu, 24 Sep 2026 21:00:05</time>
     
   </div>
 </article>
@@ -5597,6 +5569,20 @@
     <time datetime="2026-10-01">Thu, 01 Oct 2026 14:49:48</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-10-01" data-themes="" data-text="media outlet deepens antisemitism claims against french far right’s jordan bardella rassemblement national leader and marine le pen’s right-hand man criticises report’s ‘so-called proof’ of his messages as a young activist">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/e567ed25-d871-44ac-ad39-aee135eeb6d6?syn-25a6b1a6=1" target="_blank" rel="noopener">Media outlet deepens antisemitism claims against French far right’s Jordan Bardella</a></h3>
+  <p class="preview card-detail">Rassemblement National leader and Marine Le Pen’s right-hand man criticises report’s ‘so-called proof’ of his messages as a young activist</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-01">Thu, 01 Oct 2026 20:46:32</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -5709,9 +5695,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["09-25", "09-26", "09-27", "09-28", "09-29", "09-30", "10-01"],
+    labels: ["09-26", "09-27", "09-28", "09-29", "09-30", "10-01", "10-02"],
     datasets: [{
-      data: [60, 29, 37, 50, 57, 61, 52],
+      data: [29, 37, 50, 57, 61, 56, 0],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -5725,7 +5711,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [55, 5, 3, 7, 1, 3];
+const themeValues = [55, 5, 4, 7, 1, 3];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
