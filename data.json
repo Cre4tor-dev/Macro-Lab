@@ -2,94 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Why does Anthropic’s IPO feel so weird?",
-      "link": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 15:21:03 GMT",
-      "scrape_timestamp": "2026-10-02T18:49:38.909307+00:00",
-      "content": "Compared to other blockbuster share sales, the build-up to the AI company’s stock market debut has felt discordant, even creepy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Low-profile hedge fund smashes record for New York office rent",
-      "link": "https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 18:31:10 GMT",
-      "scrape_timestamp": "2026-10-02T18:49:39.709858+00:00",
-      "content": "Castle Hook will pay up to $21.2mn a year for 53,000 sq ft of penthouse space at developer Related’s new Madison Avenue tower",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU pushes Ukraine for further reforms to unlock funding",
-      "link": "https://www.ft.com/content/bab346fd-7839-4812-ab27-19309e317938?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 16:31:45 GMT",
-      "scrape_timestamp": "2026-10-02T18:49:40.110213+00:00",
-      "content": "Brussels rebuffs request for additional support this year as Kyiv’s parliament struggles to pass promised changes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Israel’s top court overturns ban of Arab parties in upcoming election",
-      "link": "https://www.ft.com/content/9bbcd715-1417-49b6-bc56-1745f17cd674?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 14:32:29 GMT",
-      "scrape_timestamp": "2026-10-02T18:49:40.510583+00:00",
-      "content": "Supreme Court’s unanimous ruling clears way for Ra’am and Joint List to run and potentially swing balance in event of hung parliament",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Treasuries are losing their moneyness",
-      "link": "https://www.ft.com/content/7128ce19-5ea0-4d5d-9d47-1270404831a7",
-      "published_date": "Fri, 02 Oct 2026 17:00:05 GMT",
-      "scrape_timestamp": "2026-10-02T18:49:41.071345+00:00",
-      "content": "For four decades, US government bonds have been both securities and money. They may no longer be that special",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How to meet Burnham’s ambitions on social care",
-      "link": "https://www.ft.com/content/0889f36e-cbd6-4df5-a917-9fbb89071a7e?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 16:23:24 GMT",
-      "scrape_timestamp": "2026-10-02T18:49:41.872084+00:00",
-      "content": "A radical change in culture and systems will be as important as funding",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Polanski takes credit for Israel sanctions and criticises Bank of England",
-      "link": "https://www.ft.com/content/68d4b1f2-5b77-4604-add3-2c4915b4b267?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 15:29:18 GMT",
-      "scrape_timestamp": "2026-10-02T18:49:42.873035+00:00",
-      "content": "Party leader tells conference that ‘we change the government’ at start of potentially defining week",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Pedro Sánchez loses vote on Spanish housing reform",
-      "link": "https://www.ft.com/content/79bcc1f3-954a-4c62-96c6-989b1384b9f3?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 14:57:46 GMT",
-      "scrape_timestamp": "2026-10-02T18:49:43.273354+00:00",
-      "content": "Parliamentary setback could push premier to call early elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Arctic sea routes boom as Gulf war and global warming divert shipping",
       "link": "https://www.ft.com/content/2e0eb698-d4d3-4bcc-927a-2997df7709be?syn-25a6b1a6=1",
       "published_date": "Fri, 02 Oct 2026 20:00:05 GMT",
@@ -139,28 +51,6 @@
       "published_date": "Fri, 02 Oct 2026 20:41:15 GMT",
       "scrape_timestamp": "2026-10-02T22:42:25.594367+00:00",
       "content": "Chancellor expected to focus statement on targeted help for households and businesses rather than tax rises on the scale of recent budgets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "October fall",
-      "link": "https://www.ft.com/content/c89a552e-4720-47ae-9f0d-e9ff85b36dd9",
-      "published_date": "Fri, 02 Oct 2026 19:07:15 GMT",
-      "scrape_timestamp": "2026-10-02T22:42:26.395020+00:00",
-      "content": "Expectations for the Federal Reserve to raise rates later this month have drifted lower",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Amateurism and organisation’: Iran’s potential role in RAF Fairford incident",
-      "link": "https://www.ft.com/content/7a91fa6b-e908-4a28-b04f-02d5a10a6bb1?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 18:44:24 GMT",
-      "scrape_timestamp": "2026-10-02T22:42:26.595180+00:00",
-      "content": "Officers examine multiple lines of inquiry in the incident near the base that US bombers recently used to strike Tehran",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3442,11 +3332,187 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump agrees deal with Putin for Russia to release diesel",
+      "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 19:31:36 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:32.592086+00:00",
+      "content": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
+      "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 18:38:06 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:32.792286+00:00",
+      "content": "First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU to explore windfall tax on energy companies",
+      "link": "https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 16:05:12 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:32.992484+00:00",
+      "content": "Commissioner to consider levies as oil and gas businesses reap big profits from fallout of US-Israeli war on Iran",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI ‘deepfakes’ give US political attack ads a new twist",
+      "link": "https://www.ft.com/content/42fea52e-a4de-4613-b409-ca52d0a2aac2?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 04:00:12 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:33.192699+00:00",
+      "content": "Manipulated images are filling the airwaves in the run-up to November’s midterm elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump and Hegseth’s execution-type deal",
+      "link": "https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 16:18:01 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:33.593110+00:00",
+      "content": "The decision to livestream the execution of Nidal Malik Hasan is a sign of profound moral decay",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump launches committee to investigate Fed governor Lisa Cook",
+      "link": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 17:26:05 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:33.793320+00:00",
+      "content": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Kennedy Center donor accused of fraud was secret FBI informant",
+      "link": "https://www.ft.com/content/73359693-9d76-47c9-a6e0-25ab22d3a5e0?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 14:33:44 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:33.993522+00:00",
+      "content": "Accused conman who donated $2mn to Trump-run performing arts centre was once a confidential FBI source with a checkered record",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bessent to miss IMF annual meetings in Bangkok",
+      "link": "https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 18:22:54 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:34.393917+00:00",
+      "content": "US Treasury secretary’s absence is due to ‘domestic engagements’, say officials",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump pressures Mexico for energy deals in crunch trade talks",
+      "link": "https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 17:29:29 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:34.594107+00:00",
+      "content": "Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Delta slashes profit outlook as higher fuel prices bite",
+      "link": "https://www.ft.com/content/77d73223-3cfc-4892-a3c5-5502595f42d4?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 17:41:54 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:35.798482+00:00",
+      "content": "US airline warns over continued impact of Iran conflict even as third-quarter revenues rise",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The remarkable resilience of the global economy",
+      "link": "https://www.ft.com/content/af3454c2-c425-4d4f-bac9-3e073bbfc1a7?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 17:39:56 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:36.198873+00:00",
+      "content": "The surprising robustness of growth and trade rests on shaky foundations",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Navi Pillay: the campaigning lawyer who defied apartheid",
+      "link": "https://www.ft.com/content/679c23c6-457d-4a54-a950-80f9a2a99cdf?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 17:29:54 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:36.399090+00:00",
+      "content": "South African daughter of a bus driver becomes a Nobel laureate",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Has Polanski blown it for the Greens?",
+      "link": "https://www.ft.com/content/f2d13ed9-1b80-4e76-a4c7-de29cbbe858c?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 16:56:40 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:36.999676+00:00",
+      "content": "Plus, business and the budget",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Get used to multi-party politics, it’s here to stay",
+      "link": "https://www.ft.com/content/b35a575d-ff53-4580-8946-9054d7aeb388",
+      "published_date": "Fri, 09 Oct 2026 16:50:38 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:37.199863+00:00",
+      "content": "The prime minister’s promise on electoral reform could entrench the complex fights between five, even six parties",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU leads fight against fossil-fuel nations’ push to delay climate science reports",
+      "link": "https://www.ft.com/content/39f9b46f-b7ee-43b6-b377-6e47aa1af9a1?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 16:32:33 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:37.400064+00:00",
+      "content": "Dispute looms over next review of the latest science on the warming planet as temperatures continue to rise",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Battle for the soul of the Green Party",
+      "link": "https://www.ft.com/content/b6e6542f-045b-4a38-9fb9-6857b7d1fee3?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 16:14:50 GMT",
+      "scrape_timestamp": "2026-10-09T19:54:37.800447+00:00",
+      "content": "By-election loss shines spotlight on splits between leader Zack Polanski and deputy Mothin Ali over controversial ‘Zionism is Racism’ motion",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-09T14:09:43.541746+00:00",
+  "last_updated": "2026-10-09T19:54:55.498236+00:00",
   "metadata": {
-    "total_runs": 3009,
+    "total_runs": 3010,
     "sources": [
       "Financial Times"
     ],
