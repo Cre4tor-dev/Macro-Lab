@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-10-09 00:50 UTC</title>
+  <title>Macro Lab — 2026-10-09 06:59 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,15 +130,15 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-10-09 00:50 UTC<br>Seuil alerte: 5.0 · 64 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-10-09 06:59 UTC<br>Seuil alerte: 5.0 · 62 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">312</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">310</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">64</div></div>
-    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">2.9</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">62</div></div>
+    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">2.8</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
 
@@ -190,7 +190,21 @@
 
   <div class="view active" id="view-top">
     <div class="section-title">Top 20 articles — cette heure</div>
-    <div id="cards-top"><article class="card card-alert" data-score="19.07" data-date="2026-10-08" data-themes="war_conflict" data-text="oil majors look beyond middle east war in pursuit of region’s vast reserves western groups look to new investment opportunities despite the chaos and heightened risks caused by the conflict with iran">
+    <div id="cards-top"><article class="card card-alert" data-score="19.43" data-date="2026-10-09" data-themes="oil_energy" data-text="the energy crisis is changing what investors want from oil majors iran conflict has snarled up usually free-flowing energy markets">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 19.43 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: conflict, oil, energy crisis, crisis">19.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/7b354a5d-9702-407a-a4bc-8703c6ba7b72?syn-25a6b1a6=1" target="_blank" rel="noopener">The energy crisis is changing what investors want from oil majors</a></h3>
+  <p class="preview card-detail">Iran conflict has snarled up usually free-flowing energy markets</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:32</time>
+    <span class="kw-hint">🔑 conflict, oil, energy crisis, crisis</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="19.07" data-date="2026-10-08" data-themes="war_conflict" data-text="oil majors look beyond middle east war in pursuit of region’s vast reserves western groups look to new investment opportunities despite the chaos and heightened risks caused by the conflict with iran">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
     <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 19.07 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, conflict, middle east, oil">19.1 <sup>ℹ</sup></span>
@@ -202,20 +216,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-08">Thu, 08 Oct 2026 04:00:26</time>
     <span class="kw-hint">🔑 war, conflict, middle east, oil</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="16.89" data-date="2026-10-02" data-themes="war_conflict" data-text="firstft: putin has told military to abandon rules of war, zelenskyy says also in today’s newsletter: us sends more troops to middle east and bond sell-off">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 16.89 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, military, middle east, bond">16.9 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/56b239fb-3c85-4b8e-a274-d028d3b153a0?syn-25a6b1a6=1" target="_blank" rel="noopener">FirstFT: Putin has told military to abandon rules of war, Zelenskyy says</a></h3>
-  <p class="preview card-detail">Also in today’s newsletter: US sends more troops to Middle East and bond sell-off</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:31:00</time>
-    <span class="kw-hint">🔑 war, military, middle east, bond</span>
   </div>
 </article>
 <article class="card card-alert" data-score="16.25" data-date="2026-10-03" data-themes="sanctions_major" data-text="zelenskyy asked trump to block russia and china’s starlink rival ukraine’s president says he requested his us counterpart to impose sanctions on companies involved in developing ‘rassvet’">
@@ -330,20 +330,6 @@
     <span class="kw-hint">🔑 war, russia</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="11.98" data-date="2026-10-02" data-themes="war_conflict" data-text="us refiners reap windfall profits as wars push up fuel prices for consumers oil producer income has drawn scrutiny but lower-profile refiners have posted a fourfold increase in margins">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.98 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war, oil">12.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/118785e7-8637-46ad-a60c-286e51370848?syn-25a6b1a6=1" target="_blank" rel="noopener">US refiners reap windfall profits as wars push up fuel prices for consumers</a></h3>
-  <p class="preview card-detail">Oil producer income has drawn scrutiny but lower-profile refiners have posted a fourfold increase in margins</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:15</time>
-    <span class="kw-hint">🔑 war, oil</span>
-  </div>
-</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="11.87" data-date="2026-10-07" data-themes="war_conflict" data-text="iran war blows near-£12bn hole in britain’s public finances ft estimates show inflation and soaring borrowing costs have slashed chancellor john healey’s headroom in half">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -358,46 +344,18 @@
     <span class="kw-hint">🔑 inflation, war</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="11.80" data-date="2026-10-02" data-themes="war_conflict" data-text="quant hedge funds reap big gains from global bond sell-off trend-following portfolios have latched on to sharp rise in yields this year as iran war and strong us economic data fuel inflation fears">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="11.75" data-date="2026-10-09" data-themes="war_conflict" data-text="us 10-year treasury yields risk hitting 6% for first time since 2000, pimco says bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.80 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: inflation, war, bond">11.8 <sup>ℹ</sup></span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.75 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, treasury, bond">11.7 <sup>ℹ</sup></span>
     <span class="theme-tag">⚔️ War/Conflict</span>
     <span class="alert-badge">🚨 ALERT</span>
   </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1" target="_blank" rel="noopener">Quant hedge funds reap big gains from global bond sell-off</a></h3>
-  <p class="preview card-detail">Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears</p>
+  <h3 class="card-title"><a href="https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1" target="_blank" rel="noopener">US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says</a></h3>
+  <p class="preview card-detail">Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets</p>
   <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    <span class="kw-hint">🔑 inflation, war, bond</span>
-  </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="11.77" data-date="2026-10-02" data-themes="war_conflict" data-text="uk universities comb records for china links after mi5 warning security agency’s alert highlights rising compliance pressures in sensitive research areas">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.77 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, china">11.8 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/b33a6f40-71fe-430d-a130-25f5f841aeb9?syn-25a6b1a6=1" target="_blank" rel="noopener">UK universities comb records for China links after MI5 warning</a></h3>
-  <p class="preview card-detail">Security agency’s alert highlights rising compliance pressures in sensitive research areas</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:33</time>
-    <span class="kw-hint">🔑 war, china</span>
-  </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="11.65" data-date="2026-10-02" data-themes="war_conflict" data-text="putin has told military leaders to abandon rules of war, zelenskyy says putin has told military leaders to abandon rules of war, zelenskyy says subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offer">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.65 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, military">11.6 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1" target="_blank" rel="noopener">Putin has told military leaders to abandon rules of war, Zelenskyy says</a></h3>
-  <p class="preview card-detail">Putin has told military leaders to abandon rules of war, Zelenskyy says Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:33</time>
-    <span class="kw-hint">🔑 war, military</span>
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:31</time>
+    <span class="kw-hint">🔑 war, treasury, bond</span>
   </div>
 </article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="11.58" data-date="2026-10-02" data-themes="sanctions_major" data-text="polanski takes credit for israel sanctions and criticises bank of england party leader tells conference that ‘we change the government’ at start of potentially defining week">
@@ -469,12 +427,68 @@
     <time datetime="2026-10-07">Wed, 07 Oct 2026 19:04:36</time>
     <span class="kw-hint">🔑 war</span>
   </div>
+</article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="9.46" data-date="2026-10-04" data-themes="war_conflict" data-text="schneider electric nears deal to buy software group ptc for $20bn schneider electric nears deal to buy industrial software group ptc for $20bn subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more ">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.46 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war">9.5 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1" target="_blank" rel="noopener">Schneider Electric nears deal to buy software group PTC for $20bn</a></h3>
+  <p class="preview card-detail">Schneider Electric nears deal to buy industrial software group PTC for $20bn Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised mo&#8230;</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-04">Sun, 04 Oct 2026 21:51:33</time>
+    <span class="kw-hint">🔑 war</span>
+  </div>
+</article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="8.99" data-date="2026-10-04" data-themes="sanctions_major" data-text="eu countries shoot themselves in the foot when they veto sanctions a recent move by france makes talk of ‘strategic autonomy’ look like hot air">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 8.99 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: sanctions">9.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">🚫 Sanctions</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/9e9f0cbd-ef77-4e19-8f6e-97063e9fe9fc?syn-25a6b1a6=1" target="_blank" rel="noopener">EU countries shoot themselves in the foot when they veto sanctions</a></h3>
+  <p class="preview card-detail">A recent move by France makes talk of ‘strategic autonomy’ look like hot air</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-04">Sun, 04 Oct 2026 11:00:08</time>
+    <span class="kw-hint">🔑 sanctions</span>
+  </div>
+</article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="8.95" data-date="2026-10-07" data-themes="central_bank" data-text="french central bank chief says ecb intervention not needed to ease bond rout emmanuel moulin also hit out at ‘trump-style’ threats against him from the far-left">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 8.95 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: ecb, bond">9.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">🏛️ Central Bank</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1" target="_blank" rel="noopener">French central bank chief says ECB intervention not needed to ease bond rout</a></h3>
+  <p class="preview card-detail">Emmanuel Moulin also hit out at ‘Trump-style’ threats against him from the far-left</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-07">Wed, 07 Oct 2026 12:19:11</time>
+    <span class="kw-hint">🔑 ecb, bond</span>
+  </div>
 </article></div></div></div>
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (312 articles)</div>
-    <div id="cards-all"><article class="card card-alert" data-score="19.07" data-date="2026-10-08" data-themes="war_conflict" data-text="oil majors look beyond middle east war in pursuit of region’s vast reserves western groups look to new investment opportunities despite the chaos and heightened risks caused by the conflict with iran">
+    <div class="section-title">Historique complet — 7 derniers jours (310 articles)</div>
+    <div id="cards-all"><article class="card card-alert" data-score="19.43" data-date="2026-10-09" data-themes="oil_energy" data-text="the energy crisis is changing what investors want from oil majors iran conflict has snarled up usually free-flowing energy markets">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 19.43 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: conflict, oil, energy crisis, crisis">19.4 <sup>ℹ</sup></span>
+    <span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/7b354a5d-9702-407a-a4bc-8703c6ba7b72?syn-25a6b1a6=1" target="_blank" rel="noopener">The energy crisis is changing what investors want from oil majors</a></h3>
+  <p class="preview card-detail">Iran conflict has snarled up usually free-flowing energy markets</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:32</time>
+    <span class="kw-hint">🔑 conflict, oil, energy crisis, crisis</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="19.07" data-date="2026-10-08" data-themes="war_conflict" data-text="oil majors look beyond middle east war in pursuit of region’s vast reserves western groups look to new investment opportunities despite the chaos and heightened risks caused by the conflict with iran">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
     <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 19.07 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, conflict, middle east, oil">19.1 <sup>ℹ</sup></span>
@@ -486,20 +500,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-08">Thu, 08 Oct 2026 04:00:26</time>
     <span class="kw-hint">🔑 war, conflict, middle east, oil</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="16.89" data-date="2026-10-02" data-themes="war_conflict" data-text="firstft: putin has told military to abandon rules of war, zelenskyy says also in today’s newsletter: us sends more troops to middle east and bond sell-off">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 16.89 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, military, middle east, bond">16.9 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/56b239fb-3c85-4b8e-a274-d028d3b153a0?syn-25a6b1a6=1" target="_blank" rel="noopener">FirstFT: Putin has told military to abandon rules of war, Zelenskyy says</a></h3>
-  <p class="preview card-detail">Also in today’s newsletter: US sends more troops to Middle East and bond sell-off</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:31:00</time>
-    <span class="kw-hint">🔑 war, military, middle east, bond</span>
   </div>
 </article>
 <article class="card card-alert" data-score="16.25" data-date="2026-10-03" data-themes="sanctions_major" data-text="zelenskyy asked trump to block russia and china’s starlink rival ukraine’s president says he requested his us counterpart to impose sanctions on companies involved in developing ‘rassvet’">
@@ -614,20 +614,6 @@
     <span class="kw-hint">🔑 war, russia</span>
   </div>
 </article>
-<article class="card card-alert" data-score="11.98" data-date="2026-10-02" data-themes="war_conflict" data-text="us refiners reap windfall profits as wars push up fuel prices for consumers oil producer income has drawn scrutiny but lower-profile refiners have posted a fourfold increase in margins">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.98 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: war, oil">12.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/118785e7-8637-46ad-a60c-286e51370848?syn-25a6b1a6=1" target="_blank" rel="noopener">US refiners reap windfall profits as wars push up fuel prices for consumers</a></h3>
-  <p class="preview card-detail">Oil producer income has drawn scrutiny but lower-profile refiners have posted a fourfold increase in margins</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:15</time>
-    <span class="kw-hint">🔑 war, oil</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="11.87" data-date="2026-10-07" data-themes="war_conflict" data-text="iran war blows near-£12bn hole in britain’s public finances ft estimates show inflation and soaring borrowing costs have slashed chancellor john healey’s headroom in half">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -642,46 +628,18 @@
     <span class="kw-hint">🔑 inflation, war</span>
   </div>
 </article>
-<article class="card card-alert" data-score="11.80" data-date="2026-10-02" data-themes="war_conflict" data-text="quant hedge funds reap big gains from global bond sell-off trend-following portfolios have latched on to sharp rise in yields this year as iran war and strong us economic data fuel inflation fears">
+<article class="card card-alert" data-score="11.75" data-date="2026-10-09" data-themes="war_conflict" data-text="us 10-year treasury yields risk hitting 6% for first time since 2000, pimco says bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.80 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: inflation, war, bond">11.8 <sup>ℹ</sup></span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.75 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, treasury, bond">11.7 <sup>ℹ</sup></span>
     <span class="theme-tag">⚔️ War/Conflict</span>
     <span class="alert-badge">🚨 ALERT</span>
   </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1" target="_blank" rel="noopener">Quant hedge funds reap big gains from global bond sell-off</a></h3>
-  <p class="preview card-detail">Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears</p>
+  <h3 class="card-title"><a href="https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1" target="_blank" rel="noopener">US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says</a></h3>
+  <p class="preview card-detail">Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets</p>
   <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    <span class="kw-hint">🔑 inflation, war, bond</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="11.77" data-date="2026-10-02" data-themes="war_conflict" data-text="uk universities comb records for china links after mi5 warning security agency’s alert highlights rising compliance pressures in sensitive research areas">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.77 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, china">11.8 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/b33a6f40-71fe-430d-a130-25f5f841aeb9?syn-25a6b1a6=1" target="_blank" rel="noopener">UK universities comb records for China links after MI5 warning</a></h3>
-  <p class="preview card-detail">Security agency’s alert highlights rising compliance pressures in sensitive research areas</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:33</time>
-    <span class="kw-hint">🔑 war, china</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="11.65" data-date="2026-10-02" data-themes="war_conflict" data-text="putin has told military leaders to abandon rules of war, zelenskyy says putin has told military leaders to abandon rules of war, zelenskyy says subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offer">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.65 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, military">11.6 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1" target="_blank" rel="noopener">Putin has told military leaders to abandon rules of war, Zelenskyy says</a></h3>
-  <p class="preview card-detail">Putin has told military leaders to abandon rules of war, Zelenskyy says Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly&#8230;</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:33</time>
-    <span class="kw-hint">🔑 war, military</span>
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:31</time>
+    <span class="kw-hint">🔑 war, treasury, bond</span>
   </div>
 </article>
 <article class="card card-alert" data-score="11.58" data-date="2026-10-02" data-themes="sanctions_major" data-text="polanski takes credit for israel sanctions and criticises bank of england party leader tells conference that ‘we change the government’ at start of potentially defining week">
@@ -1004,6 +962,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-08">Thu, 08 Oct 2026 12:38:45</time>
     <span class="kw-hint">🔑 ukraine, russia</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="7.47" data-date="2026-10-09" data-themes="sovereign_default" data-text="five ways to tell if market trouble lies ahead the cost of credit default swaps for ai companies looking to borrow is rising">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.47 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: default">7.5 <sup>ℹ</sup></span>
+    <span class="theme-tag">💀 Default</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1" target="_blank" rel="noopener">Five ways to tell if market trouble lies ahead</a></h3>
+  <p class="preview card-detail">The cost of credit default swaps for AI companies looking to borrow is rising</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:32</time>
+    <span class="kw-hint">🔑 default</span>
   </div>
 </article>
 <article class="card card-alert" data-score="7.40" data-date="2026-10-04" data-themes="sanctions_major" data-text="us to receive potash shipment from belarus as relations thaw washington has begun to ease sanctions on minsk in exchange for the release of political prisoners">
@@ -1440,6 +1412,20 @@
     <span class="kw-hint">🔑 treasury, bond</span>
   </div>
 </article>
+<article class="card" data-score="4.59" data-date="2026-10-09" data-themes="" data-text="why bank stocks are falling despite surging interest rates if funding costs rise, the expanding profit margins banks have enjoyed may start to reverse">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.59 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: interest rate">4.6 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1" target="_blank" rel="noopener">Why bank stocks are falling despite surging interest rates</a></h3>
+  <p class="preview card-detail">If funding costs rise, the expanding profit margins banks have enjoyed may start to reverse</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:31</time>
+    <span class="kw-hint">🔑 interest rate</span>
+  </div>
+</article>
 <article class="card" data-score="4.47" data-date="2026-10-04" data-themes="" data-text="bosnia elections pit eu hopes against russian influence serbian nationalists find ready support from moscow and a us eager for deals">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1522,20 +1508,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-05">Mon, 05 Oct 2026 17:33:36</time>
     <span class="kw-hint">🔑 oil</span>
-  </div>
-</article>
-<article class="card" data-score="4.01" data-date="2026-10-02" data-themes="" data-text="global bond market steadies after sharp sell-off heavy selling this week pushed 10-year us treasury yields to their highest level since 2002">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: treasury, bond">4.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/4f2ad4c1-22b0-497b-88c8-197d7f301f79?syn-25a6b1a6=1" target="_blank" rel="noopener">Global bond market steadies after sharp sell-off</a></h3>
-  <p class="preview card-detail">Heavy selling this week pushed 10-year US Treasury yields to their highest level since 2002</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 05:09:09</time>
-    <span class="kw-hint">🔑 treasury, bond</span>
   </div>
 </article>
 <article class="card" data-score="3.96" data-date="2026-10-07" data-themes="" data-text="robust ai spending sets investors up for another bumper us earnings season robust ai spending sets investors up for another bumper us earnings season subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more of">
@@ -1690,6 +1662,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-08">Thu, 08 Oct 2026 15:17:53</time>
     <span class="kw-hint">🔑 russia</span>
+  </div>
+</article>
+<article class="card" data-score="3.39" data-date="2026-10-09" data-themes="" data-text="nobel laureate machado says venezuela is ‘ready’ for new elections exiled nobel peace prize laureate demands ‘transparency’ over oil revenues after deal with trump administration">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.39 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: oil">3.4 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/0d411bea-ee6a-4300-9b1e-cc5a6bba4b7c?syn-25a6b1a6=1" target="_blank" rel="noopener">Nobel laureate Machado says Venezuela is ‘ready’ for new elections</a></h3>
+  <p class="preview card-detail">Exiled Nobel Peace Prize laureate demands ‘transparency’ over oil revenues after deal with Trump administration</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:23:44</time>
+    <span class="kw-hint">🔑 oil</span>
   </div>
 </article>
 <article class="card" data-score="3.34" data-date="2026-10-05" data-themes="" data-text="trump poised to ease red diesel limits in attempt to quell fuel inflation donald trump poised to ease red diesel limits in attempt to quell fuel inflation subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore m">
@@ -2210,6 +2196,20 @@
     
   </div>
 </article>
+<article class="card" data-score="1.64" data-date="2026-10-09" data-themes="" data-text="some much-needed american optimism on europe siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.64 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.6 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1" target="_blank" rel="noopener">Some much-needed American optimism on Europe</a></h3>
+  <p class="preview card-detail">Siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:32</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.58" data-date="2026-10-02" data-themes="" data-text="us economy adds just 29,000 jobs in september as hiring slows sharply us economy adds just 29,000 jobs in september as hiring slows sharply subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers.">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2266,20 +2266,6 @@
     
   </div>
 </article>
-<article class="card" data-score="1.52" data-date="2026-10-02" data-themes="" data-text="zack polanski faces defining week as uk’s green surge falters party leader set for dispute over ‘zionism is racism’ motion, days before holborn by-election">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.52 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.5 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/249abfea-3275-40d0-ab98-306b225cbc02?syn-25a6b1a6=1" target="_blank" rel="noopener">Zack Polanski faces defining week as UK’s Green surge falters</a></h3>
-  <p class="preview card-detail">Party leader set for dispute over ‘Zionism is Racism’ motion, days before Holborn by-election</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    
-  </div>
-</article>
 <article class="card" data-score="1.45" data-date="2026-10-04" data-themes="" data-text="dealmaking slowdown threatens early end to m&a boom dealmaking slowdown threatens early end to m&a boom subscribe to unlock this article save over 40% on standard digital was undefined now undefined for your first year. save now on essential digital access to trusted ft journalism on any device. savings based on annualised monthly price. subscribe for undefined what’s included global news & analysis expert opinion ft app on android & ios ft edit app first ft: the day’s biggest stories 20+ curated newsletters follow topics and set up personalized alerts ft videos & podcasts 10 monthly gift articles to share explore more offers. trial undefined f">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2333,20 +2319,6 @@
   <p class="preview card-detail">Lex Subscribe to read Lex Silicon Valley’s acqui-hire ruse may have passed its prime Subscribe to Premium for access to our flagship investment column Subscribe now What our readers say "Expert, reliable, considered, actionable opinion" "Brief with no waffle, to the point and has real insight into t&#8230;</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-06">Tue, 06 Oct 2026 15:59:29</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.39" data-date="2026-10-02" data-themes="" data-text="‘the only answer is to show up’: black voters rally against redrawn electoral maps african americans in louisiana predict a backlash over a supreme court ruling that authorised constituency changes">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.39 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.4 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/83e9a7cb-95b4-48a8-9cdc-88d3fa8f03c0?syn-25a6b1a6=1" target="_blank" rel="noopener">‘The only answer is to show up’: Black voters rally against redrawn electoral maps</a></h3>
-  <p class="preview card-detail">African Americans in Louisiana predict a backlash over a Supreme Court ruling that authorised constituency changes</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:15:08</time>
     
   </div>
 </article>
@@ -2434,6 +2406,34 @@
     
   </div>
 </article>
+<article class="card" data-score="1.24" data-date="2026-10-09" data-themes="" data-text="softbank seeks $100bn from gulf investors to expand ai bet founder and chief executive masayoshi son has held talks with senior figures in the uae in recent weeks">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.24 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.2 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1" target="_blank" rel="noopener">SoftBank seeks $100bn from Gulf investors to expand AI bet</a></h3>
+  <p class="preview card-detail">Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:30:01</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.24" data-date="2026-10-09" data-themes="" data-text="a starbucks-chipotle merger offers the wrong kind of synergy the overlap between the two brands is unlikely to be enough to justify a takeover premium">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.24 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.2 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/4dabb3fd-70fd-46f1-9773-f38411ecb162?syn-25a6b1a6=1" target="_blank" rel="noopener">A Starbucks-Chipotle merger offers the wrong kind of synergy</a></h3>
+  <p class="preview card-detail">The overlap between the two brands is unlikely to be enough to justify a takeover premium</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:40</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.20" data-date="2026-10-07" data-themes="" data-text="we need a us debt conversation — will the republicans have one? borrowing heavily to finance tax cuts for the wealthy leaves us less prepared for emergencies when they come">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2501,6 +2501,20 @@
   <p class="preview card-detail">Berlin rejects state-owned Cosco’s takeover of a Hamburg port logistics group ‘on security concerns’</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-07">Wed, 07 Oct 2026 11:08:50</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.05" data-date="2026-10-09" data-themes="" data-text="drop in fiscal headroom better option than budget tax rises, says jim o’neill former burnham adviser tells ft that chancellor must not undermine confidence just as growth returns to economy">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.05 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.1 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/6cc1fe34-7235-424c-a80a-407fe9c13612?syn-25a6b1a6=1" target="_blank" rel="noopener">Drop in fiscal headroom better option than Budget tax rises, says Jim O’Neill</a></h3>
+  <p class="preview card-detail">Former Burnham adviser tells FT that chancellor must not undermine confidence just as growth returns to economy</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:32</time>
     
   </div>
 </article>
@@ -3582,6 +3596,20 @@
     
   </div>
 </article>
+<article class="card" data-score="0.98" data-date="2026-10-09" data-themes="" data-text="eu capitals caught between markets and metrics as debt fears rise also in this newsletter: putin meets his central asian frenemies">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.98 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/782c8c63-0db5-499e-8a0b-b7e263bc1f97?syn-25a6b1a6=1" target="_blank" rel="noopener">EU capitals caught between markets and metrics as debt fears rise</a></h3>
+  <p class="preview card-detail">Also in this newsletter: Putin meets his central Asian frenemies</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 05:00:02</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.93" data-date="2026-10-03" data-themes="" data-text="tories vow to scrap £100,000 ‘tax trap’ for uk’s higher earners badenoch says current threshold, introduced by previous conservative government, punishes parents for working more">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -3666,34 +3694,6 @@
     
   </div>
 </article>
-<article class="card" data-score="0.82" data-date="2026-10-02" data-themes="" data-text="the abu dhabi power broker facing his toughest test at manchester city khaldoon al-mubarak must battle to defend both the club and his own reputation in the face of a football finance scandal">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.82 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.8 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/871a70e6-7e3b-4add-b51c-88497b1919c3?syn-25a6b1a6=1" target="_blank" rel="noopener">The Abu Dhabi power broker facing his toughest test at Manchester City</a></h3>
-  <p class="preview card-detail">Khaldoon al-Mubarak must battle to defend both the club and his own reputation in the face of a football finance scandal</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:15</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.80" data-date="2026-10-02" data-themes="" data-text="monzo courts private equity after nubank walks away eleven-year-old uk fintech searching for growth capital after bruising year of boardroom tussles">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.80 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.8 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/57de6604-70a9-413a-a381-9ba82ec202ec?syn-25a6b1a6=1" target="_blank" rel="noopener">Monzo courts private equity after Nubank walks away</a></h3>
-  <p class="preview card-detail">Eleven-year-old UK fintech searching for growth capital after bruising year of boardroom tussles</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:33</time>
-    
-  </div>
-</article>
 <article class="card" data-score="0.80" data-date="2026-10-08" data-themes="" data-text="kirkland’s money machine goes dark the world’s highest-grossing law firm will stop sharing its financial figures with the legal industry’s flagship ranking of law firm profits and revenues">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -3719,20 +3719,6 @@
   <p class="preview card-detail">Hundreds of thousands of spectators are likely to endure the city-state’s worst air pollution in years</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-08">Thu, 08 Oct 2026 21:00:07</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.73" data-date="2026-10-02" data-themes="" data-text="amazon seeks to offload $8bn of nvidia chips to investors the move aims to improve the tech group’s balance sheet health as ai spending soars">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.73 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.7 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1" target="_blank" rel="noopener">Amazon seeks to offload $8bn of Nvidia chips to investors</a></h3>
-  <p class="preview card-detail">The move aims to improve the tech group’s balance sheet health as AI spending soars</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:33</time>
     
   </div>
 </article>
@@ -3789,6 +3775,20 @@
   <p class="preview card-detail">Governments should devote more effort to improving the investment climate itself</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-08">Thu, 08 Oct 2026 17:24:41</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.72" data-date="2026-10-09" data-themes="" data-text="manchester city: too big to fail? the sport is still shaped by the club’s acquisition in 2008">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.72 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.7 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1" target="_blank" rel="noopener">Manchester City: too big to fail?</a></h3>
+  <p class="preview card-detail">The sport is still shaped by the club’s acquisition in 2008</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:22</time>
     
   </div>
 </article>
@@ -3890,6 +3890,20 @@
     
   </div>
 </article>
+<article class="card" data-score="0.63" data-date="2026-10-09" data-themes="" data-text="university students will have to meet minimum entry standards to access loans move comes as uk government seeks to deal with concerns about proliferation of underqualified people on poor-quality courses">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.63 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.6 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/e7b87569-f660-4c96-8313-5af5b2bcb86a?syn-25a6b1a6=1" target="_blank" rel="noopener">University students will have to meet minimum entry standards to access loans</a></h3>
+  <p class="preview card-detail">Move comes as UK government seeks to deal with concerns about proliferation of underqualified people on poor-quality courses</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:32</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.59" data-date="2026-10-04" data-themes="" data-text="in defence of big business despite the lionisation of small companies, prosperity hinges on a handful of large firms">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -3915,6 +3929,20 @@
   <p class="preview card-detail">President says Washington and Tehran are having ‘productive discussions’</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-08">Thu, 08 Oct 2026 20:08:27</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.57" data-date="2026-10-09" data-themes="" data-text="famous italian winery loses 30,000 bottles worth €5mn in heist antinori says it hopes to ‘protect the market’ by alerting potential buyers">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.57 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.6 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/1b614d60-a5d3-4b9f-b3e8-63f51bdfd599?syn-25a6b1a6=1" target="_blank" rel="noopener">Famous Italian winery loses 30,000 bottles worth €5mn in heist</a></h3>
+  <p class="preview card-detail">Antinori says it hopes to ‘protect the market’ by alerting potential buyers</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:32</time>
     
   </div>
 </article>
@@ -3974,20 +4002,6 @@
     
   </div>
 </article>
-<article class="card" data-score="0.18" data-date="2026-10-02" data-themes="" data-text="paramount picked a bad time to fund a $110bn leveraged buyout david ellison’s media company sold $52bn in debt and got an investment-grade credit rating — albeit the lowest available">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.18 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.2 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/1b5ddda2-ac55-4d66-8bf4-bce62b80450d?syn-25a6b1a6=1" target="_blank" rel="noopener">Paramount picked a bad time to fund a $110bn leveraged buyout</a></h3>
-  <p class="preview card-detail">David Ellison’s media company sold $52bn in debt and got an investment-grade credit rating — albeit the lowest available</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    
-  </div>
-</article>
 <article class="card" data-score="0.18" data-date="2026-10-02" data-themes="" data-text="dyson reverses falling payouts with £750mn dividend manufacturing group founded by billionaire james dyson boosted payout to family holding company in 2025 despite fall in profits">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -4027,104 +4041,6 @@
   <p class="preview card-detail">Despite his hallowed status, some voters are growing disaffected with Brazil’s president in Guaribas, the cradle of his flagship Bolsa Família welfare programme</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-03">Sat, 03 Oct 2026 11:00:00</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-02" data-themes="" data-text="ai got smarter. the bills got harder to control powerful ai tools are burning through budgets, prompting a rethink of how the technology is priced ahead of frontier lab ipos">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://ig.ft.com/ai-tokens/?syn-25a6b1a6=1" target="_blank" rel="noopener">AI got smarter. The bills got harder to control</a></h3>
-  <p class="preview card-detail">Powerful AI tools are burning through budgets, prompting a rethink of how the technology is priced ahead of frontier lab IPOs</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:05</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-02" data-themes="" data-text="trump’s diesel threats could go very wrong — just look at the soyabean yes, nixon’s export ban did briefly suppress domestic prices but it had a huge long-term cost">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1" target="_blank" rel="noopener">Trump’s diesel threats could go very wrong — just look at the soyabean</a></h3>
-  <p class="preview card-detail">Yes, Nixon’s export ban did briefly suppress domestic prices but it had a huge long-term cost</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-02" data-themes="" data-text="no, ai is not similar to the manhattan project what is singular and novel about the current threat is that it was born out of the private sector">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/7b8336a1-6ac4-4f55-a987-b5f7cf6f4983" target="_blank" rel="noopener">No, AI is not similar to the Manhattan Project</a></h3>
-  <p class="preview card-detail">What is singular and novel about the current threat is that it was born out of the private sector</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-02" data-themes="" data-text="french high schools burn as student unrest spreads french prime minister and marine le pen blame far-left party for stoking violent protests">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/38176237-e89f-410c-979c-c8c5d68d041a?syn-25a6b1a6=1" target="_blank" rel="noopener">French high schools burn as student unrest spreads</a></h3>
-  <p class="preview card-detail">French prime minister and Marine Le Pen blame far-left party for stoking violent protests</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-02" data-themes="" data-text="a cathedral for plants: edinburgh’s newly restored palm houses the highlight of edinburgh’s royal botanic garden is not just an architectural marvel but a sanctuary for beauty, biodiversity and tales of the unexpected">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/39879593-7dd5-447f-bacd-8e691b050f53?syn-25a6b1a6=1" target="_blank" rel="noopener">A cathedral for plants: Edinburgh’s newly restored Palm Houses</a></h3>
-  <p class="preview card-detail">The highlight of Edinburgh’s Royal Botanic Garden is not just an architectural marvel but a sanctuary for beauty, biodiversity and tales of the unexpected</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-02" data-themes="" data-text="uk ministers resist union demands to rescue scottish steelmaker liberty steel dalzell has its main steel plate mill in motherwell and remains owned by sanjeev gupta’s faltering empire">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/232eac57-80af-4b06-ac48-7346c3df669d?syn-25a6b1a6=1" target="_blank" rel="noopener">UK ministers resist union demands to rescue Scottish steelmaker</a></h3>
-  <p class="preview card-detail">Liberty Steel Dalzell has its main steel plate mill in Motherwell and remains owned by Sanjeev Gupta’s faltering empire</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:23</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-02" data-themes="" data-text="george lucas’s $1bn museum of narrative art uses the force of storytelling the filmmaker’s vast los angeles edifice contains a fascinatingly eccentric mix of painting, illustration, film and fandom">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/626d0935-cab0-46a7-84ec-a7b180f7373f" target="_blank" rel="noopener">George Lucas’s $1bn Museum of Narrative Art uses the force of storytelling</a></h3>
-  <p class="preview card-detail">The filmmaker’s vast Los Angeles edifice contains a fascinatingly eccentric mix of painting, illustration, film and fandom</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-02">Fri, 02 Oct 2026 04:00:15</time>
     
   </div>
 </article>
@@ -4841,6 +4757,62 @@
     <time datetime="2026-10-08">Thu, 08 Oct 2026 23:01:09</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-10-09" data-themes="" data-text="syria funnels assets from assad cronies into secretive $50bn fund the syrian sovereign fund has taken control of a sprawling web of holdings and is seeking to entice gulf investors">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/7dd72c96-70dc-4d91-ad1c-eff13a54d6c5?syn-25a6b1a6=1" target="_blank" rel="noopener">Syria funnels assets from Assad cronies into secretive $50bn fund</a></h3>
+  <p class="preview card-detail">The Syrian Sovereign Fund has taken control of a sprawling web of holdings and is seeking to entice Gulf investors</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:22</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-10-09" data-themes="" data-text="labour holds off greens’ polanski to win london by-election uk’s ruling party wins holborn and st pancras by-election, seeing off challenge from zack polanski’s greens">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1" target="_blank" rel="noopener">Labour holds off Greens’ Polanski to win London by-election</a></h3>
+  <p class="preview card-detail">UK’s ruling party wins Holborn and St Pancras by-election, seeing off challenge from Zack Polanski’s Greens</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 06:52:21</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-10-09" data-themes="" data-text="firstft: softbank turns to gulf for $100bn in ai financing also in today’s newsletter: maersk’s shopping spree and ubs’s options">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/c49f7d52-4b43-4dc9-b21b-a61e8756152f?syn-25a6b1a6=1" target="_blank" rel="noopener">FirstFT: SoftBank turns to Gulf for $100bn in AI financing</a></h3>
+  <p class="preview card-detail">Also in today’s newsletter: Maersk’s shopping spree and UBS’s options</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:34:58</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-10-09" data-themes="" data-text="starbucks’ new era of financial engineering? the world’s leading coffee shop chain has explored a takeover of chipotle">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/e8b65126-4bb3-4a54-9027-8f121892b8c1?syn-25a6b1a6=1" target="_blank" rel="noopener">Starbucks’ new era of financial engineering?</a></h3>
+  <p class="preview card-detail">The world’s leading coffee shop chain has explored a takeover of Chipotle</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-09">Fri, 09 Oct 2026 04:00:31</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -4955,7 +4927,7 @@ new Chart(document.getElementById('chartDays'), {
   data: {
     labels: ["10-03", "10-04", "10-05", "10-06", "10-07", "10-08", "10-09"],
     datasets: [{
-      data: [27, 36, 51, 44, 56, 50, 0],
+      data: [27, 36, 51, 44, 56, 50, 17],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -4969,7 +4941,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [37, 4, 3, 2, 1, 1];
+const themeValues = [33, 4, 3, 2, 2, 2];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
