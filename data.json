@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Arctic sea routes boom as Gulf war and global warming divert shipping",
-      "link": "https://www.ft.com/content/2e0eb698-d4d3-4bcc-927a-2997df7709be?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 20:00:05 GMT",
-      "scrape_timestamp": "2026-10-02T22:42:24.315204+00:00",
-      "content": "Transits via Northern Sea Route quadruple as melting ice makes journey more passable and vessels avoid the Middle East",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
-      "link": "https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 21:03:19 GMT",
-      "scrape_timestamp": "2026-10-02T22:42:24.515343+00:00",
-      "content": "US attorney-general Todd Blanche says not having ‘any oversight’ of the central bank’s $2.5bn renovation project ‘isn’t necessarily a crime’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Two Iranian small-boat migrants charged with plotting attack on Jewish targets in Manchester",
-      "link": "https://www.ft.com/content/05fd286f-6fac-4479-b560-848970f32af5?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 21:56:54 GMT",
-      "scrape_timestamp": "2026-10-02T22:42:24.993937+00:00",
-      "content": "UK’s Counter Terrorism Policing said Salam Ahmadyan and Rahman Salehi may have been directed from Iran",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Widdecombe murder suspect charged with preparing terror acts against Farage",
-      "link": "https://www.ft.com/content/538ea132-4021-4095-8da3-9db41d42b19d?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 21:08:49 GMT",
-      "scrape_timestamp": "2026-10-02T22:42:25.194159+00:00",
-      "content": "UK’s Counter Terrorism Policing force charges Joshua Kerry after ‘complex investigation’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey set to delay difficult choices with ‘breathing space’ UK Budget",
-      "link": "https://www.ft.com/content/9df55c2e-e9c8-4a5a-a025-99fb459721d3?syn-25a6b1a6=1",
-      "published_date": "Fri, 02 Oct 2026 20:41:15 GMT",
-      "scrape_timestamp": "2026-10-02T22:42:25.594367+00:00",
-      "content": "Chancellor expected to focus statement on targeted help for households and businesses rather than tax rises on the scale of recent budgets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "India throws Modi a month-long birthday",
       "link": "https://www.ft.com/content/5135405d-f0da-4d30-80da-17379566a7ba?syn-25a6b1a6=1",
       "published_date": "Sat, 03 Oct 2026 01:09:15 GMT",
@@ -3508,11 +3453,66 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The hazy OpenAI growth metric driving Wall Street",
+      "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 20:57:10 GMT",
+      "scrape_timestamp": "2026-10-09T23:42:41.382661+00:00",
+      "content": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why OpenAI’s revenue numbers really matter",
+      "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 21:48:14 GMT",
+      "scrape_timestamp": "2026-10-09T23:42:41.582888+00:00",
+      "content": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "JD Vance says he will not watch Pentagon’s livestreamed execution",
+      "link": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 22:18:10 GMT",
+      "scrape_timestamp": "2026-10-09T23:42:42.584010+00:00",
+      "content": "Split reveals an emerging schism in the Republican Party over a plan to broadcast the killing of the Fort Hood shooter",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Flydubai co-pilot planned 9/11-style attack on Tel Aviv airport, UAE says",
+      "link": "https://www.ft.com/content/8f5225d4-539c-40e2-b9f5-19c1b5d6222d?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 20:27:56 GMT",
+      "scrape_timestamp": "2026-10-09T23:42:44.791702+00:00",
+      "content": "Chief prosecutor says aviator aimed to cause ‘the greatest possible loss of life’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Airlines sound the alarm as bleak winter looms",
+      "link": "https://www.ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 20:00:01 GMT",
+      "scrape_timestamp": "2026-10-09T23:42:44.991889+00:00",
+      "content": "The industry is reeling from the energy shock unleashed by the Iran war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-09T19:54:55.498236+00:00",
+  "last_updated": "2026-10-09T23:43:04.883037+00:00",
   "metadata": {
-    "total_runs": 3010,
+    "total_runs": 3011,
     "sources": [
       "Financial Times"
     ],
