@@ -2,50 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US deploys thousands of troops to Middle East as Trump weighs strikes on Iran",
-      "link": "https://www.ft.com/content/352e14c5-267d-4c8f-981d-6ae8bea531f9?syn-25a6b1a6=1",
-      "published_date": "Thu, 01 Oct 2026 21:05:29 GMT",
-      "scrape_timestamp": "2026-10-02T00:21:00.320230+00:00",
-      "content": "Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the end of November, a US official says",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
-      "link": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
-      "published_date": "Thu, 01 Oct 2026 21:20:36 GMT",
-      "scrape_timestamp": "2026-10-02T00:21:00.520425+00:00",
-      "content": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nike to cut jobs as it forecasts revenue decline in the coming year",
-      "link": "https://www.ft.com/content/08eeee4a-903b-4889-92ef-61ebaeea682a?syn-25a6b1a6=1",
-      "published_date": "Thu, 01 Oct 2026 22:07:54 GMT",
-      "scrape_timestamp": "2026-10-02T00:21:00.720622+00:00",
-      "content": "US sneaker and sportswear group to open an India campus under its turnaround plan",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Media outlet deepens antisemitism claims against French far right’s Jordan Bardella",
-      "link": "https://www.ft.com/content/e567ed25-d871-44ac-ad39-aee135eeb6d6?syn-25a6b1a6=1",
-      "published_date": "Thu, 01 Oct 2026 20:46:32 GMT",
-      "scrape_timestamp": "2026-10-02T00:21:02.656580+00:00",
-      "content": "Rassemblement National leader and Marine Le Pen’s right-hand man criticises report’s ‘so-called proof’ of his messages as a young activist",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Putin has told military leaders to abandon rules of war, Zelenskyy says",
       "link": "https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1",
       "published_date": "Fri, 02 Oct 2026 04:00:33 GMT",
@@ -3376,11 +3332,110 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Repeated US Treasury interventions risk an erosion of credibility",
+      "link": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 14:30:04 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:13.985623+00:00",
+      "content": "A key policy tool to stabilise stress in markets could turn into a source of moral hazard and deeper volatility",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US justice department orders playbook refresh for frauds on government",
+      "link": "https://www.ft.com/content/dbcc35ba-db23-4be3-b2c0-4a0d8ecb7375?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 20:35:55 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:14.386095+00:00",
+      "content": "Prosecutors told to deploy full range of powers to claw back funds and seek stiffer sentences",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Amex fined $350mn for failing to flag suspected money laundering",
+      "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 22:03:23 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:14.986876+00:00",
+      "content": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US to publicly execute former soldier by firing squad",
+      "link": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 22:28:10 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:15.187099+00:00",
+      "content": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mental health and ADHD diagnosis can cause harm, says official review",
+      "link": "https://www.ft.com/content/fa7d4016-a914-4f68-97bd-82081cbde886?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 23:01:09 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:15.956413+00:00",
+      "content": "Government-commissioned report calls for more opportunities to work and socialise for young people and rejects claims of ‘snowflake’ generation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US telcos stocks tumble after SpaceX announces spectrum acquisition",
+      "link": "https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 22:50:08 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:16.156650+00:00",
+      "content": "Elon Musk takes big step towards launching a Starlink mobile service for US consumers",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham set to launch crackdown on non-compete clauses",
+      "link": "https://www.ft.com/content/297ca864-737c-4112-b368-f21a20cc78d2?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 22:02:44 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:16.757406+00:00",
+      "content": "Prime minister expected to use speech to pledge action against restrictive practices in employment contracts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Singapore gears up for smog-choked Grand Prix",
+      "link": "https://www.ft.com/content/fbe78f9b-e71d-49dc-b03b-e762e073b658?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 21:00:07 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:16.957700+00:00",
+      "content": "Hundreds of thousands of spectators are likely to endure the city-state’s worst air pollution in years",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Is France too blasé about borrowing costs?",
+      "link": "https://www.ft.com/content/67a64928-6278-4a83-8f9c-4ec9dcf26039?syn-25a6b1a6=1",
+      "published_date": "Thu, 08 Oct 2026 20:00:00 GMT",
+      "scrape_timestamp": "2026-10-09T00:50:17.959103+00:00",
+      "content": "Rising bond yields raise concerns about wider contagion",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-08T20:22:12.854456+00:00",
+  "last_updated": "2026-10-09T00:50:34.498166+00:00",
   "metadata": {
-    "total_runs": 3006,
+    "total_runs": 3007,
     "sources": [
       "Financial Times"
     ],
