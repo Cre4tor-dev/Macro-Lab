@@ -3519,11 +3519,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+      "published_date": "Sat, 10 Oct 2026 18:14:28 GMT",
+      "scrape_timestamp": "2026-10-10T20:22:17.775540+00:00",
+      "content": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Riyadh airport suspends operations after missile strike injures dozens",
+      "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+      "published_date": "Sat, 10 Oct 2026 18:28:09 GMT",
+      "scrape_timestamp": "2026-10-10T20:22:19.577334+00:00",
+      "content": "Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Palestinian Authority blames Israeli ‘obstacles’ for latest election delay",
+      "link": "https://www.ft.com/content/0d80fea2-058c-440d-9339-667100ef35a9?syn-25a6b1a6=1",
+      "published_date": "Sat, 10 Oct 2026 16:18:13 GMT",
+      "scrape_timestamp": "2026-10-10T20:22:21.254315+00:00",
+      "content": "Mahmoud Abbas, who has been president for 21 years, says conditions are not conducive to holding elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-10T16:01:21.654043+00:00",
+  "last_updated": "2026-10-10T20:22:38.175167+00:00",
   "metadata": {
-    "total_runs": 3014,
+    "total_runs": 3015,
     "sources": [
       "Financial Times"
     ],
