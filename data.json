@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "India throws Modi a month-long birthday",
-      "link": "https://www.ft.com/content/5135405d-f0da-4d30-80da-17379566a7ba?syn-25a6b1a6=1",
-      "published_date": "Sat, 03 Oct 2026 01:09:15 GMT",
-      "scrape_timestamp": "2026-10-03T01:34:43.150937+00:00",
-      "content": "Nationwide festivities celebrating the prime minister come under a cloud of protests and youth discontent",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Chill out: Japan’s top vending machine maker now cools data centres",
-      "link": "https://www.ft.com/content/f76adfdd-295e-4d00-ad90-b52b7aab098c?syn-25a6b1a6=1",
-      "published_date": "Sat, 03 Oct 2026 01:00:07 GMT",
-      "scrape_timestamp": "2026-10-03T01:34:43.351107+00:00",
-      "content": "Fuji Electric reworks its refrigeration technology into energy-efficient cooling system for servers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "China, America and the new Great Game",
       "link": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
       "published_date": "Sat, 03 Oct 2026 04:00:30 GMT",
@@ -3508,11 +3486,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "GoPro’s decline puts Chinese camera rivals in the picture",
+      "link": "https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659?syn-25a6b1a6=1",
+      "published_date": "Sat, 10 Oct 2026 01:00:03 GMT",
+      "scrape_timestamp": "2026-10-10T03:24:59.479577+00:00",
+      "content": "DJI and Insta360 engaged in ‘civil war’ to become world’s top smart camera maker",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Northern Ireland’s Drumcree parade banned",
+      "link": "https://www.ft.com/content/84583bb0-dbd7-4623-851c-1f9381dfe280?syn-25a6b1a6=1",
+      "published_date": "Fri, 09 Oct 2026 23:05:48 GMT",
+      "scrape_timestamp": "2026-10-10T03:24:59.679735+00:00",
+      "content": "NI secretary Chris Bryant seeks to defuse tensions between Protestants and Catholics in the region",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-09T23:43:04.883037+00:00",
+  "last_updated": "2026-10-10T03:25:19.463029+00:00",
   "metadata": {
-    "total_runs": 3011,
+    "total_runs": 3012,
     "sources": [
       "Financial Times"
     ],
