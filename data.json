@@ -2,33 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Tories vow to scrap £100,000 ‘tax trap’ for UK’s higher earners",
-      "link": "https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0?syn-25a6b1a6=1",
-      "published_date": "Sat, 03 Oct 2026 21:00:03 GMT",
-      "scrape_timestamp": "2026-10-03T22:33:24.976556+00:00",
-      "content": "Badenoch says current threshold, introduced by previous Conservative government, punishes parents for working more",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Japanese and Korean shipbuilders deploy robots to take on China",
       "link": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
       "published_date": "Sun, 04 Oct 2026 01:00:04 GMT",
       "scrape_timestamp": "2026-10-04T02:15:24.801716+00:00",
       "content": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham reverses much of plan to scrap jury trials",
-      "link": "https://www.ft.com/content/31c97a5c-b312-46dd-b6fa-b507e9f18a63?syn-25a6b1a6=1",
-      "published_date": "Sat, 03 Oct 2026 23:01:04 GMT",
-      "scrape_timestamp": "2026-10-04T02:15:25.001943+00:00",
-      "content": "Ministers are scaling back a shake-up of the court system given the ‘strength of feeling’ over the proposals",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3554,9 +3532,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-10T20:22:38.175167+00:00",
+  "last_updated": "2026-10-10T23:59:11.638389+00:00",
   "metadata": {
-    "total_runs": 3015,
+    "total_runs": 3016,
     "sources": [
       "Financial Times"
     ],
