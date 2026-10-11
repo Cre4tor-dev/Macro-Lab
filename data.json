@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Germany’s Merz arrives in Kyiv to show support for Ukraine",
-      "link": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 07:54:21 GMT",
-      "scrape_timestamp": "2026-10-04T08:59:39.566522+00:00",
-      "content": "Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
-      "link": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 11:00:08 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:18.115459+00:00",
-      "content": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Subscribe for undefined What’s included Global news & analysis Expert opinion FT App on Android & iOS FT Edit app First FT: the day’s biggest stories 20+ curated newsletters Follow topics and set up personalized alerts FT Videos & Podcasts 10 monthly gift articles to share Explore more offers. Trial undefined for 4 weeks Then undefined per month. Complete digital access with exclusive insights and industry deep dives on any device. Cancel anytime during your trial. Select What's included Global news & analysis Expert opinion FT App on Android & iOS FT Edit: Access on iOS and web FirstFT: the day's biggest stories 20+ curated newsletters Follow topics & set alerts with myFT FT Videos & Podcasts 20 monthly gift articles to share Lex: FT's flagship investment column 15+ Premium newsletters by leading experts FT Digital Edition: our digitised print edition Premium Digital Complete coverage undefined per month Complete digital access with exclusive insights and industry deep dives on any device. Select What's included Global news & analysis Expert opinion FT App on Android & iOS FT Edit: Access on iOS and web FirstFT: the day's biggest stories 20+ curated newsletters Follow topics & set alerts with myFT FT Videos & Podcasts 20 monthly gift articles to share Lex: FT's flagship investment column 15+ Premium newsletters by leading experts FT Digital Edition: our digitised print edition Print Save over 65% was undefined now undefined for your first year Save now on our curated print edition delivered Monday - Saturday* plus our digitised print replica. Savings based on annual price. Select What's included Weekday Print Edition FT Weekend FT Digital Edition: our digitised print edition Global news & analysis Expert opinion Special features Exclusive FT analysis Check whether you already have free access via your university or organisation. Terms & Conditions apply *Hand delivery availability confirmed when you enter your address. Explore our full range of subscriptions. For individuals Discover all the plans currently available in your country Digital Print Print + Digital For multiple readers Digital access for organisations. Includes exclusive features and content. FT Professional Find out why",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "The US is looking more like Italy",
       "link": "https://www.ft.com/content/a2711e64-145b-4df6-baf7-56a3da7ed0b0?syn-25a6b1a6=1",
       "published_date": "Sun, 04 Oct 2026 12:00:08 GMT",
@@ -35,121 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Australian authorities probe Flydubai attacker’s links to country",
-      "link": "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 09:25:03 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:19.116482+00:00",
-      "content": "Recriminations among various governments escalate after attempted hijacking of flight from Dubai to Tel Aviv last week",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why the IPO market is booming and busting",
-      "link": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
-      "published_date": "Sun, 04 Oct 2026 09:29:09 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:19.516866+00:00",
-      "content": "Flotations have stalled and returns from new listings have been weak",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Investors look to shelter portfolios from rising AI concentration risks",
       "link": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
       "published_date": "Sun, 04 Oct 2026 12:00:08 GMT",
       "scrape_timestamp": "2026-10-04T14:40:19.717048+00:00",
       "content": "Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "BT weighs improved TalkTalk offer after initial approach rejected",
-      "link": "https://www.ft.com/content/d2d5a5a5-758f-472f-a2c7-1684955b0087",
-      "published_date": "Sun, 04 Oct 2026 11:03:09 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:21.193661+00:00",
-      "content": "Telecoms group seeks deal within days for debt-laden broadband provider",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "In defence of big business",
-      "link": "https://www.ft.com/content/a984ca27-786a-47be-a8b9-9d48201a9e7c?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 11:00:08 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:21.393854+00:00",
-      "content": "Despite the lionisation of small companies, prosperity hinges on a handful of large firms",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU countries shoot themselves in the foot when they veto sanctions",
-      "link": "https://www.ft.com/content/9e9f0cbd-ef77-4e19-8f6e-97063e9fe9fc?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 11:00:08 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:21.594035+00:00",
-      "content": "A recent move by France makes talk of ‘strategic autonomy’ look like hot air",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "What can revive the battered government bond market?",
-      "link": "https://www.ft.com/content/1a94931f-421e-4d0e-888a-7727f15c3d5f?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 11:00:08 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:21.994413+00:00",
-      "content": "Market Questions is the FT’s guide to the week ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain’s Budget needs to tame spending and boost growth",
-      "link": "https://www.ft.com/content/dfa07e3f-5557-46ba-8128-72f43aa6558d?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 10:00:07 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:22.194612+00:00",
-      "content": "Chancellor Healey can still make a low-key fiscal event a constructive one",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Sahel juntas launch TV channel with Russian backing",
-      "link": "https://www.ft.com/content/259b49a1-8eda-4e8d-84c7-45323988b07b?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 09:24:20 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:22.795188+00:00",
-      "content": "Military governments in Mali, Burkina Faso and Niger bet broadcaster will bolster popularity as they fight Islamist insurgencies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US to receive potash shipment from Belarus as relations thaw",
-      "link": "https://www.ft.com/content/9cbc0aea-259a-41eb-bbf4-ad8a674ca8b7?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 09:00:07 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:22.995400+00:00",
-      "content": "Washington has begun to ease sanctions on Minsk in exchange for the release of political prisoners",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Lula and Bolsonaro neck-and-neck as Brazilians head to polls",
-      "link": "https://www.ft.com/content/9972c7fa-ebed-4c0c-8ff6-17e66a547394?syn-25a6b1a6=1",
-      "published_date": "Sun, 04 Oct 2026 09:00:07 GMT",
-      "scrape_timestamp": "2026-10-04T14:40:23.195592+00:00",
-      "content": "A fourth term for leftist leader could temper US ambitions in Latin America",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3409,11 +3277,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The fall of Germany’s ex-spymaster",
+      "link": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-11T11:05:59.721251+00:00",
+      "content": "August Hanning is accused of having illegally purchased state secrets for over a decade",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The problem with your AI therapist",
+      "link": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 04:00:16 GMT",
+      "scrape_timestamp": "2026-10-11T11:05:59.921550+00:00",
+      "content": "Millions are turning to chatbots for help with mental health but a technology that can’t go beyond words won’t heal them",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why are our children not flourishing at school?",
+      "link": "https://www.ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4",
+      "published_date": "Sun, 11 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:00.121721+00:00",
+      "content": "AI is detonating the tired system of factory education that has predominated since the last century",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
+      "link": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:00.321931+00:00",
+      "content": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "India’s ‘Cockroach’ leaders released as movement calls for more protests",
+      "link": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 07:03:40 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:00.722290+00:00",
+      "content": "Abhijeet Dipke of the youth-led Cockroach Janta Party was let go by a court order as police tightened security in New Delhi",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump is failing to arrest decline in popularity, FT poll shows",
+      "link": "https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a",
+      "published_date": "Sun, 11 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:00.922466+00:00",
+      "content": "Voters increasingly doubt the president’s ability to steer the economy with weeks to go until elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US justice department probes TV networks over Trump pool coverage",
+      "link": "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 04:28:25 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:01.122635+00:00",
+      "content": "ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China’s growing debt burden limits space for economic stimulus",
+      "link": "https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:01.322950+00:00",
+      "content": "Mounting interest payments restrict headroom to revive domestic demand, say experts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Smelly seaweed and strong peso hurt tourism at Mexico’s beach resorts",
+      "link": "https://www.ft.com/content/7553fae9-f65a-4101-be93-cdac921d4c2f?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 10:00:06 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:01.852587+00:00",
+      "content": "Visits fall in hotspots such as Cancún, Tulum and Puerto Vallarta as US travellers go elsewhere",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK could be fast-tracked back into EU, pro-Brussels group argues",
+      "link": "https://www.ft.com/content/3aa9641e-55a6-45fd-bd08-1806306716e9?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 04:00:16 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:02.853405+00:00",
+      "content": "Best for Britain says alignment between London and bloc would speed up any rejoining process as Andy Burnham prepares ‘options’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Energy secretary pushes Healey for more Budget support on rising bills",
+      "link": "https://www.ft.com/content/cfb7a7a9-90c2-4ed9-8b3b-e8477430d77f?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:03.053516+00:00",
+      "content": "Miatta Fahnbulleh argues help for households should go beyond the most vulnerable ahead of a new year price rise",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Heart disease patients treated at home under new NHS scheme",
+      "link": "https://www.ft.com/content/b9822f5d-260a-4db0-8ab1-7551c5907a49?syn-25a6b1a6=1",
+      "published_date": "Sun, 11 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:03.854000+00:00",
+      "content": "Pioneering programme in London is on track to save hundreds of lives and millions of pounds for health service, data suggests",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What would Israel’s opposition do differently?",
+      "link": "https://www.ft.com/content/9a97cadd-ac19-432e-8850-090f59e8d00a",
+      "published_date": "Sun, 11 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-11T11:06:04.054105+00:00",
+      "content": "The Netanyahu government’s hardline security policy has alienated allies who are hoping the election will bring change",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-11T04:26:15.243487+00:00",
+  "last_updated": "2026-10-11T11:06:20.715510+00:00",
   "metadata": {
-    "total_runs": 3017,
+    "total_runs": 3018,
     "sources": [
       "Financial Times"
     ],
