@@ -13,17 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "The taxman comes for China’s offshore riches",
-      "link": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 02:27:55 GMT",
-      "scrape_timestamp": "2026-10-07T07:56:05.660430+00:00",
-      "content": "The taxman comes for China’s offshore riches Subscribe to unlock this article Save over 40% on Standard Digital was undefined now undefined for your first year. Save now on essential digital access to trusted FT journalism on any device. Savings based on annualised monthly price. Subscribe for undefined What’s included Global news & analysis Expert opinion FT App on Android & iOS FT Edit app First FT: the day’s biggest stories 20+ curated newsletters Follow topics and set up personalized alerts FT Videos & Podcasts 10 monthly gift articles to share Explore more offers. Trial undefined for 4 weeks Then undefined per month. Complete digital access with exclusive insights and industry deep dives on any device. Cancel anytime during your trial. Select What's included Global news & analysis Expert opinion FT App on Android & iOS FT Edit: Access on iOS and web FirstFT: the day's biggest stories 20+ curated newsletters Follow topics & set alerts with myFT FT Videos & Podcasts 20 monthly gift articles to share Lex: FT's flagship investment column 15+ Premium newsletters by leading experts FT Digital Edition: our digitised print edition Premium Digital Complete coverage undefined per month Complete digital access with exclusive insights and industry deep dives on any device. Select What's included Global news & analysis Expert opinion FT App on Android & iOS FT Edit: Access on iOS and web FirstFT: the day's biggest stories 20+ curated newsletters Follow topics & set alerts with myFT FT Videos & Podcasts 20 monthly gift articles to share Lex: FT's flagship investment column 15+ Premium newsletters by leading experts FT Digital Edition: our digitised print edition Print Save over 65% was undefined now undefined for your first year Save now on our curated print edition delivered Monday - Saturday* plus our digitised print replica. Savings based on annual price. Select What's included Weekday Print Edition FT Weekend FT Digital Edition: our digitised print edition Global news & analysis Expert opinion Special features Exclusive FT analysis Check whether you already have free access via your university or organisation. Terms & Conditions apply *Hand delivery availability confirmed when you enter your address. Explore our full range of subscriptions. For individuals Discover all the plans currently available in your country Digital Print Print + Digital For multiple readers Digital access for organisations. Includes exclusive features and content. FT Professional Find out why",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "What comes next with the energy shock?",
       "link": "https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1",
       "published_date": "Wed, 07 Oct 2026 04:00:12 GMT",
@@ -3464,11 +3453,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Home of London’s oldest restaurant, Rules, given to National Trust",
+      "link": "https://www.ft.com/content/1386e75c-d292-4e56-a6c5-c69b0b77ad7c?syn-25a6b1a6=1",
+      "published_date": "Tue, 13 Oct 2026 23:01:08 GMT",
+      "scrape_timestamp": "2026-10-14T02:45:33.644965+00:00",
+      "content": "Building in Covent Garden bequeathed to heritage charity to ensure 228-year institution remains ‘part of the city’s cultural life’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tougher competition for internships strains UK graduate jobs market",
+      "link": "https://www.ft.com/content/3a3d3eb8-ff86-418e-9704-c1ff601718c4?syn-25a6b1a6=1",
+      "published_date": "Tue, 13 Oct 2026 23:01:08 GMT",
+      "scrape_timestamp": "2026-10-14T02:45:33.845056+00:00",
+      "content": "Applications for summer internships rise 27% as students face ‘day zero’ fight to get ahead in increasingly automated recruitment process",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-13T23:31:16.883730+00:00",
+  "last_updated": "2026-10-14T02:45:51.116407+00:00",
   "metadata": {
-    "total_runs": 3028,
+    "total_runs": 3029,
     "sources": [
       "Financial Times"
     ],
