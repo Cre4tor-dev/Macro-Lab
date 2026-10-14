@@ -2,44 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "SEC warns asset managers against collaborating on activist campaigns",
-      "link": "https://www.ft.com/content/20557850-9cd1-4685-8238-f292023afc1f?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 19:04:36 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:54.810666+00:00",
-      "content": "US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump considers ‘terminating’ campaign advisers after Balkans trip",
-      "link": "https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 21:24:58 GMT",
-      "scrape_timestamp": "2026-10-08T00:35:00.326363+00:00",
-      "content": "President says Chris LaCivita and James Blair guiding pro-Russian party less than a month before midterms could be a ‘conflict’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Samsung quarterly profit surges to $80bn on AI chip demand",
       "link": "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1",
       "published_date": "Wed, 07 Oct 2026 23:30:24 GMT",
       "scrape_timestamp": "2026-10-08T00:35:00.526612+00:00",
       "content": "World’s largest memory-chip maker posts record earnings for the three months to September",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "AI upends Singapore’s ‘quant Olympics’",
-      "link": "https://www.ft.com/content/ec8b74b6-0cf7-4ded-abd4-85bde8a80df4?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 21:00:03 GMT",
-      "scrape_timestamp": "2026-10-08T00:35:00.726796+00:00",
-      "content": "Nigerian student Victor Ayebameru takes first place in competition that identifies future hedge fund stars",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -62,39 +29,6 @@
       "published_date": "Wed, 07 Oct 2026 23:01:03 GMT",
       "scrape_timestamp": "2026-10-08T00:35:02.175838+00:00",
       "content": "Slowdown comes as higher borrowing costs and economic uncertainty are damping buyer demand, survey finds",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: China rejects EU request for voluntary curbs on hybrid car exports",
-      "link": "https://www.ft.com/content/5539d473-604b-42b3-ba6d-0dbb3353957b?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 21:34:04 GMT",
-      "scrape_timestamp": "2026-10-08T00:35:02.376102+00:00",
-      "content": "Also in today’s newsletter: SpaceX credit risk jumps and India raises interest rates",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Fed minutes indicate broad agreement for another rate rise this year",
-      "link": "https://www.ft.com/content/acca8690-c230-4abc-b2c5-4a1d2f082753",
-      "published_date": "Wed, 07 Oct 2026 20:18:40 GMT",
-      "scrape_timestamp": "2026-10-08T00:35:02.976859+00:00",
-      "content": "Records from the Fed’s September decision showed a clear consensus",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Iran war blows near-£12bn hole in Britain’s public finances",
-      "link": "https://www.ft.com/content/2cb13aed-f6bf-4f45-b906-fa1194405a0c?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 20:00:03 GMT",
-      "scrape_timestamp": "2026-10-08T00:35:03.177271+00:00",
-      "content": "FT estimates show inflation and soaring borrowing costs have slashed chancellor John Healey’s headroom in half",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3464,11 +3398,77 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic revenue jumps to $16.8bn in third quarter",
+      "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 22:06:31 GMT",
+      "scrape_timestamp": "2026-10-14T22:51:11.694935+00:00",
+      "content": "AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its anticipated public listing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+      "link": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 20:36:40 GMT",
+      "scrape_timestamp": "2026-10-14T22:51:11.895133+00:00",
+      "content": "Investors rush into Treasuries as sell-off triggers demand for haven assets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Perella Weinberg and Piper Sandler abandon merger talks",
+      "link": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 20:16:29 GMT",
+      "scrape_timestamp": "2026-10-14T22:51:12.896129+00:00",
+      "content": "A deal would have created an independent investment bank with an equity value of more than $6bn",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia",
+      "link": "https://www.ft.com/content/4d22d333-e51c-4302-991e-444a17fac420?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 22:19:48 GMT",
+      "scrape_timestamp": "2026-10-14T22:51:13.696888+00:00",
+      "content": "Newly unsealed court filings say Abdulrahman Alfozan, his wife and a third family member had booked travel for October 12",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Badenoch sounds ‘alarm’ on potential Budget tax raid on banks",
+      "link": "https://www.ft.com/content/2ce6438a-7e9a-4984-9364-655bde5c9bf2?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 21:00:06 GMT",
+      "scrape_timestamp": "2026-10-14T22:51:15.295336+00:00",
+      "content": "Conservative leader’s intervention comes as investors warn of a potential hit to UK competitiveness",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Fed’s October Beige Book points to higher inflation",
+      "link": "https://www.ft.com/content/17eaf860-753a-4b0c-8d3c-8c771d735083",
+      "published_date": "Wed, 14 Oct 2026 20:51:56 GMT",
+      "scrape_timestamp": "2026-10-14T22:51:15.495528+00:00",
+      "content": "Growth was largely in manufacturing sectors largely connected to AI",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-14T19:03:55.779745+00:00",
+  "last_updated": "2026-10-14T22:51:33.489170+00:00",
   "metadata": {
-    "total_runs": 3032,
+    "total_runs": 3033,
     "sources": [
       "Financial Times"
     ],
