@@ -2,176 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002",
-      "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 14:22:47 GMT",
-      "scrape_timestamp": "2026-10-07T14:57:38.749494+00:00",
-      "content": "French, Italian and UK government bonds also come under pressure in volatile trading",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "SpaceX credit risk jumps on worries over its borrowing spree",
-      "link": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 18:05:37 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:51.996530+00:00",
-      "content": "Leap in credit default swaps tracking Elon Musk’s aerospace group follows an FT report that it is seeking to raise $40bn to buy Nvidia chips",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The online life of the Flydubai attacker",
-      "link": "https://www.ft.com/content/a92b9971-b32d-43f5-b078-a31beea62621?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 18:18:45 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:52.597192+00:00",
-      "content": "Co-pilot of flight 1073 gravitated towards the ‘manosphere’ and expressed misogynistic views",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China slaps down EU request for voluntary curbs on hybrid car exports",
-      "link": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 16:56:00 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:53.197901+00:00",
-      "content": "European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US oil trader takes $2bn gamble on tankers as carriers steer clear of Hormuz",
-      "link": "https://www.ft.com/content/ff76eda4-0c63-4fcd-a5a1-2729fbbffccc?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 15:00:05 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:53.398117+00:00",
-      "content": "American security push aims to spur Asian refining as diesel shortages stoke inflation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Kirkland & Ellis to stop disclosing financial performance",
-      "link": "https://www.ft.com/content/7380c978-9b65-4a07-8ce3-bdf88f2484d1?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 18:36:52 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:53.798486+00:00",
-      "content": "World’s highest-grossing law firm with $10.6bn in 2025 revenue volunteered data for leading industry profit ranking",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "SEC warns asset managers against collaborating on activist campaigns",
       "link": "https://www.ft.com/content/20557850-9cd1-4685-8238-f292023afc1f?syn-25a6b1a6=1",
       "published_date": "Wed, 07 Oct 2026 19:04:36 GMT",
       "scrape_timestamp": "2026-10-07T20:23:54.810666+00:00",
       "content": "US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Marco Rubio urges western countries to uphold traditional values",
-      "link": "https://www.ft.com/content/404bfe74-3778-4acc-8a01-329a6744b078?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 18:55:19 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:55.010880+00:00",
-      "content": "US secretary of state warns alternative is ‘atrophy, servitude and decline’ in Athens speech",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Tory inheritance tax pledge: do the sums add up?",
-      "link": "https://www.ft.com/content/1aa5c0f1-962d-4164-a375-74ac4bdd9d25?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 17:58:03 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:55.611467+00:00",
-      "content": "Conservative leader Kemi Badenoch says if her party wins the next election she will cut the number of families paying the levy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Chrysler Building taken over as New York luxury office market booms",
-      "link": "https://www.ft.com/content/d72a1a53-4989-4e48-88e7-5ca467708823?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 17:20:49 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:55.811669+00:00",
-      "content": "New owners to pay $235mn and plan an upgrade for the landmark suffering from low occupancy and disrepair",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Badenoch’s UK Conservatives are a work in progress",
-      "link": "https://www.ft.com/content/21d4101f-ba5e-49e9-8c38-6b38ed5f1ca3?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 17:00:15 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:56.212092+00:00",
-      "content": "Burnham’s leftward shift opens space in the centre. The Tories should occupy it",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Merz’s conservatives in new crisis over alleged support for AfD",
-      "link": "https://www.ft.com/content/1f101722-bfb7-4872-b7d9-70039c981615?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 16:24:57 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:56.612496+00:00",
-      "content": "Far-right party claims it secured votes from regional CDU lawmakers in Saxony-Anhalt",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Israelis commemorate victims of October 7 as election looms",
-      "link": "https://www.ft.com/content/5465abcc-4c04-4cee-a0bc-455a63533480?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 15:56:38 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:56.812705+00:00",
-      "content": "Hamas’s attack reverberates through Israeli politics three years on",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The important judgments for Healey in the coming Budget",
-      "link": "https://www.ft.com/content/b07bd481-a492-4b95-af55-914176f8d2b6?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 15:06:12 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:57.012930+00:00",
-      "content": "No fancy equations or AI models will illuminate the right path for the chancellor",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Badenoch promises to scrap inheritance tax on family homes",
-      "link": "https://www.ft.com/content/742f1f44-1b5f-4905-8a09-1c14bce54b4d?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 15:03:07 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:57.213119+00:00",
-      "content": "Pledge aims to cement Conservatives’ reputation as ‘party of home ownership’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Six things we learnt from the Tory party conference",
-      "link": "https://www.ft.com/content/63755a98-d187-4b92-b49c-5b33af666517?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 15:02:30 GMT",
-      "scrape_timestamp": "2026-10-07T20:23:57.413324+00:00",
-      "content": "The Conservatives’ annual gathering in Birmingham has closed with leader Kemi Badenoch focusing on the economy and homeowners",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3519,11 +3354,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy",
+      "link": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 17:23:04 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:34.717867+00:00",
+      "content": "UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Netflix to cut 1,000 jobs as growth concerns mount",
+      "link": "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 14:57:17 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:35.118281+00:00",
+      "content": "Streaming group faces pressure to boost viewer engagement after shares fall more than 40% in a year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
+      "link": "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 15:48:09 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:35.318519+00:00",
+      "content": "Exchange discussed putting legal tech unit into separate entity before valuations fall",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sally Rooney withdraws books from UK sale over support for Palestine Action",
+      "link": "https://www.ft.com/content/9209fd59-386b-4399-a870-0a3451548251?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 18:37:44 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:36.137434+00:00",
+      "content": "Irish novelist said publication of her books in Britain could be ‘a serious criminal offence’ after she pledged royalties to the banned group",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ministers to launch statutory probe of English authority led by Ben Houchen",
+      "link": "https://www.ft.com/content/a3621421-bee4-4e96-a5f2-28fa545e6397?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 18:09:59 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:36.337665+00:00",
+      "content": "Move reflects concern in Whitehall about governance and value for money at Tees Valley Combined Authority",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "London charity trustee leads Iranian propaganda body, tribunal hears",
+      "link": "https://www.ft.com/content/53cc8647-5ba9-4212-8515-8d40258553b9?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 18:07:22 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:36.537866+00:00",
+      "content": "Hearing marks the latest effort by the UK Charity Commission to tackle extreme rhetoric at some Shia Islamic religious organisations",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Palantir drops legal case against Sadiq Khan over cancelled £50mn contract",
+      "link": "https://www.ft.com/content/badcd536-6e53-4968-8fea-914ffc3d8d0c?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 16:35:41 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:37.338693+00:00",
+      "content": "US tech company set to be able to compete for future deals with the Met",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey’s Budget is a moment he must not miss",
+      "link": "https://www.ft.com/content/9f3713fb-6b0a-41f8-8ccc-b23f2395740e",
+      "published_date": "Wed, 14 Oct 2026 16:31:47 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:37.538893+00:00",
+      "content": "Avoiding bold choices this time would just mean postponing political and economic pain",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Transcription: Marine Le Pen en entretien avec le Financial Times",
+      "link": "https://www.ft.com/content/9acc4f6f-2faa-4ac1-aa7b-42166d677316?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 15:35:15 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:37.739098+00:00",
+      "content": "Roula Khalaf, Leila Abboud et Ben Hall interrogent la candidate à la présidentielle de 2027 sur l’Europe, Donald Trump et l’Ukraine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Unshackle workers from non-compete clauses",
+      "link": "https://www.ft.com/content/3c23e59b-f4c9-4837-b534-ec19fb77a0c8?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 14:04:54 GMT",
+      "scrape_timestamp": "2026-10-14T19:03:38.740179+00:00",
+      "content": "The restrictions on labour mobility hold back Britain’s growth and innovation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-14T14:11:40.027897+00:00",
+  "last_updated": "2026-10-14T19:03:55.779745+00:00",
   "metadata": {
-    "total_runs": 3031,
+    "total_runs": 3032,
     "sources": [
       "Financial Times"
     ],
