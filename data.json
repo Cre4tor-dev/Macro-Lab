@@ -13,28 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Houthi attacks on Saudi airports kill 3 people",
-      "link": "https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 09:44:41 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:49.972436+00:00",
-      "content": "Strikes are latest escalation in conflict between Riyadh and Iran-backed militants in Yemen",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Germany’s ex-spymaster admits holding files but denies treason",
-      "link": "https://www.ft.com/content/572b899b-0e36-4a90-aadc-776818e339c3?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 08:56:16 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:51.574267+00:00",
-      "content": "August Hanning’s lawyer says his client was ‘in possession’ of confidential documents but never paid for them or passed them on to foreign powers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
       "link": "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d?syn-25a6b1a6=1",
       "published_date": "Thu, 08 Oct 2026 14:06:07 GMT",
@@ -117,39 +95,6 @@
       "published_date": "Thu, 08 Oct 2026 12:38:14 GMT",
       "scrape_timestamp": "2026-10-08T14:12:54.250915+00:00",
       "content": "British prime minister discusses Global Combat Aircraft Programme with Chancellor Merz during talks in Berlin",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Cyber war won’t be the same in the age of AI",
-      "link": "https://www.ft.com/content/e069daa0-7d33-409f-9e52-1bd7b1cafdb6",
-      "published_date": "Thu, 08 Oct 2026 12:14:24 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:54.451113+00:00",
-      "content": "The old Russian maskirovka doctrine doesn’t apply when non-human agents create uncertainty for both attackers and defenders",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Royal Navy serviceman charged with spying for foreign power",
-      "link": "https://www.ft.com/content/12c60e75-48be-45f8-a763-02ad0b2c0f8c?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 12:08:56 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:54.651284+00:00",
-      "content": "Teddy Young, 24, appears at Westminster Magistrates’ Court accused of allegedly disclosing protected information to Russia",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Deloitte fined £6mn for audit failures at Southeastern rail operator",
-      "link": "https://www.ft.com/content/f21b32f5-011f-4716-a206-9382fd335fa6?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 11:58:56 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:55.051764+00:00",
-      "content": "Accounting watchdog criticises ‘highly concerning pattern of failure’ in work at Go-Ahead over five years",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3486,11 +3431,176 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump",
+      "link": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 10:05:55 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:33.839925+00:00",
+      "content": "Ukrainian leader’s comments about US president alarm European capitals",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Germany’s Merz vows to fight on: ‘We are the firewall’",
+      "link": "https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 12:00:08 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:34.240338+00:00",
+      "content": "Defiant chancellor tells the FT he is determined to drive through unpopular reforms and equip Europe for an age of upheaval",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "CoreWeave’s bonds scream financial distress",
+      "link": "https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b",
+      "published_date": "Thu, 15 Oct 2026 09:17:23 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:35.041437+00:00",
+      "content": "The company better hurry up figuring out how to tap insurers for cash",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Credit Suisse bankers denied bonuses stripped after UBS takeover",
+      "link": "https://www.ft.com/content/6607f0e4-6f99-46d1-a994-decafda46e16?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 11:46:19 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:35.241651+00:00",
+      "content": "Switzerland’s top court sides with government decision, overturning ruling of lower court",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Marsh to pay biggest share of $800mn settlement with Credit Suisse over Greensill collapse",
+      "link": "https://www.ft.com/content/43c9d38a-652a-45df-b3be-c3dead3390f1?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 04:00:39 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:35.441872+00:00",
+      "content": "Deal is rare example of broker bearing largest share of a settlement rather than insurers who wrote policies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "New ‘zero-click’ spyware hacked phones using targeted ads",
+      "link": "https://www.ft.com/content/b857f1ed-8af6-4d64-b059-912afee1c075?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:35.642091+00:00",
+      "content": "Citizen Lab researchers uncover Israeli-developed ‘AdFection’ technique that requires no interaction from victim to infect devices",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The housing plan for London is no plan at all",
+      "link": "https://www.ft.com/content/b83b0edc-0ea9-4933-a3a7-f8905137fae6",
+      "published_date": "Thu, 15 Oct 2026 12:00:08 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:36.772091+00:00",
+      "content": "Without radical changes, the GLA’s building targets are a fantasy — with dire consequences",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How the Greens lost their party to the hard left",
+      "link": "https://www.ft.com/content/b76da86e-2087-48de-bab7-7344457af340?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 11:48:13 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:37.172529+00:00",
+      "content": "The drift from climate politics towards becoming a portmanteau party of the left heralds a nastier, less consensual era",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia suspected of striking two tankers in Nato waters",
+      "link": "https://www.ft.com/content/f0975e34-5d18-4840-ae09-b998dd35d09e?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 11:08:51 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:37.573035+00:00",
+      "content": "Chemical tankers go up in flames off Romania after Russian drones were spotted in the area",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Northern Ireland politician sentenced to 15 years in jail for child sex crimes",
+      "link": "https://www.ft.com/content/b320379a-dfa1-43d5-b21c-5a4b12e3e0d5?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 11:07:07 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:37.773258+00:00",
+      "content": "Jeffrey Donaldson, former leader of the Democratic Unionist Party, had a ‘catastrophic descent into disgrace’, says judge",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Six must-see shows in Paris this autumn",
+      "link": "https://www.ft.com/content/659f0ebb-4092-4113-a686-2ae565d3f817",
+      "published_date": "Thu, 15 Oct 2026 11:00:08 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:37.973475+00:00",
+      "content": "Among the standout art exhibitions are retrospectives for impressionists Eva Gonzalès and Mary Cassatt, and Yu Nishimura’s first major European outing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "American Hagwon — lessons in the immigrant experience",
+      "link": "https://www.ft.com/content/56eab80b-2d63-4651-9938-52fe22cf0abd",
+      "published_date": "Thu, 15 Oct 2026 11:00:08 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:38.173686+00:00",
+      "content": "Min Jin Lee’s new family saga follows a Korean-American clan across continents, exploring education, ambition and their pursuit of belonging",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wave of Saudi Arabia events delayed after Houthi attacks",
+      "link": "https://www.ft.com/content/0be97035-3854-4b6c-8191-98f486862b02?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 10:53:04 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:38.373920+00:00",
+      "content": "EU-Gulf meeting and Formula 1 race among those postponed following missile strikes on Riyadh airport",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Reform UK councillors and candidates filmed making racist remarks",
+      "link": "https://www.ft.com/content/317796f3-af18-4acb-a482-ec0bdd0edf45?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 10:02:28 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:38.974548+00:00",
+      "content": "Undercover footage reveals racist and graphic sexual comments, leading to several resignations as party comes under fresh scrutiny",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Macroeconomic policy must now do many things at once",
+      "link": "https://www.ft.com/content/825b0ed4-060e-49dd-8199-b6accc393ff1?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-15T12:17:39.174836+00:00",
+      "content": "Is it possible to contain debt and inflation without damaging the investment needed to restructure the economy?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-15T06:44:02.904458+00:00",
+  "last_updated": "2026-10-15T12:17:55.491099+00:00",
   "metadata": {
-    "total_runs": 3035,
+    "total_runs": 3036,
     "sources": [
       "Financial Times"
     ],
