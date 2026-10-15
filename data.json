@@ -2,105 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz",
-      "link": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 14:01:10 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:49.772226+00:00",
-      "content": "Transit through vital waterway rose close to 90% of prewar levels last month but has since fallen sharply",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
-      "link": "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 14:06:07 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:52.648988+00:00",
-      "content": "A purchase of nearly $39bn market-value burrito chain would rank as largest restaurant acquisition of all time",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK investors face three-month wait to recoup money from property funds",
-      "link": "https://www.ft.com/content/96474d3e-7d61-4327-b6c2-ed37eecad3f8?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 14:03:35 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:52.849222+00:00",
-      "content": "FCA seeks to avoid repeat of fund suspensions during market turmoil by restricting immediate access to investments in illiquid assets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Avocado giant Mission Produce banks on orchards outside Mexico to help meet US demand",
-      "link": "https://www.ft.com/content/3f0d45e0-18a5-420d-8db4-d8224d87b8e6?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 14:00:03 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:53.249665+00:00",
-      "content": "Farms in Peru and Guatemala help offset import troubles from violence-stricken growing regions",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Former prince Andrew wins legal challenge over search warrants",
-      "link": "https://www.ft.com/content/38ad9d42-2244-46ae-a27a-be0f5031598d?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 13:42:40 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:53.449955+00:00",
-      "content": "Police accept unlawfulness of warrants obtained to search properties belonging to younger brother of King Charles",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "ECB minutes reflect cooler appetite for additional rate rises in September",
-      "link": "https://www.ft.com/content/1addf0e7-c13b-45ff-b29f-5b9f78667cee",
-      "published_date": "Thu, 08 Oct 2026 13:20:57 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:53.650184+00:00",
-      "content": "Governing council notes that inflation situation had worsened but that second-round effects remained absent",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "This US Senate race is putting Trump’s record with blue-collar voters to the test",
-      "link": "https://www.ft.com/content/467d5151-91bb-4463-8cda-3fd72b5b2627?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 13:00:03 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:53.850427+00:00",
-      "content": "Also in today’s newsletter, a US oil trader’s extraordinary $2bn gamble",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russian bomb attack kills dozens at Ukraine bus stop",
-      "link": "https://www.ft.com/content/fb4d6b18-3b72-473c-90a5-3864c1dad27e?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 12:38:45 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:54.050652+00:00",
-      "content": "At least 30 die after aerial strike hits two passenger buses in frontline city of Kramatorsk",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK open to Germany joining fighter jet programme as Burnham bids for deeper ties",
-      "link": "https://www.ft.com/content/3d482d55-dc7d-44d9-9ad3-a374e6d5e97d?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 12:38:14 GMT",
-      "scrape_timestamp": "2026-10-08T14:12:54.250915+00:00",
-      "content": "British prime minister discusses Global Combat Aircraft Programme with Chancellor Merz during talks in Berlin",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "OpenAI annualised revenues $20bn less than previously signalled",
       "link": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
       "published_date": "Thu, 08 Oct 2026 20:15:57 GMT",
@@ -123,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Daughter of Trump’s chief of staff works at firm that lobbies for Republika Srpska",
-      "link": "https://www.ft.com/content/c163a470-e73f-4fdb-91fb-426004b21f22?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 15:17:53 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:53.785668+00:00",
-      "content": "Susie Wiles’s daughter is latest White House-linked adviser to the Russian-aligned Balkan entity",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US adds torture charges to case against former Venezuelan president",
       "link": "https://www.ft.com/content/19a73ec7-a014-4776-bef7-4aa34e5b543a?syn-25a6b1a6=1",
       "published_date": "Thu, 08 Oct 2026 19:03:46 GMT",
@@ -150,61 +40,6 @@
       "published_date": "Thu, 08 Oct 2026 20:08:27 GMT",
       "scrape_timestamp": "2026-10-08T20:21:55.290329+00:00",
       "content": "President says Washington and Tehran are having ‘productive discussions’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Setting up an African rating agency is the easy part",
-      "link": "https://www.ft.com/content/30034598-7ca3-4379-b91c-dc7ef419ad40?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 17:24:41 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:56.091097+00:00",
-      "content": "Governments should devote more effort to improving the investment climate itself",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Big Tech sets out its pitches on AI agents",
-      "link": "https://www.ft.com/content/9884d785-8ddc-43a6-ac8d-b9c7f9a99df3?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 16:44:08 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:56.891928+00:00",
-      "content": "Race to develop new services has moved into high gear with a series of launches",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US mortgage rates rise for seventh straight week to hit highest since 2023",
-      "link": "https://www.ft.com/content/04d6ae65-5d5f-4ed6-9c15-16aa0f4d0713?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 16:38:09 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:57.092098+00:00",
-      "content": "Benchmark borrowing costs continue to climb against backdrop of surging Treasury yields, elevated energy prices and expected tightening by Fed",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Two Latvian nationals arrested on suspicion of trespass at RAF base",
-      "link": "https://www.ft.com/content/b2325cbe-44b6-4941-a60d-97fd9cff47ce?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 16:24:34 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:57.292307+00:00",
-      "content": "Men arrested inside perimeter of Cambridgeshire military facility on suspicion of ‘entering a prohibited place for a purpose prejudicial to the UK’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Repeated US Treasury interventions risk an erosion of credibility",
-      "link": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 14:30:04 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:13.985623+00:00",
-      "content": "A key policy tool to stabilise stress in markets could turn into a source of moral hazard and deeper volatility",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3596,11 +3431,187 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
+      "link": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 15:25:47 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:48.232897+00:00",
+      "content": "Debt issued by AI infrastructure providers and neocloud companies has sunk towards stressed territory",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Risk of an AI crunch for stock markets is rising",
+      "link": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 16:53:57 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:48.433046+00:00",
+      "content": "The tremor seen this week could be a foretaste of things to come",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Republicans fund midterms ad blitz as Democrats gain in polls",
+      "link": "https://www.ft.com/content/481f7865-b6bb-40b8-9ee2-7554f6914007?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:49.033394+00:00",
+      "content": "The president’s party is shifting spending on advertising to previously safe seats as election day approaches",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump cancels Hegseth’s plan to livestream execution after backlash",
+      "link": "https://www.ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 16:56:48 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:49.834029+00:00",
+      "content": "US president overrules decision to broadcast execution of former soldier who carried out Texas mass shooting in 2009",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France and Germany to allow UK to join EU car policy if it aligns on China tariffs",
+      "link": "https://www.ft.com/content/f8e99974-9f18-4141-ac4a-1f072b7ebb24?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 17:05:37 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:51.084746+00:00",
+      "content": "Paris and Berlin near deal on bloc’s ‘Made in Europe’ subsidy programme and combustion engine phaseout",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe cannot rely on trade barriers to counter China",
+      "link": "https://www.ft.com/content/8890bf3f-f243-4bd0-8e2f-f80c78e363f8?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 16:35:09 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:51.284898+00:00",
+      "content": "The EU’s hybrid car deal with Beijing eases tensions but only offers a brief respite",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "In AI-dominated markets, LatAm debt is a diversifier",
+      "link": "https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264",
+      "published_date": "Thu, 15 Oct 2026 15:51:35 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:51.685147+00:00",
+      "content": "A series of ostensibly market-friendly electoral victories across the region has boosted local currency bonds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mercuria adds first copper to US Project Vault stockpile",
+      "link": "https://www.ft.com/content/37d24217-acd8-4f84-a298-4f1ccc359a27?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 15:43:26 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:51.885298+00:00",
+      "content": "Trading house confirms 12,000-tonne delivery to Washington’s new $12bn reserve of strategic metals and minerals",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hold philanthropists accountable when their projects fail",
+      "link": "https://www.ft.com/content/fff4d860-5652-427a-b99d-19ce370d2dc3",
+      "published_date": "Thu, 15 Oct 2026 15:34:46 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:52.085435+00:00",
+      "content": "Despite disappointing results, an African agricultural initiative funded by prominent foundations is being recapitalised",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Former Everton bidder Josh Wander to plead guilty in US fraud case",
+      "link": "https://www.ft.com/content/0a436452-c1a1-492a-b5be-92848ed5e6e7?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 15:33:40 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:52.285625+00:00",
+      "content": "777 Partners co-founder expected to change plea one day before trial over alleged scheme to defraud investors and lenders",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Monte dei Paschi should try the ‘just say maybe’ bid defence",
+      "link": "https://www.ft.com/content/33aca8da-f22c-41e5-8255-289ae7d58ee7?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 14:23:10 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:52.685858+00:00",
+      "content": "Even a much-weakened MPS could try to argue that it deserves a better deal",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anglo American chief says tech giants show ‘deep interest’ in mining stakes",
+      "link": "https://www.ft.com/content/15d18ed4-543d-4004-ae38-f429a118daab?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 14:19:54 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:52.886026+00:00",
+      "content": "Duncan Wanblad says scarcity concerns are prompting companies to seek ways to secure long-term supplies of metals",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Thames Water’s senior creditors near deal with rivals to avoid court challenge",
+      "link": "https://www.ft.com/content/cbfd494d-cc11-4162-8618-77cc2caa806b?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 14:16:22 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:53.086189+00:00",
+      "content": "Bondholders set to grant slice of equity to junior creditors to smooth path of utility takeover",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rising inflation piles pressure on US voters ahead of midterm elections",
+      "link": "https://www.ft.com/content/f344bdb0-7bc9-43ab-804e-88990d59091e?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 13:00:02 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:53.286358+00:00",
+      "content": "Also in today’s newsletter, are Democrats developing an advantage among independent voters?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Labour to end power-sharing with Green councils that back ‘Zionism is Racism’",
+      "link": "https://www.ft.com/content/c8721dd3-6744-4849-960f-6654cef1e80b?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 12:43:31 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:53.486499+00:00",
+      "content": "Party orders local groups to terminate arrangements if partners do not condemn motion",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey promises to ‘stay the path’ on reducing UK deficit",
+      "link": "https://www.ft.com/content/246e950b-e1e5-4f12-af78-4a13433f3977?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 12:42:32 GMT",
+      "scrape_timestamp": "2026-10-15T17:29:53.686615+00:00",
+      "content": "Chancellor makes vow at annual gathering of IMF and World Bank in Bangkok",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-15T12:17:55.491099+00:00",
+  "last_updated": "2026-10-15T17:30:10.004255+00:00",
   "metadata": {
-    "total_runs": 3036,
+    "total_runs": 3037,
     "sources": [
       "Financial Times"
     ],
