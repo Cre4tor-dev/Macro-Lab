@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Samsung quarterly profit surges to $80bn on AI chip demand",
-      "link": "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 23:30:24 GMT",
-      "scrape_timestamp": "2026-10-08T00:35:00.526612+00:00",
-      "content": "World’s largest memory-chip maker posts record earnings for the three months to September",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China races to build AI data centres across energy-rich hinterland",
-      "link": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 00:15:04 GMT",
-      "scrape_timestamp": "2026-10-08T00:35:01.975552+00:00",
-      "content": "In the first report of a three-part series, how Inner Mongolia became the engine room for the nation’s vast AI ambition",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Higher mortgage rates inflict ‘pain’ on UK housing market",
-      "link": "https://www.ft.com/content/8d1cb8e2-ed48-4d7c-ac19-2693973894b4?syn-25a6b1a6=1",
-      "published_date": "Wed, 07 Oct 2026 23:01:03 GMT",
-      "scrape_timestamp": "2026-10-08T00:35:02.175838+00:00",
-      "content": "Slowdown comes as higher borrowing costs and economic uncertainty are damping buyer demand, survey finds",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow",
       "link": "https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1",
       "published_date": "Thu, 08 Oct 2026 04:00:09 GMT",
@@ -3464,11 +3431,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
+      "link": "https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 23:09:30 GMT",
+      "scrape_timestamp": "2026-10-15T01:06:12.591312+00:00",
+      "content": "European officials balked at proposal made by Donald Trump’s negotiators during meeting in Miami",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tata battle has potential to reshape India Inc",
+      "link": "https://www.ft.com/content/7ac46092-8397-4121-bdac-cf1ff6580054",
+      "published_date": "Wed, 14 Oct 2026 23:01:06 GMT",
+      "scrape_timestamp": "2026-10-15T01:06:14.945102+00:00",
+      "content": "If ties between key charitable trusts and the conglomerate’s holding company are loosened, will the group lose its distinctive ethos?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "One in 6 UK disability benefit claimants should not receive cash, says think-tank",
+      "link": "https://www.ft.com/content/e5f80295-1357-4ea3-8074-373e184785c5?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 23:01:06 GMT",
+      "scrape_timestamp": "2026-10-15T01:06:15.145253+00:00",
+      "content": "Shift to offering more practical, social and employment support would save £4.4bn a year, argues Resolution Foundation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Top UK law firms pull away from smaller rivals in race for profits",
+      "link": "https://www.ft.com/content/d685e248-058e-475c-8dd7-053b491e35ab?syn-25a6b1a6=1",
+      "published_date": "Wed, 14 Oct 2026 23:01:06 GMT",
+      "scrape_timestamp": "2026-10-15T01:06:15.345434+00:00",
+      "content": "Biggest firms for the first time took home more than half of the revenue pool of the top 100",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-14T22:51:33.489170+00:00",
+  "last_updated": "2026-10-15T01:06:37.542555+00:00",
   "metadata": {
-    "total_runs": 3033,
+    "total_runs": 3034,
     "sources": [
       "Financial Times"
     ],

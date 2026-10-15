@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-10-14 22:51 UTC</title>
+  <title>Macro Lab — 2026-10-15 01:06 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-10-14 22:51 UTC<br>Seuil alerte: 5.0 · 89 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-10-15 01:06 UTC<br>Seuil alerte: 5.0 · 90 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">315</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">316</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">89</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">90</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">3.6</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-10-14">Wed 14 Oct</option>
+        <option value="2026-10-15">Thu 15 Oct</option>
+<option value="2026-10-14">Wed 14 Oct</option>
 <option value="2026-10-13">Tue 13 Oct</option>
 <option value="2026-10-12">Mon 12 Oct</option>
 <option value="2026-10-11">Sun 11 Oct</option>
 <option value="2026-10-10">Sat 10 Oct</option>
 <option value="2026-10-09">Fri 09 Oct</option>
-<option value="2026-10-08">Thu 08 Oct</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -473,7 +473,7 @@
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (315 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (316 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="19.43" data-date="2026-10-09" data-themes="oil_energy" data-text="the energy crisis is changing what investors want from oil majors iran conflict has snarled up usually free-flowing energy markets">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1412,6 +1412,20 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="7.11" data-date="2026-10-14" data-themes="" data-text="us floats unfreezing some russian assets to restart ukraine peace talks european officials balked at proposal made by donald trump’s negotiators during meeting in miami">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.11 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: ukraine, russia">7.1 <sup>ℹ</sup></span>
+    
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1" target="_blank" rel="noopener">US floats unfreezing some Russian assets to restart Ukraine peace talks</a></h3>
+  <p class="preview card-detail">European officials balked at proposal made by Donald Trump’s negotiators during meeting in Miami</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-14">Wed, 14 Oct 2026 23:09:30</time>
+    <span class="kw-hint">🔑 ukraine, russia</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="7.11" data-date="2026-10-08" data-themes="war_conflict" data-text="real men don’t do climate change research on the gender differences in how people think about global warming suggests campaigns and communications may need a rethink">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1972,20 +1986,6 @@
     <span class="kw-hint">🔑 ukraine</span>
   </div>
 </article>
-<article class="card" data-score="3.79" data-date="2026-10-07" data-themes="" data-text="samsung quarterly profit surges to $80bn on ai chip demand world’s largest memory-chip maker posts record earnings for the three months to september">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.79 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: earnings">3.8 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1" target="_blank" rel="noopener">Samsung quarterly profit surges to $80bn on AI chip demand</a></h3>
-  <p class="preview card-detail">World’s largest memory-chip maker posts record earnings for the three months to September</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-07">Wed, 07 Oct 2026 23:30:24</time>
-    <span class="kw-hint">🔑 earnings</span>
-  </div>
-</article>
 <article class="card" data-score="3.66" data-date="2026-10-10" data-themes="" data-text="our 1990s nostalgia is far too rose-tinted it’s flattering to believe your generation could have been effortlessly cool. spoiler alert: most of us were not">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2291,20 +2291,6 @@
   <p class="preview card-detail">At last, the French and the Germans are getting serious about standing up to Beijing’s mercantilism</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-12">Mon, 12 Oct 2026 13:00:01</time>
-    <span class="kw-hint">🔑 china</span>
-  </div>
-</article>
-<article class="card" data-score="2.58" data-date="2026-10-08" data-themes="" data-text="china races to build ai data centres across energy-rich hinterland in the first report of a three-part series, how inner mongolia became the engine room for the nation’s vast ai ambition">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.58 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: china">2.6 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1" target="_blank" rel="noopener">China races to build AI data centres across energy-rich hinterland</a></h3>
-  <p class="preview card-detail">In the first report of a three-part series, how Inner Mongolia became the engine room for the nation’s vast AI ambition</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-08">Thu, 08 Oct 2026 00:15:04</time>
     <span class="kw-hint">🔑 china</span>
   </div>
 </article>
@@ -2826,6 +2812,20 @@
     
   </div>
 </article>
+<article class="card" data-score="1.13" data-date="2026-10-14" data-themes="" data-text="top uk law firms pull away from smaller rivals in race for profits biggest firms for the first time took home more than half of the revenue pool of the top 100">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.13 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.1 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/d685e248-058e-475c-8dd7-053b491e35ab?syn-25a6b1a6=1" target="_blank" rel="noopener">Top UK law firms pull away from smaller rivals in race for profits</a></h3>
+  <p class="preview card-detail">Biggest firms for the first time took home more than half of the revenue pool of the top 100</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-14">Wed, 14 Oct 2026 23:01:06</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.10" data-date="2026-10-12" data-themes="" data-text="labour plan to cut funds from heat pump scheme sparks industry backlash energy department ordered to find £2bn of savings as part of downing street drive to boost defence spending">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2977,6 +2977,20 @@
   <p class="preview card-detail">Groups known for battling the press set up US intelligence company co-led by a former senior CIA official</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-14">Wed, 14 Oct 2026 04:00:21</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.95" data-date="2026-10-14" data-themes="" data-text="one in 6 uk disability benefit claimants should not receive cash, says think-tank shift to offering more practical, social and employment support would save £4.4bn a year, argues resolution foundation">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.95 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/e5f80295-1357-4ea3-8074-373e184785c5?syn-25a6b1a6=1" target="_blank" rel="noopener">One in 6 UK disability benefit claimants should not receive cash, says think-tank</a></h3>
+  <p class="preview card-detail">Shift to offering more practical, social and employment support would save £4.4bn a year, argues Resolution Foundation</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-14">Wed, 14 Oct 2026 23:01:06</time>
     
   </div>
 </article>
@@ -3285,20 +3299,6 @@
   <p class="preview card-detail">Green co-deputy leader Mothin Ali says member-backed motion must be ‘respected’</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-14">Wed, 14 Oct 2026 13:16:38</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.70" data-date="2026-10-07" data-themes="" data-text="higher mortgage rates inflict ‘pain’ on uk housing market slowdown comes as higher borrowing costs and economic uncertainty are damping buyer demand, survey finds">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.70 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.7 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/8d1cb8e2-ed48-4d7c-ac19-2693973894b4?syn-25a6b1a6=1" target="_blank" rel="noopener">Higher mortgage rates inflict ‘pain’ on UK housing market</a></h3>
-  <p class="preview card-detail">Slowdown comes as higher borrowing costs and economic uncertainty are damping buyer demand, survey finds</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-07">Wed, 07 Oct 2026 23:01:03</time>
     
   </div>
 </article>
@@ -4883,6 +4883,20 @@
     <time datetime="2026-10-14">Wed, 14 Oct 2026 22:19:48</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-10-14" data-themes="" data-text="tata battle has potential to reshape india inc if ties between key charitable trusts and the conglomerate’s holding company are loosened, will the group lose its distinctive ethos?">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/7ac46092-8397-4121-bdac-cf1ff6580054" target="_blank" rel="noopener">Tata battle has potential to reshape India Inc</a></h3>
+  <p class="preview card-detail">If ties between key charitable trusts and the conglomerate’s holding company are loosened, will the group lose its distinctive ethos?</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-14">Wed, 14 Oct 2026 23:01:06</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -4995,9 +5009,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["10-08", "10-09", "10-10", "10-11", "10-12", "10-13", "10-14"],
+    labels: ["10-09", "10-10", "10-11", "10-12", "10-13", "10-14", "10-15"],
     datasets: [{
-      data: [50, 56, 28, 37, 37, 53, 52],
+      data: [56, 28, 37, 37, 53, 56, 0],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
