@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "OpenAI annualised revenues $20bn less than previously signalled",
-      "link": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 20:15:57 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:52.584407+00:00",
-      "content": "AI group recently told investors the critical figure was nearing $50bn in September, far less than the $70bn widely reported",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Microsoft banned from sponsoring foreign workers for US residency",
-      "link": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 19:45:47 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:53.585461+00:00",
-      "content": "Announcement impacting several tech groups marks White House’s latest attempt to limit immigration",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US adds torture charges to case against former Venezuelan president",
-      "link": "https://www.ft.com/content/19a73ec7-a014-4776-bef7-4aa34e5b543a?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 19:03:46 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:54.386303+00:00",
-      "content": "New York federal prosecutors allege Nicolás Maduro and his wife Cilia Flores conspired to commit torture of American citizens",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump says US ‘will not be attacking Iran’ before midterm elections",
-      "link": "https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 20:08:27 GMT",
-      "scrape_timestamp": "2026-10-08T20:21:55.290329+00:00",
-      "content": "President says Washington and Tehran are having ‘productive discussions’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US justice department orders playbook refresh for frauds on government",
-      "link": "https://www.ft.com/content/dbcc35ba-db23-4be3-b2c0-4a0d8ecb7375?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 20:35:55 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:14.386095+00:00",
-      "content": "Prosecutors told to deploy full range of powers to claw back funds and seek stiffer sentences",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Amex fined $350mn for failing to flag suspected money laundering",
       "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
       "published_date": "Thu, 08 Oct 2026 22:03:23 GMT",
@@ -117,17 +62,6 @@
       "published_date": "Thu, 08 Oct 2026 21:00:07 GMT",
       "scrape_timestamp": "2026-10-09T00:50:16.957700+00:00",
       "content": "Hundreds of thousands of spectators are likely to endure the city-state’s worst air pollution in years",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Is France too blasé about borrowing costs?",
-      "link": "https://www.ft.com/content/67a64928-6278-4a83-8f9c-4ec9dcf26039?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 20:00:00 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:17.959103+00:00",
-      "content": "Rising bond yields raise concerns about wider contagion",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3607,11 +3541,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Harvard’s endowment returns surge on back of AI and SpaceX investments",
+      "link": "https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 20:06:22 GMT",
+      "scrape_timestamp": "2026-10-15T20:42:56.040219+00:00",
+      "content": "Ivy League university’s fund gains 27.1%, boosting total assets to $68bn as private capital holdings rebound",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Meta and Apple team up on AI model tailored for Mac computers",
+      "link": "https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 20:00:23 GMT",
+      "scrape_timestamp": "2026-10-15T20:42:56.240389+00:00",
+      "content": "Partnership between Big Tech rivals offers ‘open’ system that users can download to their own devices",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks",
+      "link": "https://www.ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 19:12:29 GMT",
+      "scrape_timestamp": "2026-10-15T20:42:56.440559+00:00",
+      "content": "CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Commercial goods blocked from entry into Gaza",
+      "link": "https://www.ft.com/content/f60aaf56-a712-43a4-971d-6f1c8815bafa?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 19:51:28 GMT",
+      "scrape_timestamp": "2026-10-15T20:42:57.427017+00:00",
+      "content": "Israelis and Palestinians trade blame for the cut-off of new goods from the devastated enclave",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey signals bank tax raid in UK Budget",
+      "link": "https://www.ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 17:53:10 GMT",
+      "scrape_timestamp": "2026-10-15T20:42:57.827367+00:00",
+      "content": "Chancellor points to looming ‘decisions’ as financial services sector braces for higher levies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bankers and advisers set for £334mn easyJet payout",
+      "link": "https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 17:41:06 GMT",
+      "scrape_timestamp": "2026-10-15T20:42:58.027569+00:00",
+      "content": "Fees make Apollo’s £5.7bn takeover of airline one of the City’s most lucrative acquisitions this year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Criminals stole $90mn of crypto by hiding password readers in USB-like devices",
+      "link": "https://www.ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 17:23:18 GMT",
+      "scrape_timestamp": "2026-10-15T20:42:58.227757+00:00",
+      "content": "Ledger said theft from its secure wallets was ‘one of the most sophisticated attacks’ the industry has seen",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-15T17:30:10.004255+00:00",
+  "last_updated": "2026-10-15T20:43:16.611778+00:00",
   "metadata": {
-    "total_runs": 3037,
+    "total_runs": 3038,
     "sources": [
       "Financial Times"
     ],
