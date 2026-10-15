@@ -2,72 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Amex fined $350mn for failing to flag suspected money laundering",
-      "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 22:03:23 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:14.986876+00:00",
-      "content": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US to publicly execute former soldier by firing squad",
-      "link": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 22:28:10 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:15.187099+00:00",
-      "content": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Mental health and ADHD diagnosis can cause harm, says official review",
-      "link": "https://www.ft.com/content/fa7d4016-a914-4f68-97bd-82081cbde886?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 23:01:09 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:15.956413+00:00",
-      "content": "Government-commissioned report calls for more opportunities to work and socialise for young people and rejects claims of ‘snowflake’ generation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US telcos stocks tumble after SpaceX announces spectrum acquisition",
-      "link": "https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 22:50:08 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:16.156650+00:00",
-      "content": "Elon Musk takes big step towards launching a Starlink mobile service for US consumers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham set to launch crackdown on non-compete clauses",
-      "link": "https://www.ft.com/content/297ca864-737c-4112-b368-f21a20cc78d2?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 22:02:44 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:16.757406+00:00",
-      "content": "Prime minister expected to use speech to pledge action against restrictive practices in employment contracts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Singapore gears up for smog-choked Grand Prix",
-      "link": "https://www.ft.com/content/fbe78f9b-e71d-49dc-b03b-e762e073b658?syn-25a6b1a6=1",
-      "published_date": "Thu, 08 Oct 2026 21:00:07 GMT",
-      "scrape_timestamp": "2026-10-09T00:50:16.957700+00:00",
-      "content": "Hundreds of thousands of spectators are likely to endure the city-state’s worst air pollution in years",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
       "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
       "published_date": "Fri, 09 Oct 2026 04:30:01 GMT",
@@ -3618,11 +3552,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
+      "link": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 21:10:51 GMT",
+      "scrape_timestamp": "2026-10-15T23:25:31.485499+00:00",
+      "content": "A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Netflix replaces chief content officer in effort to arrest declining share price",
+      "link": "https://www.ft.com/content/9187726d-0f4c-4f05-b421-b5fc656522b9?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 22:46:27 GMT",
+      "scrape_timestamp": "2026-10-15T23:25:32.286487+00:00",
+      "content": "Former Disney and Fox executive Peter Rice will replace Bela Bajaria, who worked at the company for nearly a decade",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How India lost more than 100mn voters",
+      "link": "https://www.ft.com/content/a26ba5dd-e298-469f-8779-a40041addd47?syn-25a6b1a6=1",
+      "published_date": "Thu, 15 Oct 2026 21:00:04 GMT",
+      "scrape_timestamp": "2026-10-15T23:25:33.395261+00:00",
+      "content": "Critics say ‘aggressive’ review wrongly deleted eligible voters, many of them Muslim, and may have benefited PM Modi’s party",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-15T20:43:16.611778+00:00",
+  "last_updated": "2026-10-15T23:25:50.937189+00:00",
   "metadata": {
-    "total_runs": 3038,
+    "total_runs": 3039,
     "sources": [
       "Financial Times"
     ],
