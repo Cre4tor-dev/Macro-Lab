@@ -2,66 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "The hazy OpenAI growth metric driving Wall Street",
-      "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 20:57:10 GMT",
-      "scrape_timestamp": "2026-10-09T23:42:41.382661+00:00",
-      "content": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why OpenAI’s revenue numbers really matter",
-      "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 21:48:14 GMT",
-      "scrape_timestamp": "2026-10-09T23:42:41.582888+00:00",
-      "content": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "JD Vance says he will not watch Pentagon’s livestreamed execution",
-      "link": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 22:18:10 GMT",
-      "scrape_timestamp": "2026-10-09T23:42:42.584010+00:00",
-      "content": "Split reveals an emerging schism in the Republican Party over a plan to broadcast the killing of the Fort Hood shooter",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Flydubai co-pilot planned 9/11-style attack on Tel Aviv airport, UAE says",
-      "link": "https://www.ft.com/content/8f5225d4-539c-40e2-b9f5-19c1b5d6222d?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 20:27:56 GMT",
-      "scrape_timestamp": "2026-10-09T23:42:44.791702+00:00",
-      "content": "Chief prosecutor says aviator aimed to cause ‘the greatest possible loss of life’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "GoPro’s decline puts Chinese camera rivals in the picture",
       "link": "https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659?syn-25a6b1a6=1",
       "published_date": "Sat, 10 Oct 2026 01:00:03 GMT",
       "scrape_timestamp": "2026-10-10T03:24:59.479577+00:00",
       "content": "DJI and Insta360 engaged in ‘civil war’ to become world’s top smart camera maker",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Northern Ireland’s Drumcree parade banned",
-      "link": "https://www.ft.com/content/84583bb0-dbd7-4623-851c-1f9381dfe280?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 23:05:48 GMT",
-      "scrape_timestamp": "2026-10-10T03:24:59.679735+00:00",
-      "content": "NI secretary Chris Bryant seeks to defuse tensions between Protestants and Catholics in the region",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3640,11 +3585,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
+      "link": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 21:03:42 GMT",
+      "scrape_timestamp": "2026-10-16T23:08:16.611566+00:00",
+      "content": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brent hits 5-month high above $110 on continued tension in Middle East",
+      "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 20:55:28 GMT",
+      "scrape_timestamp": "2026-10-16T23:08:17.412305+00:00",
+      "content": "Oil prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at important energy hubs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey says new Heathrow runway would boost ‘growth’ despite Burnham wavering",
+      "link": "https://www.ft.com/content/d2d5efc6-e2e6-4342-a402-ada4b6c042ef?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 21:30:07 GMT",
+      "scrape_timestamp": "2026-10-16T23:08:18.134231+00:00",
+      "content": "Future of £33bn project has been put in doubt since new prime minister took office",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-16T20:16:07.824453+00:00",
+  "last_updated": "2026-10-16T23:08:36.254358+00:00",
   "metadata": {
-    "total_runs": 3044,
+    "total_runs": 3045,
     "sources": [
       "Financial Times"
     ],
