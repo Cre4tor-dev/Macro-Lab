@@ -3585,11 +3585,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "MSCI warns it may cut Indonesia from main indices",
+      "link": "https://www.ft.com/content/753fa2ed-1763-462b-a4c0-ded9b53baf3c?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 00:44:30 GMT",
+      "scrape_timestamp": "2026-10-16T02:18:29.387490+00:00",
+      "content": "Warning from global index provider fuels concerns about investability in south-east Asia’s biggest economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "India’s largest FDI in the banking sector",
+      "link": "https://www.ft.com/content/cd0e9788-3988-447d-8682-65db7a1558b1?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 01:30:06 GMT",
+      "scrape_timestamp": "2026-10-16T02:18:30.117439+00:00",
+      "content": "Plus, is the IT services sector turning around?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-15T23:25:50.937189+00:00",
+  "last_updated": "2026-10-16T02:18:47.919202+00:00",
   "metadata": {
-    "total_runs": 3039,
+    "total_runs": 3040,
     "sources": [
       "Financial Times"
     ],
