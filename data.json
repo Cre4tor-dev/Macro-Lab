@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Computer scientist David Silver: ‘Where are we going without AI?’",
-      "link": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 11:30:08 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:21.240438+00:00",
-      "content": "The architect of Google DeepMind’s AlphaGo on building machines that can teach themselves — and why he feels a moral obligation to advance the technology",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nobel Peace Prize awarded to human rights pioneer Navi Pillay",
       "link": "https://www.ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1",
       "published_date": "Fri, 09 Oct 2026 13:09:08 GMT",
@@ -84,105 +73,6 @@
       "published_date": "Fri, 09 Oct 2026 12:52:15 GMT",
       "scrape_timestamp": "2026-10-09T14:09:24.710093+00:00",
       "content": "Bond yields continue to push higher alongside tensions in the Middle East",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The ECB will sit on the sidelines during France’s debt sell-off",
-      "link": "https://www.ft.com/content/084bf164-ee7b-4744-a869-4dea488459f8",
-      "published_date": "Fri, 09 Oct 2026 12:39:39 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:24.910285+00:00",
-      "content": "That does not mean it can avoid making contingency plans to activate emergency measures",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "High earners are right to wail about  childcare costs",
-      "link": "https://www.ft.com/content/76cbf6b8-55a4-48b6-b309-c0d7b8e75990?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 12:09:09 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:25.110490+00:00",
-      "content": "Calls to remove the £100,000 earnings limit on childcare benefits show how broken our tax system really is",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ukraine strikes Russian tech giant’s data centres",
-      "link": "https://www.ft.com/content/b90417e7-4d32-48cc-a508-5d405e7cd2ee?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 11:55:51 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:25.310657+00:00",
-      "content": "Kyiv attacks facilities of Yandex, known as ‘Russia’s Google’, in retaliation for strikes on its digital infrastructure",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Student protests rock Paris as 7,000 detained",
-      "link": "https://www.ft.com/content/7c0e4294-0b7c-488c-8b76-ab2d411b8f66?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 11:18:42 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:25.510821+00:00",
-      "content": "Rioting high schoolers pile pressure on Emmanuel Macron’s government",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The FT Alphaville Pub Quiz returns to New York City on 17 November. Sign up NOW!",
-      "link": "https://www.ft.com/content/bf03380a-3193-4342-b300-bcbfd8f51187",
-      "published_date": "Fri, 09 Oct 2026 11:09:19 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:25.710989+00:00",
-      "content": "Fun times this way ↓↓↓",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "This Cursed Beautiful Land — Evan Gershkovich on being Putin’s human bargaining chip",
-      "link": "https://www.ft.com/content/f242bf0c-89bb-4263-b781-27438bad5088",
-      "published_date": "Fri, 09 Oct 2026 11:00:12 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:25.911173+00:00",
-      "content": "The American journalist’s prison memoir provides a rare glimpse into a brutal and secretive system with encounters that are both moving and compelling",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Germany Rearmed — a historic shift back to military power raises alarm",
-      "link": "https://www.ft.com/content/21b41e8f-3df3-4c77-8bdc-b71b7b3c8df5?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 11:00:11 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:26.111371+00:00",
-      "content": "Liana Fix on the possible reawakening of Europe’s old demons as Germany bolsters its arms industry",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘La dolce vita’ 2.0: Rome is luring homebuyers with a revamp",
-      "link": "https://www.ft.com/content/e414e834-28ec-4c33-87d8-48ffdd06dfa7",
-      "published_date": "Fri, 09 Oct 2026 11:00:11 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:26.311528+00:00",
-      "content": "The Eternal City’s antiquity was its blessing and its curse: beautiful but tourist-clogged and stuck in the past. But with billions in investment, foreign residents are flocking and the new-builds to cater to them are rising fast. Can it compete with London and Milan?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The struggle to fix Africa’s debt crisis",
-      "link": "https://www.ft.com/content/78cfa32b-b117-4c49-b061-72519878cd54?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 11:00:11 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:26.511726+00:00",
-      "content": "Is a growth-focused ‘reset’ the answer?",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3607,11 +3497,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Treasuries head for best week since February as AI jitters halt bond rout",
+      "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 11:45:56 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:19.750918+00:00",
+      "content": "Borrowing costs fall back from highest levels in decades as investors seek safety in government debt",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU vows to maintain Russia sanctions after US pivot",
+      "link": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 12:14:48 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:20.551904+00:00",
+      "content": "European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
+      "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:21.352832+00:00",
+      "content": "US president’s trade war has become an albatross for his party in crucial midterm election races",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Starlink spectrum deal piles Elon Musk’s plate ever higher",
+      "link": "https://www.ft.com/content/b3979904-2252-4934-9cff-729a815cb4b0?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 12:15:35 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:22.449037+00:00",
+      "content": "Move may be part of a bigger plan but it spells even more capital expenditure at a company already spending beyond its means",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "World’s oldest gunmaker expands American foothold after boardroom tussle",
+      "link": "https://www.ft.com/content/4dffb678-9d90-46fa-b98e-40f988057984?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 12:10:08 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:22.849501+00:00",
+      "content": "Beretta Holding seals strategic investment in rival gunmaker Sturm Ruger securing a 25% stake in a $107.5mn deal",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham: straight-talker or loose cannon?",
+      "link": "https://www.ft.com/content/247ab744-c56a-41cd-b391-502958c052f7?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 11:47:57 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:23.049713+00:00",
+      "content": "Plus, welfare reform and why the Lib Dems are turning on Ed Davey",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Shareholders should have a say on making AI safe",
+      "link": "https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd",
+      "published_date": "Fri, 16 Oct 2026 11:05:46 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:23.450096+00:00",
+      "content": "SEC decision to rescind key rule on voting could not have come at a worse time",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How Africa’s ‘wall’ to hold back the desert unravelled",
+      "link": "https://www.ft.com/content/13cbc4f0-6c8f-4b95-bbe8-7eb03a547727",
+      "published_date": "Fri, 16 Oct 2026 11:02:32 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:23.650378+00:00",
+      "content": "Grand ambition to plant 8,000km band of trees has fallen well short of its targets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The once-obscure tech at the heart of the green energy trade war",
+      "link": "https://www.ft.com/content/bc221890-6718-4792-967c-9828e96f38af?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 11:01:09 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:23.850633+00:00",
+      "content": "Power inverters are central to the global clean electricity boom but reliance on China is triggering security fears",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "In Bangkok, central bankers push back on market rate-tightening bets",
+      "link": "https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef",
+      "published_date": "Fri, 16 Oct 2026 10:51:55 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:24.050868+00:00",
+      "content": "Federal Reserve and ECB play down likelihood of October rate rises while BoE says data does not currently support substantial further tightening",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sizing CoreWeave’s ‘unlimited’ insurance capital",
+      "link": "https://www.ft.com/content/6b9b0cb6-2d47-46e4-bc00-febb182a5af7",
+      "published_date": "Fri, 16 Oct 2026 10:24:31 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:24.451345+00:00",
+      "content": "Quite big, but still quite far away",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘We’re potty for vintage Polo Ralph Lauren’",
+      "link": "https://www.ft.com/content/b739fd97-d839-4287-ab91-45fcedaec76a",
+      "published_date": "Fri, 16 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:24.851817+00:00",
+      "content": "The preppy imprint is getting its own festival. What makes it so popular?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Should I be stockpiling for an emergency?",
+      "link": "https://www.ft.com/content/c62481a2-eb6c-4ab8-b226-47efd50affcd?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-16T12:51:25.252312+00:00",
+      "content": "The apocalypse may be coming, but first there’s the question of where to store all the tinned tomatoes and bog roll",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-16T07:41:20.670596+00:00",
+  "last_updated": "2026-10-16T12:51:41.242432+00:00",
   "metadata": {
-    "total_runs": 3041,
+    "total_runs": 3042,
     "sources": [
       "Financial Times"
     ],
