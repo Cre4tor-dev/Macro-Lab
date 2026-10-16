@@ -2,83 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Nobel Peace Prize awarded to human rights pioneer Navi Pillay",
-      "link": "https://www.ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 13:09:08 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:21.841014+00:00",
-      "content": "Prize given to South African human rights lawyer for her efforts to promote peace and international law",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "India’s interest rate rise tests an economy of two speeds",
-      "link": "https://www.ft.com/content/4e84539f-b7a1-4dd2-b475-14afb04bdde3?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 13:30:09 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:23.709083+00:00",
-      "content": "Plus, meet the Tata kingmaker",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Lib Dem MP launches attempt to topple leader Ed Davey",
-      "link": "https://www.ft.com/content/523fa1fa-0764-47d6-907b-4f72bd4a6cc0?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 13:25:36 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:23.909280+00:00",
-      "content": "Resignation of Treasury spokesperson Charlie Maynard comes amid frustration about centre-left party’s sagging poll ratings",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China and EU reach ‘understanding’ on hybrid cars, Beijing says",
-      "link": "https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 13:11:11 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:24.109488+00:00",
-      "content": "Statement follows two days of talks aimed at avoiding full-scale trade conflict",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Submit your questions: who’s doing better in their trade battles with China — the EU or the US?",
-      "link": "https://www.ft.com/content/0a39fcdb-860c-4739-8454-21fb429f6336?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 13:04:53 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:24.309653+00:00",
-      "content": "Senior trade writer Alan Beattie and economics columnist Soumaya Keynes will answer reader questions in a live Q&amp;A on Thursday October 15 at 1pm (BST)",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Rubio and the will to power",
-      "link": "https://www.ft.com/content/3c8d6ab0-595f-4121-9901-a784be75bb09?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 13:00:09 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:24.509874+00:00",
-      "content": "His recent Athens speech was a paean to a very narrow idea of ‘western civilisation’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "No peace, no quiet",
-      "link": "https://www.ft.com/content/eab7e6ea-7391-48cb-a1d8-e34821b9bde5",
-      "published_date": "Fri, 09 Oct 2026 12:52:15 GMT",
-      "scrape_timestamp": "2026-10-09T14:09:24.710093+00:00",
-      "content": "Bond yields continue to push higher alongside tensions in the Middle East",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump agrees deal with Putin for Russia to release diesel",
       "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
       "published_date": "Fri, 09 Oct 2026 19:31:36 GMT",
@@ -101,44 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "EU to explore windfall tax on energy companies",
-      "link": "https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 16:05:12 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:32.992484+00:00",
-      "content": "Commissioner to consider levies as oil and gas businesses reap big profits from fallout of US-Israeli war on Iran",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump and Hegseth’s execution-type deal",
-      "link": "https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 16:18:01 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:33.593110+00:00",
-      "content": "The decision to livestream the execution of Nidal Malik Hasan is a sign of profound moral decay",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump launches committee to investigate Fed governor Lisa Cook",
       "link": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
       "published_date": "Fri, 09 Oct 2026 17:26:05 GMT",
       "scrape_timestamp": "2026-10-09T19:54:33.793320+00:00",
       "content": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Kennedy Center donor accused of fraud was secret FBI informant",
-      "link": "https://www.ft.com/content/73359693-9d76-47c9-a6e0-25ab22d3a5e0?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 14:33:44 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:33.993522+00:00",
-      "content": "Accused conman who donated $2mn to Trump-run performing arts centre was once a confidential FBI source with a checkered record",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -194,50 +84,6 @@
       "published_date": "Fri, 09 Oct 2026 17:29:54 GMT",
       "scrape_timestamp": "2026-10-09T19:54:36.399090+00:00",
       "content": "South African daughter of a bus driver becomes a Nobel laureate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Has Polanski blown it for the Greens?",
-      "link": "https://www.ft.com/content/f2d13ed9-1b80-4e76-a4c7-de29cbbe858c?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 16:56:40 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:36.999676+00:00",
-      "content": "Plus, business and the budget",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Get used to multi-party politics, it’s here to stay",
-      "link": "https://www.ft.com/content/b35a575d-ff53-4580-8946-9054d7aeb388",
-      "published_date": "Fri, 09 Oct 2026 16:50:38 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:37.199863+00:00",
-      "content": "The prime minister’s promise on electoral reform could entrench the complex fights between five, even six parties",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU leads fight against fossil-fuel nations’ push to delay climate science reports",
-      "link": "https://www.ft.com/content/39f9b46f-b7ee-43b6-b377-6e47aa1af9a1?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 16:32:33 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:37.400064+00:00",
-      "content": "Dispute looms over next review of the latest science on the warming planet as temperatures continue to rise",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Battle for the soul of the Green Party",
-      "link": "https://www.ft.com/content/b6e6542f-045b-4a38-9fb9-6857b7d1fee3?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 16:14:50 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:37.800447+00:00",
-      "content": "By-election loss shines spotlight on splits between leader Zack Polanski and deputy Mothin Ali over controversial ‘Zionism is Racism’ motion",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3640,11 +3486,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump has failed to listen to voters on inflation",
+      "link": "https://www.ft.com/content/a0a143ac-6a48-410a-b121-92f293b0ad6d",
+      "published_date": "Fri, 16 Oct 2026 14:58:28 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:31.096724+00:00",
+      "content": "People elect presidents to fix problems, not to diagnose their causes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+      "link": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 14:58:54 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:31.897593+00:00",
+      "content": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+      "link": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 07:36:24 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:32.097814+00:00",
+      "content": "Finance ministers agree to hold tabletop drills to prepare against future cyber attacks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Apple set for UK legal fight over iPhone tap-to-pay rules",
+      "link": "https://www.ft.com/content/d05f87bf-225b-43f9-86e6-2f9537cd75c6?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 15:21:03 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:32.698397+00:00",
+      "content": "Competition and Markets Authority plans to force Big Tech group to allow rival payments providers to access its digital wallet technology",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Looming UK tax rise puts bankers on edge",
+      "link": "https://www.ft.com/content/2b0e3eae-8eae-449e-9492-ac036b0fe143?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 16:14:30 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:33.988951+00:00",
+      "content": "Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Welfare reform is possible: we did it before, we can do it again",
+      "link": "https://www.ft.com/content/86038629-9b53-4859-bc59-a67fb0059c37?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 15:53:23 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:34.189158+00:00",
+      "content": "All sides agree that the costs are unsustainable and we can’t continue to write people off",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham urges Scots to move beyond independence ‘dramas’",
+      "link": "https://www.ft.com/content/cc22b728-dee4-4a3f-a52f-fb3f09aa30e0?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 15:00:43 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:34.989987+00:00",
+      "content": "UK prime minister rejects new independence vote in first big Scotland speech since taking office",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The hunt for Fed October",
+      "link": "https://www.ft.com/content/5b36d8a4-49f1-4877-8719-2db984c13081",
+      "published_date": "Fri, 16 Oct 2026 14:39:32 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:35.590614+00:00",
+      "content": "Rate markets have been particularly volatile on the outcome of the Fed’s next rate decision later in the month",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "India police detain ‘Cockroach’ leader again to head off new protests",
+      "link": "https://www.ft.com/content/15922d6d-421a-4b33-a329-45443491e1be?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 14:39:19 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:35.790804+00:00",
+      "content": "Abhijeet Dipke taken into custody for second time in a week as youth movement pushes for resignation of chief elections commissioner",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lufthansa exploring sale of software assets in €1bn deal",
+      "link": "https://www.ft.com/content/800db28a-9176-4ca3-9334-69ede9a2b3ef?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 13:56:44 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:35.991000+00:00",
+      "content": "Discussions come as German airline seeks to free up cash to make investments following stake in Portuguese carrier",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France and Germany seal EU car deal",
+      "link": "https://www.ft.com/content/c36f858f-73e2-478b-9fdb-92b9167ce37f?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 13:42:38 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:36.191205+00:00",
+      "content": "Berlin secured concessions on combustion engines and Paris on limiting partners’ access to ‘Made in Europe’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Carmakers face smaller cut in UK EV sales targets",
+      "link": "https://www.ft.com/content/6fc92bd5-e79f-42a9-833c-74b8fffcf1a7?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 13:27:34 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:36.391407+00:00",
+      "content": "Government seeks to lower mandate for electric cars sold by 2030 to 60% despite industry lobbying for bigger cut",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The new unequivocal Zelenskyy",
+      "link": "https://www.ft.com/content/e3a17496-0dc2-42d8-ba7d-16a013016249?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 13:00:09 GMT",
+      "scrape_timestamp": "2026-10-16T17:04:36.591602+00:00",
+      "content": "Ukraine’s president is standing up to Trump, but it’s unclear if this will help Kyiv or hinder it",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-16T12:51:41.242432+00:00",
+  "last_updated": "2026-10-16T17:04:53.899761+00:00",
   "metadata": {
-    "total_runs": 3042,
+    "total_runs": 3043,
     "sources": [
       "Financial Times"
     ],
