@@ -2,94 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Trump agrees deal with Putin for Russia to release diesel",
-      "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 19:31:36 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:32.592086+00:00",
-      "content": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
-      "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 18:38:06 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:32.792286+00:00",
-      "content": "First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump launches committee to investigate Fed governor Lisa Cook",
-      "link": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 17:26:05 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:33.793320+00:00",
-      "content": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bessent to miss IMF annual meetings in Bangkok",
-      "link": "https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 18:22:54 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:34.393917+00:00",
-      "content": "US Treasury secretary’s absence is due to ‘domestic engagements’, say officials",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump pressures Mexico for energy deals in crunch trade talks",
-      "link": "https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 17:29:29 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:34.594107+00:00",
-      "content": "Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Delta slashes profit outlook as higher fuel prices bite",
-      "link": "https://www.ft.com/content/77d73223-3cfc-4892-a3c5-5502595f42d4?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 17:41:54 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:35.798482+00:00",
-      "content": "US airline warns over continued impact of Iran conflict even as third-quarter revenues rise",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The remarkable resilience of the global economy",
-      "link": "https://www.ft.com/content/af3454c2-c425-4d4f-bac9-3e073bbfc1a7?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 17:39:56 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:36.198873+00:00",
-      "content": "The surprising robustness of growth and trade rests on shaky foundations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Navi Pillay: the campaigning lawyer who defied apartheid",
-      "link": "https://www.ft.com/content/679c23c6-457d-4a54-a950-80f9a2a99cdf?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 17:29:54 GMT",
-      "scrape_timestamp": "2026-10-09T19:54:36.399090+00:00",
-      "content": "South African daughter of a bus driver becomes a Nobel laureate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "The hazy OpenAI growth metric driving Wall Street",
       "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
       "published_date": "Fri, 09 Oct 2026 20:57:10 GMT",
@@ -128,17 +40,6 @@
       "published_date": "Fri, 09 Oct 2026 20:27:56 GMT",
       "scrape_timestamp": "2026-10-09T23:42:44.791702+00:00",
       "content": "Chief prosecutor says aviator aimed to cause ‘the greatest possible loss of life’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Airlines sound the alarm as bleak winter looms",
-      "link": "https://www.ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1",
-      "published_date": "Fri, 09 Oct 2026 20:00:01 GMT",
-      "scrape_timestamp": "2026-10-09T23:42:44.991889+00:00",
-      "content": "The industry is reeling from the energy shock unleashed by the Iran war",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3629,11 +3530,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s press secretary Katie Zacharia fired after five days",
+      "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 18:23:09 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:46.357689+00:00",
+      "content": "Exit comes amid deepening turmoil for White House as midterm elections loom",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Alexandr Wang, Meta’s AI wunderkind",
+      "link": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 16:31:25 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:46.758026+00:00",
+      "content": "The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The data centre IPO debacle that sparked a market meltdown",
+      "link": "https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 04:54:52 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:47.558695+00:00",
+      "content": "Decisions by Australian groups Firmus and AirTrunk have added to concerns about the AI borrowing frenzy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US illegal border crossings from Mexico near 60-year low",
+      "link": "https://www.ft.com/content/e98c5079-0c9a-4747-afa7-7bc9725795cd?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 18:30:55 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:48.159165+00:00",
+      "content": "About 98,708 apprehensions were recorded this year, down from peaks of  more than 2mn people under Biden",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rich make millions by flipping private jets",
+      "link": "https://www.ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 20:00:07 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:49.185925+00:00",
+      "content": "Strong demand for private air travel combined with production delays boosts prices",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+      "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 19:42:41 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:49.386095+00:00",
+      "content": "Washington Post journalist among those injured during violence in the Palestinian territory",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "It’s nearly FT Alphaville's 20th birthday. We did a chart show to celebrate!",
+      "link": "https://www.ft.com/content/95e1b194-7dab-4f69-87b4-27535772cf18",
+      "published_date": "Fri, 16 Oct 2026 19:17:48 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:49.586192+00:00",
+      "content": "If you want, you can buy some of them. No pressure. But it’s for charity, so if you don’t you’re a bad person",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Olly Robbins wins payout over Mandelson scandal sacking",
+      "link": "https://www.ft.com/content/5b9c0cfa-849d-40a2-92bf-0bd2e2b58871?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 17:44:10 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:50.386822+00:00",
+      "content": "Former top Foreign Office official, who was dismissed by Keir Starmer in abrupt phone call, reaches out-of-court settlement",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe",
+      "link": "https://www.ft.com/content/30f95850-4ff1-4669-acf8-06edc79c9457?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 17:33:56 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:50.586950+00:00",
+      "content": "Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Italy secures EU deal to lower its electricity prices",
+      "link": "https://www.ft.com/content/d2928f6b-b8f2-4651-ac9a-9fc4d8653608?syn-25a6b1a6=1",
+      "published_date": "Fri, 16 Oct 2026 17:14:47 GMT",
+      "scrape_timestamp": "2026-10-16T20:15:50.787100+00:00",
+      "content": "Agreement marks a boost for PM Giorgia Meloni as nation struggles with higher fossil fuel prices",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-16T17:04:53.899761+00:00",
+  "last_updated": "2026-10-16T20:16:07.824453+00:00",
   "metadata": {
-    "total_runs": 3043,
+    "total_runs": 3044,
     "sources": [
       "Financial Times"
     ],
