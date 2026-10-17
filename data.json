@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-      "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 13:32:58 GMT",
-      "scrape_timestamp": "2026-10-10T16:01:00.333266+00:00",
-      "content": "Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "India’s central bank tries to shore up rupee as it nears record lows",
-      "link": "https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 11:57:36 GMT",
-      "scrape_timestamp": "2026-10-10T16:01:01.534477+00:00",
-      "content": "Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Taxpayer-funded Trump TV ads continue despite pledge to use private money",
-      "link": "https://www.ft.com/content/0923247c-298b-4536-8bef-e7e0cfd5f0d4?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 12:00:08 GMT",
-      "scrape_timestamp": "2026-10-10T16:01:03.463525+00:00",
-      "content": "Segments that the White House describes as public service announcements air in battleground districts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
       "published_date": "Sat, 10 Oct 2026 18:14:28 GMT",
@@ -3607,11 +3574,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+      "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 12:53:53 GMT",
+      "scrape_timestamp": "2026-10-17T14:40:02.074171+00:00",
+      "content": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lula turns to selfie videos in election fightback",
+      "link": "https://www.ft.com/content/425cc873-23d8-4028-9ad0-13276bdbccf7?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 11:00:02 GMT",
+      "scrape_timestamp": "2026-10-17T14:40:05.026595+00:00",
+      "content": "Leftwing leader was beaten by hard-right Flávio Bolsonaro in first round of voting",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe Express Weekend: Where are Zelenskyy’s friends (when he needs them)?",
+      "link": "https://www.ft.com/content/3d964bed-ed6e-4b15-ade0-f190d2723cac?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 10:00:02 GMT",
+      "scrape_timestamp": "2026-10-17T14:40:05.226738+00:00",
+      "content": "Kyiv’s one-time allies are increasingly reluctant to provide the country with the support it needs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Corporate donations flood US attorneys-general election races",
+      "link": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 10:00:02 GMT",
+      "scrape_timestamp": "2026-10-17T14:40:05.426912+00:00",
+      "content": "Officials tasked with enforcing state laws have emerged as a formidable check on the Trump administration’s policies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-17T11:51:31.763209+00:00",
+  "last_updated": "2026-10-17T14:40:24.349519+00:00",
   "metadata": {
-    "total_runs": 3048,
+    "total_runs": 3049,
     "sources": [
       "Financial Times"
     ],
