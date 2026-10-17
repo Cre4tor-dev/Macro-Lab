@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
-      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 18:14:28 GMT",
-      "scrape_timestamp": "2026-10-10T20:22:17.775540+00:00",
-      "content": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Riyadh airport suspends operations after missile strike injures dozens",
-      "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 18:28:09 GMT",
-      "scrape_timestamp": "2026-10-10T20:22:19.577334+00:00",
-      "content": "Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
       "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
       "published_date": "Sun, 11 Oct 2026 02:45:26 GMT",
@@ -3629,11 +3607,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "White House chaos overshadows Trump’s midterms push",
+      "link": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 19:50:24 GMT",
+      "scrape_timestamp": "2026-10-17T19:51:19.915815+00:00",
+      "content": "Sacking of Katie Zacharia is latest in a week of embarrassing administration mis-steps",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-17T17:38:18.691664+00:00",
+  "last_updated": "2026-10-17T19:51:38.489660+00:00",
   "metadata": {
-    "total_runs": 3050,
+    "total_runs": 3051,
     "sources": [
       "Financial Times"
     ],
