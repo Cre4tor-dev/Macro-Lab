@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Palestinian Authority blames Israeli ‘obstacles’ for latest election delay",
-      "link": "https://www.ft.com/content/0d80fea2-058c-440d-9339-667100ef35a9?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 16:18:13 GMT",
-      "scrape_timestamp": "2026-10-10T20:22:21.254315+00:00",
-      "content": "Mahmoud Abbas, who has been president for 21 years, says conditions are not conducive to holding elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
       "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
       "published_date": "Sun, 11 Oct 2026 02:45:26 GMT",
@@ -3618,11 +3607,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Israeli settlers attack European diplomats in the West Bank",
+      "link": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+      "published_date": "Sat, 17 Oct 2026 16:11:59 GMT",
+      "scrape_timestamp": "2026-10-17T17:37:59.140423+00:00",
+      "content": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Protesters clash with police in Paris and Marseille",
+      "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 14:16:53 GMT",
+      "scrape_timestamp": "2026-10-17T17:38:00.055907+00:00",
+      "content": "Thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-17T14:40:24.349519+00:00",
+  "last_updated": "2026-10-17T17:38:18.691664+00:00",
   "metadata": {
-    "total_runs": 3049,
+    "total_runs": 3050,
     "sources": [
       "Financial Times"
     ],
