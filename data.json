@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "GoPro’s decline puts Chinese camera rivals in the picture",
-      "link": "https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 01:00:03 GMT",
-      "scrape_timestamp": "2026-10-10T03:24:59.479577+00:00",
-      "content": "DJI and Insta360 engaged in ‘civil war’ to become world’s top smart camera maker",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Napa Valley’s hangover",
       "link": "https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b",
       "published_date": "Sat, 10 Oct 2026 04:00:26 GMT",
@@ -3618,11 +3607,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+      "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 00:47:25 GMT",
+      "scrape_timestamp": "2026-10-17T02:11:09.675696+00:00",
+      "content": "High borrowing costs complicate AI lab’s goal of achieving investment-grade status",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "North Korea gets closer to China and Russia with new bridges",
+      "link": "https://www.ft.com/content/062bb1af-d44b-4176-89cd-49042e06362b?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 00:19:26 GMT",
+      "scrape_timestamp": "2026-10-17T02:11:11.881983+00:00",
+      "content": "Increasing trade and co-operation reduces need for talks with Washington and Seoul, analysts say",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-16T23:08:36.254358+00:00",
+  "last_updated": "2026-10-17T02:11:31.564992+00:00",
   "metadata": {
-    "total_runs": 3045,
+    "total_runs": 3046,
     "sources": [
       "Financial Times"
     ],
