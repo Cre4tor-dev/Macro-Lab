@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest",
-      "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 09:19:07 GMT",
-      "scrape_timestamp": "2026-10-10T10:15:37.323323+00:00",
-      "content": "Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The US productivity-pay gap",
-      "link": "https://www.ft.com/content/abaab361-8714-422f-b2eb-9eb447e4d8c3?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 09:30:07 GMT",
-      "scrape_timestamp": "2026-10-10T10:15:39.071844+00:00",
-      "content": "Workers’ share of output is shrinking",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU joint budget proposal slashed in race to find end-year agreement",
-      "link": "https://www.ft.com/content/a96adda5-89fb-4f8b-96c4-96c171489a40?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 09:28:05 GMT",
-      "scrape_timestamp": "2026-10-10T10:15:39.272030+00:00",
-      "content": "Proposal would still be a 30 per cent increase on the bloc’s current spending",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
       "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
       "published_date": "Sat, 10 Oct 2026 13:32:58 GMT",
@@ -46,33 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Nixonmaxxing: the strange revival of America’s disgraced president",
-      "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 10:00:07 GMT",
-      "scrape_timestamp": "2026-10-10T16:01:01.134070+00:00",
-      "content": "Richard Nixon has become the unlikely darling of Trump’s Washington",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "India’s central bank tries to shore up rupee as it nears record lows",
       "link": "https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148?syn-25a6b1a6=1",
       "published_date": "Sat, 10 Oct 2026 11:57:36 GMT",
       "scrape_timestamp": "2026-10-10T16:01:01.534477+00:00",
       "content": "Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "AI borrowing slows as investors grow wary of debt binge",
-      "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-      "published_date": "Sat, 10 Oct 2026 11:00:07 GMT",
-      "scrape_timestamp": "2026-10-10T16:01:01.734691+00:00",
-      "content": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3651,11 +3596,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chart of the Week: The chip stock split",
+      "link": "https://www.ft.com/content/c5ed09fe-dc65-4f05-8c12-8f74f5dc7ccd?syn-25a6b1a6=1",
+      "published_date": "Sat, 17 Oct 2026 09:30:02 GMT",
+      "scrape_timestamp": "2026-10-17T11:51:13.883512+00:00",
+      "content": "Losses across semi stocks have been unequal",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-17T07:19:28.308823+00:00",
+  "last_updated": "2026-10-17T11:51:31.763209+00:00",
   "metadata": {
-    "total_runs": 3047,
+    "total_runs": 3048,
     "sources": [
       "Financial Times"
     ],
