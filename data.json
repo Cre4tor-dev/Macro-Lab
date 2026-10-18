@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Smelly seaweed and strong peso hurt tourism at Mexico’s beach resorts",
-      "link": "https://www.ft.com/content/7553fae9-f65a-4101-be93-cdac921d4c2f?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 10:00:06 GMT",
-      "scrape_timestamp": "2026-10-11T11:06:01.852587+00:00",
-      "content": "Visits fall in hotspots such as Cancún, Tulum and Puerto Vallarta as US travellers go elsewhere",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Houthis show military reach with deadly missile strikes on Riyadh",
       "link": "https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1",
       "published_date": "Sun, 11 Oct 2026 13:04:47 GMT",
@@ -73,39 +62,6 @@
       "published_date": "Sun, 11 Oct 2026 13:48:37 GMT",
       "scrape_timestamp": "2026-10-11T17:02:16.292179+00:00",
       "content": "Military-backed national government suspends Khyber Pakhtunkhwa administration led by former cricket star’s party",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Europe can fight the ‘China shock’",
-      "link": "https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 11:00:08 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:17.092953+00:00",
-      "content": "But it requires Brussels to prioritise creative destruction over protectionism",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will September inflation cement US interest rate policy for the rest of the year?",
-      "link": "https://www.ft.com/content/eae9d22f-3722-427f-a33b-aebc58fba2c4?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 11:00:07 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:17.293142+00:00",
-      "content": "Market Questions is the FT’s guide to the week ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey rules out cutting ‘mansion tax’ threshold to £1.5mn in UK Budget",
-      "link": "https://www.ft.com/content/b1ff2ac0-843d-4b2a-b848-c840a2decfb8?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 10:38:33 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:17.493320+00:00",
-      "content": "Mooted reduction had provoked backlash by Labour MPs concerned about impact on voters in London",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3640,11 +3596,110 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Not every billionaire is a policy failure",
+      "link": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 11:00:09 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:15.825043+00:00",
+      "content": "Indiscriminately targeting those with 10-digit fortunes is arbitrary, misguided and costly",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France reels after ‘unprecedented’ violent riots",
+      "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 11:03:32 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:16.025240+00:00",
+      "content": "Government under pressure after struggle to contain attacks on stores and official buildings",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Could Republicans prove the pollsters wrong in the midterms?",
+      "link": "https://www.ft.com/content/b2299174-fb78-4edf-a358-8cae837f8d7b?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:16.225519+00:00",
+      "content": "Party insiders say past elections show predictions of a Democratic wave in Congress are overstated",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s losing battle with green energy",
+      "link": "https://www.ft.com/content/b263bbe1-cd0c-4508-9ec8-07cb8a9c2a02?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:16.425724+00:00",
+      "content": "The Iran war and AI boom are strengthening the case for clean power, despite the president’s efforts to curb it",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "St Petersburg endures biggest Ukrainian drone attack",
+      "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 11:01:32 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:16.625936+00:00",
+      "content": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Accenture looks to sell Chinese operations for up to $1.5bn",
+      "link": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 10:00:09 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:17.026305+00:00",
+      "content": "Shares in world’s largest IT consultancy have fluctuated in recent months over questions about the impact of AI",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Saudi helicopter crash kills two troops near Yemen border",
+      "link": "https://www.ft.com/content/da1dbd0b-4101-4ba8-aa2d-da6fedcb9f23?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 11:38:15 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:17.606371+00:00",
+      "content": "First reported military fatalities for the kingdom come as war with Houthi rebels continues to escalate",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will Meta’s earnings restore confidence in the AI boom?",
+      "link": "https://www.ft.com/content/7c2e889e-2eb5-4c62-821b-1a7f88c13d05?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 11:00:09 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:18.407213+00:00",
+      "content": "Market Questions is the FT’s guide to the week ahead",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Several dead and injured in fire at Alberta military base",
+      "link": "https://www.ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210",
+      "published_date": "Sun, 18 Oct 2026 08:03:56 GMT",
+      "scrape_timestamp": "2026-10-18T12:17:19.208015+00:00",
+      "content": "Authorities respond to ‘tragic incident’ at Canadian Forces Base Wainwright, the country’s defence minister says",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-18T07:33:36.379707+00:00",
+  "last_updated": "2026-10-18T12:17:36.940032+00:00",
   "metadata": {
-    "total_runs": 3055,
+    "total_runs": 3056,
     "sources": [
       "Financial Times"
     ],
