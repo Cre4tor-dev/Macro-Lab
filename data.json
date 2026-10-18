@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "The prisoners of war at the heart of Korean-Ukrainian tensions",
-      "link": "https://www.ft.com/content/ff4ec1b7-1ccf-4aa2-8ca0-8faa3bfa0c6e",
-      "published_date": "Sun, 11 Oct 2026 02:01:37 GMT",
-      "scrape_timestamp": "2026-10-11T04:25:57.988997+00:00",
-      "content": "Seoul has recalled its ambassador to Kyiv as a row over captured North Korean soldiers escalates",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "The fall of Germany’s ex-spymaster",
       "link": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
       "published_date": "Sun, 11 Oct 2026 04:00:15 GMT",
@@ -3618,11 +3607,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Listings in south-east Asia gain momentum with $1bn IPO",
+      "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 01:00:06 GMT",
+      "scrape_timestamp": "2026-10-18T02:10:59.128438+00:00",
+      "content": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-17T23:38:40.148160+00:00",
+  "last_updated": "2026-10-18T02:11:17.656349+00:00",
   "metadata": {
-    "total_runs": 3053,
+    "total_runs": 3054,
     "sources": [
       "Financial Times"
     ],
