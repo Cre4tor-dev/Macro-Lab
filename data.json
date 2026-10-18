@@ -2,72 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Houthis show military reach with deadly missile strikes on Riyadh",
-      "link": "https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 13:04:47 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:12.455489+00:00",
-      "content": "Yemen’s Iran-backed militants demonstrate that they are not just ‘guys in flip-flops’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oil chiefs pull out of Riyadh energy congress after airport missile strike",
-      "link": "https://www.ft.com/content/a01776ea-4a12-4195-8820-e43a885ba5fe?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 16:05:59 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:12.655675+00:00",
-      "content": "BP and others skip World Petroleum Council meeting after 12 killed in attack blamed on Houthis",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Democrats need a foreign policy",
-      "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 15:13:30 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:13.256307+00:00",
-      "content": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ukraine’s allies vow to pressure Moscow as Trump claims ‘energy ceasefire’ in place",
-      "link": "https://www.ft.com/content/724ef0e2-4d50-49fd-aef8-abc0534f2f84?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 15:46:54 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:13.656655+00:00",
-      "content": "US president’s suggestion that Zelenskyy should be replaced shocked Kyiv and European nations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
-      "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 14:50:05 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:13.856881+00:00",
-      "content": "UK prime minister calls for European voters to be better informed about efforts to disrupt democratic process",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Pakistan cracks down on Imran Khan stronghold province",
-      "link": "https://www.ft.com/content/786cb0a4-a235-4884-ab1c-b2234bc3cefe?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 13:48:37 GMT",
-      "scrape_timestamp": "2026-10-11T17:02:16.292179+00:00",
-      "content": "Military-backed national government suspends Khyber Pakhtunkhwa administration led by former cricket star’s party",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
       "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
       "published_date": "Sun, 11 Oct 2026 18:40:51 GMT",
@@ -3695,11 +3629,66 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US threatens Europe over Starlink restrictions",
+      "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 16:00:00 GMT",
+      "scrape_timestamp": "2026-10-18T16:13:58.856368+00:00",
+      "content": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s bid to make America cheap again has failed",
+      "link": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 15:00:00 GMT",
+      "scrape_timestamp": "2026-10-18T16:13:59.656845+00:00",
+      "content": "Voters are increasingly linking rising energy prices to the administration’s policies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Treasury introduces new security measures in bid to stop UK Budget leaks",
+      "link": "https://www.ft.com/content/6748e45a-0b1a-43be-b65f-645849af4a57?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 13:48:46 GMT",
+      "scrape_timestamp": "2026-10-18T16:14:02.309925+00:00",
+      "content": "Chancellor John Healey deploys ‘military-style’ security protocols to restrict flow of sensitive information",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Egypt’s Sisi sets out plan for military to train his successors",
+      "link": "https://www.ft.com/content/f591211b-497f-4b20-a0ab-7c37d5422761?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 12:52:16 GMT",
+      "scrape_timestamp": "2026-10-18T16:14:02.510045+00:00",
+      "content": "President says he will step down in 2030 but floats new process that would consolidate role of army in state",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘The Switzerland of North America’: Albertans vote on leaving Canada",
+      "link": "https://www.ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 12:00:09 GMT",
+      "scrape_timestamp": "2026-10-18T16:14:02.910267+00:00",
+      "content": "Monday’s referendum on independence for the western province threatens Mark Carney’s effort to unite the country against a hostile US",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-18T12:17:36.940032+00:00",
+  "last_updated": "2026-10-18T16:14:21.756573+00:00",
   "metadata": {
-    "total_runs": 3056,
+    "total_runs": 3057,
     "sources": [
       "Financial Times"
     ],
