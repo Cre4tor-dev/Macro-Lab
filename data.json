@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
-      "link": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 20:00:01 GMT",
-      "scrape_timestamp": "2026-10-11T21:14:43.364639+00:00",
-      "content": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Raphaël Glucksmann wins nomination for France’s centre-left",
-      "link": "https://www.ft.com/content/655af6f3-552f-4f51-aa52-02168cdae4fa?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 20:50:57 GMT",
-      "scrape_timestamp": "2026-10-11T21:14:44.127213+00:00",
-      "content": "Pro-European MEP beats Socialist party rival as he bids to unite the ‘democratic left’ ahead of next year’s presidential election",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
-      "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 21:17:58 GMT",
-      "scrape_timestamp": "2026-10-12T00:50:18.243082+00:00",
-      "content": "Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Burnham to step up UK business outreach amid fears of Budget tax rises",
       "link": "https://www.ft.com/content/b00db29e-4334-4e04-8f09-a140aafd4b05?syn-25a6b1a6=1",
       "published_date": "Sun, 11 Oct 2026 23:01:03 GMT",
@@ -73,17 +40,6 @@
       "published_date": "Sun, 11 Oct 2026 23:01:03 GMT",
       "scrape_timestamp": "2026-10-12T00:50:21.661997+00:00",
       "content": "Influential think-tank says a ‘do nothing’ fiscal event on October 28 is not an option",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: India’s ‘Cockroach’ movement vows more protests after release of leaders",
-      "link": "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 21:22:44 GMT",
-      "scrape_timestamp": "2026-10-12T00:50:21.862138+00:00",
-      "content": "Also in today’s newsletter: deadly Houthi attacks on Riyadh’s airport and the US threatens to block arms for Ukraine",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3684,11 +3640,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Macron faces political firestorm after riots",
+      "link": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 19:55:48 GMT",
+      "scrape_timestamp": "2026-10-18T22:03:43.203888+00:00",
+      "content": "Worst street violence in years comes six months ahead of one of Europe’s most closely watched elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Evercore appoints co-presidents for the first time in leadership reshuffle",
+      "link": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 20:01:48 GMT",
+      "scrape_timestamp": "2026-10-18T22:03:44.004701+00:00",
+      "content": "Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US army chief in Asia calls for show of enhanced military muscle",
+      "link": "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 19:00:01 GMT",
+      "scrape_timestamp": "2026-10-18T22:03:44.204894+00:00",
+      "content": "General Ronald Clark looks to build up deterrence in region amid concerns about China’s ambitions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump to begin transforming historic golf course despite court order",
+      "link": "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 19:28:39 GMT",
+      "scrape_timestamp": "2026-10-18T22:03:44.405090+00:00",
+      "content": "Renovation of century-old East Potomac course is part of president’s effort to remodel Washington in his own image",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-18T19:05:42.676675+00:00",
+  "last_updated": "2026-10-18T22:04:03.196398+00:00",
   "metadata": {
-    "total_runs": 3058,
+    "total_runs": 3059,
     "sources": [
       "Financial Times"
     ],
