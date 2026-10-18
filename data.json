@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
-      "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 18:40:51 GMT",
-      "scrape_timestamp": "2026-10-11T21:14:41.362575+00:00",
-      "content": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Can Russia meet Trump’s diesel demands?",
-      "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 17:13:56 GMT",
-      "scrape_timestamp": "2026-10-11T21:14:41.562791+00:00",
-      "content": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
       "link": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
       "published_date": "Sun, 11 Oct 2026 20:00:01 GMT",
@@ -35,33 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "VW chief calls for France and Germany to co-operate on China car fightback",
-      "link": "https://www.ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 18:09:24 GMT",
-      "scrape_timestamp": "2026-10-11T21:14:43.564848+00:00",
-      "content": "‘When it matters, we have found solutions together’, Oliver Blume says ahead of Paris Motor Show",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Raphaël Glucksmann wins nomination for France’s centre-left",
       "link": "https://www.ft.com/content/655af6f3-552f-4f51-aa52-02168cdae4fa?syn-25a6b1a6=1",
       "published_date": "Sun, 11 Oct 2026 20:50:57 GMT",
       "scrape_timestamp": "2026-10-11T21:14:44.127213+00:00",
       "content": "Pro-European MEP beats Socialist party rival as he bids to unite the ‘democratic left’ ahead of next year’s presidential election",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "IMF and World Bank to warn central bankers of a gathering storm",
-      "link": "https://www.ft.com/content/5b90cdd3-b78b-44ee-8045-8a0602ac0ef4?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 17:15:01 GMT",
-      "scrape_timestamp": "2026-10-11T21:14:45.328347+00:00",
-      "content": "Annual meetings in Bangkok, bumper bank earnings beckon, Dublin hosts AI summit",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3684,11 +3640,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump endorses Netanyahu ahead of Israeli elections",
+      "link": "https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79",
+      "published_date": "Sun, 18 Oct 2026 18:11:15 GMT",
+      "scrape_timestamp": "2026-10-18T19:05:22.110840+00:00",
+      "content": "Backing for Israel’s prime minister came after tensions between the allies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "City of London Corporation weighs tax rises and service cuts to plug £70mn budget hole",
+      "link": "https://www.ft.com/content/873e7ef2-d3d6-4c30-b8f8-ee3e69d60138",
+      "published_date": "Sun, 18 Oct 2026 18:00:01 GMT",
+      "scrape_timestamp": "2026-10-18T19:05:22.311024+00:00",
+      "content": "Barbican Centre faces uncertain future as Square Mile prepares for Labour funding overhaul",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Four dead and dozens injured in fire at Alberta military base",
+      "link": "https://www.ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 17:15:05 GMT",
+      "scrape_timestamp": "2026-10-18T19:05:22.511224+00:00",
+      "content": "Mark Carney describes blaze as one of the armed forces’ worst tragedies in peacetime on Canadian soil",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Crunch time for Brazilian politics",
+      "link": "https://www.ft.com/content/783dbcdc-fe1e-4539-a740-3d2e4b3d5fc1?syn-25a6b1a6=1",
+      "published_date": "Sun, 18 Oct 2026 17:15:01 GMT",
+      "scrape_timestamp": "2026-10-18T19:05:22.711432+00:00",
+      "content": "South America’s largest economy holds a presidential run-off, Albertans vote in an unofficial independence referendum, key UK economic data ahead of Budget",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-18T16:14:21.756573+00:00",
+  "last_updated": "2026-10-18T19:05:42.676675+00:00",
   "metadata": {
-    "total_runs": 3057,
+    "total_runs": 3058,
     "sources": [
       "Financial Times"
     ],
