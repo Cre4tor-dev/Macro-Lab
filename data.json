@@ -2,55 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Houthi assault on Saudi airports strikes at MBS’s economic vision",
-      "link": "https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 18:32:01 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:18.510189+00:00",
-      "content": "Deadly bombardment of Riyadh’s international airport threatens crown prince’s plans to turn kingdom into finance and events hub",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Musk injects $275mn into Republicans’ fight to retain Congress",
-      "link": "https://www.ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 18:04:50 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:19.310926+00:00",
-      "content": "Trillionaire Tesla chief has become party’s biggest donor ahead of November’s pivotal midterms",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump says he is considering firing Guilfoyle over alleged misconduct",
       "link": "https://www.ft.com/content/c97cf26c-04b7-47ce-8290-b0f779c9490b?syn-25a6b1a6=1",
       "published_date": "Mon, 12 Oct 2026 22:32:01 GMT",
       "scrape_timestamp": "2026-10-12T23:22:19.511173+00:00",
       "content": "US president is ‘looking at’ dismissing the ambassador to Greece after report claiming she accepted improper gifts while in office",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bosnia warns US of pro-Russia Serb enclave’s lobbying efforts",
-      "link": "https://www.ft.com/content/31b02094-19db-4764-b79f-0b0fcf902c63?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 19:46:58 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:19.711347+00:00",
-      "content": "Foreign minister expresses concern about public funds used for ‘political influence in the US’ on behalf of Moscow allies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France to raise stake in struggling miner Eramet",
-      "link": "https://www.ft.com/content/4d84b98b-bdbe-4e1c-a0b8-4dd0c814927b?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 20:34:37 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:20.798603+00:00",
-      "content": "Paris set to become top shareholder as states race to secure critical mineral supplies",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3783,11 +3739,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "New York pensions chief says private equity firm sought to expense jet use",
+      "link": "https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 21:18:40 GMT",
+      "scrape_timestamp": "2026-10-19T22:00:00.316102+00:00",
+      "content": "Head of city’s $326bn Retirement Systems hits out at ‘steady creep’ higher in fees charged by managers",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: China’s economy picks up pace as AI boom supercharges exports",
+      "link": "https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 21:38:23 GMT",
+      "scrape_timestamp": "2026-10-19T22:00:02.408829+00:00",
+      "content": "Also in today’s newsletter: Saudi Arabia postpones ‘Davos in the desert’ and French bond sell-off intensifies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "South Africa’s president eyes trade with China and India as US ties sour",
+      "link": "https://www.ft.com/content/617fb017-e08e-4e37-abac-a38731b2de3c?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 20:39:47 GMT",
+      "scrape_timestamp": "2026-10-19T22:00:03.009501+00:00",
+      "content": "Cyril Ramaphosa says Pretoria wants to take advantage of growing tariff-free access benefits with Beijing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-19T17:58:23.645784+00:00",
+  "last_updated": "2026-10-19T22:00:21.273391+00:00",
   "metadata": {
-    "total_runs": 3063,
+    "total_runs": 3064,
     "sources": [
       "Financial Times"
     ],
