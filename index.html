@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-10-18 22:04 UTC</title>
+  <title>Macro Lab — 2026-10-19 00:36 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,12 +130,12 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-10-18 22:04 UTC<br>Seuil alerte: 5.0 · 83 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-10-19 00:36 UTC<br>Seuil alerte: 5.0 · 83 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">335</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">332</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
     <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">83</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">3.1</div></div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-10-18">Sun 18 Oct</option>
+        <option value="2026-10-19">Mon 19 Oct</option>
+<option value="2026-10-18">Sun 18 Oct</option>
 <option value="2026-10-17">Sat 17 Oct</option>
 <option value="2026-10-16">Fri 16 Oct</option>
 <option value="2026-10-15">Thu 15 Oct</option>
 <option value="2026-10-14">Wed 14 Oct</option>
 <option value="2026-10-13">Tue 13 Oct</option>
-<option value="2026-10-12">Mon 12 Oct</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -473,7 +473,7 @@
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (335 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (332 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="18.89" data-date="2026-10-12" data-themes="war_conflict,oil_energy" data-text="oil prices fall after trump claims ‘energy ceasefire’ in ukraine war announcement follows diesel deal with putin as us president tries to contain impact of higher fuel costs ahead of election">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -922,6 +922,20 @@
     <span class="kw-hint">🔑 inflation, war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="9.29" data-date="2026-10-18" data-themes="war_conflict" data-text="us rate rises are being amplified in global markets the iran war and shifts by china are tightening the supply of dollars in international markets">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.29 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, china">9.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748" target="_blank" rel="noopener">US rate rises are being amplified in global markets</a></h3>
+  <p class="preview card-detail">The Iran war and shifts by China are tightening the supply of dollars in international markets</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-18">Sun, 18 Oct 2026 23:01:02</time>
+    <span class="kw-hint">🔑 war, china</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="9.20" data-date="2026-10-12" data-themes="war_conflict" data-text="it’s time for the uk to reward whistleblowers financially incentivising insiders to come forward will transform how we tackle fraud">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -989,20 +1003,6 @@
   <p class="preview card-detail">Guidelines are vital to ensure overstretched forces in England and Wales can use the systems to speed up investigations</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-13">Tue, 13 Oct 2026 04:00:19</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="9.12" data-date="2026-10-11" data-themes="war_conflict" data-text="healey’s budget will be ‘fiction’ without plan for £35bn hole in spending, ifs warns influential think-tank says a ‘do nothing’ fiscal event on october 28 is not an option">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.12 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">9.1 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/619800ae-b2f2-46e3-b34e-23f0525637da?syn-25a6b1a6=1" target="_blank" rel="noopener">Healey’s Budget will be ‘fiction’ without plan for £35bn hole in spending, IFS warns</a></h3>
-  <p class="preview card-detail">Influential think-tank says a ‘do nothing’ fiscal event on October 28 is not an option</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-11">Sun, 11 Oct 2026 23:01:03</time>
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
@@ -3218,20 +3218,6 @@
     
   </div>
 </article>
-<article class="card" data-score="0.72" data-date="2026-10-11" data-themes="" data-text="city of london hits out at burnham’s plan to scrap non-compete clauses prime minister’s pledge is backed by tech groups but hedge funds and banks say it will damage competitiveness">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.72 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.7 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/47b02f06-cbfc-49cb-afb8-1ae015399c4e?syn-25a6b1a6=1" target="_blank" rel="noopener">City of London hits out at Burnham’s plan to scrap non-compete clauses</a></h3>
-  <p class="preview card-detail">Prime minister’s pledge is backed by tech groups but hedge funds and banks say it will damage competitiveness</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-11">Sun, 11 Oct 2026 23:01:03</time>
-    
-  </div>
-</article>
 <article class="card" data-score="0.72" data-date="2026-10-14" data-themes="" data-text="coreweave targets ‘unlimited’ insurance money to fund ai build-out co-founder eyes insurers’ vast capital for loans as the nvidia-backed cloud provider seeks to fund the data centre build-out">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -3397,20 +3383,6 @@
   <p class="preview card-detail">Backing for Israel’s prime minister came after tensions between the allies</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-18">Sun, 18 Oct 2026 18:11:15</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.67" data-date="2026-10-11" data-themes="" data-text="how to pay for social care automatic enrolment worked for pensions — a similar scheme could pool the risk of heavy costs from illness and infirmity in later life">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.67 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.7 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/dcdc4427-2104-4b6f-91e5-af9d13bb49a1?syn-25a6b1a6=1" target="_blank" rel="noopener">How to pay for social care</a></h3>
-  <p class="preview card-detail">Automatic enrolment worked for pensions — a similar scheme could pool the risk of heavy costs from illness and infirmity in later life</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-11">Sun, 11 Oct 2026 23:01:03</time>
     
   </div>
 </article>
@@ -3621,20 +3593,6 @@
   <p class="preview card-detail">In fragile times, it pays to view your own city through the eyes of strangers</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-18">Sun, 18 Oct 2026 04:00:09</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.49" data-date="2026-10-11" data-themes="" data-text="burnham to step up uk business outreach amid fears of budget tax rises prime minister and chancellor to meet chief executives and lobby groups after complaints about lack of detail on plans for economy">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.49 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.5 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/b00db29e-4334-4e04-8f09-a140aafd4b05?syn-25a6b1a6=1" target="_blank" rel="noopener">Burnham to step up UK business outreach amid fears of Budget tax rises</a></h3>
-  <p class="preview card-detail">Prime minister and chancellor to meet chief executives and lobby groups after complaints about lack of detail on plans for economy</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-11">Sun, 11 Oct 2026 23:01:03</time>
     
   </div>
 </article>
@@ -5275,9 +5233,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["10-12", "10-13", "10-14", "10-15", "10-16", "10-17", "10-18"],
+    labels: ["10-13", "10-14", "10-15", "10-16", "10-17", "10-18", "10-19"],
     datasets: [{
-      data: [37, 53, 56, 59, 59, 28, 39],
+      data: [53, 56, 59, 59, 28, 40, 0],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,

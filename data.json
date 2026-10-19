@@ -2,50 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Burnham to step up UK business outreach amid fears of Budget tax rises",
-      "link": "https://www.ft.com/content/b00db29e-4334-4e04-8f09-a140aafd4b05?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 23:01:03 GMT",
-      "scrape_timestamp": "2026-10-12T00:50:21.061550+00:00",
-      "content": "Prime minister and chancellor to meet chief executives and lobby groups after complaints about lack of detail on plans for economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "City of London hits out at Burnham’s plan to scrap non-compete clauses",
-      "link": "https://www.ft.com/content/47b02f06-cbfc-49cb-afb8-1ae015399c4e?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 23:01:03 GMT",
-      "scrape_timestamp": "2026-10-12T00:50:21.261698+00:00",
-      "content": "Prime minister’s pledge is backed by tech groups but hedge funds and banks say it will damage competitiveness",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How to pay for social care",
-      "link": "https://www.ft.com/content/dcdc4427-2104-4b6f-91e5-af9d13bb49a1?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 23:01:03 GMT",
-      "scrape_timestamp": "2026-10-12T00:50:21.461848+00:00",
-      "content": "Automatic enrolment worked for pensions — a similar scheme could pool the risk of heavy costs from illness and infirmity in later life",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey’s Budget will be ‘fiction’ without plan for £35bn hole in spending, IFS warns",
-      "link": "https://www.ft.com/content/619800ae-b2f2-46e3-b34e-23f0525637da?syn-25a6b1a6=1",
-      "published_date": "Sun, 11 Oct 2026 23:01:03 GMT",
-      "scrape_timestamp": "2026-10-12T00:50:21.661997+00:00",
-      "content": "Influential think-tank says a ‘do nothing’ fiscal event on October 28 is not an option",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Oil prices fall after Trump claims ‘energy ceasefire’ in Ukraine war",
       "link": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
       "published_date": "Mon, 12 Oct 2026 04:43:13 GMT",
@@ -3684,11 +3640,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US rate rises are being amplified in global markets",
+      "link": "https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748",
+      "published_date": "Sun, 18 Oct 2026 23:01:02 GMT",
+      "scrape_timestamp": "2026-10-19T00:36:40.030479+00:00",
+      "content": "The Iran war and shifts by China are tightening the supply of dollars in international markets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-18T22:04:03.196398+00:00",
+  "last_updated": "2026-10-19T00:36:57.261319+00:00",
   "metadata": {
-    "total_runs": 3059,
+    "total_runs": 3060,
     "sources": [
       "Financial Times"
     ],
