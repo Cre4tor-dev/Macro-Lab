@@ -2,83 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Oil prices fall after Trump claims ‘energy ceasefire’ in Ukraine war",
-      "link": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:43:13 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:46.325267+00:00",
-      "content": "Announcement follows diesel deal with Putin as US president tries to contain impact of higher fuel costs ahead of election",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump battles to save the Senate",
-      "link": "https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:00:17 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:46.725712+00:00",
-      "content": "Losing the Republican majority in the chamber would be bruising for the president. A vote in rural Iowa may determine his fate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "There is a smarter way to tax the rich",
-      "link": "https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe",
-      "published_date": "Mon, 12 Oct 2026 04:00:16 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:46.925922+00:00",
-      "content": "Increasing US corporate tax raises government revenues without harming the tax base",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The huge lurking leverage of AI hyperscalers",
-      "link": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:00:07 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:47.126129+00:00",
-      "content": "While equity investors look to sunny futures, creditors are scrutinising liabilities like leases on data centres",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nato should prepare for deadly Russian ‘hybrid’ attack, says Poland",
-      "link": "https://www.ft.com/content/0c5a10f4-5aca-456e-9c3a-4c4dc8132a63?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:00:16 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:47.726806+00:00",
-      "content": "Foreign minister Radosław Sikorski says risk of casualties is rising as Moscow escalates sabotage campaign on European soil",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Wall Street’s record-breaking trading streak set to cool",
-      "link": "https://www.ft.com/content/50bb9758-abf7-43a4-bd8b-0c1e5895b4c2?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:00:17 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:47.927037+00:00",
-      "content": "Analysts forecast sharp slowdown when banks report third-quarter results next week after a bumper start to the year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Charles de Gaulle airport owner linked to services for sanctioned airline",
-      "link": "https://www.ft.com/content/5f0e16b5-15ba-4496-a4c1-15bc0287f7f1?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:00:08 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:48.127264+00:00",
-      "content": "Subsidiary of Groupe ADP, which is backed by the French government, has not stopped all work for Russia’s Ural Airlines",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Is the US economy as narrow as its stock market?",
       "link": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
       "published_date": "Mon, 12 Oct 2026 05:30:05 GMT",
@@ -95,72 +18,6 @@
       "published_date": "Mon, 12 Oct 2026 05:30:05 GMT",
       "scrape_timestamp": "2026-10-12T06:46:49.143281+00:00",
       "content": "Trump vs Norway; chōsen-seki; mathematicians and AI, RIP Quartz; Wallace and Gromit",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU budget battle intensifies ahead of leaders’ summit",
-      "link": "https://www.ft.com/content/b5faacca-4561-4e9d-bec5-c8ef843b0419?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 05:00:06 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:49.343468+00:00",
-      "content": "Also in this newsletter: Don’t ban US tech without financial support, says Warsaw",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Wall Street’s great money spinner",
-      "link": "https://www.ft.com/content/d3a342a9-0b64-4dd3-8f12-54c6750509de?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 05:00:06 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:49.543669+00:00",
-      "content": "Plus, JPMorgan’s European ambitions, a surge in US corporate borrowing costs, and painting the French Riviera",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Heathrow needs Burnham green light for runway by end of year, warns boss",
-      "link": "https://www.ft.com/content/b0acd823-ca55-481c-93de-0e292a401b37?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:00:17 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:50.344365+00:00",
-      "content": "Airport will have to ‘reassess’ £33bn project if prime minister does not openly back expansion plan, Woldbye tells FT",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK ministers explore compulsory AI safety reporting",
-      "link": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:00:17 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:50.544585+00:00",
-      "content": "Kanishka Narayan to tell companies to exercise stricter control over autonomous models and build safeguards",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Worrying omens’ stalk global economy despite resilient growth",
-      "link": "https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 04:00:16 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:51.145189+00:00",
-      "content": "Research for the FT shows major economies are withstanding the Iran shock but concerns about rising public debt will loom over IMF and World Bank meetings",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Toshikazu Kawaguchi on the romantic appeal of Japan’s coffee shops",
-      "link": "https://www.ft.com/content/99bca208-799a-4903-a2fd-b1b2a3453893",
-      "published_date": "Mon, 12 Oct 2026 04:00:08 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:51.545573+00:00",
-      "content": "For the bestselling author of the ‘Before the Coffee Gets Cold’ book series, the country’s retro cafés have a dreamlike quality, as if time has stood still",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3651,11 +3508,209 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rising interest rates derail property recovery as buyers recut deals",
+      "link": "https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:32.497539+00:00",
+      "content": "‘Dire’ mood in sector as surging bond yields threaten deals agreed just a few months ago",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hollywood recasts tech tycoons as bad billionaires",
+      "link": "https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:32.897969+00:00",
+      "content": "This new twist may portend a backlash against wealth creation in America",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Americans are unhappy. How will they vote in the midterms?",
+      "link": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:33.098170+00:00",
+      "content": "The FT’s focus group in the Pennsylvania battleground of Bethlehem revealed anxiety about the country ahead of the US midterm elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
+      "link": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:33.498588+00:00",
+      "content": "Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China’s economy picks up pace at 4.5% growth",
+      "link": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 05:03:27 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:33.698782+00:00",
+      "content": "Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic commits 5% of shares to ‘public benefit’ fund",
+      "link": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 01:31:01 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:33.898973+00:00",
+      "content": "AI start-up has faced growing public backlash over safety and economic concerns",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US envoy hopes for ‘prosperous’ Europe",
+      "link": "https://www.ft.com/content/280637e2-72f7-46c0-8fc4-3532032287da?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 05:00:06 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:34.630750+00:00",
+      "content": "Also in this newsletter: EU turns to New Caledonia for nickel in bid to loosen China’s grip",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Has America’s wave of anti-globalisation populism peaked?",
+      "link": "https://www.ft.com/content/ba3b9244-bf94-4c3f-a89b-b761488fd71d",
+      "published_date": "Mon, 19 Oct 2026 05:00:06 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:34.830920+00:00",
+      "content": "When voters turn, leaders follow",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Bank of England scrutinises Barclays",
+      "link": "https://www.ft.com/content/76117a3b-2cd6-481b-b485-4b743627589d?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:32:11 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:35.031100+00:00",
+      "content": "Also in today’s newsletter: French riots and Europe’s Starlink curbs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The sushi restaurant Tokyoites travel three hours to for lunch",
+      "link": "https://www.ft.com/content/e09b009c-7ba1-4bf6-a329-937d38110ab4",
+      "published_date": "Mon, 19 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:35.231298+00:00",
+      "content": "Isao Ogawa is both an expert chef and a third-generation fishmonger with the bounty of Toyama Bay at his feet. No wonder other top chefs eat at his counter and seek his advice",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "A mother’s quest to find out how her daughter was poisoned by lead",
+      "link": "https://www.ft.com/content/441501cc-e88b-45aa-81d2-864d76971dec?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:35.431501+00:00",
+      "content": "A Welsh family says the health risks from the country’s industrial past have been ‘left unaddressed’ for too long",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Luxury ‘dupe’ retailer Quince enters UK market",
+      "link": "https://www.ft.com/content/3dae6c98-afeb-4b4c-9996-4279d4e2e3b2?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:35.631708+00:00",
+      "content": "Company’s business model relies on copying products from popular brands then selling them at low prices",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Five things business wants from the Budget",
+      "link": "https://www.ft.com/content/af6f84d7-b134-4181-84f3-7811c369f306?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:35.831876+00:00",
+      "content": "Rates help for small companies and banks as well as cheaper energy are on the wishlist for UK businesses",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Degree apprenticeships plateau as employers confront increased hiring costs",
+      "link": "https://www.ft.com/content/85545be4-6f36-4ac6-9185-e715ccd5fab3?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:06 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:36.232285+00:00",
+      "content": "Companies blame red tape and increased minimum wage regulation for cutting back on earn-as-you-learn opportunities for young people",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "French government in crisis mode after a weekend of riots",
+      "link": "https://www.ft.com/content/f4e863f3-e23f-4f0f-a693-f4c3f5d9cda2?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:00 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:36.632649+00:00",
+      "content": "Government under pressure after struggling to contain attacks on stores and official buildings",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham always wants to look like he’s listening, especially when he isn’t",
+      "link": "https://www.ft.com/content/e9f48a3f-f6d8-4b81-aca3-1b839119484e",
+      "published_date": "Mon, 19 Oct 2026 03:00:04 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:36.832846+00:00",
+      "content": "A behind-the-scenes look at the work of Rutherford Hall, critical communications strategist",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Private equity finds next Asian frontier",
+      "link": "https://www.ft.com/content/0f857d6a-646d-4d19-bcdd-a0f0b4e8585c?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 01:30:11 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:37.033041+00:00",
+      "content": "Foreign firms make up majority of large buyout deals in Asia’s fourth-biggest economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Flight from Israel diverted after ‘threat’",
+      "link": "https://www.ft.com/content/77b859ab-e380-413d-894b-2fe3cf6417c5",
+      "published_date": "Mon, 19 Oct 2026 00:55:37 GMT",
+      "scrape_timestamp": "2026-10-19T05:29:37.233242+00:00",
+      "content": "Austrian Airlines says Vienna-bound flight from Tel Aviv made an emergency stop in Sofia",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-19T00:36:57.261319+00:00",
+  "last_updated": "2026-10-19T05:29:51.923594+00:00",
   "metadata": {
-    "total_runs": 3060,
+    "total_runs": 3061,
     "sources": [
       "Financial Times"
     ],
