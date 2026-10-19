@@ -2,154 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says",
-      "link": "https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 14:27:52 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:09.487053+00:00",
-      "content": "Ukraine says Russia conducted strikes on power plants after US president’s announcement on Sunday",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nato’s supreme commander warns Moscow against attacks in Europe",
-      "link": "https://www.ft.com/content/da71c823-ca31-4eaa-8e6e-6baacea986a4?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 13:34:54 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:09.687226+00:00",
-      "content": "Alexus Grynkewich says Russia’s ‘hybrid’ war is unsettling even if conflict is not imminent",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US agents raid home of Trump critic Ilhan Omar",
-      "link": "https://www.ft.com/content/e05d76f8-2ced-4acc-a449-926b49559f9b?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 15:32:56 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:10.688118+00:00",
-      "content": "Homeland Security officials launch criminal investigation into the Minnesota representative in latest action against the president’s political enemies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK imposes new sanctions on Iran over RAF Fairford incident",
-      "link": "https://www.ft.com/content/f7ef12e0-7719-4cac-a3a2-27b85b6ab99b?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 15:43:05 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:10.888293+00:00",
-      "content": "Andy Burnham says events at Gloucestershire base used by US military were ‘almost certainly directed’ by Islamic Revolutionary Guards",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Riyadh defiant as Houthis launch new missile strikes on Saudi Arabia",
-      "link": "https://www.ft.com/content/ad0b6e93-708c-46c6-a1f2-e6248c934faf?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 14:39:08 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:11.088465+00:00",
-      "content": "International oil company chiefs stay away from energy congress after airport attacks",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "It’s time for the UK to reward whistleblowers financially",
-      "link": "https://www.ft.com/content/fa46e045-3ca1-465f-9b7a-6e3ce2d6483e",
-      "published_date": "Mon, 12 Oct 2026 16:15:27 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:12.203324+00:00",
-      "content": "Incentivising insiders to come forward will transform how we tackle fraud",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham’s EU reset hit by French demands on university fees",
-      "link": "https://www.ft.com/content/011a7926-402e-4baa-90ba-bab4a44a74de?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 13:45:37 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:13.404312+00:00",
-      "content": "Rejecting closer ties with EU would be ‘dereliction of duty’, prime minister to tell MPs",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Franco-German deal on EU car policy is ‘imminent’, says Macron",
-      "link": "https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 13:10:52 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:13.804661+00:00",
-      "content": "Agreement would push back Europe’s phaseout of combustion engines and boost car production on the continent to combat Chinese competition",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Europe is finally confronting China",
-      "link": "https://www.ft.com/content/e374bc1a-bd56-40b4-98c9-d1b502ef9d47?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 13:00:01 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:14.004838+00:00",
-      "content": "At last, the French and the Germans are getting serious about standing up to Beijing’s mercantilism",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Labour plan to cut funds from heat pump scheme sparks industry backlash",
-      "link": "https://www.ft.com/content/e67a9120-4dec-4796-8414-3f4990b01f11?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 12:26:12 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:14.205014+00:00",
-      "content": "Energy department ordered to find £2bn of savings as part of Downing Street drive to boost defence spending",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘The youth are no longer afraid’: protests test Modi’s grip",
-      "link": "https://www.ft.com/content/463be44f-5477-46e6-b4d2-460fa2551064?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 12:08:50 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:14.405201+00:00",
-      "content": "Widening unrest takes aim at election integrity and threatens prime minister’s legitimacy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Zuckerberg says Meta has reached AI ‘frontier’",
-      "link": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 17:00:02 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:18.309989+00:00",
-      "content": "FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Houthi assault on Saudi airports strikes at MBS’s economic vision",
       "link": "https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1",
       "published_date": "Mon, 12 Oct 2026 18:32:01 GMT",
       "scrape_timestamp": "2026-10-12T23:22:18.510189+00:00",
       "content": "Deadly bombardment of Riyadh’s international airport threatens crown prince’s plans to turn kingdom into finance and events hub",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The diesel crisis is testing the limits of globalisation",
-      "link": "https://www.ft.com/content/076b9c64-d041-42f0-9abc-d7be75db9307",
-      "published_date": "Mon, 12 Oct 2026 17:14:19 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:18.710363+00:00",
-      "content": "Seemingly rational choices by individual states will weaken collective energy security and accelerate fragmentation",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -194,28 +51,6 @@
       "published_date": "Mon, 12 Oct 2026 20:34:37 GMT",
       "scrape_timestamp": "2026-10-12T23:22:20.798603+00:00",
       "content": "Paris set to become top shareholder as states race to secure critical mineral supplies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump’s Russian diesel gambit is cynical and won’t work",
-      "link": "https://www.ft.com/content/5bc438a0-26b7-4893-9d62-1f45d2963eef?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 16:54:06 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:22.199935+00:00",
-      "content": "The US president risks harming Ukraine to curb prices driven up by his own war",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Two economists who transformed crisis management win Nobel Prize",
-      "link": "https://www.ft.com/content/1d3b1c4f-823d-49eb-aaf5-b662a6281ac7?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 16:40:03 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:22.600356+00:00",
-      "content": "Robert E Hall and Michael Woodford helped central banks respond to 2008 financial turmoil",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3772,11 +3607,187 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US defence stocks tumble as investors bet on Democratic election sweep",
+      "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 13:04:40 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:03.074746+00:00",
+      "content": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "CME plans tungsten futures as demand for weapons rises",
+      "link": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 10:30:57 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:03.274963+00:00",
+      "content": "China has restricted exports of critical mineral used in armour-piercing munitions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France’s riots expose the impotence of its political class",
+      "link": "https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 17:07:43 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:03.675294+00:00",
+      "content": "Shocking violence highlights deepening social division, fiscal constraints and a crisis of leadership",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks",
+      "link": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 15:40:33 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:04.075665+00:00",
+      "content": "Flagship Future Investment Initiative was scheduled to begin next week in Riyadh but will now take place next year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Violent protests multiply across Europe",
+      "link": "https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 13:50:22 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:04.476046+00:00",
+      "content": "Looting and clashes with police take place in Milan, Brussels, Liège and Tirana",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Freshfields apologises ‘unreservedly’ over Middle East comments in email leak",
+      "link": "https://www.ft.com/content/6075e0ec-9116-4de4-84e6-d50b5ed1d47a?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 11:09:30 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:04.676219+00:00",
+      "content": "Partner at firm had said need to approach ‘sophisticated investors’ to back its AI lab ‘probably’ ruled out region’s ‘sovereign wealth money’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US prosecutors allege Saudi royal links in OpenAI bugging case",
+      "link": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 16:13:28 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:04.876424+00:00",
+      "content": "Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his ‘considerable support from a foreign government’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade",
+      "link": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 15:59:35 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:05.812981+00:00",
+      "content": "Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU drops push for global ban on Arctic drilling",
+      "link": "https://www.ft.com/content/8b1990d1-b4b2-4147-ba4b-76d1869ee2db?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 15:36:34 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:06.213375+00:00",
+      "content": "Brussels’ new strategy excludes 2021 pledge to work towards a ‘multilateral legal obligation’ not to allow any further hydrocarbon development in the polar region",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "India’s democracy once went looking for voters. Not any more",
+      "link": "https://www.ft.com/content/8848d06c-c0fa-49ff-af08-880ef4f3ff21",
+      "published_date": "Mon, 19 Oct 2026 14:46:23 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:06.413573+00:00",
+      "content": "The franchise is being recast as a privilege citizens must repeatedly prove they deserve",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Data centres need protection from drone warfare",
+      "link": "https://www.ft.com/content/15a049f3-b62e-40ed-b304-8a2452713338",
+      "published_date": "Mon, 19 Oct 2026 14:31:32 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:06.613735+00:00",
+      "content": "AI infrastructure designs may now need to incorporate blast-resistant concrete, jamming gear and missile-defence systems",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Australian MP struck by car in alleged attack",
+      "link": "https://www.ft.com/content/5f595355-caca-4951-8170-91bb513f7aa9?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 13:52:49 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:06.813877+00:00",
+      "content": "A suspect is in custody after lawmaker sustained ‘critical injuries’ but the motive remains unknown",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The best exhibitions to see in London this weekend",
+      "link": "https://www.ft.com/content/ef0f6d42-4759-4ce8-8e40-acd83f0c64f1?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 13:48:05 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:07.214180+00:00",
+      "content": "The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "North Sea oil producer threatens to stop investing if UK blocks Rosebank oilfield",
+      "link": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 13:37:50 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:07.414336+00:00",
+      "content": "North Sea oil producer links approval of near-$4bn field delayed by environmental concerns to future projects in Britain",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Uber defeats High Court lawsuit brought by London’s black-cab drivers",
+      "link": "https://www.ft.com/content/22290706-ab59-4766-b604-ddff94a71bcf?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 13:19:38 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:07.814743+00:00",
+      "content": "Judge rules claim against ride-hailing app was brought too late",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Indonesia’s market is dysfunctional, not uninvestable",
+      "link": "https://www.ft.com/content/6b460256-2f85-485f-ba99-45f270fe3cad?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 12:55:32 GMT",
+      "scrape_timestamp": "2026-10-19T17:58:08.215118+00:00",
+      "content": "Banks are decent investments based on their growth and profitability",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-19T11:35:54.899266+00:00",
+  "last_updated": "2026-10-19T17:58:23.645784+00:00",
   "metadata": {
-    "total_runs": 3062,
+    "total_runs": 3063,
     "sources": [
       "Financial Times"
     ],
