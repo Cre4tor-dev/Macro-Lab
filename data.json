@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Is the US economy as narrow as its stock market?",
-      "link": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 05:30:05 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:48.943061+00:00",
-      "content": "No*",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FTAV’s further read",
-      "link": "https://www.ft.com/content/b01366df-466d-44ee-91c6-1c71932da89e",
-      "published_date": "Mon, 12 Oct 2026 05:30:05 GMT",
-      "scrape_timestamp": "2026-10-12T06:46:49.143281+00:00",
-      "content": "Trump vs Norway; chōsen-seki; mathematicians and AI, RIP Quartz; Wallace and Gromit",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says",
       "link": "https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1",
       "published_date": "Mon, 12 Oct 2026 14:27:52 GMT",
@@ -40,17 +18,6 @@
       "published_date": "Mon, 12 Oct 2026 13:34:54 GMT",
       "scrape_timestamp": "2026-10-12T16:19:09.687226+00:00",
       "content": "Alexus Grynkewich says Russia’s ‘hybrid’ war is unsettling even if conflict is not imminent",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain, Brexit and the cat-flap option",
-      "link": "https://www.ft.com/content/0a66d390-149d-4cdc-83b6-88015da1e835?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 10:59:07 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:10.487967+00:00",
-      "content": "The political, strategic and economic momentum for a reversal of Brexit is growing",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -150,17 +117,6 @@
       "published_date": "Mon, 12 Oct 2026 12:08:50 GMT",
       "scrape_timestamp": "2026-10-12T16:19:14.405201+00:00",
       "content": "Widening unrest takes aim at election integrity and threatens prime minister’s legitimacy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The EU has more bark but lacks bite towards China",
-      "link": "https://www.ft.com/content/90d5003e-dbec-4db3-88d2-d30d9c2a119d?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 11:31:01 GMT",
-      "scrape_timestamp": "2026-10-12T16:19:14.805572+00:00",
-      "content": "Germany’s apparent shift towards trade belligerence is unfocused and unproven",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3706,11 +3662,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Macron rejects interior minister’s resignation after French riots",
+      "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 10:26:05 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:33.243287+00:00",
+      "content": "Political recriminations fly and bonds fall as authorities admit that police botched oversight of protests",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "PwC revenue growth trails Deloitte and EY",
+      "link": "https://www.ft.com/content/0d89ccfd-50ce-4e74-8112-0a8f53b3afff?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 10:00:05 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:34.444892+00:00",
+      "content": "Europe, Middle East and Africa revenues rose 0.7% following war in Iran and a slowdown in work for Saudi Arabian government",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ukraine receives partial intelligence on Russian ballistic missile strikes",
+      "link": "https://www.ft.com/content/a381df3f-a1bf-4889-aa5d-e4e594a3ea33?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 10:40:42 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:34.645218+00:00",
+      "content": "Western allies provided advance warning about only one of two overnight attacks, says Ukrainian air force",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US stocks set for rebound after AI sell-off",
+      "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 09:16:12 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:35.246216+00:00",
+      "content": "Nasdaq 100 futures rise 1% following biggest weekly drop since Trump’s ‘liberation day’ in April last year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Zelenskyy, Europe and the end of Trump whispering",
+      "link": "https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 11:21:25 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:35.963504+00:00",
+      "content": "This new crisis looks different and the bloc’s leaders are preparing to talk directly to Putin",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US grocery giants head to court in $9bn battle over failed merger",
+      "link": "https://www.ft.com/content/086e66dd-1e1b-4279-ae6b-2ac88757998f?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 10:00:05 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:36.764547+00:00",
+      "content": "Kroger and Albertsons point fingers over who was responsible for collapse of planned tie-up",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iranian hardliners say the time for nuclear weapons has come",
+      "link": "https://www.ft.com/content/1f23e859-5e70-4d99-8f9b-56de3d0ae43e?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 09:55:22 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:36.964815+00:00",
+      "content": "Killing of supreme leader Ali Khamenei, who prohibited atomic bombs, has prompted calls to weaponise enrichment programme",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Swinney tests limits of Burnham’s devolution pitch to Scotland",
+      "link": "https://www.ft.com/content/d98a97e4-5ba4-481e-af20-35dcb2fc3a14?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 08:30:04 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:37.365279+00:00",
+      "content": "UK PM may want to avoid independence ‘drama’ but SNP remains committed to breaking away",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Frenzy’ in Australian deals as investors swoop on cheap assets",
+      "link": "https://www.ft.com/content/c5bbb2a7-e00e-4e20-9db3-f4d00504857a?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 05:28:13 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:37.565543+00:00",
+      "content": "EQT strikes $6.5bn deal for waste management group and Dai-ichi Life targets wealth manager",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Japan leads mission to make first return trip to Mars",
+      "link": "https://www.ft.com/content/88638d03-1537-4f71-b099-3a951f1c4cb7?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 04:00:15 GMT",
+      "scrape_timestamp": "2026-10-19T11:35:38.366574+00:00",
+      "content": "Voyage due to launch early Tuesday morning Japan time will be watched for further potential signs of life on red planet",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-19T05:29:51.923594+00:00",
+  "last_updated": "2026-10-19T11:35:54.899266+00:00",
   "metadata": {
-    "total_runs": 3061,
+    "total_runs": 3062,
     "sources": [
       "Financial Times"
     ],
