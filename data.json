@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes",
-      "link": "https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091",
-      "published_date": "Tue, 13 Oct 2026 09:42:00 GMT",
-      "scrape_timestamp": "2026-10-13T12:20:29.564255+00:00",
-      "content": "Performance of stock traders helps Goldman report 30 per cent rise in third-quarter net income",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices",
-      "link": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 10:11:23 GMT",
-      "scrape_timestamp": "2026-10-13T12:20:30.764866+00:00",
-      "content": "Claude maker suggests models could act as ‘worms’ to spread across smart home appliances such as ovens and TVs in future cyber security threat",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Cyber attack on French supermarket fridges raises alarm over food security",
       "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
       "published_date": "Tue, 13 Oct 2026 11:50:21 GMT",
@@ -106,61 +84,6 @@
       "published_date": "Tue, 13 Oct 2026 11:00:08 GMT",
       "scrape_timestamp": "2026-10-13T12:20:33.341540+00:00",
       "content": "Art businesses are trying to snare younger buyers with A-list faces — but face a tricky balance between exclusivity and popularity",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: IMF sounds alarm on dire public finances",
-      "link": "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 10:28:40 GMT",
-      "scrape_timestamp": "2026-10-13T12:20:33.941816+00:00",
-      "content": "Also in today’s newsletter: tech stocks hit by ‘casino’ talk and CNN plans to expand its streaming service overseas",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘I think a lot of people are waking up’: Trump’s Latino vote starts to unravel",
-      "link": "https://www.ft.com/content/883fc906-7ca8-4395-b68a-000b79a270ee?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 10:00:10 GMT",
-      "scrape_timestamp": "2026-10-13T12:20:34.141910+00:00",
-      "content": "Inflation, war and the crackdown on immigrant communities draw the crucial swing voters back to the Democrats ahead of the midterms",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How US coal mined ties to Trump — and got much of its ‘wish list’",
-      "link": "https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 10:00:10 GMT",
-      "scrape_timestamp": "2026-10-13T12:20:34.342005+00:00",
-      "content": "A CEO golfs with Trump’s son as an industry once shut out of Washington turns access into policy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Business backlash over sweeping halal rules in world’s biggest Muslim nation",
-      "link": "https://www.ft.com/content/630328ea-829d-4e5f-a3a8-7ffc33946ef7",
-      "published_date": "Tue, 13 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-13T12:20:34.542102+00:00",
-      "content": "World’s largest majority-Muslim country to force companies to explain how products from clothes to toilet paper are permissible under Islam",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Former DR Congo leader Joseph Kabila to lead new rebel alliance",
-      "link": "https://www.ft.com/content/1a326f59-e28a-416a-9a78-8b013672e1b2?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 09:58:46 GMT",
-      "scrape_timestamp": "2026-10-13T12:20:34.742195+00:00",
-      "content": "Announcement likely to hinder efforts by US to broker peace in country",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3794,11 +3717,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "South Korean data centre builder tumbles 32% on trading debut",
+      "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 07:03:21 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:02.896415+00:00",
+      "content": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Putin’s American friends",
+      "link": "https://www.ft.com/content/f2261796-20d1-4c90-ab3e-246d4aff504f?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 10:26:19 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:03.296806+00:00",
+      "content": "‘Realist’ critics of Nato echo Moscow’s talking points on Ukraine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Dubai firm that promised 30% returns — then stopped paying",
+      "link": "https://www.ft.com/content/83be85af-1cc5-4661-954e-f671e8f3aa3b?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 04:00:11 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:03.497002+00:00",
+      "content": "Prospective clients who flocked to the Burj Khalifa were promised double-digit returns but thousands are now facing losses",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France considers new curfews as restrictions quell unrest",
+      "link": "https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 08:40:54 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:03.897389+00:00",
+      "content": "Italy also expected to approve new security measures to combat violent rioters",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Alberta voters reject separation from Canada, early results show",
+      "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 10:09:18 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:04.297794+00:00",
+      "content": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nidec founder shut down call for accounting probe in 2017, report finds",
+      "link": "https://www.ft.com/content/a663f0c9-dfcd-4c21-8301-89caadedba08?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 10:10:28 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:05.140286+00:00",
+      "content": "Shigenobu Nagamori ‘neglected his duties’ by failing to inform Japanese company’s board, independent committee concludes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Older Americans brace for higher healthcare costs ahead of midterms",
+      "link": "https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 10:10:01 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:05.340486+00:00",
+      "content": "The burden of inflation on seniors is set to worsen as US health insurers raise prices and cut benefits",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The hidden water crisis beneath the American west",
+      "link": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 10:00:03 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:05.941087+00:00",
+      "content": "As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Palazzo d’Italia, Tangier’s timeless trattoria, enters a new era",
+      "link": "https://www.ft.com/content/69f7e8a3-7f79-431b-9d23-c123ef7d5712?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 10:00:02 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:06.141279+00:00",
+      "content": "The reinvention of a much-loved hang-out",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Restore forces Nigel Farage into an ugly race to his right",
+      "link": "https://www.ft.com/content/5772046b-556c-4a88-9973-1ea30e6de1d9?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 08:30:01 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:06.942111+00:00",
+      "content": "Rupert Lowe’s hardline policies sap support from Reform just as it seeks to wrest the centre right from the Tories",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK jobs market stabilises before Budget",
+      "link": "https://www.ft.com/content/2d20b09b-6565-4253-a809-8a0542e6770a?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 08:07:23 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:07.142297+00:00",
+      "content": "Figures suggest recent upswing in economy is starting to underpin employment",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK labour market rebounds with stronger employment",
+      "link": "https://www.ft.com/content/c763b5f1-53f7-41e9-ba26-8d3b8bb76f05",
+      "published_date": "Tue, 20 Oct 2026 07:50:03 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:07.342500+00:00",
+      "content": "Unemployment rate unexpectedly dropped to 4.7% in three months to August",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Australian bank cuts 2,500 jobs as sector outlook sours",
+      "link": "https://www.ft.com/content/8d03e05d-229e-491f-bf04-3a9ab8416682?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 06:19:34 GMT",
+      "scrape_timestamp": "2026-10-20T10:40:07.742855+00:00",
+      "content": "NAB reduces workforce by 6% to adjust to ‘evolving operating environment’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-20T05:39:21.150099+00:00",
+  "last_updated": "2026-10-20T10:40:22.193238+00:00",
   "metadata": {
-    "total_runs": 3066,
+    "total_runs": 3067,
     "sources": [
       "Financial Times"
     ],
