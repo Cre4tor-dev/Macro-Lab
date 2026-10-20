@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Trump says he is considering firing Guilfoyle over alleged misconduct",
-      "link": "https://www.ft.com/content/c97cf26c-04b7-47ce-8290-b0f779c9490b?syn-25a6b1a6=1",
-      "published_date": "Mon, 12 Oct 2026 22:32:01 GMT",
-      "scrape_timestamp": "2026-10-12T23:22:19.511173+00:00",
-      "content": "US president is ‘looking at’ dismissing the ambassador to Greece after report claiming she accepted improper gifts while in office",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
       "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
       "published_date": "Tue, 13 Oct 2026 03:35:04 GMT",
@@ -95,17 +84,6 @@
       "published_date": "Tue, 13 Oct 2026 04:00:28 GMT",
       "scrape_timestamp": "2026-10-13T04:36:15.812270+00:00",
       "content": "Some western executives warn that the measures will only briefly protect European companies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China resorts to Nvidia gaming chips in search for AI firepower",
-      "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 00:15:06 GMT",
-      "scrape_timestamp": "2026-10-13T04:36:16.212474+00:00",
-      "content": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3772,11 +3750,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China’s villages pay the price for Beijing’s AI ambitions",
+      "link": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 00:15:07 GMT",
+      "scrape_timestamp": "2026-10-20T00:57:38.736204+00:00",
+      "content": "Residents in remote region of Shaoguan hope country’s AI infrastructure push will deliver boom that has long eluded them",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
+      "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 00:14:19 GMT",
+      "scrape_timestamp": "2026-10-20T00:57:39.536819+00:00",
+      "content": "Steve Witkoff and Jared Kushner expected to travel to Norway to meet Volodymyr Zelenskyy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal",
+      "link": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 22:27:32 GMT",
+      "scrape_timestamp": "2026-10-20T00:57:39.937076+00:00",
+      "content": "AI start-up looks for more computing power from UK data centre group",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey rules out increasing capital gains tax in the Budget",
+      "link": "https://www.ft.com/content/f7433f80-a926-4582-8355-67c07aebe5ea?syn-25a6b1a6=1",
+      "published_date": "Mon, 19 Oct 2026 22:22:15 GMT",
+      "scrape_timestamp": "2026-10-20T00:57:40.754204+00:00",
+      "content": "Chancellor decides against raising CGT rates after business leaders warned it would damage confidence in the economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-19T22:00:21.273391+00:00",
+  "last_updated": "2026-10-20T00:57:59.526416+00:00",
   "metadata": {
-    "total_runs": 3064,
+    "total_runs": 3065,
     "sources": [
       "Financial Times"
     ],
