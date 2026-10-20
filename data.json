@@ -2,105 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "White House asks US envoy to Greece Kimberly Guilfoyle to resign",
-      "link": "https://www.ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 16:16:58 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:18.097646+00:00",
-      "content": "Donald Trump had said he was considering firing the ambassador after reports claiming she accepted improper gifts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Saudi-led coalition strikes Houthi targets in Yemen capital",
-      "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 19:13:39 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:18.698253+00:00",
-      "content": "Donald Trump accuses Iran-backed militants of deliberately trying to drive up oil prices ahead of the US midterm elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russia arrests Japanese journalist on espionage charges",
-      "link": "https://www.ft.com/content/b77a0094-c6f1-449a-9323-2b4d16696cb7?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 18:30:07 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:18.898533+00:00",
-      "content": "Detention of Hokkaido Shimbun reporter follows series of arrests denounced as politically motivated",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Modi cannot silence India’s disaffected youth",
-      "link": "https://www.ft.com/content/9c5501bc-7297-4864-a5a7-b2f2001e2dd9?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 17:28:44 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:19.902097+00:00",
-      "content": "The BJP must address young people’s political and economic frustrations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Pro-business’ Burnham reassures chief executives on tax",
-      "link": "https://www.ft.com/content/e582246d-c869-46dc-a8a5-5ea52fa689e7?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 17:28:36 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:20.102311+00:00",
-      "content": "Prime minister and chancellor host roundtable meetings with leading business figures to calm nerves ahead of the Budget",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Number of UK Isa millionaires jumps 50 per cent in a year",
-      "link": "https://www.ft.com/content/9fcf1e27-e0b7-4016-bf19-2f87ac62a13b",
-      "published_date": "Tue, 13 Oct 2026 16:56:14 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:20.302515+00:00",
-      "content": "Number of investors with more than £1mn in their account tops 7,700",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will bank earnings growth become a thing of the past?",
-      "link": "https://www.ft.com/content/9f6ec5b2-4f0b-4ed3-9541-588d49e3ad7e?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 16:49:43 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:20.502754+00:00",
-      "content": "It would be foolish to think the Wall Street giants can’t outrun the threat of AI",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Zelenskyy says Kyiv’s partners failed to warn of ballistic missile attack",
-      "link": "https://www.ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 16:20:48 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:20.702960+00:00",
-      "content": "Ukrainian leader stops short of linking intelligence gap to Trump administration’s threats to withdraw US support",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Wall Street plays down investor fears of faltering trading boom",
-      "link": "https://www.ft.com/content/bd1f3385-1985-4a8a-a781-22cbe1292d2d?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 16:10:48 GMT",
-      "scrape_timestamp": "2026-10-13T19:39:21.103423+00:00",
-      "content": "JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
       "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
       "published_date": "Tue, 13 Oct 2026 20:54:58 GMT",
@@ -3838,11 +3739,99 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump pledges to spend $400mn on Republican Party midterm campaigns",
+      "link": "https://www.ft.com/content/c335e978-1ceb-4254-8c71-793a41e6d0b3?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 19:02:44 GMT",
+      "scrape_timestamp": "2026-10-20T19:44:51.266606+00:00",
+      "content": "US president’s announcement comes after former New York City mayor Mike Bloomberg donates $80mn to Democratic candidates",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UAE official emerges as late contender to lead UN",
+      "link": "https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 18:32:31 GMT",
+      "scrape_timestamp": "2026-10-20T19:44:52.007987+00:00",
+      "content": "Supporters of Lana Nusseibeh sound out UN missions for backing as official candidates struggle to break deadlock",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Two rearrested over RAF Fairford incident on suspicion of helping Iranian intelligence",
+      "link": "https://www.ft.com/content/33573324-6eb8-447c-934d-5a992872509a?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 18:19:44 GMT",
+      "scrape_timestamp": "2026-10-20T19:44:52.208194+00:00",
+      "content": "Men held as officers continue to probe September incident at air base, which was hosting US bombers conducting strikes on Iran",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Who are the Black Bloc?",
+      "link": "https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 18:15:43 GMT",
+      "scrape_timestamp": "2026-10-20T19:44:52.408396+00:00",
+      "content": "French government says agitators from the far left helped transform peaceful protests into riots",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Merz warns over Berlin plans to seize landlords’ property",
+      "link": "https://www.ft.com/content/82f99b04-144d-4f2a-b23e-d5a3c0674f3b?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 16:49:37 GMT",
+      "scrape_timestamp": "2026-10-20T19:44:52.808796+00:00",
+      "content": "Chancellor calls for regional government not to ‘experiment’ with market economy as investors attend summit",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain’s budget should build on its economic resilience",
+      "link": "https://www.ft.com/content/8be29348-e112-462f-96eb-44a699ca61a6?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 16:15:04 GMT",
+      "scrape_timestamp": "2026-10-20T19:44:53.009016+00:00",
+      "content": "Burnham and Healey must look beyond industrial nostalgia to the UK’s modern strengths",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can the Democrats win the Senate?",
+      "link": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 15:33:09 GMT",
+      "scrape_timestamp": "2026-10-20T19:44:54.210263+00:00",
+      "content": "The races, the money and the issues that will determine the final half of Trump’s second term",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Is France spinning out of control?",
+      "link": "https://www.ft.com/content/616c796b-a288-4013-a363-70e94429b60e",
+      "published_date": "Tue, 20 Oct 2026 15:22:55 GMT",
+      "scrape_timestamp": "2026-10-20T19:44:54.410462+00:00",
+      "content": "The country faces multiple crises and the political class seems incapable of responding",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-20T15:28:58.465677+00:00",
+  "last_updated": "2026-10-20T19:45:09.003798+00:00",
   "metadata": {
-    "total_runs": 3068,
+    "total_runs": 3069,
     "sources": [
       "Financial Times"
     ],
