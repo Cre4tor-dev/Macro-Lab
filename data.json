@@ -2,50 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-      "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 20:54:58 GMT",
-      "scrape_timestamp": "2026-10-13T23:30:54.856459+00:00",
-      "content": "AI lab discovered a recording device concealed behind a television in a conference room",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bank of America fined $1.2bn over money laundering failures",
-      "link": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 20:00:06 GMT",
-      "scrape_timestamp": "2026-10-13T23:30:56.057594+00:00",
-      "content": "US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump revives effort to halt construction of Ørsted’s offshore wind farm",
-      "link": "https://www.ft.com/content/4cb3d090-787d-4678-89ea-9028bdeefd14?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 21:32:23 GMT",
-      "scrape_timestamp": "2026-10-13T23:30:57.443054+00:00",
-      "content": "Move comes after US president said he would drop opposition to renewable energy projects to win support for permitting bill",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How TDK plans to save its factories from Japan’s population crisis",
-      "link": "https://www.ft.com/content/d759c35e-102f-4b07-88f9-aebd99ea313a?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 21:00:07 GMT",
-      "scrape_timestamp": "2026-10-13T23:30:57.643223+00:00",
-      "content": "Apple supplier built a dormitory town to house hundreds of workers in country’s fastest depopulating prefecture",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Home of London’s oldest restaurant, Rules, given to National Trust",
       "link": "https://www.ft.com/content/1386e75c-d292-4e56-a6c5-c69b0b77ad7c?syn-25a6b1a6=1",
       "published_date": "Tue, 13 Oct 2026 23:01:08 GMT",
@@ -3827,11 +3783,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "SpaceX and Tesla boards are exploring potential merger",
+      "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 21:56:34 GMT",
+      "scrape_timestamp": "2026-10-20T22:49:34.373870+00:00",
+      "content": "Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Netflix gives downbeat outlook as streaming hits dry up",
+      "link": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 20:32:24 GMT",
+      "scrape_timestamp": "2026-10-20T22:49:35.775297+00:00",
+      "content": "Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Boeing wins approval for Max 10 jet in boost for turnaround efforts",
+      "link": "https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 20:43:44 GMT",
+      "scrape_timestamp": "2026-10-20T22:49:35.975506+00:00",
+      "content": "Long-awaited certification will help US group compete with Airbus as airlines seek larger and more efficient aircraft",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK to approve development of Jackdaw gasfield in North Sea",
+      "link": "https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 22:31:15 GMT",
+      "scrape_timestamp": "2026-10-20T22:49:36.535485+00:00",
+      "content": "Ministers to give go-ahead on Wednesday to the project about 150 miles east of Aberdeen",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Joel Kaplan to step down as Meta global affairs chief",
+      "link": "https://www.ft.com/content/850f15c9-5833-4acb-a65c-c17ca88a5fde?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 21:30:17 GMT",
+      "scrape_timestamp": "2026-10-20T22:49:37.136015+00:00",
+      "content": "Republican political operative is a key adviser to CEO Mark Zuckerberg",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lula fast-tracks Brazil welfare payments days before run-off vote",
+      "link": "https://www.ft.com/content/e2bce5a9-0cb2-4166-8a14-3adeb5af6545?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 21:23:46 GMT",
+      "scrape_timestamp": "2026-10-20T22:49:37.336203+00:00",
+      "content": "Veteran leftwinger aiming to close the gap with rightwing challenger Flávio Bolsonaro before Sunday’s ballot",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK bets on a boring budget",
+      "link": "https://www.ft.com/content/50be6960-c609-4849-94bc-7084afc89255?syn-25a6b1a6=1",
+      "published_date": "Tue, 20 Oct 2026 20:00:00 GMT",
+      "scrape_timestamp": "2026-10-20T22:49:38.136885+00:00",
+      "content": "Priority number one: Don’t spook the bond market",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-20T19:45:09.003798+00:00",
+  "last_updated": "2026-10-20T22:49:54.818745+00:00",
   "metadata": {
-    "total_runs": 3069,
+    "total_runs": 3070,
     "sources": [
       "Financial Times"
     ],
