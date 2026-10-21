@@ -2,44 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "AI demand to exceed supply for 2 more years, says ASML",
-      "link": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 06:50:27 GMT",
-      "scrape_timestamp": "2026-10-14T08:11:58.032500+00:00",
-      "content": "Europe’s most valuable company said its clients that include TSMC and Intel were experiencing ‘very, very strong demand’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Olympus shares suffer biggest drop since 2011 after FDA warning",
-      "link": "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 07:24:21 GMT",
-      "scrape_timestamp": "2026-10-14T08:11:58.731493+00:00",
-      "content": "Japanese medical devices maker tumbles 13.5% as private equity circles company",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US inflation jumps to 3.7% as Iran war drives up prices",
       "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
       "published_date": "Wed, 14 Oct 2026 13:51:24 GMT",
       "scrape_timestamp": "2026-10-14T14:11:16.927625+00:00",
       "content": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Marine Le Pen: ‘All the warning signs are flashing red’",
-      "link": "https://www.ft.com/content/73cfaf41-d3ea-4202-bd9b-f355c9e5b504?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 11:02:02 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:17.328026+00:00",
-      "content": "In a wide-ranging interview with the FT, the far-right leader declares that France is ready to close the chapter on mainstream politics",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -68,77 +35,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
-      "link": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 11:09:54 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:17.928616+00:00",
-      "content": "Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Europe’s defence stocks send a geopolitical distress signal",
-      "link": "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 11:59:38 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:18.128776+00:00",
-      "content": "Even when governments do sign big cheques, it takes a while for defence contractors to ramp up production",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
-      "link": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 09:58:48 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:18.328954+00:00",
-      "content": "Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Crypto exchange Kraken owner to buy European bank",
-      "link": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 09:30:02 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:18.529260+00:00",
-      "content": "Payward is purchasing Lithuania’s Saldo Bank as it seeks to become broader financial services company",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "General Atlantic plans IPO at up to $10bn valuation",
-      "link": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 10:00:02 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:18.729433+00:00",
-      "content": "Private capital group looks to fund ambitious expansion plan to keep pace with rivals Blackstone and Apollo Global",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "BofA profits drop 17% after $1.2bn money laundering fine",
       "link": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
       "published_date": "Wed, 14 Oct 2026 13:39:34 GMT",
       "scrape_timestamp": "2026-10-14T14:11:18.929589+00:00",
       "content": "Second-largest US bank reports weaker results in trading than Wall Street rivals",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "BlackRock pulls in $205bn to take assets to record high",
-      "link": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 11:39:33 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:19.129720+00:00",
-      "content": "World’s largest asset manager has become an increasingly powerful force in private capital after acquisitions of HPS and Global Infrastructure Partners",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -194,28 +95,6 @@
       "published_date": "Wed, 14 Oct 2026 13:10:23 GMT",
       "scrape_timestamp": "2026-10-14T14:11:21.554286+00:00",
       "content": "Food manufacturers warn of impact on consumers ahead of midterm elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Global diesel prices set to rise again, warns IEA",
-      "link": "https://www.ft.com/content/b06d00da-9df7-405b-9410-b5485c267397?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 12:25:57 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:21.754446+00:00",
-      "content": "Global shortage of fuel will last until mid-2027",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Apple and OpenAI head to court in trade secrets battle",
-      "link": "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 12:15:57 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:21.954649+00:00",
-      "content": "Tech companies face off as ChatGPT maker prepares to unveil AI device designed by Sir Jony Ive",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3860,11 +3739,187 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX",
+      "link": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 09:50:07 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:05.693874+00:00",
+      "content": "The world’s richest man attempts his most audacious deal yet. But shareholders and global regulators will need convincing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "To replace Starlink, Europe will have to reawaken its animal spirits",
+      "link": "https://www.ft.com/content/dcf3d157-de7d-4b3a-ab6a-115558d6a47b?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 04:00:23 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:05.894082+00:00",
+      "content": "Even splurging on homegrown options won’t, by itself, solve the problem in a reasonable length of time",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker",
+      "link": "https://www.ft.com/content/f9e4ddf8-5fd4-43e6-bca2-62d1067c4c48?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 10:45:04 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:06.094276+00:00",
+      "content": "EU must protect sector from foreign rivals, says parliament’s lead negotiator on telecoms reform",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Could Michigan elect America’s first Muslim senator?",
+      "link": "https://www.ft.com/content/a6972433-c303-4ace-affd-cc3ab54a3cf3?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 04:00:13 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:06.294480+00:00",
+      "content": "Democrat Abdul El-Sayed could make history — or scupper his party’s hopes of taking control of the Senate in midterm elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The ‘adults in the room’ won’t save you",
+      "link": "https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 11:32:56 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:06.494677+00:00",
+      "content": "The hope that wise subordinates would curb the likes of Donald Trump was always a misunderstanding of politics",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran’s foreign minister: The false assumptions about us are dangerous",
+      "link": "https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa",
+      "published_date": "Wed, 21 Oct 2026 10:22:06 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:06.694874+00:00",
+      "content": "A way forward can only materialise once the US administration genuinely accepts that it has no military options",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia releases US citizen as Trump’s envoy visits",
+      "link": "https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 12:10:02 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:06.895082+00:00",
+      "content": "Steve Witkoff meets Russian President Vladimir Putin in fresh drive to end war in Ukraine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The far-right contender refusing to bow to Israel’s Netanyahu",
+      "link": "https://www.ft.com/content/21160606-97fe-4db7-b374-647a728ff361?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 10:00:06 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:07.295498+00:00",
+      "content": "Proliferation of rightwing parties leads to infighting ahead of vote",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France’s borrowing costs hit 5% for first time since 2002",
+      "link": "https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 09:07:37 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:07.896085+00:00",
+      "content": "Concerns over public finances and political stability have helped push up 10-year bond yields from 3.2% in late February",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Middle East oil exports climb back to prewar levels",
+      "link": "https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 12:01:37 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:08.572235+00:00",
+      "content": "Daily shipments from Gulf producers average 24.6mn, above 23.3mn before conflict, as ships use alternative routes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The rise of index vigilantes",
+      "link": "https://www.ft.com/content/b3544087-2673-4e90-9192-342c6b1a6a03",
+      "published_date": "Wed, 21 Oct 2026 10:37:05 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:09.172846+00:00",
+      "content": "Not the regulators we want, or the regulators we need. But at least it’s something?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "WHO issues alert as Ebola spreads to west Africa",
+      "link": "https://www.ft.com/content/fe7fa078-8aa5-4802-963d-d88d3013c158?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 10:23:04 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:09.373056+00:00",
+      "content": "Nigeria is urgently tracing dozens of contacts of person who tested positive for virus",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran war sparks heating crisis in US north-east as winter approaches",
+      "link": "https://www.ft.com/content/162c6dd8-5501-46f4-8f7c-b456a4e29539?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 10:00:06 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:09.773418+00:00",
+      "content": "Record heating oil prices are forcing the region to rethink prior opposition to natural gas pipelines",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham’s North Sea ‘pragmatism’ is no big shift from Starmer’s",
+      "link": "https://www.ft.com/content/36a14179-9c1f-4591-ac3b-970054a19d92?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 08:30:03 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:10.774392+00:00",
+      "content": "Plus, why Ed Davey believes the prime minister is about to call an early election",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK’s biggest port operator valued at over £10bn in Australian fund purchase",
+      "link": "https://www.ft.com/content/21d3b4e1-941b-4ad8-8e41-f8fc1864e758?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 08:19:02 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:10.974582+00:00",
+      "content": "Infrastructure giant IFM Investors buys majority stake in Associated British Ports from Canadian pension funds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Don’t underestimate Netflix’s power to flip the script",
+      "link": "https://www.ft.com/content/67a2f314-730b-477b-b52f-f7495394ceec?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 08:01:33 GMT",
+      "scrape_timestamp": "2026-10-21T12:35:11.174800+00:00",
+      "content": "Focusing on making more Oscar winners would double down on territory YouTube has struggled to conquer",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-21T06:48:09.569129+00:00",
+  "last_updated": "2026-10-21T12:35:26.918161+00:00",
   "metadata": {
-    "total_runs": 3072,
+    "total_runs": 3073,
     "sources": [
       "Financial Times"
     ],
