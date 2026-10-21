@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Sally Rooney withdraws books from UK sale over support for Palestine Action",
-      "link": "https://www.ft.com/content/9209fd59-386b-4399-a870-0a3451548251?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 18:37:44 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:36.137434+00:00",
-      "content": "Irish novelist said publication of her books in Britain could be ‘a serious criminal offence’ after she pledged royalties to the banned group",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ministers to launch statutory probe of English authority led by Ben Houchen",
-      "link": "https://www.ft.com/content/a3621421-bee4-4e96-a5f2-28fa545e6397?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 18:09:59 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:36.337665+00:00",
-      "content": "Move reflects concern in Whitehall about governance and value for money at Tees Valley Combined Authority",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "London charity trustee leads Iranian propaganda body, tribunal hears",
-      "link": "https://www.ft.com/content/53cc8647-5ba9-4212-8515-8d40258553b9?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 18:07:22 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:36.537866+00:00",
-      "content": "Hearing marks the latest effort by the UK Charity Commission to tackle extreme rhetoric at some Shia Islamic religious organisations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic revenue jumps to $16.8bn in third quarter",
       "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
       "published_date": "Wed, 14 Oct 2026 22:06:31 GMT",
@@ -46,55 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
-      "link": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 20:36:40 GMT",
-      "scrape_timestamp": "2026-10-14T22:51:11.895133+00:00",
-      "content": "Investors rush into Treasuries as sell-off triggers demand for haven assets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Perella Weinberg and Piper Sandler abandon merger talks",
-      "link": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 20:16:29 GMT",
-      "scrape_timestamp": "2026-10-14T22:51:12.896129+00:00",
-      "content": "A deal would have created an independent investment bank with an equity value of more than $6bn",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia",
       "link": "https://www.ft.com/content/4d22d333-e51c-4302-991e-444a17fac420?syn-25a6b1a6=1",
       "published_date": "Wed, 14 Oct 2026 22:19:48 GMT",
       "scrape_timestamp": "2026-10-14T22:51:13.696888+00:00",
       "content": "Newly unsealed court filings say Abdulrahman Alfozan, his wife and a third family member had booked travel for October 12",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Badenoch sounds ‘alarm’ on potential Budget tax raid on banks",
-      "link": "https://www.ft.com/content/2ce6438a-7e9a-4984-9364-655bde5c9bf2?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 21:00:06 GMT",
-      "scrape_timestamp": "2026-10-14T22:51:15.295336+00:00",
-      "content": "Conservative leader’s intervention comes as investors warn of a potential hit to UK competitiveness",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Fed’s October Beige Book points to higher inflation",
-      "link": "https://www.ft.com/content/17eaf860-753a-4b0c-8d3c-8c771d735083",
-      "published_date": "Wed, 14 Oct 2026 20:51:56 GMT",
-      "scrape_timestamp": "2026-10-14T22:51:15.495528+00:00",
-      "content": "Growth was largely in manufacturing sectors largely connected to AI",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3849,11 +3772,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
+      "link": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 18:46:59 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:21.354422+00:00",
+      "content": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI",
+      "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 18:46:43 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:21.554629+00:00",
+      "content": "Researchers used OpenAI and Google models to find severe faults in software used on majority of websites around the world",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Meta to create new non-voting share class to enable AI fundraising",
+      "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 20:27:39 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:22.355430+00:00",
+      "content": "Change would enable the social media group to sell shares to fund AI investment without reducing Mark Zuckerberg’s control",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tesla’s profits slip on weaker vehicle sales",
+      "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 20:44:43 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:22.555632+00:00",
+      "content": "Musk’s carmaker reports flat revenue as it considers merger with SpaceX",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "GM aims to leapfrog rivals with new generation of autonomous cars",
+      "link": "https://www.ft.com/content/5eb997eb-6031-40c4-b2f3-e2a09f4d64f1?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 20:10:13 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:23.356496+00:00",
+      "content": "Detroit automaker’s chief product officer Sterling Anderson plans to put fully self-driving private autos on the road by 2028",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Republicans head into midterms with huge spending advantage",
+      "link": "https://www.ft.com/content/637bb10e-b5b4-4db2-ac7c-b42348595c4c?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 20:26:09 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:24.273461+00:00",
+      "content": "Filings show the party and its affiliated groups have amassed a big war chest but polling favours Democrats in many races",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU set to delay push for cheaper UK university fees for bloc’s students",
+      "link": "https://www.ft.com/content/47777033-6a91-42c3-bc9e-249d4bf7a961?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 18:58:01 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:25.074343+00:00",
+      "content": "Concession could help the two sides finalise a ‘reset’ deal at a summit next month",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ghana in talks with European nations for reparations, president says",
+      "link": "https://www.ft.com/content/68e28f90-cbc3-4fa6-950b-451cf7c49c87?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 17:43:17 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:25.674992+00:00",
+      "content": "John Mahama says efforts are focused on securing the return of artefacts stolen during the centuries of the slave trade and colonialism",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Italy’s buffalo mozzarella production grinds to a halt in truckers’ strike",
+      "link": "https://www.ft.com/content/bef7e107-3922-4312-acd9-3c96af60c309?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 17:37:14 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:25.875202+00:00",
+      "content": "Highway blockades lead to major disruptions in country’s south",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Indonesia should heed MSCI’s warning",
+      "link": "https://www.ft.com/content/8c443652-5c29-4711-81d1-dd985f2e4578?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 17:36:57 GMT",
+      "scrape_timestamp": "2026-10-21T21:02:26.075413+00:00",
+      "content": "A credible stock market is essential if the country is to fulfil its enormous economic promise",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-21T17:47:26.623673+00:00",
+  "last_updated": "2026-10-21T21:02:41.918917+00:00",
   "metadata": {
-    "total_runs": 3074,
+    "total_runs": 3075,
     "sources": [
       "Financial Times"
     ],
