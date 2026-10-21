@@ -2,138 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
-      "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 13:51:24 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:16.927625+00:00",
-      "content": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper",
-      "link": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 12:56:25 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:17.528211+00:00",
-      "content": "Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "This is an era of Davids, not Goliaths",
-      "link": "https://www.ft.com/content/9af2b0d0-e31f-46e8-9041-36b37a9cd3ba?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 13:52:24 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:17.728411+00:00",
-      "content": "Why smaller powers are thwarting bigger ones",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "BofA profits drop 17% after $1.2bn money laundering fine",
-      "link": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 13:39:34 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:18.929589+00:00",
-      "content": "Second-largest US bank reports weaker results in trading than Wall Street rivals",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
-      "link": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 13:36:39 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:20.553169+00:00",
-      "content": "Shares of conglomerate that owns AOL and Vimeo jump more than 50% on news of expanded investment by Nebraska asset manager",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Hot September CPI inflation keeps Fed on course for further tightening",
-      "link": "https://www.ft.com/content/6934f481-b61c-4ab0-8064-a79493702f2c",
-      "published_date": "Wed, 14 Oct 2026 13:21:31 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:20.953674+00:00",
-      "content": "Annual headline and core CPI inflation both accelerated and beat market expectations in September",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham rules out ‘partnership’ with Greens while ‘Zionism is Racism’ policy remains",
-      "link": "https://www.ft.com/content/d9aaf82c-1975-4f07-99b1-f3b858b4dc7c?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 13:16:38 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:21.153876+00:00",
-      "content": "Green co-deputy leader Mothin Ali says member-backed motion must be ‘respected’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Inflation and interest rates tracker: see how your country compares",
-      "link": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 13:15:04 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:21.354060+00:00",
-      "content": "Explore the latest data through interactive charts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
-      "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 13:10:23 GMT",
-      "scrape_timestamp": "2026-10-14T14:11:21.554286+00:00",
-      "content": "Food manufacturers warn of impact on consumers ahead of midterm elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy",
-      "link": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 17:23:04 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:34.717867+00:00",
-      "content": "UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Netflix to cut 1,000 jobs as growth concerns mount",
-      "link": "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 14:57:17 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:35.118281+00:00",
-      "content": "Streaming group faces pressure to boost viewer engagement after shares fall more than 40% in a year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
-      "link": "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 15:48:09 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:35.318519+00:00",
-      "content": "Exchange discussed putting legal tech unit into separate entity before valuations fall",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Sally Rooney withdraws books from UK sale over support for Palestine Action",
       "link": "https://www.ft.com/content/9209fd59-386b-4399-a870-0a3451548251?syn-25a6b1a6=1",
       "published_date": "Wed, 14 Oct 2026 18:37:44 GMT",
@@ -161,50 +29,6 @@
       "published_date": "Wed, 14 Oct 2026 18:07:22 GMT",
       "scrape_timestamp": "2026-10-14T19:03:36.537866+00:00",
       "content": "Hearing marks the latest effort by the UK Charity Commission to tackle extreme rhetoric at some Shia Islamic religious organisations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Palantir drops legal case against Sadiq Khan over cancelled £50mn contract",
-      "link": "https://www.ft.com/content/badcd536-6e53-4968-8fea-914ffc3d8d0c?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 16:35:41 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:37.338693+00:00",
-      "content": "US tech company set to be able to compete for future deals with the Met",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey’s Budget is a moment he must not miss",
-      "link": "https://www.ft.com/content/9f3713fb-6b0a-41f8-8ccc-b23f2395740e",
-      "published_date": "Wed, 14 Oct 2026 16:31:47 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:37.538893+00:00",
-      "content": "Avoiding bold choices this time would just mean postponing political and economic pain",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Transcription: Marine Le Pen en entretien avec le Financial Times",
-      "link": "https://www.ft.com/content/9acc4f6f-2faa-4ac1-aa7b-42166d677316?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 15:35:15 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:37.739098+00:00",
-      "content": "Roula Khalaf, Leila Abboud et Ben Hall interrogent la candidate à la présidentielle de 2027 sur l’Europe, Donald Trump et l’Ukraine",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Unshackle workers from non-compete clauses",
-      "link": "https://www.ft.com/content/3c23e59b-f4c9-4837-b534-ec19fb77a0c8?syn-25a6b1a6=1",
-      "published_date": "Wed, 14 Oct 2026 14:04:54 GMT",
-      "scrape_timestamp": "2026-10-14T19:03:38.740179+00:00",
-      "content": "The restrictions on labour mobility hold back Britain’s growth and innovation",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3915,11 +3739,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tesla-SpaceX: a huge corporate constellation with Musk at its centre",
+      "link": "https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 17:25:53 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:04.035046+00:00",
+      "content": "A merger of Elon Musk’s listed companies has some logic, but other shareholders might end up with less influence than they have today",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Macron hits out at ‘stupid’ Trump remarks about riots in France",
+      "link": "https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 16:12:37 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:05.036231+00:00",
+      "content": "French president expresses anger after US and other rightwing leaders blame migrants for violence and looting",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Who’s paying for the AI build-out? Probably you",
+      "link": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 15:00:25 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:05.837265+00:00",
+      "content": "Every big pool of capital, in every corner of the developed world, is funding data centres",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ohio governor’s campaign engulfed in controversy over attack ad",
+      "link": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 17:09:38 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:06.037520+00:00",
+      "content": "Biotech billionaire Vivek Ramaswamy faces backlash over video featuring opponent’s estranged mother",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hungary detains Orbán’s former central bank chief",
+      "link": "https://www.ft.com/content/576c025a-b4e2-47d8-88e8-3ac0fcf8e16d?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 17:07:48 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:06.664338+00:00",
+      "content": "György Matolcsy and several others arrested in corruption probes targeting former PM’s circle of power",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Abbott to spin off nutrition unit at centre of baby formula lawsuits",
+      "link": "https://www.ft.com/content/7f407bde-ef26-4914-bcbe-baf858bc81d7?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 15:54:56 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:08.065987+00:00",
+      "content": "US healthcare group plans to create standalone public company with $8.5bn in annual sales",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Fridge hackers exploited ‘basic security flaws’ at French retailers",
+      "link": "https://www.ft.com/content/89a3b7e8-beee-464b-b398-2709be815982?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 15:38:55 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:08.466444+00:00",
+      "content": "Head of France’s cyber security agency said lack of protection and weak passwords helped criminals seize control of systems",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Reform reports ITV to police over  undercover documentary",
+      "link": "https://www.ft.com/content/3d67dfc3-e17c-4580-9797-a6bfa7256be0?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 15:12:30 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:08.666709+00:00",
+      "content": "Zia Yusuf says tactics behind programme that showed party councillors making sexist and racist comments may have been illegal",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Andy Burnham plans to cut standing charges from household gas bills",
+      "link": "https://www.ft.com/content/8eda2888-0b63-43c9-80b9-b4b7557374ca?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 13:34:03 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:09.267404+00:00",
+      "content": "Experts say providers would probably recover loss of daily fixed fee via the unit rate",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Dangote takes stake in Kenyan pipeline and pledges more ‘aggressive’ energy investment",
+      "link": "https://www.ft.com/content/e3282291-be9a-4c97-8fc8-d43f9297e167?syn-25a6b1a6=1",
+      "published_date": "Wed, 21 Oct 2026 13:23:37 GMT",
+      "scrape_timestamp": "2026-10-21T17:47:09.467626+00:00",
+      "content": "Deal for 25% of Kenya Pipeline comes amid plans for refineries and storage facilities across Africa",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-21T12:35:26.918161+00:00",
+  "last_updated": "2026-10-21T17:47:26.623673+00:00",
   "metadata": {
-    "total_runs": 3073,
+    "total_runs": 3074,
     "sources": [
       "Financial Times"
     ],
