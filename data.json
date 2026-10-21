@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Home of London’s oldest restaurant, Rules, given to National Trust",
-      "link": "https://www.ft.com/content/1386e75c-d292-4e56-a6c5-c69b0b77ad7c?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 23:01:08 GMT",
-      "scrape_timestamp": "2026-10-14T02:45:33.644965+00:00",
-      "content": "Building in Covent Garden bequeathed to heritage charity to ensure 228-year institution remains ‘part of the city’s cultural life’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Tougher competition for internships strains UK graduate jobs market",
-      "link": "https://www.ft.com/content/3a3d3eb8-ff86-418e-9704-c1ff601718c4?syn-25a6b1a6=1",
-      "published_date": "Tue, 13 Oct 2026 23:01:08 GMT",
-      "scrape_timestamp": "2026-10-14T02:45:33.845056+00:00",
-      "content": "Applications for summer internships rise 27% as students face ‘day zero’ fight to get ahead in increasingly automated recruitment process",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "France’s Marine Le Pen gears up for fight with EU",
       "link": "https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1",
       "published_date": "Wed, 14 Oct 2026 04:00:21 GMT",
@@ -3862,9 +3840,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-20T22:49:54.818745+00:00",
+  "last_updated": "2026-10-21T01:08:38.872445+00:00",
   "metadata": {
-    "total_runs": 3070,
+    "total_runs": 3071,
     "sources": [
       "Financial Times"
     ],
