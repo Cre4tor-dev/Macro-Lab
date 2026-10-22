@@ -2,72 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Harvard’s endowment returns surge on back of AI and SpaceX investments",
-      "link": "https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 20:06:22 GMT",
-      "scrape_timestamp": "2026-10-15T20:42:56.040219+00:00",
-      "content": "Ivy League university’s fund gains 27.1%, boosting total assets to $68bn as private capital holdings rebound",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Meta and Apple team up on AI model tailored for Mac computers",
-      "link": "https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 20:00:23 GMT",
-      "scrape_timestamp": "2026-10-15T20:42:56.240389+00:00",
-      "content": "Partnership between Big Tech rivals offers ‘open’ system that users can download to their own devices",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Commercial goods blocked from entry into Gaza",
-      "link": "https://www.ft.com/content/f60aaf56-a712-43a4-971d-6f1c8815bafa?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 19:51:28 GMT",
-      "scrape_timestamp": "2026-10-15T20:42:57.427017+00:00",
-      "content": "Israelis and Palestinians trade blame for the cut-off of new goods from the devastated enclave",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
-      "link": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 21:10:51 GMT",
-      "scrape_timestamp": "2026-10-15T23:25:31.485499+00:00",
-      "content": "A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Netflix replaces chief content officer in effort to arrest declining share price",
-      "link": "https://www.ft.com/content/9187726d-0f4c-4f05-b421-b5fc656522b9?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 22:46:27 GMT",
-      "scrape_timestamp": "2026-10-15T23:25:32.286487+00:00",
-      "content": "Former Disney and Fox executive Peter Rice will replace Bela Bajaria, who worked at the company for nearly a decade",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How India lost more than 100mn voters",
-      "link": "https://www.ft.com/content/a26ba5dd-e298-469f-8779-a40041addd47?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 21:00:04 GMT",
-      "scrape_timestamp": "2026-10-15T23:25:33.395261+00:00",
-      "content": "Critics say ‘aggressive’ review wrongly deleted eligible voters, many of them Muslim, and may have benefited PM Modi’s party",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "MSCI warns it may cut Indonesia from main indices",
       "link": "https://www.ft.com/content/753fa2ed-1763-462b-a4c0-ded9b53baf3c?syn-25a6b1a6=1",
       "published_date": "Fri, 16 Oct 2026 00:44:30 GMT",
@@ -3794,11 +3728,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+      "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 21:50:16 GMT",
+      "scrape_timestamp": "2026-10-22T22:52:18.372445+00:00",
+      "content": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Airfares will not return to pre-Iran war levels, American Airlines warns",
+      "link": "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 20:08:50 GMT",
+      "scrape_timestamp": "2026-10-22T22:52:19.973873+00:00",
+      "content": "Some industry chiefs say travellers should expect a further rise in ticket prices next year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Moderna shares sink after leaked cancer data missed expectations",
+      "link": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 21:37:25 GMT",
+      "scrape_timestamp": "2026-10-22T22:52:20.174041+00:00",
+      "content": "Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Meta rekindles AI spending fears",
+      "link": "https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 21:46:58 GMT",
+      "scrape_timestamp": "2026-10-22T22:52:20.797953+00:00",
+      "content": "Also in today’s newsletter: China steps up ‘grey zone’ tactics against Taiwan and India mounts costly defence of rupee",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK urges public and business to better prepare for emergencies",
+      "link": "https://www.ft.com/content/925486f3-1dd4-462a-ba1b-794efd2d6429?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 21:43:45 GMT",
+      "scrape_timestamp": "2026-10-22T22:52:20.998116+00:00",
+      "content": "Ministers urge households to stock up on essential items amid growing risk of natural disasters, cyber attacks or state-sponsored terrorism",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Singapore goes after companies over toxic haze",
+      "link": "https://www.ft.com/content/b9a45b74-72f6-4577-870e-f54f83d8f5ad?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 21:00:05 GMT",
+      "scrape_timestamp": "2026-10-22T22:52:21.398491+00:00",
+      "content": "Smog-choked city-state is threatening groups behind land burning in Indonesia",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK waters down ‘fit and proper’ rules set up to hold bankers to account",
+      "link": "https://www.ft.com/content/0a5c7582-133c-4e24-8e3d-daa30f5dad56?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 20:00:05 GMT",
+      "scrape_timestamp": "2026-10-22T22:52:21.999053+00:00",
+      "content": "Existing regulatory regime was instrumental in actions against former Barclays boss Jes Staley and hedge fund owner Crispin Odey",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-22T19:38:18.414110+00:00",
+  "last_updated": "2026-10-22T22:52:40.693471+00:00",
   "metadata": {
-    "total_runs": 3080,
+    "total_runs": 3081,
     "sources": [
       "Financial Times"
     ],
