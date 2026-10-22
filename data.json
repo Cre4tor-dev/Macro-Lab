@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump",
-      "link": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 10:05:55 GMT",
-      "scrape_timestamp": "2026-10-15T12:17:33.839925+00:00",
-      "content": "Ukrainian leader’s comments about US president alarm European capitals",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Germany’s Merz vows to fight on: ‘We are the firewall’",
       "link": "https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1",
       "published_date": "Thu, 15 Oct 2026 12:00:08 GMT",
@@ -24,33 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "CoreWeave’s bonds scream financial distress",
-      "link": "https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b",
-      "published_date": "Thu, 15 Oct 2026 09:17:23 GMT",
-      "scrape_timestamp": "2026-10-15T12:17:35.041437+00:00",
-      "content": "The company better hurry up figuring out how to tap insurers for cash",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Credit Suisse bankers denied bonuses stripped after UBS takeover",
       "link": "https://www.ft.com/content/6607f0e4-6f99-46d1-a994-decafda46e16?syn-25a6b1a6=1",
       "published_date": "Thu, 15 Oct 2026 11:46:19 GMT",
       "scrape_timestamp": "2026-10-15T12:17:35.241651+00:00",
       "content": "Switzerland’s top court sides with government decision, overturning ruling of lower court",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "New ‘zero-click’ spyware hacked phones using targeted ads",
-      "link": "https://www.ft.com/content/b857f1ed-8af6-4d64-b059-912afee1c075?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-15T12:17:35.642091+00:00",
-      "content": "Citizen Lab researchers uncover Israeli-developed ‘AdFection’ technique that requires no interaction from victim to infect devices",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -134,28 +101,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Reform UK councillors and candidates filmed making racist remarks",
-      "link": "https://www.ft.com/content/317796f3-af18-4acb-a482-ec0bdd0edf45?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 10:02:28 GMT",
-      "scrape_timestamp": "2026-10-15T12:17:38.974548+00:00",
-      "content": "Undercover footage reveals racist and graphic sexual comments, leading to several resignations as party comes under fresh scrutiny",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Macroeconomic policy must now do many things at once",
-      "link": "https://www.ft.com/content/825b0ed4-060e-49dd-8199-b6accc393ff1?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-15T12:17:39.174836+00:00",
-      "content": "Is it possible to contain debt and inflation without damaging the investment needed to restructure the economy?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
       "link": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
       "published_date": "Thu, 15 Oct 2026 15:25:47 GMT",
@@ -172,17 +117,6 @@
       "published_date": "Thu, 15 Oct 2026 16:53:57 GMT",
       "scrape_timestamp": "2026-10-15T17:29:48.433046+00:00",
       "content": "The tremor seen this week could be a foretaste of things to come",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Republicans fund midterms ad blitz as Democrats gain in polls",
-      "link": "https://www.ft.com/content/481f7865-b6bb-40b8-9ee2-7554f6914007?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-15T17:29:49.033394+00:00",
-      "content": "The president’s party is shifting spending on advertising to previously safe seats as election day approaches",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3860,11 +3794,99 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Global stocks tumble as oil prices rise",
+      "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 08:46:32 GMT",
+      "scrape_timestamp": "2026-10-22T10:51:51.515250+00:00",
+      "content": "China’s CSI 300 index sheds 1.8% and Eurozone bond sell-off deepens",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s bracing reality on US bond yields",
+      "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 10:07:31 GMT",
+      "scrape_timestamp": "2026-10-22T10:51:51.715398+00:00",
+      "content": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russian missiles bombard Kyiv after Witkoff-Putin talks",
+      "link": "https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 06:15:35 GMT",
+      "scrape_timestamp": "2026-10-22T10:51:53.116412+00:00",
+      "content": "Donald Trump’s envoy met Volodymyr Zelenskyy in Oslo before heading to St Petersburg in diplomatic push",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘I don’t lose’: Rahm Emanuel makes an early pitch for the White House",
+      "link": "https://www.ft.com/content/09d62b14-3541-48de-9a8c-f198cbe0220b?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 10:00:03 GMT",
+      "scrape_timestamp": "2026-10-22T10:51:54.422956+00:00",
+      "content": "Barack Obama’s famously foul-mouthed former chief of staff thinks he has a message to win over America",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s underrated digital trailblazing",
+      "link": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 10:00:03 GMT",
+      "scrape_timestamp": "2026-10-22T10:51:54.623096+00:00",
+      "content": "At the frontier of public digital money, the EU is slowly developing a geopolitical monetary strategy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Fixing Britain’s welfare state and the limits of AI policymaking",
+      "link": "https://www.ft.com/content/5ae90cc4-a20d-4b65-9000-10421a663f89?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 08:35:40 GMT",
+      "scrape_timestamp": "2026-10-22T10:51:54.823233+00:00",
+      "content": "Dependence on the technology risks worsening what Starmer dubbed ‘the warm bath of managed decline’ in Whitehall",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nestlé removes Russian business from accounts after Kremlin takeover",
+      "link": "https://www.ft.com/content/cc456111-4c0b-4eaa-8910-53d8933271a3?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 07:55:21 GMT",
+      "scrape_timestamp": "2026-10-22T10:51:55.023371+00:00",
+      "content": "Swiss group takes $1.95bn net assets from its balance sheet after presidential decree to control business",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Liquidators of Chinese property giant pursue Harvard to recoup donation",
+      "link": "https://www.ft.com/content/cbf8759b-ec19-4728-ab65-5706bc3343af?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 07:45:30 GMT",
+      "scrape_timestamp": "2026-10-22T10:51:55.423647+00:00",
+      "content": "China Evergrande had given millions of dollars to university in decade before its collapse",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-22T05:36:55.560769+00:00",
+  "last_updated": "2026-10-22T10:52:11.219892+00:00",
   "metadata": {
-    "total_runs": 3077,
+    "total_runs": 3078,
     "sources": [
       "Financial Times"
     ],
