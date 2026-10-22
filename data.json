@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Risk of an AI crunch for stock markets is rising",
-      "link": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 16:53:57 GMT",
-      "scrape_timestamp": "2026-10-15T17:29:48.433046+00:00",
-      "content": "The tremor seen this week could be a foretaste of things to come",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump cancels Hegseth’s plan to livestream execution after backlash",
-      "link": "https://www.ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 16:56:48 GMT",
-      "scrape_timestamp": "2026-10-15T17:29:49.834029+00:00",
-      "content": "US president overrules decision to broadcast execution of former soldier who carried out Texas mass shooting in 2009",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France and Germany to allow UK to join EU car policy if it aligns on China tariffs",
-      "link": "https://www.ft.com/content/f8e99974-9f18-4141-ac4a-1f072b7ebb24?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 17:05:37 GMT",
-      "scrape_timestamp": "2026-10-15T17:29:51.084746+00:00",
-      "content": "Paris and Berlin near deal on bloc’s ‘Made in Europe’ subsidy programme and combustion engine phaseout",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Europe cannot rely on trade barriers to counter China",
-      "link": "https://www.ft.com/content/8890bf3f-f243-4bd0-8e2f-f80c78e363f8?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 16:35:09 GMT",
-      "scrape_timestamp": "2026-10-15T17:29:51.284898+00:00",
-      "content": "The EU’s hybrid car deal with Beijing eases tensions but only offers a brief respite",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "In AI-dominated markets, LatAm debt is a diversifier",
-      "link": "https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264",
-      "published_date": "Thu, 15 Oct 2026 15:51:35 GMT",
-      "scrape_timestamp": "2026-10-15T17:29:51.685147+00:00",
-      "content": "A series of ostensibly market-friendly electoral victories across the region has boosted local currency bonds",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Harvard’s endowment returns surge on back of AI and SpaceX investments",
       "link": "https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1",
       "published_date": "Thu, 15 Oct 2026 20:06:22 GMT",
@@ -79,55 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks",
-      "link": "https://www.ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 19:12:29 GMT",
-      "scrape_timestamp": "2026-10-15T20:42:56.440559+00:00",
-      "content": "CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Commercial goods blocked from entry into Gaza",
       "link": "https://www.ft.com/content/f60aaf56-a712-43a4-971d-6f1c8815bafa?syn-25a6b1a6=1",
       "published_date": "Thu, 15 Oct 2026 19:51:28 GMT",
       "scrape_timestamp": "2026-10-15T20:42:57.427017+00:00",
       "content": "Israelis and Palestinians trade blame for the cut-off of new goods from the devastated enclave",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey signals bank tax raid in UK Budget",
-      "link": "https://www.ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 17:53:10 GMT",
-      "scrape_timestamp": "2026-10-15T20:42:57.827367+00:00",
-      "content": "Chancellor points to looming ‘decisions’ as financial services sector braces for higher levies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bankers and advisers set for £334mn easyJet payout",
-      "link": "https://www.ft.com/content/66c9bbf1-f25c-4e84-b8ae-c9272fbc49c2?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 17:41:06 GMT",
-      "scrape_timestamp": "2026-10-15T20:42:58.027569+00:00",
-      "content": "Fees make Apollo’s £5.7bn takeover of airline one of the City’s most lucrative acquisitions this year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Criminals stole $90mn of crypto by hiding password readers in USB-like devices",
-      "link": "https://www.ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40?syn-25a6b1a6=1",
-      "published_date": "Thu, 15 Oct 2026 17:23:18 GMT",
-      "scrape_timestamp": "2026-10-15T20:42:58.227757+00:00",
-      "content": "Ledger said theft from its secure wallets was ‘one of the most sophisticated attacks’ the industry has seen",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3838,11 +3739,66 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US to fund speculative fusion venture backed by investors with ties to Trump",
+      "link": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 17:20:01 GMT",
+      "scrape_timestamp": "2026-10-22T19:37:58.847298+00:00",
+      "content": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump ordered to face BBC questioning in $10bn defamation lawsuit",
+      "link": "https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 18:36:29 GMT",
+      "scrape_timestamp": "2026-10-22T19:37:59.047495+00:00",
+      "content": "President must appear by December 11 after attending campaign rally on date previously set for his deposition",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ecuador opposition leader arrested in money laundering investigation",
+      "link": "https://www.ft.com/content/9a072c7a-b0ee-4a43-ae73-b19bbde9261b",
+      "published_date": "Thu, 22 Oct 2026 17:47:15 GMT",
+      "scrape_timestamp": "2026-10-22T19:38:00.910564+00:00",
+      "content": "Detention comes as president has been criticised for expanding campaign against drug traffickers to include rivals",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Number of UK founders choosing to sell not scale hits eight-year high",
+      "link": "https://www.ft.com/content/52b728a2-3075-4310-bffb-4f17b587724d",
+      "published_date": "Thu, 22 Oct 2026 16:25:24 GMT",
+      "scrape_timestamp": "2026-10-22T19:38:01.310886+00:00",
+      "content": "Chancellor John Healey promises to pitch next week’s Budget at ‘bloody-minded’ entrepreneurs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Steve Cohen takes Hertz for a defensive spin",
+      "link": "https://www.ft.com/content/c514f3c5-b174-4a92-ab45-aa19ddc63fc1?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 15:48:52 GMT",
+      "scrape_timestamp": "2026-10-22T19:38:01.511042+00:00",
+      "content": "The hedge fund boss is taking a punt on just a part of the heavily indebted car rental company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-22T15:44:37.598469+00:00",
+  "last_updated": "2026-10-22T19:38:18.414110+00:00",
   "metadata": {
-    "total_runs": 3079,
+    "total_runs": 3080,
     "sources": [
       "Financial Times"
     ],
