@@ -2,154 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Trump has failed to listen to voters on inflation",
-      "link": "https://www.ft.com/content/a0a143ac-6a48-410a-b121-92f293b0ad6d",
-      "published_date": "Fri, 16 Oct 2026 14:58:28 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:31.096724+00:00",
-      "content": "People elect presidents to fix problems, not to diagnose their causes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
-      "link": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 14:58:54 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:31.897593+00:00",
-      "content": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Apple set for UK legal fight over iPhone tap-to-pay rules",
-      "link": "https://www.ft.com/content/d05f87bf-225b-43f9-86e6-2f9537cd75c6?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 15:21:03 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:32.698397+00:00",
-      "content": "Competition and Markets Authority plans to force Big Tech group to allow rival payments providers to access its digital wallet technology",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Looming UK tax rise puts bankers on edge",
-      "link": "https://www.ft.com/content/2b0e3eae-8eae-449e-9492-ac036b0fe143?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 16:14:30 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:33.988951+00:00",
-      "content": "Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Welfare reform is possible: we did it before, we can do it again",
-      "link": "https://www.ft.com/content/86038629-9b53-4859-bc59-a67fb0059c37?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 15:53:23 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:34.189158+00:00",
-      "content": "All sides agree that the costs are unsustainable and we can’t continue to write people off",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham urges Scots to move beyond independence ‘dramas’",
-      "link": "https://www.ft.com/content/cc22b728-dee4-4a3f-a52f-fb3f09aa30e0?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 15:00:43 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:34.989987+00:00",
-      "content": "UK prime minister rejects new independence vote in first big Scotland speech since taking office",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The hunt for Fed October",
-      "link": "https://www.ft.com/content/5b36d8a4-49f1-4877-8719-2db984c13081",
-      "published_date": "Fri, 16 Oct 2026 14:39:32 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:35.590614+00:00",
-      "content": "Rate markets have been particularly volatile on the outcome of the Fed’s next rate decision later in the month",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "India police detain ‘Cockroach’ leader again to head off new protests",
-      "link": "https://www.ft.com/content/15922d6d-421a-4b33-a329-45443491e1be?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 14:39:19 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:35.790804+00:00",
-      "content": "Abhijeet Dipke taken into custody for second time in a week as youth movement pushes for resignation of chief elections commissioner",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Lufthansa exploring sale of software assets in €1bn deal",
-      "link": "https://www.ft.com/content/800db28a-9176-4ca3-9334-69ede9a2b3ef?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 13:56:44 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:35.991000+00:00",
-      "content": "Discussions come as German airline seeks to free up cash to make investments following stake in Portuguese carrier",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France and Germany seal EU car deal",
-      "link": "https://www.ft.com/content/c36f858f-73e2-478b-9fdb-92b9167ce37f?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 13:42:38 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:36.191205+00:00",
-      "content": "Berlin secured concessions on combustion engines and Paris on limiting partners’ access to ‘Made in Europe’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Carmakers face smaller cut in UK EV sales targets",
-      "link": "https://www.ft.com/content/6fc92bd5-e79f-42a9-833c-74b8fffcf1a7?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 13:27:34 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:36.391407+00:00",
-      "content": "Government seeks to lower mandate for electric cars sold by 2030 to 60% despite industry lobbying for bigger cut",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The new unequivocal Zelenskyy",
-      "link": "https://www.ft.com/content/e3a17496-0dc2-42d8-ba7d-16a013016249?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 13:00:09 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:36.591602+00:00",
-      "content": "Ukraine’s president is standing up to Trump, but it’s unclear if this will help Kyiv or hinder it",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump’s press secretary Katie Zacharia fired after five days",
       "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
       "published_date": "Fri, 16 Oct 2026 18:23:09 GMT",
       "scrape_timestamp": "2026-10-16T20:15:46.357689+00:00",
       "content": "Exit comes amid deepening turmoil for White House as midterm elections loom",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Alexandr Wang, Meta’s AI wunderkind",
-      "link": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 16:31:25 GMT",
-      "scrape_timestamp": "2026-10-16T20:15:46.758026+00:00",
-      "content": "The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -205,28 +62,6 @@
       "published_date": "Fri, 16 Oct 2026 17:44:10 GMT",
       "scrape_timestamp": "2026-10-16T20:15:50.386822+00:00",
       "content": "Former top Foreign Office official, who was dismissed by Keir Starmer in abrupt phone call, reaches out-of-court settlement",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe",
-      "link": "https://www.ft.com/content/30f95850-4ff1-4669-acf8-06edc79c9457?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 17:33:56 GMT",
-      "scrape_timestamp": "2026-10-16T20:15:50.586950+00:00",
-      "content": "Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Italy secures EU deal to lower its electricity prices",
-      "link": "https://www.ft.com/content/d2928f6b-b8f2-4651-ac9a-9fc4d8653608?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 17:14:47 GMT",
-      "scrape_timestamp": "2026-10-16T20:15:50.787100+00:00",
-      "content": "Agreement marks a boost for PM Giorgia Meloni as nation struggles with higher fossil fuel prices",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3805,11 +3640,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+      "link": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 14:37:46 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:26.842783+00:00",
+      "content": "Price has plunged this week even as investors rush to safety of US Treasuries",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "A half-time scorecard for Trump-world",
+      "link": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
+      "published_date": "Fri, 23 Oct 2026 13:32:54 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:27.443434+00:00",
+      "content": "Monetising America has pleased tycoons but not citizens",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Netanyahu threatens ‘aggressive’ offensive after West Bank shooting",
+      "link": "https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 17:14:09 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:28.244255+00:00",
+      "content": "Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The ledger problem",
+      "link": "https://www.ft.com/content/e3bd8426-defb-41d0-8680-81ce72948e83",
+      "published_date": "Fri, 23 Oct 2026 17:00:08 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:29.809398+00:00",
+      "content": "Tokenisation doesn’t suspend the laws of finance",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham should not rush on giving tax powers to English mayors, experts warn",
+      "link": "https://www.ft.com/content/e669f0f9-5042-4554-9cd6-39d2d9fd27df?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 16:27:07 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:30.009604+00:00",
+      "content": "Local and regional leaders waiting for details on fiscal devolution plan in Budget",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Some Budget tax reforms really are better than others",
+      "link": "https://www.ft.com/content/786adb71-2e7f-4218-b8dc-146bfb1db8b6",
+      "published_date": "Fri, 23 Oct 2026 16:05:28 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:30.409975+00:00",
+      "content": "In the absence of leaks ahead of next week, we’ve been deluged with wrong-headed calls for cuts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The biggest ever investment theme has only just begun",
+      "link": "https://www.ft.com/content/c6182105-608b-461e-a274-4b0ae6c224d4?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 15:35:33 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:30.810403+00:00",
+      "content": "Companies have sorted the mundane — now they can help us live our best lives",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Deadly shooting near Paris investigated as possible racist attack",
+      "link": "https://www.ft.com/content/9bf81e98-08b7-450a-a804-51030934646e?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 15:35:21 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:31.010568+00:00",
+      "content": "Gunman arrested in Trappes after he kills one person and injures four others",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Submit a question: What does the Budget mean for your money?",
+      "link": "https://www.ft.com/content/90afe6b1-0ca9-4795-9665-cab3e789df96?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 15:22:22 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:31.210809+00:00",
+      "content": "Our experts will analyse the proposals and answer your questions in a live Ask an Expert Q&amp;A on Thursday October 29 at 12pm (GMT)",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The meaning of Michigan — part two",
+      "link": "https://www.ft.com/content/22554b78-9a26-43ec-b17c-6dddda3e6d69?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 13:00:01 GMT",
+      "scrape_timestamp": "2026-10-23T17:36:31.811465+00:00",
+      "content": "Democrats’ hopes of taking back the Senate hinge in part on Abdul El-Sayed winning this key state",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-23T12:17:22.667260+00:00",
+  "last_updated": "2026-10-23T17:36:49.736843+00:00",
   "metadata": {
-    "total_runs": 3084,
+    "total_runs": 3085,
     "sources": [
       "Financial Times"
     ],
