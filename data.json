@@ -2,149 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Treasuries head for best week since February as AI jitters halt bond rout",
-      "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 11:45:56 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:19.750918+00:00",
-      "content": "Borrowing costs fall back from highest levels in decades as investors seek safety in government debt",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU vows to maintain Russia sanctions after US pivot",
-      "link": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 12:14:48 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:20.551904+00:00",
-      "content": "European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
-      "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:21.352832+00:00",
-      "content": "US president’s trade war has become an albatross for his party in crucial midterm election races",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Starlink spectrum deal piles Elon Musk’s plate ever higher",
-      "link": "https://www.ft.com/content/b3979904-2252-4934-9cff-729a815cb4b0?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 12:15:35 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:22.449037+00:00",
-      "content": "Move may be part of a bigger plan but it spells even more capital expenditure at a company already spending beyond its means",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "World’s oldest gunmaker expands American foothold after boardroom tussle",
-      "link": "https://www.ft.com/content/4dffb678-9d90-46fa-b98e-40f988057984?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 12:10:08 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:22.849501+00:00",
-      "content": "Beretta Holding seals strategic investment in rival gunmaker Sturm Ruger securing a 25% stake in a $107.5mn deal",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham: straight-talker or loose cannon?",
-      "link": "https://www.ft.com/content/247ab744-c56a-41cd-b391-502958c052f7?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 11:47:57 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:23.049713+00:00",
-      "content": "Plus, welfare reform and why the Lib Dems are turning on Ed Davey",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Shareholders should have a say on making AI safe",
-      "link": "https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd",
-      "published_date": "Fri, 16 Oct 2026 11:05:46 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:23.450096+00:00",
-      "content": "SEC decision to rescind key rule on voting could not have come at a worse time",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How Africa’s ‘wall’ to hold back the desert unravelled",
-      "link": "https://www.ft.com/content/13cbc4f0-6c8f-4b95-bbe8-7eb03a547727",
-      "published_date": "Fri, 16 Oct 2026 11:02:32 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:23.650378+00:00",
-      "content": "Grand ambition to plant 8,000km band of trees has fallen well short of its targets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The once-obscure tech at the heart of the green energy trade war",
-      "link": "https://www.ft.com/content/bc221890-6718-4792-967c-9828e96f38af?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 11:01:09 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:23.850633+00:00",
-      "content": "Power inverters are central to the global clean electricity boom but reliance on China is triggering security fears",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "In Bangkok, central bankers push back on market rate-tightening bets",
-      "link": "https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef",
-      "published_date": "Fri, 16 Oct 2026 10:51:55 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:24.050868+00:00",
-      "content": "Federal Reserve and ECB play down likelihood of October rate rises while BoE says data does not currently support substantial further tightening",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Sizing CoreWeave’s ‘unlimited’ insurance capital",
-      "link": "https://www.ft.com/content/6b9b0cb6-2d47-46e4-bc00-febb182a5af7",
-      "published_date": "Fri, 16 Oct 2026 10:24:31 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:24.451345+00:00",
-      "content": "Quite big, but still quite far away",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘We’re potty for vintage Polo Ralph Lauren’",
-      "link": "https://www.ft.com/content/b739fd97-d839-4287-ab91-45fcedaec76a",
-      "published_date": "Fri, 16 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:24.851817+00:00",
-      "content": "The preppy imprint is getting its own festival. What makes it so popular?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Should I be stockpiling for an emergency?",
-      "link": "https://www.ft.com/content/c62481a2-eb6c-4ab8-b226-47efd50affcd?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-16T12:51:25.252312+00:00",
-      "content": "The apocalypse may be coming, but first there’s the question of where to store all the tinned tomatoes and bog roll",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump has failed to listen to voters on inflation",
       "link": "https://www.ft.com/content/a0a143ac-6a48-410a-b121-92f293b0ad6d",
       "published_date": "Fri, 16 Oct 2026 14:58:28 GMT",
@@ -161,17 +18,6 @@
       "published_date": "Fri, 16 Oct 2026 14:58:54 GMT",
       "scrape_timestamp": "2026-10-16T17:04:31.897593+00:00",
       "content": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
-      "link": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 07:36:24 GMT",
-      "scrape_timestamp": "2026-10-16T17:04:32.097814+00:00",
-      "content": "Finance ministers agree to hold tabletop drills to prepare against future cyber attacks",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3816,11 +3662,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic strikes deal to launch European consultancy",
+      "link": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 09:04:09 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:03.302926+00:00",
+      "content": "New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ukraine says Starlink speeds still throttled",
+      "link": "https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032",
+      "published_date": "Fri, 23 Oct 2026 11:05:18 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:03.903412+00:00",
+      "content": "Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Austria expels Russian diplomats suspected of espionage",
+      "link": "https://www.ft.com/content/df94aaca-71f2-4788-9835-898b1cc79a05?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 10:53:07 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:04.103595+00:00",
+      "content": "Vienna steps up crackdown on Moscow’s spies after years of leniency that frustrated Kyiv and other European capitals",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU capitals moderate plans to help companies operate bloc-wide",
+      "link": "https://www.ft.com/content/0db7d1cd-be3b-4034-b813-51fc8be88f11?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 11:55:09 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:04.762389+00:00",
+      "content": "Key features scrapped in new ‘EU Inc’ legal structure that aims to smooth business operations across the 27 member states",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Netanyahu orders West Bank’s closure after gun attack wounds five Israelis",
+      "link": "https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd",
+      "published_date": "Fri, 23 Oct 2026 11:32:56 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:04.962568+00:00",
+      "content": "Attack by two Palestinian gunmen raises tensions before next week’s knife-edge parliamentary elections in Israel",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "London Underground blames rising delays on repair backlog",
+      "link": "https://www.ft.com/content/4e3f67c8-70d0-44aa-950e-62190717c2db",
+      "published_date": "Fri, 23 Oct 2026 11:30:10 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:05.162754+00:00",
+      "content": "Transport for London says increasing disruption inevitable unless more funding granted in next year’s spending review",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "100 days of Burnham",
+      "link": "https://www.ft.com/content/8f0b71c3-b097-4126-b0ff-ad7b66676107?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 11:09:36 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:05.362919+00:00",
+      "content": "Has Burnham given voters reasons to be hopeful? Plus, North Sea climate tensions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "National Crime Agency wins freezing order over £15mn London flat",
+      "link": "https://www.ft.com/content/2fae96bf-4328-4aa6-b68f-af416a9cb4bf?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 11:08:06 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:05.563075+00:00",
+      "content": "Bangladeshi owner Anisuzzaman Chowdhury failed to disclose source of his wealth amid UK probe into prominent family",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What the coming copper crunch means for the global economy",
+      "link": "https://www.ft.com/content/06209f51-de7c-4de0-8e66-5c621a960b87?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 11:01:09 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:05.963389+00:00",
+      "content": "A looming shortage of the metal will push up costs for AI, defence tech and the green transition",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Citi wins long-awaited approval for China securities business",
+      "link": "https://www.ft.com/content/4fa0c5ef-abfe-4a63-95c0-2ba69329abd0?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 10:40:57 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:06.363721+00:00",
+      "content": "Green light comes ahead of expected meeting between Donald Trump and Xi Jinping next month",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US nuclear revival faces scrutiny after incidents at flagship plant",
+      "link": "https://www.ft.com/content/bcc464cc-9d12-4b15-866d-64642de66ca8?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 10:00:02 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:06.964176+00:00",
+      "content": "Michigan reactor restart is delayed as Trump administration champions nuclear energy to meet booming AI power demand",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Volvo Cars shares plunge as much as 30% after it swings to loss",
+      "link": "https://www.ft.com/content/deb209b5-a5ed-4d24-a470-636ecc1e3668?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 09:19:08 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:07.164344+00:00",
+      "content": "Swedish carmaker to cut another 2,500 jobs  and warns that the market ‘has not reached the bottom’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "September inflation keeps BoJ on tightening course",
+      "link": "https://www.ft.com/content/f968f40c-ecc8-4981-ba60-a826f808505b",
+      "published_date": "Fri, 23 Oct 2026 08:48:57 GMT",
+      "scrape_timestamp": "2026-10-23T12:17:07.364497+00:00",
+      "content": "The key measures of inflation are rising",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-23T06:45:10.344740+00:00",
+  "last_updated": "2026-10-23T12:17:22.667260+00:00",
   "metadata": {
-    "total_runs": 3083,
+    "total_runs": 3084,
     "sources": [
       "Financial Times"
     ],
