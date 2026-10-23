@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
-      "link": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 21:03:42 GMT",
-      "scrape_timestamp": "2026-10-16T23:08:16.611566+00:00",
-      "content": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Brent hits 5-month high above $110 on continued tension in Middle East",
-      "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 20:55:28 GMT",
-      "scrape_timestamp": "2026-10-16T23:08:17.412305+00:00",
-      "content": "Oil prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at important energy hubs",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey says new Heathrow runway would boost ‘growth’ despite Burnham wavering",
-      "link": "https://www.ft.com/content/d2d5efc6-e2e6-4342-a402-ada4b6c042ef?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 21:30:07 GMT",
-      "scrape_timestamp": "2026-10-16T23:08:18.134231+00:00",
-      "content": "Future of £33bn project has been put in doubt since new prime minister took office",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
       "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
       "published_date": "Sat, 17 Oct 2026 00:47:25 GMT",
@@ -3783,11 +3750,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Xi gathers China’s top cadres with focus on discipline",
+      "link": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 21:00:09 GMT",
+      "scrape_timestamp": "2026-10-23T23:40:27.408100+00:00",
+      "content": "Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
+      "link": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 22:28:52 GMT",
+      "scrape_timestamp": "2026-10-23T23:40:28.609321+00:00",
+      "content": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "John Healey to give £20bn boost to UK’s business lender and infrastructure bank",
+      "link": "https://www.ft.com/content/4111c10c-c13c-4620-8ce7-df3b4f9324f1?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 23:01:00 GMT",
+      "scrape_timestamp": "2026-10-23T23:40:29.665627+00:00",
+      "content": "Treasury predicts extra funding will create and support 100,000 jobs as chancellor seeks to exploit flexibility in government’s fiscal rules",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK sets up AI lab to monitor biosecurity threats",
+      "link": "https://www.ft.com/content/e4481867-fecc-48fc-ad9d-4daaf05d14ba?syn-25a6b1a6=1",
+      "published_date": "Fri, 23 Oct 2026 23:01:00 GMT",
+      "scrape_timestamp": "2026-10-23T23:40:29.865840+00:00",
+      "content": "Move comes amid widespread fears that users could create new viruses and bioweapons",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-23T20:48:57.857191+00:00",
+  "last_updated": "2026-10-23T23:40:48.219409+00:00",
   "metadata": {
-    "total_runs": 3086,
+    "total_runs": 3087,
     "sources": [
       "Financial Times"
     ],
