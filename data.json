@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "MSCI warns it may cut Indonesia from main indices",
-      "link": "https://www.ft.com/content/753fa2ed-1763-462b-a4c0-ded9b53baf3c?syn-25a6b1a6=1",
-      "published_date": "Fri, 16 Oct 2026 00:44:30 GMT",
-      "scrape_timestamp": "2026-10-16T02:18:29.387490+00:00",
-      "content": "Warning from global index provider fuels concerns about investability in south-east Asia’s biggest economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "India’s largest FDI in the banking sector",
       "link": "https://www.ft.com/content/cd0e9788-3988-447d-8682-65db7a1558b1?syn-25a6b1a6=1",
       "published_date": "Fri, 16 Oct 2026 01:30:06 GMT",
@@ -3805,11 +3794,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+      "link": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 23:13:15 GMT",
+      "scrape_timestamp": "2026-10-23T01:06:10.709266+00:00",
+      "content": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military",
+      "link": "https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 23:29:39 GMT",
+      "scrape_timestamp": "2026-10-23T01:06:11.510102+00:00",
+      "content": "Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence",
+      "link": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1",
+      "published_date": "Thu, 22 Oct 2026 23:01:05 GMT",
+      "scrape_timestamp": "2026-10-23T01:06:12.300203+00:00",
+      "content": "Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-22T22:52:40.693471+00:00",
+  "last_updated": "2026-10-23T01:06:30.344870+00:00",
   "metadata": {
-    "total_runs": 3081,
+    "total_runs": 3082,
     "sources": [
       "Financial Times"
     ],
