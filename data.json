@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "White House chaos overshadows Trump’s midterms push",
-      "link": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1",
-      "published_date": "Sat, 17 Oct 2026 19:50:24 GMT",
-      "scrape_timestamp": "2026-10-17T19:51:19.915815+00:00",
-      "content": "Sacking of Katie Zacharia is latest in a week of embarrassing administration mis-steps",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Listings in south-east Asia gain momentum with $1bn IPO",
       "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
       "published_date": "Sun, 18 Oct 2026 01:00:06 GMT",
@@ -3761,11 +3750,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+      "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+      "published_date": "Sat, 24 Oct 2026 19:19:48 GMT",
+      "scrape_timestamp": "2026-10-24T22:07:17.194906+00:00",
+      "content": "Critics say prime minister’s proposal would turn country into an economic pariah",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-24T19:10:15.911497+00:00",
+  "last_updated": "2026-10-24T22:07:36.669738+00:00",
   "metadata": {
-    "total_runs": 3092,
+    "total_runs": 3093,
     "sources": [
       "Financial Times"
     ],
