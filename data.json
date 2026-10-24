@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-      "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
-      "published_date": "Sat, 17 Oct 2026 12:53:53 GMT",
-      "scrape_timestamp": "2026-10-17T14:40:02.074171+00:00",
-      "content": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Israeli settlers attack European diplomats in the West Bank",
-      "link": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
-      "published_date": "Sat, 17 Oct 2026 16:11:59 GMT",
-      "scrape_timestamp": "2026-10-17T17:37:59.140423+00:00",
-      "content": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Protesters clash with police in Paris and Marseille",
-      "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
-      "published_date": "Sat, 17 Oct 2026 14:16:53 GMT",
-      "scrape_timestamp": "2026-10-17T17:38:00.055907+00:00",
-      "content": "Thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "White House chaos overshadows Trump’s midterms push",
       "link": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1",
       "published_date": "Sat, 17 Oct 2026 19:50:24 GMT",
@@ -3761,11 +3728,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tucker Carlson: ‘I so overstated my power it was embarrassing’",
+      "link": "https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1",
+      "published_date": "Sat, 24 Oct 2026 04:00:13 GMT",
+      "scrape_timestamp": "2026-10-24T16:22:05.381339+00:00",
+      "content": "Does Trump’s loudest critic still have his finger on America’s pulse?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mayfair club Maison Estelle set to reopen after alleged firearm incident",
+      "link": "https://www.ft.com/content/d8758ccc-e6d7-40fb-bba9-50b01cc62623?syn-25a6b1a6=1",
+      "published_date": "Sat, 24 Oct 2026 13:27:08 GMT",
+      "scrape_timestamp": "2026-10-24T16:22:07.707768+00:00",
+      "content": "Luxury venue closed in September after police asked Westminster council to review its licence",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-24T12:21:29.737034+00:00",
+  "last_updated": "2026-10-24T16:22:25.349123+00:00",
   "metadata": {
-    "total_runs": 3090,
+    "total_runs": 3091,
     "sources": [
       "Financial Times"
     ],
