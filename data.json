@@ -2,55 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Chart of the Week: The chip stock split",
-      "link": "https://www.ft.com/content/c5ed09fe-dc65-4f05-8c12-8f74f5dc7ccd?syn-25a6b1a6=1",
-      "published_date": "Sat, 17 Oct 2026 09:30:02 GMT",
-      "scrape_timestamp": "2026-10-17T11:51:13.883512+00:00",
-      "content": "Losses across semi stocks have been unequal",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
       "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
       "published_date": "Sat, 17 Oct 2026 12:53:53 GMT",
       "scrape_timestamp": "2026-10-17T14:40:02.074171+00:00",
       "content": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Lula turns to selfie videos in election fightback",
-      "link": "https://www.ft.com/content/425cc873-23d8-4028-9ad0-13276bdbccf7?syn-25a6b1a6=1",
-      "published_date": "Sat, 17 Oct 2026 11:00:02 GMT",
-      "scrape_timestamp": "2026-10-17T14:40:05.026595+00:00",
-      "content": "Leftwing leader was beaten by hard-right Flávio Bolsonaro in first round of voting",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Europe Express Weekend: Where are Zelenskyy’s friends (when he needs them)?",
-      "link": "https://www.ft.com/content/3d964bed-ed6e-4b15-ade0-f190d2723cac?syn-25a6b1a6=1",
-      "published_date": "Sat, 17 Oct 2026 10:00:02 GMT",
-      "scrape_timestamp": "2026-10-17T14:40:05.226738+00:00",
-      "content": "Kyiv’s one-time allies are increasingly reluctant to provide the country with the support it needs",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Corporate donations flood US attorneys-general election races",
-      "link": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1",
-      "published_date": "Sat, 17 Oct 2026 10:00:02 GMT",
-      "scrape_timestamp": "2026-10-17T14:40:05.426912+00:00",
-      "content": "Officials tasked with enforcing state laws have emerged as a formidable check on the Trump administration’s policies",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3783,11 +3739,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ukraine military says Starlink service restrictions have been removed",
+      "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+      "published_date": "Sat, 24 Oct 2026 10:20:39 GMT",
+      "scrape_timestamp": "2026-10-24T12:21:10.882084+00:00",
+      "content": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Davos in the Desert’s ‘old fox’ Richard Attias faces his latest test",
+      "link": "https://www.ft.com/content/47073bc4-f176-4fbe-b277-30e93007fbb1?syn-25a6b1a6=1",
+      "published_date": "Sat, 24 Oct 2026 11:00:04 GMT",
+      "scrape_timestamp": "2026-10-24T12:21:12.599029+00:00",
+      "content": "Power broker behind kingdom’s flagship investment conference has weathered scandal and setbacks. Now he must contend with war and spending cuts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-24T07:45:21.565022+00:00",
+  "last_updated": "2026-10-24T12:21:29.737034+00:00",
   "metadata": {
-    "total_runs": 3089,
+    "total_runs": 3090,
     "sources": [
       "Financial Times"
     ],
