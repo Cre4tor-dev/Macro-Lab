@@ -3750,11 +3750,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Kim reaffirms ties with China amid worries over Russian friendship",
+      "link": "https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1",
+      "published_date": "Sat, 24 Oct 2026 15:44:19 GMT",
+      "scrape_timestamp": "2026-10-24T19:09:57.129978+00:00",
+      "content": "Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-24T16:22:25.349123+00:00",
+  "last_updated": "2026-10-24T19:10:15.911497+00:00",
   "metadata": {
-    "total_runs": 3091,
+    "total_runs": 3092,
     "sources": [
       "Financial Times"
     ],
