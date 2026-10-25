@@ -24,44 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Could Republicans prove the pollsters wrong in the midterms?",
-      "link": "https://www.ft.com/content/b2299174-fb78-4edf-a358-8cae837f8d7b?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:16.225519+00:00",
-      "content": "Party insiders say past elections show predictions of a Democratic wave in Congress are overstated",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump’s losing battle with green energy",
-      "link": "https://www.ft.com/content/b263bbe1-cd0c-4508-9ec8-07cb8a9c2a02?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:16.425724+00:00",
-      "content": "The Iran war and AI boom are strengthening the case for clean power, despite the president’s efforts to curb it",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "St Petersburg endures biggest Ukrainian drone attack",
       "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
       "published_date": "Sun, 18 Oct 2026 11:01:32 GMT",
       "scrape_timestamp": "2026-10-18T12:17:16.625936+00:00",
       "content": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Accenture looks to sell Chinese operations for up to $1.5bn",
-      "link": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:17.026305+00:00",
-      "content": "Shares in world’s largest IT consultancy have fluctuated in recent months over questions about the impact of AI",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -84,17 +51,6 @@
       "published_date": "Sun, 18 Oct 2026 11:00:09 GMT",
       "scrape_timestamp": "2026-10-18T12:17:18.407213+00:00",
       "content": "Market Questions is the FT’s guide to the week ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Several dead and injured in fire at Alberta military base",
-      "link": "https://www.ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210",
-      "published_date": "Sun, 18 Oct 2026 08:03:56 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:19.208015+00:00",
-      "content": "Authorities respond to ‘tragic incident’ at Canadian Forces Base Wainwright, the country’s defence minister says",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3673,11 +3629,110 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What my most embarrassing job interview taught me",
+      "link": "https://www.ft.com/content/3f333a1c-18f8-4050-ab8e-042536006de5?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 05:00:11 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:23.355272+00:00",
+      "content": "Job hunters should not have to disclose their pay history or guess what salary is on offer",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Martin Wolf on the US midterms: What’s at stake for the world?",
+      "link": "https://www.ft.com/content/01119d92-0d23-4d91-8a66-44ebd94c2356?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 05:00:10 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:23.955858+00:00",
+      "content": "The FT’s chief economics commentator speaks to writer and historian Anne Applebaum about why the elections matter beyond America",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
+      "link": "https://www.ft.com/content/eedb7159-65df-45de-91f9-fde8de99e61c?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 05:00:10 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:24.156050+00:00",
+      "content": "Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Life after USAID in Somalia",
+      "link": "https://www.ft.com/content/ee6e1bfd-ed03-4f9a-a6fc-0db1c81b3905?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 05:00:02 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:24.556412+00:00",
+      "content": "Jowhar, a town on the frontline of conflict, climate change and aid cuts, is preparing for flooding as international support evaporates",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Many care services in England have never been inspected by regulator",
+      "link": "https://www.ft.com/content/d5cc68cd-1c12-4617-8584-c731b4c8aa81?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 05:00:02 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:25.157037+00:00",
+      "content": "Backlog of assessment calls into question Andy Burnham’s vow to fix the ‘broken’ system",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why is it getting harder to raise taxes in the UK?",
+      "link": "https://www.ft.com/content/4528aa39-1ef2-47f2-9ff0-3271db0ae029?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 05:00:02 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:25.357249+00:00",
+      "content": "IMF argues that major reform is needed of Britain’s tax complexity and competitiveness",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Conservatives and Reform ready their attacks on Healey’s Budget",
+      "link": "https://www.ft.com/content/a505e99f-b49f-46a7-b158-f5c9322eb076?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 05:00:02 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:25.557460+00:00",
+      "content": "UK’s rightwing opposition parties hope to get some attention from voters for their rival economic programmes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Climate accounting body in battle over corporate ‘capture’, say staff",
+      "link": "https://www.ft.com/content/054c6bee-87f2-47d4-8bf5-40003eb66457?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 05:00:02 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:25.757643+00:00",
+      "content": "Former BCG partner involved in drafting job description before taking the role",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Bethlehem Project: Voters feel anxious and uncertain as US midterms near",
+      "link": "https://www.ft.com/content/44077dde-2c7d-43ca-b724-53451f1c0d22?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 04:00:00 GMT",
+      "scrape_timestamp": "2026-10-25T10:24:26.158029+00:00",
+      "content": "The FT sat down with more than a dozen voters in Bethlehem, Pennsylvania, ahead of n…",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-25T05:31:00.782582+00:00",
+  "last_updated": "2026-10-25T10:24:39.286367+00:00",
   "metadata": {
-    "total_runs": 3095,
+    "total_runs": 3096,
     "sources": [
       "Financial Times"
     ],
