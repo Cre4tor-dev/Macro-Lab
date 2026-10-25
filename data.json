@@ -3717,11 +3717,77 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
+      "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 21:40:04 GMT",
+      "scrape_timestamp": "2026-10-25T22:55:47.317531+00:00",
+      "content": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
+      "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 22:08:07 GMT",
+      "scrape_timestamp": "2026-10-25T22:55:47.517689+00:00",
+      "content": "Election loss marks a dramatic fall from power for strongman nationalist leader as near-record turnout favours grassroots party",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Enough golfers commit to LIV 2.0 to keep hopes of new league alive",
+      "link": "https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 17:56:50 GMT",
+      "scrape_timestamp": "2026-10-25T22:55:47.917980+00:00",
+      "content": "Around 15 players have expressed interest, with several others expected to join by a Friday deadline set by the Saudi Public Investment Fund",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham promises Budget cash to end rough sleeping",
+      "link": "https://www.ft.com/content/8b6b5ec9-a5d6-4c2b-bf83-4317e4018ed8?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 22:30:07 GMT",
+      "scrape_timestamp": "2026-10-25T22:55:48.389847+00:00",
+      "content": "Chancellor John Healey prepares to unveil a fiscal statement aimed at reassuring markets while finding cash for Labour’s social objectives",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Brazil awaits results in knife-edge presidential vote",
+      "link": "https://www.ft.com/content/7d8f8969-7bef-4776-8e32-54249f8d3d61?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 21:45:03 GMT",
+      "scrape_timestamp": "2026-10-25T22:55:48.990248+00:00",
+      "content": "Also in today’s newsletter: Venezuela’s opposition leader returns from exile and Kim Jong Un visits Chinese border city",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Toyota takes on Tesla and China in humanoid robot race",
+      "link": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 21:00:06 GMT",
+      "scrape_timestamp": "2026-10-25T22:55:49.190425+00:00",
+      "content": "Japanese group uses 20 years of research to commercialise intelligent robots",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-25T20:29:10.415531+00:00",
+  "last_updated": "2026-10-25T22:56:04.691019+00:00",
   "metadata": {
-    "total_runs": 3099,
+    "total_runs": 3100,
     "sources": [
       "Financial Times"
     ],
