@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Not every billionaire is a policy failure",
-      "link": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 11:00:09 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:15.825043+00:00",
-      "content": "Indiscriminately targeting those with 10-digit fortunes is arbitrary, misguided and costly",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France reels after ‘unprecedented’ violent riots",
-      "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 11:03:32 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:16.025240+00:00",
-      "content": "Government under pressure after struggle to contain attacks on stores and official buildings",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "St Petersburg endures biggest Ukrainian drone attack",
-      "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 11:01:32 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:16.625936+00:00",
-      "content": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Saudi helicopter crash kills two troops near Yemen border",
-      "link": "https://www.ft.com/content/da1dbd0b-4101-4ba8-aa2d-da6fedcb9f23?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 11:38:15 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:17.606371+00:00",
-      "content": "First reported military fatalities for the kingdom come as war with Houthi rebels continues to escalate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will Meta’s earnings restore confidence in the AI boom?",
-      "link": "https://www.ft.com/content/7c2e889e-2eb5-4c62-821b-1a7f88c13d05?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 11:00:09 GMT",
-      "scrape_timestamp": "2026-10-18T12:17:18.407213+00:00",
-      "content": "Market Questions is the FT’s guide to the week ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US threatens Europe over Starlink restrictions",
       "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
       "published_date": "Sun, 18 Oct 2026 16:00:00 GMT",
@@ -73,39 +18,6 @@
       "published_date": "Sun, 18 Oct 2026 15:00:00 GMT",
       "scrape_timestamp": "2026-10-18T16:13:59.656845+00:00",
       "content": "Voters are increasingly linking rising energy prices to the administration’s policies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Treasury introduces new security measures in bid to stop UK Budget leaks",
-      "link": "https://www.ft.com/content/6748e45a-0b1a-43be-b65f-645849af4a57?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 13:48:46 GMT",
-      "scrape_timestamp": "2026-10-18T16:14:02.309925+00:00",
-      "content": "Chancellor John Healey deploys ‘military-style’ security protocols to restrict flow of sensitive information",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Egypt’s Sisi sets out plan for military to train his successors",
-      "link": "https://www.ft.com/content/f591211b-497f-4b20-a0ab-7c37d5422761?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 12:52:16 GMT",
-      "scrape_timestamp": "2026-10-18T16:14:02.510045+00:00",
-      "content": "President says he will step down in 2030 but floats new process that would consolidate role of army in state",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘The Switzerland of North America’: Albertans vote on leaving Canada",
-      "link": "https://www.ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 12:00:09 GMT",
-      "scrape_timestamp": "2026-10-18T16:14:02.910267+00:00",
-      "content": "Monday’s referendum on independence for the western province threatens Mark Carney’s effort to unite the country against a hostile US",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3728,11 +3640,110 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why students in a midterm battleground fear AI will ruin their future",
+      "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 11:00:02 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:56.159778+00:00",
+      "content": "Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US voters worried about corruption under Trump — FT poll",
+      "link": "https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 11:00:02 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:56.359932+00:00",
+      "content": "Americans link graft to affordability crisis as midterm elections loom",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "London’s most famous shopping street bans cars in bid to revive its fortunes",
+      "link": "https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 12:26:15 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:56.760244+00:00",
+      "content": "Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Audi to build $4bn US plant as it grapples with tariffs",
+      "link": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 10:33:28 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:57.360759+00:00",
+      "content": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Measles surge exposes Republicans’ vulnerability on vaccines",
+      "link": "https://www.ft.com/content/86e2ad4c-4a19-4221-8043-1c26e3354936?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 12:00:03 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:57.761138+00:00",
+      "content": "Health secretary Robert F Kennedy Jr’s scepticism of jabs is not shared by the majority of Americans",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Andy Burnham stokes Brexit debate ahead of UK-EU summit",
+      "link": "https://www.ft.com/content/ef271c35-6e32-455a-8463-579788530fd3?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 12:01:18 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:58.454933+00:00",
+      "content": "Prime minister calls for ‘honest discussion’ about free movement of people",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain needs ‘chainsaw economics’",
+      "link": "https://www.ft.com/content/46955baa-a3c0-487c-bf3e-d89430a84516?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 12:00:03 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:58.655146+00:00",
+      "content": "Shock therapy can liberate the country from a cycle of low growth, rising debt and an expanding state",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will the Fed drop any hints on rate rises?",
+      "link": "https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 12:00:03 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:59.055519+00:00",
+      "content": "Market Questions is the FT’s guide to the week ahead",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Airbus to hold talks with BAE over role in GCAP fighter jet programme",
+      "link": "https://www.ft.com/content/701768ba-b541-491e-bcc5-e76d1baea2fe?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 11:00:02 GMT",
+      "scrape_timestamp": "2026-10-25T14:40:59.455889+00:00",
+      "content": "Germany weighs joining UK, Italy and Japan in project after collapse of its rival FCAS partnership with France and Spain",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-25T10:24:39.286367+00:00",
+  "last_updated": "2026-10-25T14:41:15.493269+00:00",
   "metadata": {
-    "total_runs": 3096,
+    "total_runs": 3097,
     "sources": [
       "Financial Times"
     ],
