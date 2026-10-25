@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US threatens Europe over Starlink restrictions",
-      "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 16:00:00 GMT",
-      "scrape_timestamp": "2026-10-18T16:13:58.856368+00:00",
-      "content": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump’s bid to make America cheap again has failed",
-      "link": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 15:00:00 GMT",
-      "scrape_timestamp": "2026-10-18T16:13:59.656845+00:00",
-      "content": "Voters are increasingly linking rising energy prices to the administration’s policies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump endorses Netanyahu ahead of Israeli elections",
       "link": "https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79",
       "published_date": "Sun, 18 Oct 2026 18:11:15 GMT",
@@ -40,28 +18,6 @@
       "published_date": "Sun, 18 Oct 2026 18:00:01 GMT",
       "scrape_timestamp": "2026-10-18T19:05:22.311024+00:00",
       "content": "Barbican Centre faces uncertain future as Square Mile prepares for Labour funding overhaul",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Four dead and dozens injured in fire at Alberta military base",
-      "link": "https://www.ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 17:15:05 GMT",
-      "scrape_timestamp": "2026-10-18T19:05:22.511224+00:00",
-      "content": "Mark Carney describes blaze as one of the armed forces’ worst tragedies in peacetime on Canadian soil",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Crunch time for Brazilian politics",
-      "link": "https://www.ft.com/content/783dbcdc-fe1e-4539-a740-3d2e4b3d5fc1?syn-25a6b1a6=1",
-      "published_date": "Sun, 18 Oct 2026 17:15:01 GMT",
-      "scrape_timestamp": "2026-10-18T19:05:22.711432+00:00",
-      "content": "South America’s largest economy holds a presidential run-off, Albertans vote in an unofficial independence referendum, key UK economic data ahead of Budget",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3739,11 +3695,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Marco Rubio still owes Europe answers about America’s intentions",
+      "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
+      "published_date": "Sun, 25 Oct 2026 16:00:05 GMT",
+      "scrape_timestamp": "2026-10-25T17:59:00.278187+00:00",
+      "content": "The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France’s Le Pen vows national ‘renewal’ in campaign launch",
+      "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 17:47:48 GMT",
+      "scrape_timestamp": "2026-10-25T17:59:00.478368+00:00",
+      "content": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Venezuelan opposition leader Machado returns from exile",
+      "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+      "published_date": "Sun, 25 Oct 2026 17:37:08 GMT",
+      "scrape_timestamp": "2026-10-25T17:59:01.079016+00:00",
+      "content": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Carney’s energy ambitions boosted by Conservative victory in British Columbia",
+      "link": "https://www.ft.com/content/397d5d63-1d60-4218-b2bd-8ce6e8f527b1?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 14:25:30 GMT",
+      "scrape_timestamp": "2026-10-25T17:59:01.804892+00:00",
+      "content": "Party leader wants to end emissions limits and replace province’s carbon tax framework",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-25T14:41:15.493269+00:00",
+  "last_updated": "2026-10-25T17:59:18.817425+00:00",
   "metadata": {
-    "total_runs": 3097,
+    "total_runs": 3098,
     "sources": [
       "Financial Times"
     ],
