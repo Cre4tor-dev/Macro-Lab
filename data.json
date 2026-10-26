@@ -2,160 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US defence stocks tumble as investors bet on Democratic election sweep",
-      "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 13:04:40 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:03.074746+00:00",
-      "content": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France’s riots expose the impotence of its political class",
-      "link": "https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 17:07:43 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:03.675294+00:00",
-      "content": "Shocking violence highlights deepening social division, fiscal constraints and a crisis of leadership",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks",
-      "link": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 15:40:33 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:04.075665+00:00",
-      "content": "Flagship Future Investment Initiative was scheduled to begin next week in Riyadh but will now take place next year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Violent protests multiply across Europe",
-      "link": "https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 13:50:22 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:04.476046+00:00",
-      "content": "Looting and clashes with police take place in Milan, Brussels, Liège and Tirana",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US prosecutors allege Saudi royal links in OpenAI bugging case",
-      "link": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 16:13:28 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:04.876424+00:00",
-      "content": "Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his ‘considerable support from a foreign government’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade",
-      "link": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 15:59:35 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:05.812981+00:00",
-      "content": "Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU drops push for global ban on Arctic drilling",
-      "link": "https://www.ft.com/content/8b1990d1-b4b2-4147-ba4b-76d1869ee2db?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 15:36:34 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:06.213375+00:00",
-      "content": "Brussels’ new strategy excludes 2021 pledge to work towards a ‘multilateral legal obligation’ not to allow any further hydrocarbon development in the polar region",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "India’s democracy once went looking for voters. Not any more",
-      "link": "https://www.ft.com/content/8848d06c-c0fa-49ff-af08-880ef4f3ff21",
-      "published_date": "Mon, 19 Oct 2026 14:46:23 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:06.413573+00:00",
-      "content": "The franchise is being recast as a privilege citizens must repeatedly prove they deserve",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Data centres need protection from drone warfare",
-      "link": "https://www.ft.com/content/15a049f3-b62e-40ed-b304-8a2452713338",
-      "published_date": "Mon, 19 Oct 2026 14:31:32 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:06.613735+00:00",
-      "content": "AI infrastructure designs may now need to incorporate blast-resistant concrete, jamming gear and missile-defence systems",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Australian MP struck by car in alleged attack",
-      "link": "https://www.ft.com/content/5f595355-caca-4951-8170-91bb513f7aa9?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 13:52:49 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:06.813877+00:00",
-      "content": "A suspect is in custody after lawmaker sustained ‘critical injuries’ but the motive remains unknown",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The best exhibitions to see in London this weekend",
-      "link": "https://www.ft.com/content/ef0f6d42-4759-4ce8-8e40-acd83f0c64f1?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 13:48:05 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:07.214180+00:00",
-      "content": "The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "North Sea oil producer threatens to stop investing if UK blocks Rosebank oilfield",
-      "link": "https://www.ft.com/content/2ad6e5dd-b8c2-4186-a6e2-ba27f222e1f0?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 13:37:50 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:07.414336+00:00",
-      "content": "North Sea oil producer links approval of near-$4bn field delayed by environmental concerns to future projects in Britain",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Uber defeats High Court lawsuit brought by London’s black-cab drivers",
-      "link": "https://www.ft.com/content/22290706-ab59-4766-b604-ddff94a71bcf?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 13:19:38 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:07.814743+00:00",
-      "content": "Judge rules claim against ride-hailing app was brought too late",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Indonesia’s market is dysfunctional, not uninvestable",
-      "link": "https://www.ft.com/content/6b460256-2f85-485f-ba99-45f270fe3cad?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 12:55:32 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:08.215118+00:00",
-      "content": "Banks are decent investments based on their growth and profitability",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "New York pensions chief says private equity firm sought to expense jet use",
       "link": "https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1",
       "published_date": "Mon, 19 Oct 2026 21:18:40 GMT",
@@ -3750,11 +3596,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
+      "link": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 17:45:49 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:44.528412+00:00",
+      "content": "Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Breaking down Anthropic’s 335-page S-1",
+      "link": "https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 13:08:09 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:44.728639+00:00",
+      "content": "Anthropic’s planned listing could be the biggest stock market debut in history",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why you shouldn’t bother reading the Anthropic IPO filing",
+      "link": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 17:29:42 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:44.928866+00:00",
+      "content": "Valuing AI lab based on its historic reported numbers is a fool’s errand",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump, Netanyahu and the politics of escalation against Iran",
+      "link": "https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 11:37:21 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:45.329318+00:00",
+      "content": "Electoral defeat for the leaders of Israel and the US may not stand in the way of plans for a renewed assault",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lula’s surprise victory triggers worst rout in decades for Brazilian markets",
+      "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 17:32:09 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:45.929941+00:00",
+      "content": "Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+      "link": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 17:22:02 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:46.330385+00:00",
+      "content": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s fresh campaign against wind power puts permitting deal in doubt",
+      "link": "https://www.ft.com/content/8cdadf5d-5859-422d-982a-fab0e9f2a619?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 16:01:08 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:46.530606+00:00",
+      "content": "Administration’s challenge to projects ends a renewables détente aimed at attracting bipartisan support for bill",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Who are the students set to govern Serbia?",
+      "link": "https://www.ft.com/content/c3f29989-747e-4734-a29b-568b3c5e488a?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 14:06:44 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:46.730830+00:00",
+      "content": "Amorphous Student List movement has yet to nominate a prime minister candidate after Aleksandar Vučić’s election defeat",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nigeria evacuates Ebola patient to Switzerland",
+      "link": "https://www.ft.com/content/083251a0-d5ab-48be-8295-41c9860963fd?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 17:23:29 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:47.930762+00:00",
+      "content": "Authorities work to contain deadly Bundibugyo virus after wife of Abuja-based Swiss diplomat became country’s first confirmed case",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tens of thousands of Israelis fly home for pivotal election",
+      "link": "https://www.ft.com/content/4fb0c89f-a620-4d5f-bee5-9ff9164ca679",
+      "published_date": "Mon, 26 Oct 2026 15:43:59 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:48.931720+00:00",
+      "content": "Analysts suggest scale of returns is driven by opposition to Benjamin Netanyahu’s far-right government",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Apollo takes minority stake in Abu Dhabi’s Mubadala Capital",
+      "link": "https://www.ft.com/content/306b6168-e8be-4781-82e3-d5dea8bc4de2?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 14:50:43 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:49.332114+00:00",
+      "content": "Investment comes 18 months after Mark Walter’s holding company TWG announced deal for equity stake, which was never completed",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Plan for AI-run companies challenged by US lawmakers",
+      "link": "https://www.ft.com/content/d5021cdf-816e-4cb9-bbf9-e4ba816a004f?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 14:00:09 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:49.532326+00:00",
+      "content": "US House oversight committee probes Delaware proposal to let AI ‘agents’ run corporate entities",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can Europe find a third way?",
+      "link": "https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 13:00:09 GMT",
+      "scrape_timestamp": "2026-10-26T17:55:50.333076+00:00",
+      "content": "A new ‘great game’ is afoot in the Arctic and the continent needs to build its own military capability in the region",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-26T11:53:42.460992+00:00",
+  "last_updated": "2026-10-26T17:56:07.667766+00:00",
   "metadata": {
-    "total_runs": 3103,
+    "total_runs": 3104,
     "sources": [
       "Financial Times"
     ],
