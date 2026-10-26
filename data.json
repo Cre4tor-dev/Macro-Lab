@@ -2,110 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Macron rejects interior minister’s resignation after French riots",
-      "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 10:26:05 GMT",
-      "scrape_timestamp": "2026-10-19T11:35:33.243287+00:00",
-      "content": "Political recriminations fly and bonds fall as authorities admit that police botched oversight of protests",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "PwC revenue growth trails Deloitte and EY",
-      "link": "https://www.ft.com/content/0d89ccfd-50ce-4e74-8112-0a8f53b3afff?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 10:00:05 GMT",
-      "scrape_timestamp": "2026-10-19T11:35:34.444892+00:00",
-      "content": "Europe, Middle East and Africa revenues rose 0.7% following war in Iran and a slowdown in work for Saudi Arabian government",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ukraine receives partial intelligence on Russian ballistic missile strikes",
-      "link": "https://www.ft.com/content/a381df3f-a1bf-4889-aa5d-e4e594a3ea33?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 10:40:42 GMT",
-      "scrape_timestamp": "2026-10-19T11:35:34.645218+00:00",
-      "content": "Western allies provided advance warning about only one of two overnight attacks, says Ukrainian air force",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US stocks set for rebound after AI sell-off",
-      "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 09:16:12 GMT",
-      "scrape_timestamp": "2026-10-19T11:35:35.246216+00:00",
-      "content": "Nasdaq 100 futures rise 1% following biggest weekly drop since Trump’s ‘liberation day’ in April last year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Zelenskyy, Europe and the end of Trump whispering",
-      "link": "https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 11:21:25 GMT",
-      "scrape_timestamp": "2026-10-19T11:35:35.963504+00:00",
-      "content": "This new crisis looks different and the bloc’s leaders are preparing to talk directly to Putin",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US grocery giants head to court in $9bn battle over failed merger",
-      "link": "https://www.ft.com/content/086e66dd-1e1b-4279-ae6b-2ac88757998f?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 10:00:05 GMT",
-      "scrape_timestamp": "2026-10-19T11:35:36.764547+00:00",
-      "content": "Kroger and Albertsons point fingers over who was responsible for collapse of planned tie-up",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Iranian hardliners say the time for nuclear weapons has come",
-      "link": "https://www.ft.com/content/1f23e859-5e70-4d99-8f9b-56de3d0ae43e?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 09:55:22 GMT",
-      "scrape_timestamp": "2026-10-19T11:35:36.964815+00:00",
-      "content": "Killing of supreme leader Ali Khamenei, who prohibited atomic bombs, has prompted calls to weaponise enrichment programme",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Swinney tests limits of Burnham’s devolution pitch to Scotland",
-      "link": "https://www.ft.com/content/d98a97e4-5ba4-481e-af20-35dcb2fc3a14?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 08:30:04 GMT",
-      "scrape_timestamp": "2026-10-19T11:35:37.365279+00:00",
-      "content": "UK PM may want to avoid independence ‘drama’ but SNP remains committed to breaking away",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US defence stocks tumble as investors bet on Democratic election sweep",
       "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
       "published_date": "Mon, 19 Oct 2026 13:04:40 GMT",
       "scrape_timestamp": "2026-10-19T17:58:03.074746+00:00",
       "content": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "CME plans tungsten futures as demand for weapons rises",
-      "link": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 10:30:57 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:03.274963+00:00",
-      "content": "China has restricted exports of critical mineral used in armour-piercing munitions",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -139,17 +40,6 @@
       "published_date": "Mon, 19 Oct 2026 13:50:22 GMT",
       "scrape_timestamp": "2026-10-19T17:58:04.476046+00:00",
       "content": "Looting and clashes with police take place in Milan, Brussels, Liège and Tirana",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Freshfields apologises ‘unreservedly’ over Middle East comments in email leak",
-      "link": "https://www.ft.com/content/6075e0ec-9116-4de4-84e6-d50b5ed1d47a?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 11:09:30 GMT",
-      "scrape_timestamp": "2026-10-19T17:58:04.676219+00:00",
-      "content": "Partner at firm had said need to approach ‘sophisticated investors’ to back its AI lab ‘probably’ ruled out region’s ‘sovereign wealth money’",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3750,11 +3640,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How Lula turned his election fortunes around in three weeks",
+      "link": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 06:14:35 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:18.137018+00:00",
+      "content": "With an energetic online push and social giveaways, Brazil’s president reignited his campaign between the first and second rounds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+      "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 11:15:50 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:19.138115+00:00",
+      "content": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Oil price falls back as traders remain focused on Middle East conflict",
+      "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 07:28:34 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:19.338336+00:00",
+      "content": "International benchmark eases after soaring to $117 late last week",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran hosts regional powers for talks to prevent renewed escalation",
+      "link": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 09:33:47 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:19.538550+00:00",
+      "content": "Senior security officials from Saudi Arabia, Pakistan and Turkey to meet Iranian counterparts in Tehran on Monday",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Saudi Arabia seeks to mend ties with UAE in Houthi crisis",
+      "link": "https://www.ft.com/content/97a6cadc-aedb-40a1-b583-c410d3278191?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 11:10:54 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:20.680687+00:00",
+      "content": "Rapprochement comes as Riyadh shores up support from other allies in the face of attacks from Yemeni rebels",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EQT to buy Range Resources in $50bn North America gas deal",
+      "link": "https://www.ft.com/content/b4526650-49b6-4f88-ab95-4bde1cf4ad9c?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 10:36:05 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:20.880913+00:00",
+      "content": "Combination set to create largest natural gas producer in the US",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Five big challenges John Healey is likely to kick down the road",
+      "link": "https://www.ft.com/content/dac9072f-1d8b-45d7-895c-2e33562cd486?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 09:30:04 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:21.681834+00:00",
+      "content": "Chancellor is deferring big decisions on defence and welfare",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Singapore to store Saudi oil in underground caverns",
+      "link": "https://www.ft.com/content/1baa5eb0-d6e3-4989-beb0-1b29879ff606?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 06:57:54 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:22.282478+00:00",
+      "content": "Agreement with Saudi Aramco aims to secure energy supplies for south-east Asia amid Middle East war disruption",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Vučić’s defeat opens door for Serbia to reheat frigid EU ties",
+      "link": "https://www.ft.com/content/5476d1af-0208-485e-9564-58d82dfdaa4c?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 06:00:01 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:22.682939+00:00",
+      "content": "Also in this newsletter: Meloni’s electoral overhaul faces legal challenge",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
+      "link": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
+      "published_date": "Mon, 26 Oct 2026 05:30:01 GMT",
+      "scrape_timestamp": "2026-10-26T11:53:22.883169+00:00",
+      "content": "Read the Monetary Policy Radar team’s October scenario for the Federal Reserve",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-26T05:36:27.959625+00:00",
+  "last_updated": "2026-10-26T11:53:42.460992+00:00",
   "metadata": {
-    "total_runs": 3102,
+    "total_runs": 3103,
     "sources": [
       "Financial Times"
     ],
