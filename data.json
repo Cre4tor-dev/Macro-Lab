@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US rate rises are being amplified in global markets",
-      "link": "https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748",
-      "published_date": "Sun, 18 Oct 2026 23:01:02 GMT",
-      "scrape_timestamp": "2026-10-19T00:36:40.030479+00:00",
-      "content": "The Iran war and shifts by China are tightening the supply of dollars in international markets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Rising interest rates derail property recovery as buyers recut deals",
       "link": "https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1",
       "published_date": "Mon, 19 Oct 2026 04:00:06 GMT",
@@ -3783,11 +3772,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lula is re-elected Brazil’s president in knife-edge election",
+      "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 00:17:07 GMT",
+      "scrape_timestamp": "2026-10-26T00:54:12.124910+00:00",
+      "content": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s aim of greater US influence in Latin America",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "After Hungary, Serbia takes its turn to show the power of the people",
+      "link": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
+      "published_date": "Sun, 25 Oct 2026 23:54:05 GMT",
+      "scrape_timestamp": "2026-10-26T00:54:13.325931+00:00",
+      "content": "Anger at corruption and an unaccountable government turned Serbs decisively against their autocratic leader Aleksandar Vučić",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-25T22:56:04.691019+00:00",
+  "last_updated": "2026-10-26T00:54:31.191907+00:00",
   "metadata": {
-    "total_runs": 3100,
+    "total_runs": 3101,
     "sources": [
       "Financial Times"
     ],
