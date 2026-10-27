@@ -2,50 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "China’s villages pay the price for Beijing’s AI ambitions",
-      "link": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 00:15:07 GMT",
-      "scrape_timestamp": "2026-10-20T00:57:38.736204+00:00",
-      "content": "Residents in remote region of Shaoguan hope country’s AI infrastructure push will deliver boom that has long eluded them",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
-      "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 00:14:19 GMT",
-      "scrape_timestamp": "2026-10-20T00:57:39.536819+00:00",
-      "content": "Steve Witkoff and Jared Kushner expected to travel to Norway to meet Volodymyr Zelenskyy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal",
-      "link": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 22:27:32 GMT",
-      "scrape_timestamp": "2026-10-20T00:57:39.937076+00:00",
-      "content": "AI start-up looks for more computing power from UK data centre group",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey rules out increasing capital gains tax in the Budget",
-      "link": "https://www.ft.com/content/f7433f80-a926-4582-8355-67c07aebe5ea?syn-25a6b1a6=1",
-      "published_date": "Mon, 19 Oct 2026 22:22:15 GMT",
-      "scrape_timestamp": "2026-10-20T00:57:40.754204+00:00",
-      "content": "Chancellor decides against raising CGT rates after business leaders warned it would damage confidence in the economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "AI debt worries spark surge in default insurance trading",
       "link": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
       "published_date": "Tue, 20 Oct 2026 04:00:19 GMT",
@@ -3772,11 +3728,110 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’",
+      "link": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 00:54:15 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:21.042571+00:00",
+      "content": "US President casts doubt on integrity of South American nation’s election result over extension of voting hours",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump offers $1mn reward for tips leading to election fraud conviction",
+      "link": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 21:50:06 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:23.044559+00:00",
+      "content": "US president offers payout days before midterm vote that will shape balance of power in Congress",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Channel 4 strikes streaming deal with Disney",
+      "link": "https://www.ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 00:01:06 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:23.811260+00:00",
+      "content": "Agreement comes as linear broadcasters struggle to compete with US media giants",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "England captain Harry Kane wins Ballon d’Or",
+      "link": "https://www.ft.com/content/0139bf89-1906-460b-a976-663a36010889?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 23:32:54 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:24.011453+00:00",
+      "content": "Bayern Munich forward recognised as world’s best-performing footballer — the first British player to win the award in 25 years",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey poised to increase adult minimum wage in UK Budget",
+      "link": "https://www.ft.com/content/63b0768d-0cdc-4ce1-b3e2-1e15df44dabc?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 23:19:17 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:24.211644+00:00",
+      "content": "Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+      "link": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 22:44:47 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:24.612042+00:00",
+      "content": "Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey focuses Budget on ‘everyday fixes’ as energy costs bite",
+      "link": "https://www.ft.com/content/9e9fac4d-117d-46d7-929e-86a7d7c93d35?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 22:30:06 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:24.812229+00:00",
+      "content": "Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK needs more powers to intervene when telecoms providers fail, minister says",
+      "link": "https://www.ft.com/content/3df6836f-4542-4047-b5d8-0b3a8a3a1154",
+      "published_date": "Mon, 26 Oct 2026 22:19:10 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:25.012431+00:00",
+      "content": "Lisa Nandy tells MPs she is concerned about the sector’s ‘financial fragility’ in the wake of broadband provider TalkTalk’s near-collapse",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Anthropic unveils long-awaited IPO prospectus",
+      "link": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1",
+      "published_date": "Mon, 26 Oct 2026 21:41:18 GMT",
+      "scrape_timestamp": "2026-10-27T01:43:25.412839+00:00",
+      "content": "Also in today’s newsletter: Brazil’s currency plunges and Singapore to store Saudi Arabian oil in caverns",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-26T22:07:50.258283+00:00",
+  "last_updated": "2026-10-27T01:43:42.942908+00:00",
   "metadata": {
-    "total_runs": 3105,
+    "total_runs": 3106,
     "sources": [
       "Financial Times"
     ],
