@@ -2,127 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Witkoff meets Zelenskyy before travelling to Russia",
-      "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 15:11:57 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:39.076970+00:00",
-      "content": "Trump envoy attempts to restart peace talks between Ukraine and Russia and is expected to ask for release of a US hostage",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US pending home sales fall to record low as mortgage rates surge",
-      "link": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 14:39:57 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:39.277158+00:00",
-      "content": "Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Activist Starboard targets Honeywell spin-off Solstice after failed megadeal",
-      "link": "https://www.ft.com/content/f8ea12f4-a55d-4f46-a409-5cffd093ab6a?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 14:04:32 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:40.920842+00:00",
-      "content": "Hedge fund pushes for $100mn in cost cuts at US speciality chemicals group and sees growth potential in its nuclear business",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump pledges to spend $400mn on Republican Party midterm campaigns",
-      "link": "https://www.ft.com/content/c335e978-1ceb-4254-8c71-793a41e6d0b3?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 19:02:44 GMT",
-      "scrape_timestamp": "2026-10-20T19:44:51.266606+00:00",
-      "content": "US president’s announcement comes after former New York City mayor Mike Bloomberg donates $80mn to Democratic candidates",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UAE official emerges as late contender to lead UN",
-      "link": "https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 18:32:31 GMT",
-      "scrape_timestamp": "2026-10-20T19:44:52.007987+00:00",
-      "content": "Supporters of Lana Nusseibeh sound out UN missions for backing as official candidates struggle to break deadlock",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Two rearrested over RAF Fairford incident on suspicion of helping Iranian intelligence",
-      "link": "https://www.ft.com/content/33573324-6eb8-447c-934d-5a992872509a?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 18:19:44 GMT",
-      "scrape_timestamp": "2026-10-20T19:44:52.208194+00:00",
-      "content": "Men held as officers continue to probe September incident at air base, which was hosting US bombers conducting strikes on Iran",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Who are the Black Bloc?",
-      "link": "https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 18:15:43 GMT",
-      "scrape_timestamp": "2026-10-20T19:44:52.408396+00:00",
-      "content": "French government says agitators from the far left helped transform peaceful protests into riots",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Merz warns over Berlin plans to seize landlords’ property",
-      "link": "https://www.ft.com/content/82f99b04-144d-4f2a-b23e-d5a3c0674f3b?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 16:49:37 GMT",
-      "scrape_timestamp": "2026-10-20T19:44:52.808796+00:00",
-      "content": "Chancellor calls for regional government not to ‘experiment’ with market economy as investors attend summit",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain’s budget should build on its economic resilience",
-      "link": "https://www.ft.com/content/8be29348-e112-462f-96eb-44a699ca61a6?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 16:15:04 GMT",
-      "scrape_timestamp": "2026-10-20T19:44:53.009016+00:00",
-      "content": "Burnham and Healey must look beyond industrial nostalgia to the UK’s modern strengths",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Can the Democrats win the Senate?",
-      "link": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 15:33:09 GMT",
-      "scrape_timestamp": "2026-10-20T19:44:54.210263+00:00",
-      "content": "The races, the money and the issues that will determine the final half of Trump’s second term",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Is France spinning out of control?",
-      "link": "https://www.ft.com/content/616c796b-a288-4013-a363-70e94429b60e",
-      "published_date": "Tue, 20 Oct 2026 15:22:55 GMT",
-      "scrape_timestamp": "2026-10-20T19:44:54.410462+00:00",
-      "content": "The country faces multiple crises and the political class seems incapable of responding",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "SpaceX and Tesla boards are exploring potential merger",
       "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
       "published_date": "Tue, 20 Oct 2026 21:56:34 GMT",
@@ -3739,11 +3618,143 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The limits of hedging the AI boom",
+      "link": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 17:07:56 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:46.312354+00:00",
+      "content": "As tech investment soars, finding protection is becoming more urgent — and harder",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Law firm Weil prepares for possible wind-down as crisis deepens",
+      "link": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 18:06:33 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:46.712680+00:00",
+      "content": "Big Law powerhouse working with Davis Polk on options that also include last-minute merger or slimmed-down entity",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems",
+      "link": "https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 17:55:41 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:47.313166+00:00",
+      "content": "Claims of flaws in Big Tech company’s first foldable smartphone are a setback for new chief executive John Ternus",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
+      "link": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 17:52:23 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:47.513326+00:00",
+      "content": "Defeated rightwing presidential candidate is under investigation by federal police over alleged corruption and money laundering",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK government quietly axes more than two dozen new road schemes",
+      "link": "https://www.ft.com/content/92780ba3-5201-4002-abca-3ee1a053eb30?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 18:27:33 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:48.488794+00:00",
+      "content": "Cost-saving move raises questions about commitment to regional growth just as Andy Burnham pushes devolution as way to kick-start economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain is trying to cut its deficit quickly — can it do it solely through tax rises?",
+      "link": "https://www.ft.com/content/f116a855-61cc-4e36-9f9b-c2ff168b6605?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 18:23:14 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:48.688934+00:00",
+      "content": "Economists warn ahead of chancellor John Healey’s first Budget that the UK must also exercise spending restraint",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Boeing shares slump as planemaker cuts 737 jet delivery target",
+      "link": "https://www.ft.com/content/f8c1c655-bb55-4ee1-bc8c-8315a6f6821f?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 18:07:27 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:48.889089+00:00",
+      "content": "Stock falls 10% after chief executive Kelly Ortberg admits group is behind schedule in production of airliner",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Australia’s drive to transform economy with data centres, aerospace — and meat pies",
+      "link": "https://www.ft.com/content/49bb03a5-e9f5-45bf-8c2c-b02d3fcfa712?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 18:00:09 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:49.089231+00:00",
+      "content": "Labor government’s National Reconstruction Fund posts 7.7% rate of return in its second year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nord Stream sabotage suspect under ‘direct command’ of Ukrainian army",
+      "link": "https://www.ft.com/content/fdc70b65-af31-4697-91b3-69c6f1a1db9e?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 17:24:17 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:49.889859+00:00",
+      "content": "Serhii Kuznetsov stands trial in Hamburg for allegedly leading audacious sabotage against Russia’s undersea gas pipelines to Germany",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic, Meta and the K-shaped company",
+      "link": "https://www.ft.com/content/0b7db9a1-8279-4025-8c2a-44a1010828f4?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 17:02:25 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:50.490282+00:00",
+      "content": "The gap is widening between shareholders with clout and those with none",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "There is more Oxford Street can do to get tills ringing",
+      "link": "https://www.ft.com/content/44ff901d-8087-4a2a-989d-7bfe05ae7d9e?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 16:28:16 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:50.690420+00:00",
+      "content": "Longer opening hours and nationwide measures such as reintroducing tax-free spending for tourists would provide a boost",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU pressures allies over looming Ukraine funding crunch",
+      "link": "https://www.ft.com/content/8aba217f-064f-4193-89fc-3565bd2ee910?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 16:04:26 GMT",
+      "scrape_timestamp": "2026-10-27T19:04:50.890570+00:00",
+      "content": "European Commission forecasts suggest non-EU partners have pledged just €4bn in aid for Kyiv next year, down from €19bn in 2026",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-27T13:46:25.159160+00:00",
+  "last_updated": "2026-10-27T19:05:05.849994+00:00",
   "metadata": {
-    "total_runs": 3108,
+    "total_runs": 3109,
     "sources": [
       "Financial Times"
     ],
