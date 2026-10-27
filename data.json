@@ -2,127 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "South Korean data centre builder tumbles 32% on trading debut",
-      "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 07:03:21 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:02.896415+00:00",
-      "content": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Putin’s American friends",
-      "link": "https://www.ft.com/content/f2261796-20d1-4c90-ab3e-246d4aff504f?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 10:26:19 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:03.296806+00:00",
-      "content": "‘Realist’ critics of Nato echo Moscow’s talking points on Ukraine",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France considers new curfews as restrictions quell unrest",
-      "link": "https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 08:40:54 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:03.897389+00:00",
-      "content": "Italy also expected to approve new security measures to combat violent rioters",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Alberta voters reject separation from Canada, early results show",
-      "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 10:09:18 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:04.297794+00:00",
-      "content": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nidec founder shut down call for accounting probe in 2017, report finds",
-      "link": "https://www.ft.com/content/a663f0c9-dfcd-4c21-8301-89caadedba08?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 10:10:28 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:05.140286+00:00",
-      "content": "Shigenobu Nagamori ‘neglected his duties’ by failing to inform Japanese company’s board, independent committee concludes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Older Americans brace for higher healthcare costs ahead of midterms",
-      "link": "https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 10:10:01 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:05.340486+00:00",
-      "content": "The burden of inflation on seniors is set to worsen as US health insurers raise prices and cut benefits",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The hidden water crisis beneath the American west",
-      "link": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 10:00:03 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:05.941087+00:00",
-      "content": "As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Palazzo d’Italia, Tangier’s timeless trattoria, enters a new era",
-      "link": "https://www.ft.com/content/69f7e8a3-7f79-431b-9d23-c123ef7d5712?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 10:00:02 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:06.141279+00:00",
-      "content": "The reinvention of a much-loved hang-out",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Restore forces Nigel Farage into an ugly race to his right",
-      "link": "https://www.ft.com/content/5772046b-556c-4a88-9973-1ea30e6de1d9?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 08:30:01 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:06.942111+00:00",
-      "content": "Rupert Lowe’s hardline policies sap support from Reform just as it seeks to wrest the centre right from the Tories",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK jobs market stabilises before Budget",
-      "link": "https://www.ft.com/content/2d20b09b-6565-4253-a809-8a0542e6770a?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 08:07:23 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:07.142297+00:00",
-      "content": "Figures suggest recent upswing in economy is starting to underpin employment",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK labour market rebounds with stronger employment",
-      "link": "https://www.ft.com/content/c763b5f1-53f7-41e9-ba26-8d3b8bb76f05",
-      "published_date": "Tue, 20 Oct 2026 07:50:03 GMT",
-      "scrape_timestamp": "2026-10-20T10:40:07.342500+00:00",
-      "content": "Unemployment rate unexpectedly dropped to 4.7% in three months to August",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Witkoff meets Zelenskyy before travelling to Russia",
       "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
       "published_date": "Tue, 20 Oct 2026 15:11:57 GMT",
@@ -145,99 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "UK to deploy jets to defend Saudi Arabia against Houthi attacks",
-      "link": "https://www.ft.com/content/59a3252c-3ea6-4e1e-bcc7-fef15cce16da?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 10:45:53 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:39.677704+00:00",
-      "content": "Move to defend ally comes as kingdom has been pummelled by strikes from the militant group",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Activist Starboard targets Honeywell spin-off Solstice after failed megadeal",
       "link": "https://www.ft.com/content/f8ea12f4-a55d-4f46-a409-5cffd093ab6a?syn-25a6b1a6=1",
       "published_date": "Tue, 20 Oct 2026 14:04:32 GMT",
       "scrape_timestamp": "2026-10-20T15:28:40.920842+00:00",
       "content": "Hedge fund pushes for $100mn in cost cuts at US speciality chemicals group and sees growth potential in its nuclear business",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "For 14 Americans, will divisions under Trump change their vote?",
-      "link": "https://www.ft.com/content/4bc3dcfd-bf93-4809-b6b3-f2e8742a396f?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 13:00:06 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:41.121067+00:00",
-      "content": "Also in today’s newsletter, the war in Iran is tilting global oil power towards the Americas",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Flutter to cut more than 1,000 jobs after UK gambling tax raid",
-      "link": "https://www.ft.com/content/0f5d14f1-6486-4d98-9340-3b8c8e79187d?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 12:52:57 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:41.321262+00:00",
-      "content": "Group behind Paddy Power blames move to axe about 15% of its UK and Irish workforce on higher taxes levied against industry",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Gilt market catches up with peers as investor worries over Budget ease",
-      "link": "https://www.ft.com/content/31f86452-c16a-4fbf-b393-bb5282c1cb59?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 11:54:05 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:41.521547+00:00",
-      "content": "UK bonds were initially hard hit after onset of Iran war but have since outperformed G7 economies as traders’ concerns shift to France",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Is CoreWeave the Silicon Valley Bank of 2026?",
-      "link": "https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159",
-      "published_date": "Tue, 20 Oct 2026 11:50:27 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:41.721744+00:00",
-      "content": "Perhaps, but not in the way you might think",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Insurers face losses as riots in France become ‘like natural catastrophes’",
-      "link": "https://www.ft.com/content/e0b2e8f1-6d3e-4647-9370-e7b7b7e7fd42?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 11:34:45 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:41.921895+00:00",
-      "content": "Similar events now expected to occur every year, prompting government efforts to require properties to be insured for unrest",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How the Hormuz crisis could trigger a global ‘food shock’",
-      "link": "https://www.ft.com/content/52fab4c1-0561-43ce-bc3c-0d43f6e217c5?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 11:00:02 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:42.122042+00:00",
-      "content": "Report issues stark warning over the combined impact of geopolitical conflicts and one of the strongest ever El Niño events",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Protect the NHS’ slogan hurt care home residents in pandemic, inquiry finds",
-      "link": "https://www.ft.com/content/f4bd0c67-5d11-44f4-8b70-4042a9be1cf2?syn-25a6b1a6=1",
-      "published_date": "Tue, 20 Oct 2026 11:00:02 GMT",
-      "scrape_timestamp": "2026-10-20T15:28:42.322222+00:00",
-      "content": "Adult social care sector was ‘afterthought’ in initial weeks of Covid-19 outbreak, says Baroness Heather Hallett",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3827,11 +3618,132 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Putin speaks with Norwegian and Finnish leaders",
+      "link": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 12:13:49 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:02.248350+00:00",
+      "content": "Call is first contact at this level in more than a year as Russia and Ukraine prepare for US-brokered peace talks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia and Ukraine begin local ceasefire in frontline city",
+      "link": "https://www.ft.com/content/9aedc2d9-dc92-4412-bc5a-d5ffecf4d8d9",
+      "published_date": "Tue, 27 Oct 2026 12:33:28 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:02.448509+00:00",
+      "content": "Humanitarian truce aims to evacuate residents stuck in Oleshky, who have been cut off from food and medicine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US voters and Trump’s overflowing swamp",
+      "link": "https://www.ft.com/content/51dbeefc-442b-4aac-b48b-042a0d6862a0?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 10:00:04 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:03.049043+00:00",
+      "content": "America’s affordability crisis and corruption are now treated as two sides of the same coin",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Porsche rules out US production despite VW’s Audi deal with Trump",
+      "link": "https://www.ft.com/content/28cc52cf-adb2-4582-9f6e-bd4b93cba68f?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 09:16:47 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:04.250175+00:00",
+      "content": "Finance chief’s comments come as German sports-car maker returns to the black as restructuring gathers pace",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Two British men charged over plot at RAF Fairford",
+      "link": "https://www.ft.com/content/71286e07-9552-4a12-b8f8-5492000d0330?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 13:25:11 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:05.060031+00:00",
+      "content": "Mohmed Abdulkarim and Nouman Essghir were both charged under the National Security Act",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "White House comes for Comey for a third time",
+      "link": "https://www.ft.com/content/757473d2-e704-4ee0-a302-c17bc6e9cb01?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 13:00:07 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:05.660618+00:00",
+      "content": "Also in today’s newsletter, inside the fundraising push against California’s wealth tax",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Should monetarism stage a comeback?",
+      "link": "https://www.ft.com/content/a7de51d1-f4bc-4e52-af3b-3d52459126bf?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 12:30:06 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:06.261156+00:00",
+      "content": "Kevin Warsh wants to revive Milton Friedman’s ideas, but monetary signals are often vague and noisy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK considers forcing data centres to invest locally to meet new AI ‘covenant’",
+      "link": "https://www.ft.com/content/336f8f7c-1a39-403d-8c68-dfca5ff1a2bb?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 12:00:08 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:07.262034+00:00",
+      "content": "Burnham government looks at fresh requirements for developers as it seeks to head off public opposition to infrastructure build-out",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can we restore morality to world politics?",
+      "link": "https://www.ft.com/content/8872a5cb-4fa5-4fab-8ccb-043bf4f9d2d5",
+      "published_date": "Tue, 27 Oct 2026 12:00:08 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:07.462177+00:00",
+      "content": "Canadian Prime Minister Mark Carney is challenging Trump’s transactional world view with a vision of politics rooted in values",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chinese brands put boot into Mbappé after viral ‘dictator’ meme",
+      "link": "https://www.ft.com/content/ff1cb60c-3c35-4109-aaa5-33c86a5884f5?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 11:05:33 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:07.662370+00:00",
+      "content": "Real Madrid footballer’s comment on image sparks online backlash in world’s second-biggest economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Dirty tricks and Maga theatrics shake up bruising battle for Texas Senate",
+      "link": "https://www.ft.com/content/e9475864-d8ae-401e-8a3e-e3a7fa75f0c1?syn-25a6b1a6=1",
+      "published_date": "Tue, 27 Oct 2026 11:00:08 GMT",
+      "scrape_timestamp": "2026-10-27T13:46:07.862576+00:00",
+      "content": "Scandal-prone Trump pick goes head-to-head with seminarian Democrat in race that could determine control of the upper house of Congress",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-27T07:03:07.524988+00:00",
+  "last_updated": "2026-10-27T13:46:25.159160+00:00",
   "metadata": {
-    "total_runs": 3107,
+    "total_runs": 3108,
     "sources": [
       "Financial Times"
     ],
