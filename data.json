@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "China’s nightmare: becoming the next Japan",
-      "link": "https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 03:00:04 GMT",
-      "scrape_timestamp": "2026-10-21T06:47:50.814900+00:00",
-      "content": "Tokyo lost decades when a property bust led to an economic slump. Could the same phenomenon undo Xi Jinping’s ambitions?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Britain cannot build its future by returning to the 1970s",
       "link": "https://www.ft.com/content/8c0ea73d-dc44-455a-b319-148c09f68e0a?syn-25a6b1a6=1",
       "published_date": "Wed, 21 Oct 2026 04:00:13 GMT",
@@ -29,17 +18,6 @@
       "published_date": "Wed, 21 Oct 2026 04:00:13 GMT",
       "scrape_timestamp": "2026-10-21T06:47:51.415430+00:00",
       "content": "Israeli military made plans for extensive operation earlier this month but held off as Donald Trump rules out an attack before US midterm elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "OpenAI ‘agents’ disabled their own monitoring systems",
-      "link": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 01:56:00 GMT",
-      "scrape_timestamp": "2026-10-21T06:47:51.615617+00:00",
-      "content": "AI lab investigating whether incident shows ‘propensity to evade’ controls",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3750,11 +3728,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "SK Hynix profits soar amid roaring AI chip demand",
+      "link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+      "published_date": "Wed, 28 Oct 2026 01:15:00 GMT",
+      "scrape_timestamp": "2026-10-28T03:06:30.393480+00:00",
+      "content": "South Korean group posts better than expected operating profit for third quarter and announces stock buybacks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sizewell nuclear plant is ‘terrible deal’ for British taxpayers, MPs conclude",
+      "link": "https://www.ft.com/content/bc330ee4-f151-4552-88a8-8879a26d8fdd?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 00:01:00 GMT",
+      "scrape_timestamp": "2026-10-28T03:06:31.069234+00:00",
+      "content": "Parliamentary inquiry says consumers are carrying ‘extraordinary’ financial risk and footing most of the £40bn bill as private investors ‘cash in’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-27T23:21:33.200961+00:00",
+  "last_updated": "2026-10-28T03:06:47.641205+00:00",
   "metadata": {
-    "total_runs": 3110,
+    "total_runs": 3111,
     "sources": [
       "Financial Times"
     ],
