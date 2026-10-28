@@ -2,110 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker",
-      "link": "https://www.ft.com/content/f9e4ddf8-5fd4-43e6-bca2-62d1067c4c48?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 10:45:04 GMT",
-      "scrape_timestamp": "2026-10-21T12:35:06.094276+00:00",
-      "content": "EU must protect sector from foreign rivals, says parliament’s lead negotiator on telecoms reform",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The ‘adults in the room’ won’t save you",
-      "link": "https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 11:32:56 GMT",
-      "scrape_timestamp": "2026-10-21T12:35:06.494677+00:00",
-      "content": "The hope that wise subordinates would curb the likes of Donald Trump was always a misunderstanding of politics",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Iran’s foreign minister: The false assumptions about us are dangerous",
-      "link": "https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa",
-      "published_date": "Wed, 21 Oct 2026 10:22:06 GMT",
-      "scrape_timestamp": "2026-10-21T12:35:06.694874+00:00",
-      "content": "A way forward can only materialise once the US administration genuinely accepts that it has no military options",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russia releases US citizen as Trump’s envoy visits",
-      "link": "https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 12:10:02 GMT",
-      "scrape_timestamp": "2026-10-21T12:35:06.895082+00:00",
-      "content": "Steve Witkoff meets Russian President Vladimir Putin in fresh drive to end war in Ukraine",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Middle East oil exports climb back to prewar levels",
-      "link": "https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 12:01:37 GMT",
-      "scrape_timestamp": "2026-10-21T12:35:08.572235+00:00",
-      "content": "Daily shipments from Gulf producers average 24.6mn, above 23.3mn before conflict, as ships use alternative routes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The rise of index vigilantes",
-      "link": "https://www.ft.com/content/b3544087-2673-4e90-9192-342c6b1a6a03",
-      "published_date": "Wed, 21 Oct 2026 10:37:05 GMT",
-      "scrape_timestamp": "2026-10-21T12:35:09.172846+00:00",
-      "content": "Not the regulators we want, or the regulators we need. But at least it’s something?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "WHO issues alert as Ebola spreads to west Africa",
-      "link": "https://www.ft.com/content/fe7fa078-8aa5-4802-963d-d88d3013c158?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 10:23:04 GMT",
-      "scrape_timestamp": "2026-10-21T12:35:09.373056+00:00",
-      "content": "Nigeria is urgently tracing dozens of contacts of person who tested positive for virus",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Tesla-SpaceX: a huge corporate constellation with Musk at its centre",
       "link": "https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1",
       "published_date": "Wed, 21 Oct 2026 17:25:53 GMT",
       "scrape_timestamp": "2026-10-21T17:47:04.035046+00:00",
       "content": "A merger of Elon Musk’s listed companies has some logic, but other shareholders might end up with less influence than they have today",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Macron hits out at ‘stupid’ Trump remarks about riots in France",
-      "link": "https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 16:12:37 GMT",
-      "scrape_timestamp": "2026-10-21T17:47:05.036231+00:00",
-      "content": "French president expresses anger after US and other rightwing leaders blame migrants for violence and looting",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Who’s paying for the AI build-out? Probably you",
-      "link": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 15:00:25 GMT",
-      "scrape_timestamp": "2026-10-21T17:47:05.837265+00:00",
-      "content": "Every big pool of capital, in every corner of the developed world, is funding data centres",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -128,61 +29,6 @@
       "published_date": "Wed, 21 Oct 2026 17:07:48 GMT",
       "scrape_timestamp": "2026-10-21T17:47:06.664338+00:00",
       "content": "György Matolcsy and several others arrested in corruption probes targeting former PM’s circle of power",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Abbott to spin off nutrition unit at centre of baby formula lawsuits",
-      "link": "https://www.ft.com/content/7f407bde-ef26-4914-bcbe-baf858bc81d7?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 15:54:56 GMT",
-      "scrape_timestamp": "2026-10-21T17:47:08.065987+00:00",
-      "content": "US healthcare group plans to create standalone public company with $8.5bn in annual sales",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Fridge hackers exploited ‘basic security flaws’ at French retailers",
-      "link": "https://www.ft.com/content/89a3b7e8-beee-464b-b398-2709be815982?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 15:38:55 GMT",
-      "scrape_timestamp": "2026-10-21T17:47:08.466444+00:00",
-      "content": "Head of France’s cyber security agency said lack of protection and weak passwords helped criminals seize control of systems",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Reform reports ITV to police over  undercover documentary",
-      "link": "https://www.ft.com/content/3d67dfc3-e17c-4580-9797-a6bfa7256be0?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 15:12:30 GMT",
-      "scrape_timestamp": "2026-10-21T17:47:08.666709+00:00",
-      "content": "Zia Yusuf says tactics behind programme that showed party councillors making sexist and racist comments may have been illegal",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Andy Burnham plans to cut standing charges from household gas bills",
-      "link": "https://www.ft.com/content/8eda2888-0b63-43c9-80b9-b4b7557374ca?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 13:34:03 GMT",
-      "scrape_timestamp": "2026-10-21T17:47:09.267404+00:00",
-      "content": "Experts say providers would probably recover loss of daily fixed fee via the unit rate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Dangote takes stake in Kenyan pipeline and pledges more ‘aggressive’ energy investment",
-      "link": "https://www.ft.com/content/e3282291-be9a-4c97-8fc8-d43f9297e167?syn-25a6b1a6=1",
-      "published_date": "Wed, 21 Oct 2026 13:23:37 GMT",
-      "scrape_timestamp": "2026-10-21T17:47:09.467626+00:00",
-      "content": "Deal for 25% of Kenya Pipeline comes amid plans for refineries and storage facilities across Africa",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3695,11 +3541,143 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The fear factor giving Netanyahu the edge",
+      "link": "https://www.ft.com/content/1631483b-69ee-424c-b0d0-9086ae1efece?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 14:35:06 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:14.095150+00:00",
+      "content": "Despite liberal hopes, the veteran leader appears to have a path back to government after Israel’s vote",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey hits banks and savers with tax rises in Budget ‘for working people’",
+      "link": "https://www.ft.com/content/5ec57ee9-4eb9-4889-82f0-df402185b147?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 16:23:17 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:14.895896+00:00",
+      "content": "Scale of chancellor’s plans was modest compared with recent fiscal events",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bank of England able to take UK Budget in its stride despite slippage in deficit reduction",
+      "link": "https://www.ft.com/content/4fe7b495-a682-4f69-a385-a02c892db0d7",
+      "published_date": "Wed, 28 Oct 2026 16:39:25 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:15.753251+00:00",
+      "content": "Higher energy prices and interest costs take their toll on borrowing outlook",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
+      "link": "https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 16:28:50 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:15.953426+00:00",
+      "content": "Gilts hold on to pre-Budget gains following modest package of tax and spending changes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What the Budget means for your money",
+      "link": "https://www.ft.com/content/b12b9119-6ed2-40a0-bbb9-1af06f19f79b?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 16:16:21 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:16.553969+00:00",
+      "content": "The chancellor’s maiden Budget was intended to deliver ‘everyday fixes’ to the UK’s financial concerns — but will it leave you better off?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Budget calculator: how will Healey’s forecasts affect the tax you pay?",
+      "link": "https://www.ft.com/content/2b5adffc-90e9-4355-bd07-037a2144a6a3?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 16:04:57 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:16.754158+00:00",
+      "content": "Fiscal drag is set to hit taxpayers harder than previously thought",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Budget in brief: what you need to know",
+      "link": "https://www.ft.com/content/0d5d33b5-a988-4692-b2e6-677d87f9bbb0?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 16:02:42 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:16.954360+00:00",
+      "content": "A quick guide to John Healey’s main policy announcements and official economic forecasts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey delivers a Budget with echoes of Reeves",
+      "link": "https://www.ft.com/content/24ba180a-e094-4aed-9e72-a54de87ce1ae?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 16:02:37 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:17.154543+00:00",
+      "content": "Chancellor’s ‘steady as she goes’ announcements seen as ‘a vindication’ of strategy set out by his predecessor",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "JetBlue tries to sweet-talk an unforgiving bond market",
+      "link": "https://www.ft.com/content/0713e1f0-770d-438e-b330-b5279f2f98af?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 15:22:17 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:17.354704+00:00",
+      "content": "Despite bond market sweet talk not usually being a very productive strategy, it’s hard to fault chief Joanna Geraghty for trying",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "European gas prices jump above €100 on fears of Iran war escalation",
+      "link": "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 14:53:27 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:17.554867+00:00",
+      "content": "Traders are also concerned by forecasts of cold winter at a time when gas storage levels are low",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
+      "link": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1",
+      "published_date": "Wed, 28 Oct 2026 13:44:00 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:18.155426+00:00",
+      "content": "Approach marks latest episode in investment firm’s longstanding involvement with the burger and shake company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "We read Liz Truss’s book so you don’t have to",
+      "link": "https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945",
+      "published_date": "Wed, 28 Oct 2026 12:50:28 GMT",
+      "scrape_timestamp": "2026-10-28T16:53:18.555760+00:00",
+      "content": "Alternative histories aren’t always written by the victors",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-28T10:09:30.768185+00:00",
+  "last_updated": "2026-10-28T16:53:35.194850+00:00",
   "metadata": {
-    "total_runs": 3112,
+    "total_runs": 3113,
     "sources": [
       "Financial Times"
     ],
