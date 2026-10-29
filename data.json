@@ -2,116 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-      "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 21:50:16 GMT",
-      "scrape_timestamp": "2026-10-22T22:52:18.372445+00:00",
-      "content": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Airfares will not return to pre-Iran war levels, American Airlines warns",
-      "link": "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 20:08:50 GMT",
-      "scrape_timestamp": "2026-10-22T22:52:19.973873+00:00",
-      "content": "Some industry chiefs say travellers should expect a further rise in ticket prices next year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Moderna shares sink after leaked cancer data missed expectations",
-      "link": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 21:37:25 GMT",
-      "scrape_timestamp": "2026-10-22T22:52:20.174041+00:00",
-      "content": "Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Meta rekindles AI spending fears",
-      "link": "https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 21:46:58 GMT",
-      "scrape_timestamp": "2026-10-22T22:52:20.797953+00:00",
-      "content": "Also in today’s newsletter: China steps up ‘grey zone’ tactics against Taiwan and India mounts costly defence of rupee",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK urges public and business to better prepare for emergencies",
-      "link": "https://www.ft.com/content/925486f3-1dd4-462a-ba1b-794efd2d6429?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 21:43:45 GMT",
-      "scrape_timestamp": "2026-10-22T22:52:20.998116+00:00",
-      "content": "Ministers urge households to stock up on essential items amid growing risk of natural disasters, cyber attacks or state-sponsored terrorism",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Singapore goes after companies over toxic haze",
-      "link": "https://www.ft.com/content/b9a45b74-72f6-4577-870e-f54f83d8f5ad?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 21:00:05 GMT",
-      "scrape_timestamp": "2026-10-22T22:52:21.398491+00:00",
-      "content": "Smog-choked city-state is threatening groups behind land burning in Indonesia",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK waters down ‘fit and proper’ rules set up to hold bankers to account",
-      "link": "https://www.ft.com/content/0a5c7582-133c-4e24-8e3d-daa30f5dad56?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 20:00:05 GMT",
-      "scrape_timestamp": "2026-10-22T22:52:21.999053+00:00",
-      "content": "Existing regulatory regime was instrumental in actions against former Barclays boss Jes Staley and hedge fund owner Crispin Odey",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
-      "link": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 23:13:15 GMT",
-      "scrape_timestamp": "2026-10-23T01:06:10.709266+00:00",
-      "content": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military",
-      "link": "https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 23:29:39 GMT",
-      "scrape_timestamp": "2026-10-23T01:06:11.510102+00:00",
-      "content": "Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence",
-      "link": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 23:01:05 GMT",
-      "scrape_timestamp": "2026-10-23T01:06:12.300203+00:00",
-      "content": "Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Global tech sell-off sparks flight to safety",
       "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
       "published_date": "Fri, 23 Oct 2026 04:42:02 GMT",
@@ -3673,11 +3563,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Intel stock falls 20% as weak sales outlook dents turnaround",
+      "link": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 21:42:21 GMT",
+      "scrape_timestamp": "2026-10-29T23:46:31.351385+00:00",
+      "content": "Chipmaker forecasts lower than expected PC chip sales and falling margins",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Amazon shares slide on lower Christmas sales forecast",
+      "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 22:44:22 GMT",
+      "scrape_timestamp": "2026-10-29T23:46:31.551563+00:00",
+      "content": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Starbucks to resume share buybacks but China shift clouds growth outlook",
+      "link": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 21:54:08 GMT",
+      "scrape_timestamp": "2026-10-29T23:46:31.751769+00:00",
+      "content": "US same-store sales rise 7.7% as CEO touts progress in coffee chain turnaround",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What killed Weil Gotshal?",
+      "link": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 21:17:34 GMT",
+      "scrape_timestamp": "2026-10-29T23:46:31.951960+00:00",
+      "content": "Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Uproar in Alaska sparks Democratic fears for Senate majority",
+      "link": "https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 22:06:19 GMT",
+      "scrape_timestamp": "2026-10-29T23:46:32.752696+00:00",
+      "content": "Campaign mishaps and infighting could undermine party’s push to take Republican strongholds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
+      "link": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 18:55:08 GMT",
+      "scrape_timestamp": "2026-10-29T23:46:33.153285+00:00",
+      "content": "Darren Woods was scheduled to speak at the Adipec conference in Abu Dhabi on Monday",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Swedish academic claims he has been barred from UK over pro-Palestinian views",
+      "link": "https://www.ft.com/content/f67fafcb-9ac8-436c-a5e6-b3fbc04ab6e6?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 22:35:48 GMT",
+      "scrape_timestamp": "2026-10-29T23:46:34.410202+00:00",
+      "content": "Climate activist Andreas Malm, author of ‘How to Blow Up a Pipeline’, was due to speak alongside Palestine Action co-founder next week",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-29T19:57:53.461939+00:00",
+  "last_updated": "2026-10-29T23:46:52.562690+00:00",
   "metadata": {
-    "total_runs": 3118,
+    "total_runs": 3119,
     "sources": [
       "Financial Times"
     ],
