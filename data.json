@@ -2,72 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Macron warns some protests will be banned",
-      "link": "https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 15:34:56 GMT",
-      "scrape_timestamp": "2026-10-22T15:44:19.161660+00:00",
-      "content": "French president says labour unions can hold marches on Saturday but not other activists, in an effort to prevent more looting and rioting",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US to fund speculative fusion venture backed by investors with ties to Trump",
-      "link": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 17:20:01 GMT",
-      "scrape_timestamp": "2026-10-22T19:37:58.847298+00:00",
-      "content": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump ordered to face BBC questioning in $10bn defamation lawsuit",
-      "link": "https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 18:36:29 GMT",
-      "scrape_timestamp": "2026-10-22T19:37:59.047495+00:00",
-      "content": "President must appear by December 11 after attending campaign rally on date previously set for his deposition",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ecuador opposition leader arrested in money laundering investigation",
-      "link": "https://www.ft.com/content/9a072c7a-b0ee-4a43-ae73-b19bbde9261b",
-      "published_date": "Thu, 22 Oct 2026 17:47:15 GMT",
-      "scrape_timestamp": "2026-10-22T19:38:00.910564+00:00",
-      "content": "Detention comes as president has been criticised for expanding campaign against drug traffickers to include rivals",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Number of UK founders choosing to sell not scale hits eight-year high",
-      "link": "https://www.ft.com/content/52b728a2-3075-4310-bffb-4f17b587724d",
-      "published_date": "Thu, 22 Oct 2026 16:25:24 GMT",
-      "scrape_timestamp": "2026-10-22T19:38:01.310886+00:00",
-      "content": "Chancellor John Healey promises to pitch next week’s Budget at ‘bloody-minded’ entrepreneurs",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Steve Cohen takes Hertz for a defensive spin",
-      "link": "https://www.ft.com/content/c514f3c5-b174-4a92-ab45-aa19ddc63fc1?syn-25a6b1a6=1",
-      "published_date": "Thu, 22 Oct 2026 15:48:52 GMT",
-      "scrape_timestamp": "2026-10-22T19:38:01.511042+00:00",
-      "content": "The hedge fund boss is taking a punt on just a part of the heavily indebted car rental company",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
       "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
       "published_date": "Thu, 22 Oct 2026 21:50:16 GMT",
@@ -3596,11 +3530,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Google is eating itself — but it could still eat everyone else too",
+      "link": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 18:00:36 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:32.389167+00:00",
+      "content": "Leadership in the AI race can be won, lost and won again at speed",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Two fears will decide the fate of Anthropic’s giant IPO",
+      "link": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 14:41:41 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:33.189963+00:00",
+      "content": "Investors must weigh missing out on extraordinary AI growth against potential pitfalls that include “existential” risks to humanity",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
+      "link": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 17:58:14 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:34.190913+00:00",
+      "content": "Mikie Sherrill calls Trump’s deal with Putin ‘corrupt and illegal’ as she weighs moves to stop shipment to east coast port",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Druckenmiller backs push to bring risky perpetual futures to Wall Street",
+      "link": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 14:54:48 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:34.391142+00:00",
+      "content": "Hedge fund billionaire says he has invested in little-known CME Group rival tradeXYZ",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham’s Budget balancing act",
+      "link": "https://www.ft.com/content/8fca2e06-d9c3-4fa6-a432-f32fa9f9e263?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 19:34:15 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:35.065257+00:00",
+      "content": "The 2026 Budget: your questions answered",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Venezuela opposition leader hails Trump on return from exile",
+      "link": "https://www.ft.com/content/bc97b73d-2a7f-4873-b955-441abdf8f4a9",
+      "published_date": "Thu, 29 Oct 2026 18:59:02 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:35.265447+00:00",
+      "content": "María Corina Machado praises US president and secretary of state after Washington sets out timetable for elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "DoorDash buys Instacart just as AI rewrites the menu",
+      "link": "https://www.ft.com/content/13c96ad2-6aee-4c28-9f3c-d2ad9ca1c3d0?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 18:33:48 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:35.465614+00:00",
+      "content": "Combined company to have same share of the US online grocery market as Walmart",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brazil politicians back away from Bolsonaro election fraud claims",
+      "link": "https://www.ft.com/content/fa67c9ad-882a-4713-a0be-de909c8f3f0a?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 18:29:18 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:35.665815+00:00",
+      "content": "Even some allies of the losing candidate reject complaints that Lula won unfairly",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The legacy of Christine Lagarde",
+      "link": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 18:26:17 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:35.866031+00:00",
+      "content": "After a shaky start, the outgoing president leaves the ECB in solid shape",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "John Healey’s Budget spending plans strain credibility, economists warn",
+      "link": "https://www.ft.com/content/4cdfc27f-8780-475f-9eec-01086733c140?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 18:13:36 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:36.066238+00:00",
+      "content": "Leading think-tanks say chancellor’s pledge to slash deficit does not seem likely given pressures on public services and households",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey commits to set out benefits cuts this year",
+      "link": "https://www.ft.com/content/24a59c81-1e3d-4ff1-8856-2812f27985c3?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 18:10:58 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:36.266426+00:00",
+      "content": "Chancellor responds to criticism that Wednesday’s Budget rested on unrealistic spending assumptions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Councils warn of limbo as ministers set out new delay to shake-up in England",
+      "link": "https://www.ft.com/content/9f5a08ce-1997-4e6c-bf05-b2f61c63edd4?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 17:27:24 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:37.067252+00:00",
+      "content": "A long-running attempt to scrap more than 100 local authorities will not be complete until 2029",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "NYSE owner’s tokenised stock plan hits hurdle as big companies object",
+      "link": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 16:42:40 GMT",
+      "scrape_timestamp": "2026-10-29T19:57:37.667819+00:00",
+      "content": "Alphabet, Oracle and Microsoft among 38 groups of a proposed 62 saying they do not want their stocks included",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-29T14:47:17.001693+00:00",
+  "last_updated": "2026-10-29T19:57:53.461939+00:00",
   "metadata": {
-    "total_runs": 3117,
+    "total_runs": 3118,
     "sources": [
       "Financial Times"
     ],
