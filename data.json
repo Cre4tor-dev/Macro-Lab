@@ -2,138 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Netanyahu threatens ‘aggressive’ offensive after West Bank shooting",
-      "link": "https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 17:14:09 GMT",
-      "scrape_timestamp": "2026-10-23T17:36:28.244255+00:00",
-      "content": "Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The ledger problem",
-      "link": "https://www.ft.com/content/e3bd8426-defb-41d0-8680-81ce72948e83",
-      "published_date": "Fri, 23 Oct 2026 17:00:08 GMT",
-      "scrape_timestamp": "2026-10-23T17:36:29.809398+00:00",
-      "content": "Tokenisation doesn’t suspend the laws of finance",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump to cut Canadian tariffs after pressure from Republicans",
-      "link": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 20:21:55 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:34.578966+00:00",
-      "content": "President to ease some levies to help candidates facing tough US Senate election battles",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump moves to block certification of Alaska Senate election if Republican loses",
-      "link": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 20:16:32 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:34.779187+00:00",
-      "content": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
-      "link": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 18:49:48 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:34.979383+00:00",
-      "content": "Supporters of the tax say many billionaires threatening to leave the state will not go",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Turn Downing Street into museum or flats, says Starmer’s cost of living tsar",
-      "link": "https://www.ft.com/content/72a7cfd6-ab06-4638-8db2-94e02ebacab0?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 20:00:09 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:36.766200+00:00",
-      "content": "Iceland boss Richard Walker joins chorus of voices calling for 300-year-old hub of British government to be overhauled",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Lunch break under threat as Hong Kong looks at longer trading day",
-      "link": "https://www.ft.com/content/bc13b5f1-387e-4fae-927e-d96ac24ea645?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 20:00:09 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:36.966404+00:00",
-      "content": "HKEX discusses scrapping ‘antiquated practice’ as Nasdaq plans move to 23 hours",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Tory gamblers stood to make nearly £50,000 from insider information, court told",
-      "link": "https://www.ft.com/content/510e9189-bb32-43e0-8bf7-fec4a78ea353?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 19:35:52 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:37.166592+00:00",
-      "content": "Former Conservative director of campaigning and two others made scores of bets on date of 2024 general election",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Reform’s former policy chief steps down from Cambridge management roles",
-      "link": "https://www.ft.com/content/84cc6388-8745-4ca2-8c70-536c89dfe9cb?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 18:35:29 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:37.767211+00:00",
-      "content": "Move by James Orr comes after allegations he breached electoral law by soliciting political donations from foreign citizens",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
-      "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 18:23:30 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:37.967420+00:00",
-      "content": "Melania Trump helps organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Global Insight: The ‘cockroach’ protesters Modi cannot stamp out",
-      "link": "https://www.ft.com/content/5260aac3-e339-47f7-8473-d8ccee5d3bfc?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 17:18:54 GMT",
-      "scrape_timestamp": "2026-10-23T20:48:38.167608+00:00",
-      "content": "Movement that began as an online satirical movement but has become a thorn in the side of the prime minister",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Xi gathers China’s top cadres with focus on discipline",
-      "link": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
-      "published_date": "Fri, 23 Oct 2026 21:00:09 GMT",
-      "scrape_timestamp": "2026-10-23T23:40:27.408100+00:00",
-      "content": "Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
       "link": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
       "published_date": "Fri, 23 Oct 2026 22:28:52 GMT",
@@ -3618,11 +3486,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 18:19:08 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:31.203559+00:00",
+      "content": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+      "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 18:44:53 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:31.603964+00:00",
+      "content": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The trouble with small nuclear reactors",
+      "link": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 05:00:03 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:31.804180+00:00",
+      "content": "Proponents believe the technology is central to the AI data centre boom. Others think it is a waste of time and money",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The effects of a midterm ‘blue wave’ will be felt for years",
+      "link": "https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f",
+      "published_date": "Fri, 30 Oct 2026 17:00:04 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:32.004398+00:00",
+      "content": "Senate arithmetic in this electoral cycle could spell disaster for the Republicans",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
+      "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 20:16:47 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:34.190343+00:00",
+      "content": "The FT is tracking changes to the cost of living that will affect American voters",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey buys time with ‘pray and delay’ Budget as tough decisions lie ahead",
+      "link": "https://www.ft.com/content/31a3c465-54ab-409c-a59d-873117f143e7?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 18:20:41 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:34.390533+00:00",
+      "content": "Chancellor will have to make hard choices on welfare and defence as he prepares for pivotal spending review",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How AI might be deployed for better bank supervision",
+      "link": "https://www.ft.com/content/be6723d6-ab63-41ab-ac46-dc870c449da0?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 18:00:05 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:34.790932+00:00",
+      "content": "The technology could help tackle some of the cultural issues that contributed to the collapse of SVB",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How to return big cities to pedestrians",
+      "link": "https://www.ft.com/content/e8b9c03f-5741-4c81-a103-d888db7f0242?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 17:45:17 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:34.991133+00:00",
+      "content": "By closing part of Oxford Street to traffic, London is joining a wider trend",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Stick or treat",
+      "link": "https://www.ft.com/content/db8bd441-431c-4f2f-8b98-0876b234c7bf",
+      "published_date": "Fri, 30 Oct 2026 17:30:04 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:35.191315+00:00",
+      "content": "Central banks stuck to the script and kept rates on hold at their October meetings while laying the groundwork for further rate rises to come",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Apollo and Thrive capitalise on private equity’s generational shift",
+      "link": "https://www.ft.com/content/95480c09-5018-4400-b9c1-f2d53373a47c?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 17:24:07 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:35.391509+00:00",
+      "content": "By leaning into their new role as debt financiers, the old guard still have a lucrative place in the new financial order",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lula, Brazil’s 81-year-old comeback kid",
+      "link": "https://www.ft.com/content/5726c4a2-61b7-4296-9c0a-89bf1630e09f?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 16:57:16 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:35.992025+00:00",
+      "content": "The four-time president has pulled off one of the greatest unexpected victories in modern democratic politics",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ducks at dawn: Maga and liberals unite in midterm foie gras battle",
+      "link": "https://www.ft.com/content/a7d0b547-88e3-4a30-953c-9490f7be1aa5?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 16:54:15 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:36.192212+00:00",
+      "content": "Washington political rivals form a united front to fight a measure banning the dish",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The US midterms: the verdict on Donald Trump?",
+      "link": "https://www.ft.com/content/4a419040-0f8c-4078-bdf9-7c4a5fcd52f4",
+      "published_date": "Fri, 30 Oct 2026 16:21:07 GMT",
+      "scrape_timestamp": "2026-10-30T21:14:36.392402+00:00",
+      "content": "Join FT journalists and guests for a subscriber webinar on November 10",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-30T16:52:57.601100+00:00",
+  "last_updated": "2026-10-30T21:14:54.446013+00:00",
   "metadata": {
-    "total_runs": 3122,
+    "total_runs": 3123,
     "sources": [
       "Financial Times"
     ],
