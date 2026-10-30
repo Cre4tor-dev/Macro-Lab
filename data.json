@@ -3640,11 +3640,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Has Australia’s push for lower house prices gone too far?",
+      "link": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 00:21:27 GMT",
+      "scrape_timestamp": "2026-10-30T03:35:38.892224+00:00",
+      "content": "Canberra wanted to cool one of the world’s hottest property markets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Binance halts withdrawals after $6.3bn hack",
+      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+      "published_date": "Fri, 30 Oct 2026 02:54:12 GMT",
+      "scrape_timestamp": "2026-10-30T03:35:39.292596+00:00",
+      "content": "World’s biggest crypto exchange appears to have suffered one of the biggest security breaches in the digital asset industry",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Xi elevates general who led purge of China’s military",
+      "link": "https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1",
+      "published_date": "Thu, 29 Oct 2026 16:10:12 GMT",
+      "scrape_timestamp": "2026-10-30T03:35:39.893161+00:00",
+      "content": "Zhang Shengmin appointed to Communist Party politburo as it moves to tighten discipline and crack down on corruption",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-29T23:46:52.562690+00:00",
+  "last_updated": "2026-10-30T03:35:58.482762+00:00",
   "metadata": {
-    "total_runs": 3119,
+    "total_runs": 3120,
     "sources": [
       "Financial Times"
     ],
