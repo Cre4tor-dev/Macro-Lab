@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-      "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-      "published_date": "Sat, 24 Oct 2026 19:19:48 GMT",
-      "scrape_timestamp": "2026-10-24T22:07:17.194906+00:00",
-      "content": "Critics say prime minister’s proposal would turn country into an economic pariah",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
       "link": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
       "published_date": "Sun, 25 Oct 2026 05:00:10 GMT",
@@ -3653,9 +3642,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-31T18:55:53.838001+00:00",
+  "last_updated": "2026-10-31T22:03:59.867497+00:00",
   "metadata": {
-    "total_runs": 3127,
+    "total_runs": 3128,
     "sources": [
       "Financial Times"
     ],
