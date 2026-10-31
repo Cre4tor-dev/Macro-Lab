@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-10-30 21:14 UTC</title>
+  <title>Macro Lab — 2026-10-31 01:15 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-10-30 21:14 UTC<br>Seuil alerte: 5.0 · 71 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-10-31 01:15 UTC<br>Seuil alerte: 5.0 · 72 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">330</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">329</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">71</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">72</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">2.6</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-10-30">Fri 30 Oct</option>
+        <option value="2026-10-31">Sat 31 Oct</option>
+<option value="2026-10-30">Fri 30 Oct</option>
 <option value="2026-10-29">Thu 29 Oct</option>
 <option value="2026-10-28">Wed 28 Oct</option>
 <option value="2026-10-27">Tue 27 Oct</option>
 <option value="2026-10-26">Mon 26 Oct</option>
 <option value="2026-10-25">Sun 25 Oct</option>
-<option value="2026-10-24">Sat 24 Oct</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -473,7 +473,7 @@
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (330 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (329 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="17.29" data-date="2026-10-27" data-themes="war_conflict" data-text="washington discusses russian deals for us oil majors in ukraine peace talks white house proposes renewed postwar business ties in an effort to bring president vladimir putin to the negotiating table">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1356,6 +1356,20 @@
     <span class="kw-hint">🔑 ukraine, russia</span>
   </div>
 </article>
+<article class="card card-alert" data-score="5.47" data-date="2026-10-30" data-themes="oil_energy" data-text="pensioners bet on a lifetime cruise. they ended up in a cambodian scam town many passengers on the odyssey hoped to spend the rest of their lives at sea but high oil prices got in the way">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.47 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: oil">5.5 <sup>ℹ</sup></span>
+    <span class="theme-tag">🛢️ Oil/Energy</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1" target="_blank" rel="noopener">Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town</a></h3>
+  <p class="preview card-detail">Many passengers on the Odyssey hoped to spend the rest of their lives at sea but high oil prices got in the way</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-30">Fri, 30 Oct 2026 16:37:08</time>
+    <span class="kw-hint">🔑 oil</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="5.35" data-date="2026-10-27" data-themes="" data-text="law firm weil prepares for possible wind-down as crisis deepens big law powerhouse working with davis polk on options that also include last-minute merger or slimmed-down entity">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1636,20 +1650,6 @@
     <span class="kw-hint">🔑 tariff</span>
   </div>
 </article>
-<article class="card" data-score="4.06" data-date="2026-10-24" data-themes="" data-text="us executives quit $25bn gas venture over claims of secret russian control former ceo of polar train lng tells ft that energy giant novatek financed and held reins of strategic alaska project without washington’s approval">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.06 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: russia">4.1 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1" target="_blank" rel="noopener">US executives quit $25bn gas venture over claims of secret Russian control</a></h3>
-  <p class="preview card-detail">Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-24">Sat, 24 Oct 2026 00:22:20</time>
-    <span class="kw-hint">🔑 russia</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="3.89" data-date="2026-10-30" data-themes="war_conflict" data-text="the trouble with small nuclear reactors proponents believe the technology is central to the ai data centre boom. others think it is a waste of time and money">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1662,6 +1662,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-30">Fri, 30 Oct 2026 05:00:03</time>
     
+  </div>
+</article>
+<article class="card" data-score="3.89" data-date="2026-10-30" data-themes="" data-text="us greenlights $2.1bn sale of patriot interceptors to ukraine volodymyr zelenskyy had accused trump administration of delaying the weapons as  relations deteriorated between the countries">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.89 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: ukraine">3.9 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1" target="_blank" rel="noopener">US greenlights $2.1bn sale of Patriot interceptors to Ukraine</a></h3>
+  <p class="preview card-detail">Volodymyr Zelenskyy had accused Trump administration of delaying the weapons as  relations deteriorated between the countries</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-30">Fri, 30 Oct 2026 21:28:58</time>
+    <span class="kw-hint">🔑 ukraine</span>
   </div>
 </article>
 <article class="card" data-score="3.88" data-date="2026-10-27" data-themes="" data-text="eu pressures allies over looming ukraine funding crunch european commission forecasts suggest non-eu partners have pledged just €4bn in aid for kyiv next year, down from €19bn in 2026">
@@ -1774,20 +1788,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-25">Sun, 25 Oct 2026 05:00:02</time>
     <span class="kw-hint">🔑 conflict</span>
-  </div>
-</article>
-<article class="card" data-score="3.35" data-date="2026-10-23" data-themes="" data-text="john healey to give £20bn boost to uk’s business lender and infrastructure bank treasury predicts extra funding will create and support 100,000 jobs as chancellor seeks to exploit flexibility in government’s fiscal rules">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.35 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: treasury">3.3 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/4111c10c-c13c-4620-8ce7-df3b4f9324f1?syn-25a6b1a6=1" target="_blank" rel="noopener">John Healey to give £20bn boost to UK’s business lender and infrastructure bank</a></h3>
-  <p class="preview card-detail">Treasury predicts extra funding will create and support 100,000 jobs as chancellor seeks to exploit flexibility in government’s fiscal rules</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-23">Fri, 23 Oct 2026 23:01:00</time>
-    <span class="kw-hint">🔑 treasury</span>
   </div>
 </article>
 <article class="card" data-score="3.29" data-date="2026-10-27" data-themes="" data-text="bank of japan to remain on quarterly tightening path read the boj’s october forecast from the ft’s monetary policy radar team">
@@ -2574,20 +2574,6 @@
     
   </div>
 </article>
-<article class="card" data-score="1.26" data-date="2026-10-23" data-themes="" data-text="france avoids downgrade from moody’s in boost for macron’s government rating agency retains aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.26 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.3 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1" target="_blank" rel="noopener">France avoids downgrade from Moody’s in boost for Macron’s government</a></h3>
-  <p class="preview card-detail">Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-23">Fri, 23 Oct 2026 22:28:52</time>
-    
-  </div>
-</article>
 <article class="card" data-score="1.25" data-date="2026-10-24" data-themes="" data-text="tobacco taxes work — even when they give smugglers a windfall fiscal income has dwindled as smokers quit but the link between tax rates and illicit activity is not clear-cut">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -3257,20 +3243,6 @@
   <p class="preview card-detail">Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-28">Wed, 28 Oct 2026 20:20:32</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.69" data-date="2026-10-23" data-themes="" data-text="uk sets up ai lab to monitor biosecurity threats move comes amid widespread fears that users could create new viruses and bioweapons">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.69 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.7 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/e4481867-fecc-48fc-ad9d-4daaf05d14ba?syn-25a6b1a6=1" target="_blank" rel="noopener">UK sets up AI lab to monitor biosecurity threats</a></h3>
-  <p class="preview card-detail">Move comes amid widespread fears that users could create new viruses and bioweapons</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-23">Fri, 23 Oct 2026 23:01:00</time>
     
   </div>
 </article>
@@ -5093,6 +5065,20 @@
     <time datetime="2026-10-30">Fri, 30 Oct 2026 16:21:07</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-10-31" data-themes="" data-text="openai slashes funding target by $10bn as tech anxieties mount chatgpt maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1" target="_blank" rel="noopener">OpenAI slashes funding target by $10bn as tech anxieties mount</a></h3>
+  <p class="preview card-detail">ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-10-31">Sat, 31 Oct 2026 00:05:08</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -5205,9 +5191,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["10-24", "10-25", "10-26", "10-27", "10-28", "10-29", "10-30"],
+    labels: ["10-25", "10-26", "10-27", "10-28", "10-29", "10-30", "10-31"],
     datasets: [{
-      data: [25, 42, 53, 51, 54, 52, 50],
+      data: [42, 53, 51, 54, 52, 52, 1],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -5221,7 +5207,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [38, 3, 8, 1, 3];
+const themeValues = [38, 3, 8, 2, 3];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
