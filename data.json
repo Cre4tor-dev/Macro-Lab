@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Kim reaffirms ties with China amid worries over Russian friendship",
-      "link": "https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1",
-      "published_date": "Sat, 24 Oct 2026 15:44:19 GMT",
-      "scrape_timestamp": "2026-10-24T19:09:57.129978+00:00",
-      "content": "Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
       "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
       "published_date": "Sat, 24 Oct 2026 19:19:48 GMT",
@@ -3640,11 +3629,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+      "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 14:00:02 GMT",
+      "scrape_timestamp": "2026-10-31T18:55:32.050114+00:00",
+      "content": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Evacuees from Russian-occupied city arrive in Ukraine",
+      "link": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1",
+      "published_date": "Sat, 31 Oct 2026 15:17:34 GMT",
+      "scrape_timestamp": "2026-10-31T18:55:33.651628+00:00",
+      "content": "Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-31T14:02:44.565312+00:00",
+  "last_updated": "2026-10-31T18:55:53.838001+00:00",
   "metadata": {
-    "total_runs": 3126,
+    "total_runs": 3127,
     "sources": [
       "Financial Times"
     ],
