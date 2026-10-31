@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Ukraine military says Starlink service restrictions have been removed",
-      "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-      "published_date": "Sat, 24 Oct 2026 10:20:39 GMT",
-      "scrape_timestamp": "2026-10-24T12:21:10.882084+00:00",
-      "content": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Davos in the Desert’s ‘old fox’ Richard Attias faces his latest test",
-      "link": "https://www.ft.com/content/47073bc4-f176-4fbe-b277-30e93007fbb1?syn-25a6b1a6=1",
-      "published_date": "Sat, 24 Oct 2026 11:00:04 GMT",
-      "scrape_timestamp": "2026-10-24T12:21:12.599029+00:00",
-      "content": "Power broker behind kingdom’s flagship investment conference has weathered scandal and setbacks. Now he must contend with war and spending cuts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Mayfair club Maison Estelle set to reopen after alleged firearm incident",
-      "link": "https://www.ft.com/content/d8758ccc-e6d7-40fb-bba9-50b01cc62623?syn-25a6b1a6=1",
-      "published_date": "Sat, 24 Oct 2026 13:27:08 GMT",
-      "scrape_timestamp": "2026-10-24T16:22:07.707768+00:00",
-      "content": "Luxury venue closed in September after police asked Westminster council to review its licence",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Kim reaffirms ties with China amid worries over Russian friendship",
       "link": "https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1",
       "published_date": "Sat, 24 Oct 2026 15:44:19 GMT",
@@ -3596,11 +3563,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
+      "link": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 12:00:01 GMT",
+      "scrape_timestamp": "2026-10-31T14:02:25.133294+00:00",
+      "content": "Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
+      "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 10:38:18 GMT",
+      "scrape_timestamp": "2026-10-31T14:02:25.533696+00:00",
+      "content": "Rival venues place ‘additional alerts and restrictions’ on the movement of funds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rating agency Fitch hits France with unscheduled outlook downgrade",
+      "link": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 09:36:34 GMT",
+      "scrape_timestamp": "2026-10-31T14:02:25.733852+00:00",
+      "content": "Move comes hours after data showed an unexpected contraction in third-quarter economic output",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
+      "link": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 13:38:29 GMT",
+      "scrape_timestamp": "2026-10-31T14:02:26.134259+00:00",
+      "content": "Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Budget frees London to go on £10bn borrowing spree, says Sadiq Khan",
+      "link": "https://www.ft.com/content/14a8ce6c-ef84-478a-993f-47db30a41d1d?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 12:00:01 GMT",
+      "scrape_timestamp": "2026-10-31T14:02:27.169076+00:00",
+      "content": "UK capital’s mayor hails chancellor’s financial plan that will boost key infrastructure projects",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Serbia comes back into the fold",
+      "link": "https://www.ft.com/content/80da9ebf-4057-4ccb-896f-c34929889726?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 11:00:01 GMT",
+      "scrape_timestamp": "2026-10-31T14:02:27.569424+00:00",
+      "content": "Decisive vote against autocratic leader Aleksandar Vučić will enable restoration of democratic checks and balances",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chart of the Week: Bond investors may cheer gridlock",
+      "link": "https://www.ft.com/content/9570b122-5418-41e6-b91b-b95af96ec881?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 10:30:01 GMT",
+      "scrape_timestamp": "2026-10-31T14:02:27.769583+00:00",
+      "content": "Midterms will have higher stakes for the bond market",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-31T07:45:22.372592+00:00",
+  "last_updated": "2026-10-31T14:02:44.565312+00:00",
   "metadata": {
-    "total_runs": 3125,
+    "total_runs": 3126,
     "sources": [
       "Financial Times"
     ],
