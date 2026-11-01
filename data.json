@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Why 17 is not the magic number in industrial policy",
-      "link": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 01:00:09 GMT",
-      "scrape_timestamp": "2026-10-25T05:30:43.428155+00:00",
-      "content": "A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Bolsonaro and Lula face off in knife-edge Brazil election",
       "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
       "published_date": "Sun, 25 Oct 2026 05:00:10 GMT",
@@ -73,28 +62,6 @@
       "published_date": "Sun, 25 Oct 2026 04:00:00 GMT",
       "scrape_timestamp": "2026-10-25T05:30:44.740775+00:00",
       "content": "Generating goodwill is helpful in building data centres and developing bots with minimum governmental intervention",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
-      "link": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 01:00:09 GMT",
-      "scrape_timestamp": "2026-10-25T05:30:45.140968+00:00",
-      "content": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
-      "link": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 01:00:09 GMT",
-      "scrape_timestamp": "2026-10-25T05:30:45.341055+00:00",
-      "content": "Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3640,11 +3607,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Michigan feud threatens Democratic unity in key Senate race",
+      "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 23:57:07 GMT",
+      "scrape_timestamp": "2026-11-01T01:39:52.981321+00:00",
+      "content": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tusk vows to press on with overhaul of Poland’s judiciary",
+      "link": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1",
+      "published_date": "Sat, 31 Oct 2026 22:51:11 GMT",
+      "scrape_timestamp": "2026-11-01T01:39:53.581868+00:00",
+      "content": "Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals",
+      "link": "https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 01:00:06 GMT",
+      "scrape_timestamp": "2026-11-01T01:39:53.782039+00:00",
+      "content": "Archion chief says repair network offers competitive strength  after Thai floods bring service quality to fore",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-10-31T22:03:59.867497+00:00",
+  "last_updated": "2026-11-01T01:40:11.037728+00:00",
   "metadata": {
-    "total_runs": 3128,
+    "total_runs": 3129,
     "sources": [
       "Financial Times"
     ],
