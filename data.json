@@ -2,83 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Marco Rubio still owes Europe answers about America’s intentions",
-      "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
-      "published_date": "Sun, 25 Oct 2026 16:00:05 GMT",
-      "scrape_timestamp": "2026-10-25T17:59:00.278187+00:00",
-      "content": "The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France’s Le Pen vows national ‘renewal’ in campaign launch",
-      "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 17:47:48 GMT",
-      "scrape_timestamp": "2026-10-25T17:59:00.478368+00:00",
-      "content": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Venezuelan opposition leader Machado returns from exile",
-      "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
-      "published_date": "Sun, 25 Oct 2026 17:37:08 GMT",
-      "scrape_timestamp": "2026-10-25T17:59:01.079016+00:00",
-      "content": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
-      "link": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 18:56:37 GMT",
-      "scrape_timestamp": "2026-10-25T20:28:52.464111+00:00",
-      "content": "US hospital chain is the latest not-for-profit healthcare provider to seek a large deal",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain will not join Canada-led defence bank",
-      "link": "https://www.ft.com/content/1f7924c1-ab63-465d-94b8-e97861e2348e?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 19:09:24 GMT",
-      "scrape_timestamp": "2026-10-25T20:28:53.184011+00:00",
-      "content": "Move may be seen as a snub to Canadian PM Mark Carney as UK chancellor John Healey throws weight behind a separate initiative",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "A knife-edge election in Israel and other potential pivot points",
-      "link": "https://www.ft.com/content/49873329-05f1-4137-bf94-d4ed3f63e897?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 18:15:07 GMT",
-      "scrape_timestamp": "2026-10-25T20:28:53.584349+00:00",
-      "content": "A key Knesset election, a (hopefully) boring British Budget, Big Oil and Big Tech reports",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The battle for the soul of Israel",
-      "link": "https://www.ft.com/content/a9040cdc-a599-4489-a975-ce90906c92c4?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 16:51:55 GMT",
-      "scrape_timestamp": "2026-10-25T20:28:53.984704+00:00",
-      "content": "A Netanyahu victory would set the country and region on a destructive path",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
       "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
       "published_date": "Sun, 25 Oct 2026 21:40:04 GMT",
@@ -95,17 +18,6 @@
       "published_date": "Sun, 25 Oct 2026 22:08:07 GMT",
       "scrape_timestamp": "2026-10-25T22:55:47.517689+00:00",
       "content": "Election loss marks a dramatic fall from power for strongman nationalist leader as near-record turnout favours grassroots party",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Enough golfers commit to LIV 2.0 to keep hopes of new league alive",
-      "link": "https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 17:56:50 GMT",
-      "scrape_timestamp": "2026-10-25T22:55:47.917980+00:00",
-      "content": "Around 15 players have expressed interest, with several others expected to join by a Friday deadline set by the Saudi Public Investment Fund",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3651,11 +3563,99 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Inside the leaderless movement set to govern Serbia",
+      "link": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 16:12:16 GMT",
+      "scrape_timestamp": "2026-11-01T19:58:26.429886+00:00",
+      "content": "Secretive ‘plenums’, code names based on Teletubbies, and fury over corruption: how student rebels won a parliamentary victory",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France and the UK require a new entente",
+      "link": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
+      "published_date": "Sun, 01 Nov 2026 16:00:02 GMT",
+      "scrape_timestamp": "2026-11-01T19:58:26.830290+00:00",
+      "content": "The Suez crisis offers valuable lessons on troubled relations since the birth of the European project",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+      "link": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 18:02:52 GMT",
+      "scrape_timestamp": "2026-11-01T19:58:27.630951+00:00",
+      "content": "Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Blue Lagoon owner plans to float as Icelandic tourism booms",
+      "link": "https://www.ft.com/content/6a3c6f12-cada-4368-8aad-4deb4db13fcb?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 18:00:03 GMT",
+      "scrape_timestamp": "2026-11-01T19:58:28.031384+00:00",
+      "content": "Owner of famed geothermal baths wants to raise money for its growth plans including a mountain retreat",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bulgarians projected to re-elect pro-Russian president",
+      "link": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 19:00:09 GMT",
+      "scrape_timestamp": "2026-11-01T19:58:28.609854+00:00",
+      "content": "Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump faces the voters",
+      "link": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 18:15:05 GMT",
+      "scrape_timestamp": "2026-11-01T19:58:29.010212+00:00",
+      "content": "US midterm elections, Bank of England interest rate decision, John Ternus hosts first earnings call as Apple chief",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "*SOLD OUT* The FT Alphaville Pub Quiz returns to New York City on 17 November",
+      "link": "https://www.ft.com/content/bf03380a-3193-4342-b300-bcbfd8f51187",
+      "published_date": "Sun, 01 Nov 2026 18:01:31 GMT",
+      "scrape_timestamp": "2026-11-01T19:58:29.410600+00:00",
+      "content": "Fun times this way ↓↓↓",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain to offer cheaper university fees to EU students at ‘reset’ summit",
+      "link": "https://www.ft.com/content/1bcb60e3-8fd7-495d-9482-f59ce64d534e?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 17:00:02 GMT",
+      "scrape_timestamp": "2026-11-01T19:58:29.610806+00:00",
+      "content": "Since Brexit, European students have paid international tuition rates at UK universities",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-01T15:36:06.343458+00:00",
+  "last_updated": "2026-11-01T19:58:47.656377+00:00",
   "metadata": {
-    "total_runs": 3131,
+    "total_runs": 3132,
     "sources": [
       "Financial Times"
     ],
