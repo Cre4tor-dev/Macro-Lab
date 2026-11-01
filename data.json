@@ -2,105 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Why students in a midterm battleground fear AI will ruin their future",
-      "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 11:00:02 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:56.159778+00:00",
-      "content": "Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US voters worried about corruption under Trump — FT poll",
-      "link": "https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 11:00:02 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:56.359932+00:00",
-      "content": "Americans link graft to affordability crisis as midterm elections loom",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "London’s most famous shopping street bans cars in bid to revive its fortunes",
-      "link": "https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 12:26:15 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:56.760244+00:00",
-      "content": "Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Audi to build $4bn US plant as it grapples with tariffs",
-      "link": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 10:33:28 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:57.360759+00:00",
-      "content": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Measles surge exposes Republicans’ vulnerability on vaccines",
-      "link": "https://www.ft.com/content/86e2ad4c-4a19-4221-8043-1c26e3354936?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 12:00:03 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:57.761138+00:00",
-      "content": "Health secretary Robert F Kennedy Jr’s scepticism of jabs is not shared by the majority of Americans",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Andy Burnham stokes Brexit debate ahead of UK-EU summit",
-      "link": "https://www.ft.com/content/ef271c35-6e32-455a-8463-579788530fd3?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 12:01:18 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:58.454933+00:00",
-      "content": "Prime minister calls for ‘honest discussion’ about free movement of people",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain needs ‘chainsaw economics’",
-      "link": "https://www.ft.com/content/46955baa-a3c0-487c-bf3e-d89430a84516?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 12:00:03 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:58.655146+00:00",
-      "content": "Shock therapy can liberate the country from a cycle of low growth, rising debt and an expanding state",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will the Fed drop any hints on rate rises?",
-      "link": "https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 12:00:03 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:59.055519+00:00",
-      "content": "Market Questions is the FT’s guide to the week ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Airbus to hold talks with BAE over role in GCAP fighter jet programme",
-      "link": "https://www.ft.com/content/701768ba-b541-491e-bcc5-e76d1baea2fe?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 11:00:02 GMT",
-      "scrape_timestamp": "2026-10-25T14:40:59.455889+00:00",
-      "content": "Germany weighs joining UK, Italy and Japan in project after collapse of its rival FCAS partnership with France and Spain",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Marco Rubio still owes Europe answers about America’s intentions",
       "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
       "published_date": "Sun, 25 Oct 2026 16:00:05 GMT",
@@ -128,17 +29,6 @@
       "published_date": "Sun, 25 Oct 2026 17:37:08 GMT",
       "scrape_timestamp": "2026-10-25T17:59:01.079016+00:00",
       "content": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Carney’s energy ambitions boosted by Conservative victory in British Columbia",
-      "link": "https://www.ft.com/content/397d5d63-1d60-4218-b2bd-8ce6e8f527b1?syn-25a6b1a6=1",
-      "published_date": "Sun, 25 Oct 2026 14:25:30 GMT",
-      "scrape_timestamp": "2026-10-25T17:59:01.804892+00:00",
-      "content": "Party leader wants to end emissions limits and replace province’s carbon tax framework",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3651,11 +3541,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Junk debt rout sparks ‘bloodbath’ for credit investors",
+      "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 14:54:55 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:47.373425+00:00",
+      "content": "Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Weil Gotshal: what happens now at the troubled Wall St law firm?",
+      "link": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:47.974110+00:00",
+      "content": "The New York legal powerhouse is shutting down after 95 years in business after an exodus of top talent",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump makes final pitch to restive voters in midterms campaign",
+      "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 14:51:29 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:48.174317+00:00",
+      "content": "Republican Party is defending its control of Congress against signs of a backlash to the president",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Gen Z protests turn violent in Germany",
+      "link": "https://www.ft.com/content/4ffb1a86-853b-4151-9902-2ff302e79d24?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 11:36:55 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:48.574681+00:00",
+      "content": "Young demonstrators clash with police in Berlin and shops are looted in Frankfurt in echo of last month’s French riots",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Binance restarts customer withdrawals after $6.3bn heist",
+      "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 12:16:57 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:48.975033+00:00",
+      "content": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Unions hit out after Healey signals delay to youth minimum wage pledge",
+      "link": "https://www.ft.com/content/97c97295-a35a-45b6-9e6b-29ca836fa3c2?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 14:50:27 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:49.860429+00:00",
+      "content": "Chancellor warned against pursuing ‘trade-offs’ between jobs and wages after he declines to commit to 2024 vow",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain’s welfare ratchet",
+      "link": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:50.060629+00:00",
+      "content": "Political incentives, rising expectations of state support and deeper economic failures make the benefits system hard to rein in",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will US jobs growth remain subdued?",
+      "link": "https://www.ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:50.461031+00:00",
+      "content": "Market Questions is the FT’s guide to the week ahead",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "America needs a real Congress",
+      "link": "https://www.ft.com/content/2f1b9cd5-4b6c-4e21-9e16-dcbfe7ecbd3e?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:50.661205+00:00",
+      "content": "Trump has faced little scrutiny. The midterm elections could change that",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US critical minerals push delivers a gold rush — for Washington lobbyists",
+      "link": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1",
+      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
+      "scrape_timestamp": "2026-11-01T15:35:50.861394+00:00",
+      "content": "Billions in government backing have produced a flurry of deals but little increase in domestic production",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-01T08:25:44.264535+00:00",
+  "last_updated": "2026-11-01T15:36:06.343458+00:00",
   "metadata": {
-    "total_runs": 3130,
+    "total_runs": 3131,
     "sources": [
       "Financial Times"
     ],
