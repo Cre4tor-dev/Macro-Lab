@@ -2,116 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US charges ex-FBI chief James Comey with leaking national defence information",
-      "link": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1",
-      "published_date": "Mon, 26 Oct 2026 21:42:33 GMT",
-      "scrape_timestamp": "2026-10-26T22:07:30.852512+00:00",
-      "content": "Move marks third time he has faced criminal allegations from the Trump administration",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’",
-      "link": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
-      "published_date": "Tue, 27 Oct 2026 00:54:15 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:21.042571+00:00",
-      "content": "US President casts doubt on integrity of South American nation’s election result over extension of voting hours",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump offers $1mn reward for tips leading to election fraud conviction",
-      "link": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
-      "published_date": "Mon, 26 Oct 2026 21:50:06 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:23.044559+00:00",
-      "content": "US president offers payout days before midterm vote that will shape balance of power in Congress",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Channel 4 strikes streaming deal with Disney",
-      "link": "https://www.ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a?syn-25a6b1a6=1",
-      "published_date": "Tue, 27 Oct 2026 00:01:06 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:23.811260+00:00",
-      "content": "Agreement comes as linear broadcasters struggle to compete with US media giants",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "England captain Harry Kane wins Ballon d’Or",
-      "link": "https://www.ft.com/content/0139bf89-1906-460b-a976-663a36010889?syn-25a6b1a6=1",
-      "published_date": "Mon, 26 Oct 2026 23:32:54 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:24.011453+00:00",
-      "content": "Bayern Munich forward recognised as world’s best-performing footballer — the first British player to win the award in 25 years",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey poised to increase adult minimum wage in UK Budget",
-      "link": "https://www.ft.com/content/63b0768d-0cdc-4ce1-b3e2-1e15df44dabc?syn-25a6b1a6=1",
-      "published_date": "Mon, 26 Oct 2026 23:19:17 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:24.211644+00:00",
-      "content": "Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
-      "link": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
-      "published_date": "Mon, 26 Oct 2026 22:44:47 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:24.612042+00:00",
-      "content": "Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey focuses Budget on ‘everyday fixes’ as energy costs bite",
-      "link": "https://www.ft.com/content/9e9fac4d-117d-46d7-929e-86a7d7c93d35?syn-25a6b1a6=1",
-      "published_date": "Mon, 26 Oct 2026 22:30:06 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:24.812229+00:00",
-      "content": "Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK needs more powers to intervene when telecoms providers fail, minister says",
-      "link": "https://www.ft.com/content/3df6836f-4542-4047-b5d8-0b3a8a3a1154",
-      "published_date": "Mon, 26 Oct 2026 22:19:10 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:25.012431+00:00",
-      "content": "Lisa Nandy tells MPs she is concerned about the sector’s ‘financial fragility’ in the wake of broadband provider TalkTalk’s near-collapse",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Anthropic unveils long-awaited IPO prospectus",
-      "link": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1",
-      "published_date": "Mon, 26 Oct 2026 21:41:18 GMT",
-      "scrape_timestamp": "2026-10-27T01:43:25.412839+00:00",
-      "content": "Also in today’s newsletter: Brazil’s currency plunges and Singapore to store Saudi Arabian oil in caverns",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Lula faces a fiscal reckoning after Brazil’s market rout",
       "link": "https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1",
       "published_date": "Tue, 27 Oct 2026 05:00:28 GMT",
@@ -3497,11 +3387,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democrats close ranks after shock Michigan split",
+      "link": "https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1",
+      "published_date": "Mon, 02 Nov 2026 21:35:58 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:52.942849+00:00",
+      "content": "Haley Stevens’ support for Republican candidate instead of Abdul El-Sayed provokes a swift backlash",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
+      "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
+      "published_date": "Mon, 02 Nov 2026 22:45:26 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:53.343274+00:00",
+      "content": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
+      "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 01:17:37 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:53.943856+00:00",
+      "content": "Hardware giant predicts robust sales in the holiday season but services outlook disappoints",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+      "link": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+      "published_date": "Mon, 02 Nov 2026 22:58:27 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:54.144062+00:00",
+      "content": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US to hold first talks with Russia and Ukraine since February",
+      "link": "https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 00:35:42 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:54.544451+00:00",
+      "content": "Officials from Washington, Moscow and Kyiv will meet in Abu Dhabi next week",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Japan’s interest rates are rising. Will young people lose out?",
+      "link": "https://www.ft.com/content/6cf3452b-ab86-429e-a129-96546c126fc4?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 02:14:54 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:55.110589+00:00",
+      "content": "Better returns from savings will help asset-rich elderly but make life harder for young homebuyers",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Reliance gets its mojo back",
+      "link": "https://www.ft.com/content/06e2f3a7-f1db-4d9a-bf8d-92e362893a95?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 01:30:01 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:55.310771+00:00",
+      "content": "Also, more affordable cancer drugs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Quiet quitting’ is real and may be hitting British productivity, analysis claims",
+      "link": "https://www.ft.com/content/d629be83-a1d5-4a08-aa69-93910ce50aa7?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 00:01:00 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:55.711116+00:00",
+      "content": "Employees have become more disengaged in the last ten years and less willing to put in extra effort",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ",
+      "link": "https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 00:01:00 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:55.911303+00:00",
+      "content": "Head of National Cyber Security Centre set to warn security defences, particularly for critical infrastructure, are inadequate",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "My tax rises made Britain’s economy stronger, says Reeves",
+      "link": "https://www.ft.com/content/542e044e-23c6-42a6-a8a6-640ea04205ff?syn-25a6b1a6=1",
+      "published_date": "Mon, 02 Nov 2026 23:00:00 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:56.311682+00:00",
+      "content": "Former chancellor argues that national insurance increase pushed a break with ‘low-wage, low-investment cycle’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham to set out ‘new era’ and debt reset for struggling Commonwealth",
+      "link": "https://www.ft.com/content/f5b41577-2368-4480-a04e-7fdfa362603c?syn-25a6b1a6=1",
+      "published_date": "Mon, 02 Nov 2026 22:30:10 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:56.912296+00:00",
+      "content": "UK prime minister is ‘open’ to calls for a formal apology from Britain over historical role in the transatlantic slave trade",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
+      "link": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
+      "published_date": "Mon, 02 Nov 2026 21:40:13 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:57.112502+00:00",
+      "content": "Also in today’s newsletter: Anthropic reveals $900bn AI spending commitments and European supermarket freezers overheat in fresh cyber attack",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "link": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1",
+      "published_date": "Mon, 02 Nov 2026 21:19:47 GMT",
+      "scrape_timestamp": "2026-11-03T03:09:57.512874+00:00",
+      "content": "Silicon Valley companies say all-stock deal would create a ‘leader in AI connectivity’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-02T21:05:53.688018+00:00",
+  "last_updated": "2026-11-03T03:10:13.257106+00:00",
   "metadata": {
-    "total_runs": 3136,
+    "total_runs": 3137,
     "sources": [
       "Financial Times"
     ],

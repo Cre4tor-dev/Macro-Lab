@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-11-02 21:05 UTC</title>
+  <title>Macro Lab — 2026-11-03 03:10 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-11-02 21:05 UTC<br>Seuil alerte: 5.0 · 69 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-11-03 03:10 UTC<br>Seuil alerte: 5.0 · 68 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">318</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">321</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">69</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">68</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">2.7</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-11-02">Mon 02 Nov</option>
+        <option value="2026-11-03">Tue 03 Nov</option>
+<option value="2026-11-02">Mon 02 Nov</option>
 <option value="2026-11-01">Sun 01 Nov</option>
 <option value="2026-10-31">Sat 31 Oct</option>
 <option value="2026-10-30">Fri 30 Oct</option>
 <option value="2026-10-29">Thu 29 Oct</option>
 <option value="2026-10-28">Wed 28 Oct</option>
-<option value="2026-10-27">Tue 27 Oct</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -386,6 +386,20 @@
     <span class="kw-hint">🔑 stock market, war</span>
   </div>
 </article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="10.21" data-date="2026-11-03" data-themes="war_conflict" data-text="chinese and russian ai cyber attacks will be routine by 2028, says gchq head of national cyber security centre set to warn security defences, particularly for critical infrastructure, are inadequate">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.21 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, russia">10.2 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40?syn-25a6b1a6=1" target="_blank" rel="noopener">Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ</a></h3>
+  <p class="preview card-detail">Head of National Cyber Security Centre set to warn security defences, particularly for critical infrastructure, are inadequate</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-03">Tue, 03 Nov 2026 00:01:00</time>
+    <span class="kw-hint">🔑 war, russia</span>
+  </div>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="9.98" data-date="2026-10-30" data-themes="central_bank" data-text="bank of japan says 2% inflation goal reached after decades of deflation japanese central bank holds interest rates as expectations mount for december increase">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -455,25 +469,11 @@
     <time datetime="2026-10-31">Sat, 31 Oct 2026 12:00:01</time>
     <span class="kw-hint">🔑 war</span>
   </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="9.62" data-date="2026-11-01" data-themes="war_conflict" data-text="no amount of money can make a war zone safe for seafarers the international community and shipping industry must act together to protect the people who keep world trade moving">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.62 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war">9.6 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/650ac00d-1bb0-439e-aaee-1d43061b27a0" target="_blank" rel="noopener">No amount of money can make a war zone safe for seafarers</a></h3>
-  <p class="preview card-detail">The international community and shipping industry must act together to protect the people who keep world trade moving</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-01">Sun, 01 Nov 2026 05:00:09</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
 </article></div></div></div>
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (318 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (321 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="17.29" data-date="2026-10-27" data-themes="war_conflict" data-text="washington discusses russian deals for us oil majors in ukraine peace talks white house proposes renewed postwar business ties in an effort to bring president vladimir putin to the negotiating table">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -670,6 +670,20 @@
     <span class="kw-hint">🔑 stock market, war</span>
   </div>
 </article>
+<article class="card card-alert" data-score="10.21" data-date="2026-11-03" data-themes="war_conflict" data-text="chinese and russian ai cyber attacks will be routine by 2028, says gchq head of national cyber security centre set to warn security defences, particularly for critical infrastructure, are inadequate">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.21 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, russia">10.2 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40?syn-25a6b1a6=1" target="_blank" rel="noopener">Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ</a></h3>
+  <p class="preview card-detail">Head of National Cyber Security Centre set to warn security defences, particularly for critical infrastructure, are inadequate</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-03">Tue, 03 Nov 2026 00:01:00</time>
+    <span class="kw-hint">🔑 war, russia</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="9.98" data-date="2026-10-30" data-themes="central_bank" data-text="bank of japan says 2% inflation goal reached after decades of deflation japanese central bank holds interest rates as expectations mount for december increase">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -754,17 +768,17 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
-<article class="card card-alert" data-score="9.58" data-date="2026-10-26" data-themes="war_conflict" data-text="trump offers $1mn reward for tips leading to election fraud conviction us president offers payout days before midterm vote that will shape balance of power in congress">
+<article class="card card-alert" data-score="9.58" data-date="2026-11-03" data-themes="war_conflict" data-text="apple warns ‘unprecedented’ memory chip costs will hit margins hardware giant predicts robust sales in the holiday season but services outlook disappoints">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.58 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war">9.6 <sup>ℹ</sup></span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.58 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">9.6 <sup>ℹ</sup></span>
     <span class="theme-tag">⚔️ War/Conflict</span>
     <span class="alert-badge">🚨 ALERT</span>
   </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1" target="_blank" rel="noopener">Trump offers $1mn reward for tips leading to election fraud conviction</a></h3>
-  <p class="preview card-detail">US president offers payout days before midterm vote that will shape balance of power in Congress</p>
+  <h3 class="card-title"><a href="https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1" target="_blank" rel="noopener">Apple warns ‘unprecedented’ memory chip costs will hit margins</a></h3>
+  <p class="preview card-detail">Hardware giant predicts robust sales in the holiday season but services outlook disappoints</p>
   <div class="card-footer card-detail">
-    <time datetime="2026-10-26">Mon, 26 Oct 2026 21:50:06</time>
+    <time datetime="2026-11-03">Tue, 03 Nov 2026 01:17:37</time>
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
@@ -864,20 +878,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-11-01">Sun, 01 Nov 2026 05:00:09</time>
     <span class="kw-hint">🔑 conflict, military</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="8.66" data-date="2026-10-26" data-themes="war_conflict" data-text="eu loan to airbus threatens trade truce with us, trump trade official warns jamieson greer says the european investment bank’s historic loan to the aerospace group risks ‘violating’ the us-eu aircraft deal">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 8.66 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">8.7 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1" target="_blank" rel="noopener">EU loan to Airbus threatens trade truce with US, Trump trade official warns</a></h3>
-  <p class="preview card-detail">Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-26">Mon, 26 Oct 2026 22:44:47</time>
-    <span class="kw-hint">🔑 war</span>
   </div>
 </article>
 <article class="card card-alert" data-score="8.51" data-date="2026-11-02" data-themes="war_conflict" data-text="life in tehran under trump’s blockade the city has recaptured its prewar energy even as residents are gripped by trepidation over what is next">
@@ -1034,20 +1034,6 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
-<article class="card card-alert" data-score="7.86" data-date="2026-10-26" data-themes="war_conflict" data-text="england captain harry kane wins ballon d’or bayern munich forward recognised as world’s best-performing footballer — the first british player to win the award in 25 years">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.86 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">7.9 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/0139bf89-1906-460b-a976-663a36010889?syn-25a6b1a6=1" target="_blank" rel="noopener">England captain Harry Kane wins Ballon d’Or</a></h3>
-  <p class="preview card-detail">Bayern Munich forward recognised as world’s best-performing footballer — the first British player to win the award in 25 years</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-26">Mon, 26 Oct 2026 23:32:54</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="7.86" data-date="2026-10-27" data-themes="war_conflict" data-text="eu’s border agency to boost powers to return irregular migrants also in this newsletter: bloc needs more water for its data centre build-out, warns industry chief">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1172,6 +1158,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-30">Fri, 30 Oct 2026 14:07:22</time>
     <span class="kw-hint">🔑 interest rate, inflation</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="7.12" data-date="2026-11-03" data-themes="" data-text="us to hold first talks with russia and ukraine since february officials from washington, moscow and kyiv will meet in abu dhabi next week">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.12 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: ukraine, russia">7.1 <sup>ℹ</sup></span>
+    
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c?syn-25a6b1a6=1" target="_blank" rel="noopener">US to hold first talks with Russia and Ukraine since February</a></h3>
+  <p class="preview card-detail">Officials from Washington, Moscow and Kyiv will meet in Abu Dhabi next week</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-03">Tue, 03 Nov 2026 00:35:42</time>
+    <span class="kw-hint">🔑 ukraine, russia</span>
   </div>
 </article>
 <article class="card card-alert" data-score="7.07" data-date="2026-10-27" data-themes="war_conflict" data-text="us insurance regulators back down on credit ratings scrutiny industry resistance thwarts effort to examine ratings on billions of dollars in private loans held by insurers">
@@ -1384,20 +1384,6 @@
     <span class="kw-hint">🔑 crisis</span>
   </div>
 </article>
-<article class="card card-alert" data-score="5.00" data-date="2026-10-26" data-themes="" data-text="uk needs more powers to intervene when telecoms providers fail, minister says lisa nandy tells mps she is concerned about the sector’s ‘financial fragility’ in the wake of broadband provider talktalk’s near-collapse">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 5.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: collapse">5.0 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/3df6836f-4542-4047-b5d8-0b3a8a3a1154" target="_blank" rel="noopener">UK needs more powers to intervene when telecoms providers fail, minister says</a></h3>
-  <p class="preview card-detail">Lisa Nandy tells MPs she is concerned about the sector’s ‘financial fragility’ in the wake of broadband provider TalkTalk’s near-collapse</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-26">Mon, 26 Oct 2026 22:19:10</time>
-    <span class="kw-hint">🔑 collapse</span>
-  </div>
-</article>
 <article class="card" data-score="4.96" data-date="2026-10-30" data-themes="" data-text="how ai might be deployed for better bank supervision the technology could help tackle some of the cultural issues that contributed to the collapse of svb">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1452,6 +1438,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-27">Tue, 27 Oct 2026 10:00:04</time>
     <span class="kw-hint">🔑 crisis</span>
+  </div>
+</article>
+<article class="card" data-score="4.46" data-date="2026-11-02" data-themes="" data-text="openai hires former us army secretary as military seeks to expand ai use dan driscoll to join the start-up as senior counsellor for national security modernisation">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 4.46 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: military">4.5 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1" target="_blank" rel="noopener">OpenAI hires former US Army secretary as military seeks to expand AI use</a></h3>
+  <p class="preview card-detail">Dan Driscoll to join the start-up as senior counsellor for national security modernisation</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-02">Mon, 02 Nov 2026 22:58:27</time>
+    <span class="kw-hint">🔑 military</span>
   </div>
 </article>
 <article class="card" data-score="4.44" data-date="2026-10-27" data-themes="" data-text="uk’s tariffs on chinese diggers challenged by caterpillar world’s largest maker of construction equipment fights to overturn 18.81% anti-dumping duty imposed by trade remedies authority">
@@ -1664,6 +1664,20 @@
     <span class="kw-hint">🔑 russia</span>
   </div>
 </article>
+<article class="card" data-score="3.85" data-date="2026-11-02" data-themes="" data-text="firstft: big majority of us voters disapprove of trump’s handling of inflation, according to ft poll also in today’s newsletter: anthropic reveals $900bn ai spending commitments and european supermarket freezers overheat in fresh cyber attack">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.85 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: inflation">3.8 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1" target="_blank" rel="noopener">FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll</a></h3>
+  <p class="preview card-detail">Also in today’s newsletter: Anthropic reveals $900bn AI spending commitments and European supermarket freezers overheat in fresh cyber attack</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-02">Mon, 02 Nov 2026 21:40:13</time>
+    <span class="kw-hint">🔑 inflation</span>
+  </div>
+</article>
 <article class="card" data-score="3.68" data-date="2026-10-30" data-themes="" data-text="global tech rout deepens as us earnings stoke ai spending fears wall street heads for steep losses at friday’s open after amazon results disappoint">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1802,6 +1816,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-30">Fri, 30 Oct 2026 06:00:02</time>
     <span class="kw-hint">🔑 ecb</span>
+  </div>
+</article>
+<article class="card" data-score="3.24" data-date="2026-11-03" data-themes="" data-text="japan’s interest rates are rising. will young people lose out? better returns from savings will help asset-rich elderly but make life harder for young homebuyers">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.24 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: interest rate">3.2 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/6cf3452b-ab86-429e-a129-96546c126fc4?syn-25a6b1a6=1" target="_blank" rel="noopener">Japan’s interest rates are rising. Will young people lose out?</a></h3>
+  <p class="preview card-detail">Better returns from savings will help asset-rich elderly but make life harder for young homebuyers</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-03">Tue, 03 Nov 2026 02:14:54</time>
+    <span class="kw-hint">🔑 interest rate</span>
   </div>
 </article>
 <article class="card" data-score="3.23" data-date="2026-10-29" data-themes="" data-text="the two pragmatists leading the race to run the ecb pablo hernández de cos and klaas knot are currently frontrunners to become the fifth president of europe’s top monetary institution">
@@ -1970,20 +1998,6 @@
   <div class="card-footer card-detail">
     <time datetime="2026-10-29">Thu, 29 Oct 2026 06:30:00</time>
     <span class="kw-hint">🔑 fed</span>
-  </div>
-</article>
-<article class="card" data-score="2.58" data-date="2026-10-26" data-themes="" data-text="firstft: anthropic unveils long-awaited ipo prospectus also in today’s newsletter: brazil’s currency plunges and singapore to store saudi arabian oil in caverns">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.58 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: oil">2.6 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1" target="_blank" rel="noopener">FirstFT: Anthropic unveils long-awaited IPO prospectus</a></h3>
-  <p class="preview card-detail">Also in today’s newsletter: Brazil’s currency plunges and Singapore to store Saudi Arabian oil in caverns</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-26">Mon, 26 Oct 2026 21:41:18</time>
-    <span class="kw-hint">🔑 oil</span>
   </div>
 </article>
 <article class="card" data-score="2.58" data-date="2026-10-28" data-themes="" data-text="healey avoids bond market wobble with ‘uneventful’ first budget gilts hold on to pre-budget gains following modest package of tax and spending changes">
@@ -2249,20 +2263,6 @@
   <p class="preview card-detail">As tech investment soars, finding protection is becoming more urgent — and harder</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-27">Tue, 27 Oct 2026 17:07:56</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.70" data-date="2026-10-27" data-themes="" data-text="channel 4 strikes streaming deal with disney agreement comes as linear broadcasters struggle to compete with us media giants">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.70 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.7 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/ae3a1dfb-d7ba-4c88-a6da-cb28b2a1139a?syn-25a6b1a6=1" target="_blank" rel="noopener">Channel 4 strikes streaming deal with Disney</a></h3>
-  <p class="preview card-detail">Agreement comes as linear broadcasters struggle to compete with US media giants</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-27">Tue, 27 Oct 2026 00:01:06</time>
     
   </div>
 </article>
@@ -2546,6 +2546,20 @@
     
   </div>
 </article>
+<article class="card" data-score="1.31" data-date="2026-11-02" data-themes="" data-text="my tax rises made britain’s economy stronger, says reeves former chancellor argues that national insurance increase pushed a break with ‘low-wage, low-investment cycle’">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.31 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.3 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/542e044e-23c6-42a6-a8a6-640ea04205ff?syn-25a6b1a6=1" target="_blank" rel="noopener">My tax rises made Britain’s economy stronger, says Reeves</a></h3>
+  <p class="preview card-detail">Former chancellor argues that national insurance increase pushed a break with ‘low-wage, low-investment cycle’</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-02">Mon, 02 Nov 2026 23:00:00</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.30" data-date="2026-10-27" data-themes="" data-text="the winners and losers of the weight-loss economy people on glp-1s are spending their money differently. some sectors will benefit, others must adapt or die">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2557,6 +2571,20 @@
   <p class="preview card-detail">People on GLP-1s are spending their money differently. Some sectors will benefit, others must adapt or die</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-27">Tue, 27 Oct 2026 05:00:18</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.28" data-date="2026-11-02" data-themes="" data-text="democrats close ranks after shock michigan split haley stevens’ support for republican candidate instead of abdul el-sayed provokes a swift backlash">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.28 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: —">1.3 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1" target="_blank" rel="noopener">Democrats close ranks after shock Michigan split</a></h3>
+  <p class="preview card-detail">Haley Stevens’ support for Republican candidate instead of Abdul El-Sayed provokes a swift backlash</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-02">Mon, 02 Nov 2026 21:35:58</time>
     
   </div>
 </article>
@@ -2655,6 +2683,20 @@
   <p class="preview card-detail">Uncertainty over costs can leave people facing difficult financial decisions when looking to start a family</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-29">Thu, 29 Oct 2026 14:00:09</time>
+    
+  </div>
+</article>
+<article class="card" data-score="1.20" data-date="2026-11-02" data-themes="" data-text="burnham to set out ‘new era’ and debt reset for struggling commonwealth uk prime minister is ‘open’ to calls for a formal apology from britain over historical role in the transatlantic slave trade">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.20 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.2 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/f5b41577-2368-4480-a04e-7fdfa362603c?syn-25a6b1a6=1" target="_blank" rel="noopener">Burnham to set out ‘new era’ and debt reset for struggling Commonwealth</a></h3>
+  <p class="preview card-detail">UK prime minister is ‘open’ to calls for a formal apology from Britain over historical role in the transatlantic slave trade</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-02">Mon, 02 Nov 2026 22:30:10</time>
     
   </div>
 </article>
@@ -3075,6 +3117,20 @@
   <p class="preview card-detail">Secretive ‘plenums’, code names based on Teletubbies, and fury over corruption: how student rebels won a parliamentary victory</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-01">Sun, 01 Nov 2026 16:12:16</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.85" data-date="2026-11-02" data-themes="" data-text="marvell to buy data centre component maker lumentum in $115bn ai bet silicon valley companies say all-stock deal would create a ‘leader in ai connectivity’">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.85 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.8 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1" target="_blank" rel="noopener">Marvell to buy data centre component maker Lumentum in $115bn AI bet</a></h3>
+  <p class="preview card-detail">Silicon Valley companies say all-stock deal would create a ‘leader in AI connectivity’</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-02">Mon, 02 Nov 2026 21:19:47</time>
     
   </div>
 </article>
@@ -3526,20 +3582,6 @@
     
   </div>
 </article>
-<article class="card" data-score="0.18" data-date="2026-10-26" data-themes="" data-text="healey poised to increase adult minimum wage in uk budget chancellor will hold back from bigger increases in the rate for younger workers despite labour manifesto pledge">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.18 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.2 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/63b0768d-0cdc-4ce1-b3e2-1e15df44dabc?syn-25a6b1a6=1" target="_blank" rel="noopener">Healey poised to increase adult minimum wage in UK Budget</a></h3>
-  <p class="preview card-detail">Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-26">Mon, 26 Oct 2026 23:19:17</time>
-    
-  </div>
-</article>
 <article class="card" data-score="0.13" data-date="2026-10-28" data-themes="" data-text="mercedes and stellantis struggle to revive fortunes despite cost cuts and new models aston martin narrows operating losses but net debt rises 14% since end of 2025">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -3551,48 +3593,6 @@
   <p class="preview card-detail">Aston Martin narrows operating losses but net debt rises 14% since end of 2025</p>
   <div class="card-footer card-detail">
     <time datetime="2026-10-28">Wed, 28 Oct 2026 09:36:11</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-26" data-themes="" data-text="us charges ex-fbi chief james comey with leaking national defence information move marks third time he has faced criminal allegations from the trump administration">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1" target="_blank" rel="noopener">US charges ex-FBI chief James Comey with leaking national defence information</a></h3>
-  <p class="preview card-detail">Move marks third time he has faced criminal allegations from the Trump administration</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-26">Mon, 26 Oct 2026 21:42:33</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-27" data-themes="" data-text="bolsonaro’s liberal party accepts defeat in brazil as trump calls result ‘rigged’ us president casts doubt on integrity of south american nation’s election result over extension of voting hours">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1" target="_blank" rel="noopener">Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’</a></h3>
-  <p class="preview card-detail">US President casts doubt on integrity of South American nation’s election result over extension of voting hours</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-27">Tue, 27 Oct 2026 00:54:15</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-10-26" data-themes="" data-text="healey focuses budget on ‘everyday fixes’ as energy costs bite chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/9e9fac4d-117d-46d7-929e-86a7d7c93d35?syn-25a6b1a6=1" target="_blank" rel="noopener">Healey focuses Budget on ‘everyday fixes’ as energy costs bite</a></h3>
-  <p class="preview card-detail">Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-10-26">Mon, 26 Oct 2026 22:30:06</time>
     
   </div>
 </article>
@@ -4925,6 +4925,48 @@
     <time datetime="2026-11-02">Mon, 02 Nov 2026 16:23:31</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-11-02" data-themes="" data-text="‘a massive piece of pool’: trump talks algae and grass in final midterm push us president touts new pipes and ‘great reflectivity’ of washington’s reflecting pool on eve of critical vote">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1" target="_blank" rel="noopener">‘A massive piece of pool’: Trump talks algae and grass in final midterm push</a></h3>
+  <p class="preview card-detail">US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-02">Mon, 02 Nov 2026 22:45:26</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-11-03" data-themes="" data-text="reliance gets its mojo back also, more affordable cancer drugs">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/06e2f3a7-f1db-4d9a-bf8d-92e362893a95?syn-25a6b1a6=1" target="_blank" rel="noopener">Reliance gets its mojo back</a></h3>
+  <p class="preview card-detail">Also, more affordable cancer drugs</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-03">Tue, 03 Nov 2026 01:30:01</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-11-03" data-themes="" data-text="‘quiet quitting’ is real and may be hitting british productivity, analysis claims employees have become more disengaged in the last ten years and less willing to put in extra effort">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/d629be83-a1d5-4a08-aa69-93910ce50aa7?syn-25a6b1a6=1" target="_blank" rel="noopener">‘Quiet quitting’ is real and may be hitting British productivity, analysis claims</a></h3>
+  <p class="preview card-detail">Employees have become more disengaged in the last ten years and less willing to put in extra effort</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-03">Tue, 03 Nov 2026 00:01:00</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -5037,9 +5079,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["10-27", "10-28", "10-29", "10-30", "10-31", "11-01", "11-02"],
+    labels: ["10-28", "10-29", "10-30", "10-31", "11-01", "11-02", "11-03"],
     datasets: [{
-      data: [51, 54, 52, 53, 28, 38, 34],
+      data: [54, 52, 53, 28, 38, 41, 6],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -5053,7 +5095,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [42, 2, 9, 2, 1];
+const themeValues = [41, 2, 9, 2, 1];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',
