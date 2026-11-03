@@ -2,72 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
-      "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-      "published_date": "Tue, 27 Oct 2026 21:37:38 GMT",
-      "scrape_timestamp": "2026-10-27T23:21:12.577997+00:00",
-      "content": "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
-      "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
-      "published_date": "Tue, 27 Oct 2026 19:06:02 GMT",
-      "scrape_timestamp": "2026-10-27T23:21:13.779116+00:00",
-      "content": "White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Elite consulting firms raise starting salaries for first time since 2022",
-      "link": "https://www.ft.com/content/dcfaf62f-497d-4db0-bb2d-a55e0b749750?syn-25a6b1a6=1",
-      "published_date": "Tue, 27 Oct 2026 19:33:01 GMT",
-      "scrape_timestamp": "2026-10-27T23:21:14.379718+00:00",
-      "content": "McKinsey, BCG and Bain have boosted offers for candidates as jobs market heats up",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey to reverse cuts to cash Isa allowances",
-      "link": "https://www.ft.com/content/619978f5-4400-4bf0-8b1f-4cf62bee9774?syn-25a6b1a6=1",
-      "published_date": "Tue, 27 Oct 2026 22:39:52 GMT",
-      "scrape_timestamp": "2026-10-27T23:21:15.321811+00:00",
-      "content": "Chancellor will use Wednesday’s Budget to maintain tax-free limit at £20,000 a year, reversing plan by predecessor Rachel Reeves",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey puts UK energy reform at centre of his ‘do no harm’ Budget",
-      "link": "https://www.ft.com/content/427a7624-d710-4078-9a7e-d23fdb0b2975?syn-25a6b1a6=1",
-      "published_date": "Tue, 27 Oct 2026 22:30:00 GMT",
-      "scrape_timestamp": "2026-10-27T23:21:15.522002+00:00",
-      "content": "Chancellor to pledge extra support for businesses, entrepreneurs and households during ‘difficult moment’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Israeli exit polls show no clear winner in parliamentary election",
-      "link": "https://www.ft.com/content/fadbee3f-16cd-4892-a41f-7d6682b77e4d?syn-25a6b1a6=1",
-      "published_date": "Tue, 27 Oct 2026 22:11:08 GMT",
-      "scrape_timestamp": "2026-10-27T23:21:15.722182+00:00",
-      "content": "Also in today’s newsletter: US and Russia discuss potential oil deals and law firm Weil prepares for possible wind-down",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "SK Hynix profits soar amid roaring AI chip demand",
       "link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
       "published_date": "Wed, 28 Oct 2026 01:15:00 GMT",
@@ -3409,11 +3343,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US has no immediate plan to strike Iran, Trump tells FT",
+      "link": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 23:34:36 GMT",
+      "scrape_timestamp": "2026-11-03T23:47:29.325745+00:00",
+      "content": "President says position with Tehran is ‘brilliant’ in interview just hours before midterm polls close",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How Pennsylvania’s bellwether city could decide the US midterms",
+      "link": "https://www.ft.com/content/4dde93b5-60ec-4ad4-ad14-c870fa17db2c?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 18:53:53 GMT",
+      "scrape_timestamp": "2026-11-03T23:47:30.126410+00:00",
+      "content": "Democrats eye victory in seat that could tip the balance of power in Washington",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "CVS Health moves to dismantle $117bn healthcare empire",
+      "link": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 22:33:06 GMT",
+      "scrape_timestamp": "2026-11-03T23:47:30.727010+00:00",
+      "content": "Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What Weil Gotshal teaches us about how law firms die",
+      "link": "https://www.ft.com/content/958c09b7-bebf-4322-9c11-c2ec5b0eed73",
+      "published_date": "Tue, 03 Nov 2026 11:00:07 GMT",
+      "scrape_timestamp": "2026-11-03T23:47:31.127351+00:00",
+      "content": "When partners start leaving to earn more money elsewhere, collapse becomes inevitable",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tories turn to former PM David Cameron to boost party fundraising",
+      "link": "https://www.ft.com/content/df602ad9-2399-4b10-970c-c1ae231fbf2e?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 21:00:05 GMT",
+      "scrape_timestamp": "2026-11-03T23:47:32.804512+00:00",
+      "content": "Ex-leader takes top billing at Conservative events just as his party secures poll lead over Reform UK for first time in almost two years",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Northern Ireland’s biggest pro-UK party damaged by Drumcree parade fallout",
+      "link": "https://www.ft.com/content/b2610699-0972-4acc-8417-5c9f92bc540e?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 19:09:00 GMT",
+      "scrape_timestamp": "2026-11-03T23:47:33.204911+00:00",
+      "content": "DUP’s support for Protestant Orange Order march through Catholic area backfires after its most popular MP quits",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Italy’s half-baked exit tax is the worst of both worlds",
+      "link": "https://www.ft.com/content/a7879ca3-f925-416b-826e-2a2a538e42f7?syn-25a6b1a6=1",
+      "published_date": "Tue, 03 Nov 2026 18:50:05 GMT",
+      "scrape_timestamp": "2026-11-03T23:47:33.605255+00:00",
+      "content": "The touted levy sends mixed messages on how Italy views wealth creation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-03T18:50:13.543438+00:00",
+  "last_updated": "2026-11-03T23:47:51.075852+00:00",
   "metadata": {
-    "total_runs": 3139,
+    "total_runs": 3140,
     "sources": [
       "Financial Times"
     ],
