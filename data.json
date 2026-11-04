@@ -2,138 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "The fear factor giving Netanyahu the edge",
-      "link": "https://www.ft.com/content/1631483b-69ee-424c-b0d0-9086ae1efece?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 14:35:06 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:14.095150+00:00",
-      "content": "Despite liberal hopes, the veteran leader appears to have a path back to government after Israel’s vote",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey hits banks and savers with tax rises in Budget ‘for working people’",
-      "link": "https://www.ft.com/content/5ec57ee9-4eb9-4889-82f0-df402185b147?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 16:23:17 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:14.895896+00:00",
-      "content": "Scale of chancellor’s plans was modest compared with recent fiscal events",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bank of England able to take UK Budget in its stride despite slippage in deficit reduction",
-      "link": "https://www.ft.com/content/4fe7b495-a682-4f69-a385-a02c892db0d7",
-      "published_date": "Wed, 28 Oct 2026 16:39:25 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:15.753251+00:00",
-      "content": "Higher energy prices and interest costs take their toll on borrowing outlook",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
-      "link": "https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 16:28:50 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:15.953426+00:00",
-      "content": "Gilts hold on to pre-Budget gains following modest package of tax and spending changes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "What the Budget means for your money",
-      "link": "https://www.ft.com/content/b12b9119-6ed2-40a0-bbb9-1af06f19f79b?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 16:16:21 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:16.553969+00:00",
-      "content": "The chancellor’s maiden Budget was intended to deliver ‘everyday fixes’ to the UK’s financial concerns — but will it leave you better off?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Budget calculator: how will Healey’s forecasts affect the tax you pay?",
-      "link": "https://www.ft.com/content/2b5adffc-90e9-4355-bd07-037a2144a6a3?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 16:04:57 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:16.754158+00:00",
-      "content": "Fiscal drag is set to hit taxpayers harder than previously thought",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Budget in brief: what you need to know",
-      "link": "https://www.ft.com/content/0d5d33b5-a988-4692-b2e6-677d87f9bbb0?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 16:02:42 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:16.954360+00:00",
-      "content": "A quick guide to John Healey’s main policy announcements and official economic forecasts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey delivers a Budget with echoes of Reeves",
-      "link": "https://www.ft.com/content/24ba180a-e094-4aed-9e72-a54de87ce1ae?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 16:02:37 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:17.154543+00:00",
-      "content": "Chancellor’s ‘steady as she goes’ announcements seen as ‘a vindication’ of strategy set out by his predecessor",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "JetBlue tries to sweet-talk an unforgiving bond market",
-      "link": "https://www.ft.com/content/0713e1f0-770d-438e-b330-b5279f2f98af?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 15:22:17 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:17.354704+00:00",
-      "content": "Despite bond market sweet talk not usually being a very productive strategy, it’s hard to fault chief Joanna Geraghty for trying",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "European gas prices jump above €100 on fears of Iran war escalation",
-      "link": "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 14:53:27 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:17.554867+00:00",
-      "content": "Traders are also concerned by forecasts of cold winter at a time when gas storage levels are low",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
-      "link": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 13:44:00 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:18.155426+00:00",
-      "content": "Approach marks latest episode in investment firm’s longstanding involvement with the burger and shake company",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "We read Liz Truss’s book so you don’t have to",
-      "link": "https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945",
-      "published_date": "Wed, 28 Oct 2026 12:50:28 GMT",
-      "scrape_timestamp": "2026-10-28T16:53:18.555760+00:00",
-      "content": "Alternative histories aren’t always written by the victors",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Weil leadership tells partners firm should be dissolved",
       "link": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1",
       "published_date": "Wed, 28 Oct 2026 20:28:37 GMT",
@@ -145,44 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Federal Reserve holds rates steady despite worsening US inflation",
-      "link": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 16:51:06 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:10.928642+00:00",
-      "content": "Central bank to vote on monetary policy seven times next year in shift from longstanding practice of eight such meetings",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Google shares tumble 9% after $51bn AI outlay deepens cash burn",
       "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
       "published_date": "Wed, 28 Oct 2026 20:54:59 GMT",
       "scrape_timestamp": "2026-10-28T21:26:11.529156+00:00",
       "content": "Search giant missed estimates for revenue and profit as its search business undershot expectations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How Israel’s opposition fell short against Netanyahu",
-      "link": "https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3",
-      "published_date": "Wed, 28 Oct 2026 17:45:48 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:11.729330+00:00",
-      "content": "Those long opposed to the prime minister fear they have missed a historic opportunity to oust him",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Israel’s Arabs seek a slice of power",
-      "link": "https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 17:40:19 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:11.929510+00:00",
-      "content": "Arab parties are eyeing a record number of Knesset seats and potential kingmaker role after a surge in Palestinian Israeli votes",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -260,50 +95,6 @@
       "published_date": "Wed, 28 Oct 2026 19:07:11 GMT",
       "scrape_timestamp": "2026-10-28T21:26:15.155925+00:00",
       "content": "The government has behaved sensibly, even though its measures evoke little enthusiasm",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "HMRC prepares £1.3bn tax squeeze on self-employed",
-      "link": "https://www.ft.com/content/142690bf-4294-401f-a13a-81a8f4b70494?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 19:05:25 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:15.356078+00:00",
-      "content": "Move  is attempt to align their treatment with that of employees, whose tax is collected with each monthly payslip",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Let’s keep Isas simple",
-      "link": "https://www.ft.com/content/722c0e11-805a-4a0c-aeee-04545dae72cf?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 18:47:04 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:15.556278+00:00",
-      "content": "The chancellor has made welcome changes to tax-free saving and investing but could go further still",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Is that it?’: Opposition parties attack Healey for lack of ambition",
-      "link": "https://www.ft.com/content/de6a8b48-1afe-4ece-9d21-27160b2d97a4?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 18:42:16 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:15.756466+00:00",
-      "content": "Tories, Greens and Lib Dems dismiss chancellor’s first Budget as ‘nothing-burger’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain’s Budget buys time but ducks the hard choices",
-      "link": "https://www.ft.com/content/089b0e61-32bc-4f43-90a4-ceeb693c2dea?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 18:40:06 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:15.956653+00:00",
-      "content": "Healey’s low-key package sidesteps long-term fiscal and growth challenges",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3409,11 +3200,132 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Vance blames Iran war for crushing Republican midterms defeat",
+      "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 16:27:31 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:42.667963+00:00",
+      "content": "Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democrats debate how far to take their fight against Trump",
+      "link": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 15:43:36 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:42.868153+00:00",
+      "content": "Even with control of both the Senate and the House, Democratic legislation could still be obstructed by presidential veto",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The party’s over for the Trumpsterz",
+      "link": "https://www.ft.com/content/7a7f5d4f-8e82-48c2-be31-024f8b5a32d7?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 17:57:04 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:43.268523+00:00",
+      "content": "Dancing gives way to dejection at Florida festivities",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The beginning of the end of the age of Trump",
+      "link": "https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 17:42:56 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:43.468709+00:00",
+      "content": "A stunning rebuke by Americans offers a chance to start rebuilding US democracy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Oil tumbles below $100 on post-election peace hopes",
+      "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 17:47:07 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:43.668894+00:00",
+      "content": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The midterms have already cost Musk close to $30bn",
+      "link": "https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836",
+      "published_date": "Wed, 04 Nov 2026 13:23:30 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:44.870046+00:00",
+      "content": "🎻",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Blue wave sweeps markets back towards normality",
+      "link": "https://www.ft.com/content/fc404189-8dde-4dfe-8da7-0df8e92effd2?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 14:03:10 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:45.070240+00:00",
+      "content": "US midterm results may point to more restraints on the Trump administration",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Canadians welcome Democratic sweep in US midterm elections",
+      "link": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 18:34:21 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:45.813254+00:00",
+      "content": "Voters’ repudiation of Donald Trump’s agenda seen as a ‘victory’ for neighbour",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ukraine falls behind Moldova on path to EU membership",
+      "link": "https://www.ft.com/content/6ccf470f-176f-436f-baa7-e5ac6b4cf20f?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 16:30:45 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:47.414682+00:00",
+      "content": "Kyiv and Chisinau had applied together, but Brussels suggests different dates for completing membership talks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sequoia shuts London office as VC firm refocuses on Silicon Valley",
+      "link": "https://www.ft.com/content/a55bf156-1c61-4ff6-8c3c-5b8db837abd0?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 14:43:34 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:48.015211+00:00",
+      "content": "Retreat of high-profile tech investor is setback to UK’s hopes of positioning itself as leading player in the AI industry",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "In Rome’s Long Shadow — enduring lessons for how we are governed",
+      "link": "https://www.ft.com/content/63514fd3-a68d-42e3-8f9a-b373d1a84dbf",
+      "published_date": "Wed, 04 Nov 2026 13:25:40 GMT",
+      "scrape_timestamp": "2026-11-04T19:05:48.415553+00:00",
+      "content": "Jamie Gianoutsos’s lively history shows how ancient arguments about virtue and tyranny still haunt modern politics, from revolutionaries to modern democracies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-04T11:50:22.509711+00:00",
+  "last_updated": "2026-11-04T19:06:05.310287+00:00",
   "metadata": {
-    "total_runs": 3142,
+    "total_runs": 3143,
     "sources": [
       "Financial Times"
     ],
