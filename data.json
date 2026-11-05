@@ -2,138 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Google is eating itself — but it could still eat everyone else too",
-      "link": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 18:00:36 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:32.389167+00:00",
-      "content": "Leadership in the AI race can be won, lost and won again at speed",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
-      "link": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 17:58:14 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:34.190913+00:00",
-      "content": "Mikie Sherrill calls Trump’s deal with Putin ‘corrupt and illegal’ as she weighs moves to stop shipment to east coast port",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham’s Budget balancing act",
-      "link": "https://www.ft.com/content/8fca2e06-d9c3-4fa6-a432-f32fa9f9e263?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 19:34:15 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:35.065257+00:00",
-      "content": "The 2026 Budget: your questions answered",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Venezuela opposition leader hails Trump on return from exile",
-      "link": "https://www.ft.com/content/bc97b73d-2a7f-4873-b955-441abdf8f4a9",
-      "published_date": "Thu, 29 Oct 2026 18:59:02 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:35.265447+00:00",
-      "content": "María Corina Machado praises US president and secretary of state after Washington sets out timetable for elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "DoorDash buys Instacart just as AI rewrites the menu",
-      "link": "https://www.ft.com/content/13c96ad2-6aee-4c28-9f3c-d2ad9ca1c3d0?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 18:33:48 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:35.465614+00:00",
-      "content": "Combined company to have same share of the US online grocery market as Walmart",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Brazil politicians back away from Bolsonaro election fraud claims",
-      "link": "https://www.ft.com/content/fa67c9ad-882a-4713-a0be-de909c8f3f0a?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 18:29:18 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:35.665815+00:00",
-      "content": "Even some allies of the losing candidate reject complaints that Lula won unfairly",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The legacy of Christine Lagarde",
-      "link": "https://www.ft.com/content/374ec1a7-8fef-47ce-9723-c1e46f1e1b07?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 18:26:17 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:35.866031+00:00",
-      "content": "After a shaky start, the outgoing president leaves the ECB in solid shape",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "John Healey’s Budget spending plans strain credibility, economists warn",
-      "link": "https://www.ft.com/content/4cdfc27f-8780-475f-9eec-01086733c140?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 18:13:36 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:36.066238+00:00",
-      "content": "Leading think-tanks say chancellor’s pledge to slash deficit does not seem likely given pressures on public services and households",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey commits to set out benefits cuts this year",
-      "link": "https://www.ft.com/content/24a59c81-1e3d-4ff1-8856-2812f27985c3?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 18:10:58 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:36.266426+00:00",
-      "content": "Chancellor responds to criticism that Wednesday’s Budget rested on unrealistic spending assumptions",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Councils warn of limbo as ministers set out new delay to shake-up in England",
-      "link": "https://www.ft.com/content/9f5a08ce-1997-4e6c-bf05-b2f61c63edd4?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 17:27:24 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:37.067252+00:00",
-      "content": "A long-running attempt to scrap more than 100 local authorities will not be complete until 2029",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "NYSE owner’s tokenised stock plan hits hurdle as big companies object",
-      "link": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 16:42:40 GMT",
-      "scrape_timestamp": "2026-10-29T19:57:37.667819+00:00",
-      "content": "Alphabet, Oracle and Microsoft among 38 groups of a proposed 62 saying they do not want their stocks included",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Intel stock falls 20% as weak sales outlook dents turnaround",
-      "link": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 21:42:21 GMT",
-      "scrape_timestamp": "2026-10-29T23:46:31.351385+00:00",
-      "content": "Chipmaker forecasts lower than expected PC chip sales and falling margins",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Amazon shares slide on lower Christmas sales forecast",
       "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
       "published_date": "Thu, 29 Oct 2026 22:44:22 GMT",
@@ -156,33 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "What killed Weil Gotshal?",
-      "link": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 21:17:34 GMT",
-      "scrape_timestamp": "2026-10-29T23:46:31.951960+00:00",
-      "content": "Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Uproar in Alaska sparks Democratic fears for Senate majority",
       "link": "https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9?syn-25a6b1a6=1",
       "published_date": "Thu, 29 Oct 2026 22:06:19 GMT",
       "scrape_timestamp": "2026-10-29T23:46:32.752696+00:00",
       "content": "Campaign mishaps and infighting could undermine party’s push to take Republican strongholds",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
-      "link": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 18:55:08 GMT",
-      "scrape_timestamp": "2026-10-29T23:46:33.153285+00:00",
-      "content": "Darren Woods was scheduled to speak at the Adipec conference in Abu Dhabi on Monday",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -216,17 +62,6 @@
       "published_date": "Fri, 30 Oct 2026 02:54:12 GMT",
       "scrape_timestamp": "2026-10-30T03:35:39.292596+00:00",
       "content": "World’s biggest crypto exchange appears to have suffered one of the biggest security breaches in the digital asset industry",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Xi elevates general who led purge of China’s military",
-      "link": "https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 16:10:12 GMT",
-      "scrape_timestamp": "2026-10-30T03:35:39.893161+00:00",
-      "content": "Zhang Shengmin appointed to Communist Party politburo as it moves to tighten discipline and crack down on corruption",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3255,11 +3090,176 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
+      "link": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 21:07:55 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:02.313764+00:00",
+      "content": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tech leaders need an urgent rethink of their political strategy",
+      "link": "https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 19:04:55 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:02.714243+00:00",
+      "content": "America’s data centre backlash is emblematic of AI anxiety and a scepticism of the industry’s power and wealth",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will Democrats stall the AI boom?",
+      "link": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 20:28:44 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:02.914451+00:00",
+      "content": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI backlash threatens trillion-dollar data centre boom, say tech leaders",
+      "link": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 15:35:47 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:03.515107+00:00",
+      "content": "Executives at FT’s Future of AI summit admit tech industry has fuelled hostility towards its own expansion",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Los Angeles elects democratic socialist Nithya Raman as mayor",
+      "link": "https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 21:15:09 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:03.715346+00:00",
+      "content": "Win follows Zohran Mamdani’s rise in New York and resounding victories by other progressives in Washington and Providence",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wall Street mega-donors clobbered by Democratic sweep",
+      "link": "https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 19:48:28 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:04.516210+00:00",
+      "content": "Top hedge fund managers and private equity executives spent more than $300mn on Republican campaigns to little or no effect",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hedge fund Walleye hands back capital as it slims down equity business",
+      "link": "https://www.ft.com/content/fb02c333-a439-4acd-b0b6-e50633ce863e?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 19:15:04 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:06.283555+00:00",
+      "content": "Multi-strategy fund with $17bn in assets tells clients move comes after it endured worst month since coronavirus crisis",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Goldman Sachs elevates record number of engineers to coveted partner ranks",
+      "link": "https://www.ft.com/content/2f7eadc8-e01e-45df-8fcc-275e3e100558?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 18:57:46 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:06.683982+00:00",
+      "content": "Wall Street bank expands elite cohort as trading and dealmaking boom fuels profits",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK prepares to extend Palantir’s NHS contract as it draws up plans for potential replacement",
+      "link": "https://www.ft.com/content/bd35cc23-9c24-4ac5-8754-76ed8dd0c264?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 18:48:56 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:06.884228+00:00",
+      "content": "Ministers planning to not trigger break clause but instead pitch US company against British alternatives in fresh procurement process",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What Trump’s setback means for Britain",
+      "link": "https://www.ft.com/content/65ebfccc-1289-447d-9147-66c17a0e1f1f?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 18:45:05 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:07.084437+00:00",
+      "content": "Plus, is Labour softening on immigration?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russell Brand found guilty of rape and sexual assault",
+      "link": "https://www.ft.com/content/153ecf4a-bcf9-485e-ae7d-1f88af3e9361?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 18:43:57 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:07.284665+00:00",
+      "content": "Verdict on four counts marks dramatic downfall for comedian-turned-online polemicist",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bank rate rise ‘puts tracker mortgage trend at risk’",
+      "link": "https://www.ft.com/content/ed74a1e3-1d80-41dd-9404-2dee3015c162?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 18:20:18 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:07.484861+00:00",
+      "content": "Most fixed-rate borrowers are cushioned from the impact of this week’s decision but those coming off a five-year deal face a payment shock",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "More than 600,000 join latest protests in France",
+      "link": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 18:08:53 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:07.685076+00:00",
+      "content": "Demonstrations over cost of living on Thursday appeared to attract the biggest turnout since the movement began in September",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The UK-EU reset is a deal worth doing",
+      "link": "https://www.ft.com/content/ec6394d5-b4fb-4bf4-b231-300da1cd9bfb?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 17:55:34 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:07.885275+00:00",
+      "content": "But Britain’s hard-pressed universities should not be left worse off",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
+      "link": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 17:37:46 GMT",
+      "scrape_timestamp": "2026-11-05T21:43:08.285697+00:00",
+      "content": "First interest rate increase for three years accompanied by hawkish message that marks a sharp change in tone for the institution",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-05T15:56:31.301995+00:00",
+  "last_updated": "2026-11-05T21:43:26.045436+00:00",
   "metadata": {
-    "total_runs": 3146,
+    "total_runs": 3147,
     "sources": [
       "Financial Times"
     ],
