@@ -2,160 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Weil leadership tells partners firm should be dissolved",
-      "link": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 20:28:37 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:10.728473+00:00",
-      "content": "Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Google shares tumble 9% after $51bn AI outlay deepens cash burn",
-      "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 20:54:59 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:11.529156+00:00",
-      "content": "Search giant missed estimates for revenue and profit as its search business undershot expectations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Republicans seek to deflect Epstein anger on to Democrats",
-      "link": "https://www.ft.com/content/5835eefc-acb2-4e4e-9693-60f5c2467977?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 20:20:32 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:12.129690+00:00",
-      "content": "Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Microsoft cloud revenue beats expectations",
-      "link": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 21:02:43 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:12.329871+00:00",
-      "content": "Software group reports overall revenue rose 19% to $92.3bn in quarter to end of September",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oracle rallies after telling investors its AI bet will pay off sooner than expected",
-      "link": "https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 19:34:13 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:12.530048+00:00",
-      "content": "Database group projects $30bn in free cash flow by 2029 and will limit additional raising for data centre strategy to $20bn",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey praised business. The feeling was not mutual",
-      "link": "https://www.ft.com/content/1c9a9c4d-5f84-40e7-bd2f-fe55e9e0d3a7?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 19:51:11 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:14.155051+00:00",
-      "content": "While the Treasury issued supportive quotes from corporate stakeholders, other leaders said the package fell short",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "London cap for new first-time buyer scheme ‘needs urgent rethink’",
-      "link": "https://www.ft.com/content/bf6c30c1-aae3-44bd-95d2-079596dad895?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 19:29:56 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:14.755577+00:00",
-      "content": "Effectiveness of measures to help buyers on to the ladder called into question while interest rates are elevated, housing experts warn",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Chancellor’s Budget placates markets but delays crunch decisions",
-      "link": "https://www.ft.com/content/165e3954-19cc-469e-9eab-1557953bbb19?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 19:18:48 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:14.955761+00:00",
-      "content": "John Healey reassures gilt investors as he defers key choices on spending amid rising fiscal pressures",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey fiddles while the UK stagnates",
-      "link": "https://www.ft.com/content/2d14dcd5-090b-4995-b4ab-d2123b145445?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 19:07:11 GMT",
-      "scrape_timestamp": "2026-10-28T21:26:15.155925+00:00",
-      "content": "The government has behaved sensibly, even though its measures evoke little enthusiasm",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Fed holds fire on interest rates despite intensifying inflation",
-      "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 21:32:08 GMT",
-      "scrape_timestamp": "2026-10-29T01:24:09.031956+00:00",
-      "content": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump calls for Alaska Democratic candidate to be banned from Senate race",
-      "link": "https://www.ft.com/content/7526e915-2590-4b42-85df-20bb89040db8?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 22:28:24 GMT",
-      "scrape_timestamp": "2026-10-29T01:24:10.633452+00:00",
-      "content": "Report alleges that Mary Peltola’s campaign recruited other contenders to mislead Republican opponent’s supporters",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Flávio Bolsonaro claims fraud in Brazil’s presidential election",
-      "link": "https://www.ft.com/content/040c71ac-cef9-46b6-9ca1-aeaa01420d64?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 00:21:07 GMT",
-      "scrape_timestamp": "2026-10-29T01:24:10.833663+00:00",
-      "content": "But some allies of the loser in Sunday’s run-off, who has fled to the US, disown his allegations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "North Korean labour advertised online to Russian factories",
-      "link": "https://www.ft.com/content/cd2d6011-3c25-464f-bb81-2ef6d2c88f27",
-      "published_date": "Wed, 28 Oct 2026 23:04:11 GMT",
-      "scrape_timestamp": "2026-10-29T01:24:12.252651+00:00",
-      "content": "Report into worker pipeline sheds light on deepening economic ties between Moscow and Pyongyang",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Weil leadership tells partners firm should wind down",
-      "link": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e?syn-25a6b1a6=1",
-      "published_date": "Wed, 28 Oct 2026 22:02:51 GMT",
-      "scrape_timestamp": "2026-10-29T01:24:12.653009+00:00",
-      "content": "Also in today’s newsletter: Google shares tumble as cash burn deepens and dozens killed in Spain high-speed train crash",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "How Flávio Bolsonaro fled Brazil",
       "link": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1",
       "published_date": "Thu, 29 Oct 2026 05:00:30 GMT",
@@ -205,17 +51,6 @@
       "published_date": "Thu, 29 Oct 2026 06:30:00 GMT",
       "scrape_timestamp": "2026-10-29T07:49:01.085154+00:00",
       "content": "Plus, tech results and UK bank taxes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Debt woes throttle European commercial property market",
-      "link": "https://www.ft.com/content/b63e7df7-b135-42ed-98ce-417802cd935f?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 00:01:08 GMT",
-      "scrape_timestamp": "2026-10-29T07:49:01.285309+00:00",
-      "content": "Office transactions slide to lowest level since 2009 in third quarter",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3321,11 +3156,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How Democrats pulled off the blue wave in maps and charts",
+      "link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 19:12:33 GMT",
+      "scrape_timestamp": "2026-11-05T00:38:27.628781+00:00",
+      "content": "Party on track for largest swing in their favour in House elections in more than 75 years",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
+      "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 22:38:45 GMT",
+      "scrape_timestamp": "2026-11-05T00:38:28.229342+00:00",
+      "content": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Voters have put a helpful chill on the US data centre boom",
+      "link": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 18:33:54 GMT",
+      "scrape_timestamp": "2026-11-05T00:38:28.829855+00:00",
+      "content": "Midterm results could affect 45 per cent of planned expansion, but there is a silver lining for investors",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
+      "link": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 20:58:24 GMT",
+      "scrape_timestamp": "2026-11-05T00:38:29.030022+00:00",
+      "content": "Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Republican infighting erupts  after landslide midterms defeat",
+      "link": "https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 21:52:36 GMT",
+      "scrape_timestamp": "2026-11-05T00:38:30.236259+00:00",
+      "content": "Also in today’s newsletter: wiretapping scandal rocks Indonesia and Oracle cancels $7bn Tencent AI deal under Trump pressure",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Impeachments, Iran and the presidency: what’s next after the midterms?",
+      "link": "https://www.ft.com/content/18e00ce0-aef2-41e9-ab7f-8a5dd8a9c217?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 19:06:34 GMT",
+      "scrape_timestamp": "2026-11-05T00:38:31.437493+00:00",
+      "content": "A sweeping victory for Democrats has started a jostle for presidential hopefuls",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump diesel deal with Russia falters as US fuel supplies hit 20-year low",
+      "link": "https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1",
+      "published_date": "Wed, 04 Nov 2026 18:54:44 GMT",
+      "scrape_timestamp": "2026-11-05T00:38:31.637687+00:00",
+      "content": "Two tankers change course in setback to White House gambit to lower fuel prices and shore up political support",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-04T19:06:05.310287+00:00",
+  "last_updated": "2026-11-05T00:38:51.658787+00:00",
   "metadata": {
-    "total_runs": 3143,
+    "total_runs": 3144,
     "sources": [
       "Financial Times"
     ],
