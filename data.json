@@ -2,154 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 18:19:08 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:31.203559+00:00",
-      "content": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-      "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 18:44:53 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:31.603964+00:00",
-      "content": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The effects of a midterm ‘blue wave’ will be felt for years",
-      "link": "https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f",
-      "published_date": "Fri, 30 Oct 2026 17:00:04 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:32.004398+00:00",
-      "content": "Senate arithmetic in this electoral cycle could spell disaster for the Republicans",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
-      "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 20:16:47 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:34.190343+00:00",
-      "content": "The FT is tracking changes to the cost of living that will affect American voters",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Healey buys time with ‘pray and delay’ Budget as tough decisions lie ahead",
-      "link": "https://www.ft.com/content/31a3c465-54ab-409c-a59d-873117f143e7?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 18:20:41 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:34.390533+00:00",
-      "content": "Chancellor will have to make hard choices on welfare and defence as he prepares for pivotal spending review",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How AI might be deployed for better bank supervision",
-      "link": "https://www.ft.com/content/be6723d6-ab63-41ab-ac46-dc870c449da0?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 18:00:05 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:34.790932+00:00",
-      "content": "The technology could help tackle some of the cultural issues that contributed to the collapse of SVB",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How to return big cities to pedestrians",
-      "link": "https://www.ft.com/content/e8b9c03f-5741-4c81-a103-d888db7f0242?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 17:45:17 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:34.991133+00:00",
-      "content": "By closing part of Oxford Street to traffic, London is joining a wider trend",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Stick or treat",
-      "link": "https://www.ft.com/content/db8bd441-431c-4f2f-8b98-0876b234c7bf",
-      "published_date": "Fri, 30 Oct 2026 17:30:04 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:35.191315+00:00",
-      "content": "Central banks stuck to the script and kept rates on hold at their October meetings while laying the groundwork for further rate rises to come",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Apollo and Thrive capitalise on private equity’s generational shift",
-      "link": "https://www.ft.com/content/95480c09-5018-4400-b9c1-f2d53373a47c?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 17:24:07 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:35.391509+00:00",
-      "content": "By leaning into their new role as debt financiers, the old guard still have a lucrative place in the new financial order",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Lula, Brazil’s 81-year-old comeback kid",
-      "link": "https://www.ft.com/content/5726c4a2-61b7-4296-9c0a-89bf1630e09f?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 16:57:16 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:35.992025+00:00",
-      "content": "The four-time president has pulled off one of the greatest unexpected victories in modern democratic politics",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ducks at dawn: Maga and liberals unite in midterm foie gras battle",
-      "link": "https://www.ft.com/content/a7d0b547-88e3-4a30-953c-9490f7be1aa5?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 16:54:15 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:36.192212+00:00",
-      "content": "Washington political rivals form a united front to fight a measure banning the dish",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
       "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
       "published_date": "Sat, 31 Oct 2026 00:05:08 GMT",
       "scrape_timestamp": "2026-10-31T01:14:45.063683+00:00",
       "content": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town",
-      "link": "https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 16:37:08 GMT",
-      "scrape_timestamp": "2026-10-31T01:14:46.064735+00:00",
-      "content": "Many passengers on the Odyssey hoped to spend the rest of their lives at sea but high oil prices got in the way",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US greenlights $2.1bn sale of Patriot interceptors to Ukraine",
-      "link": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 21:28:58 GMT",
-      "scrape_timestamp": "2026-10-31T01:14:46.665413+00:00",
-      "content": "Volodymyr Zelenskyy had accused Trump administration of delaying the weapons as  relations deteriorated between the countries",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3200,11 +3057,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump taps immigration hardliner Stephen Miller as chief of staff",
+      "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 20:24:39 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:42.871674+00:00",
+      "content": "Decision to replace Susie Wiles comes days after Republican Party’s resounding midterm election defeat",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "James Talarico: the Democrats’ rising star who turned Texas blue",
+      "link": "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 17:23:03 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:43.272083+00:00",
+      "content": "The 37-year-old senator-elect combined Christian faith and anti-corruption messaging to give the left its first statewide win in decades",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+      "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 21:00:09 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:43.872685+00:00",
+      "content": "Claude-maker intends to list before Thanksgiving despite brutal tech rout",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+      "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 17:20:21 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:44.273076+00:00",
+      "content": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Voters take their pick in New Zealand’s ‘supermarket election’",
+      "link": "https://www.ft.com/content/1e80651b-14f3-4cf0-9b47-2f6dee158496?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 21:00:10 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:45.377489+00:00",
+      "content": "Christopher Luxon tries to hang on as cost of living crisis and high energy prices weigh on consumers",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ex-OpenAI employee accused of spying pleads not guilty",
+      "link": "https://www.ft.com/content/daee9cd2-3477-4fcc-859f-46acb9fdfbd9?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 20:47:31 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:45.777881+00:00",
+      "content": "Abdulrahman Alfozan, a Saudi Arabian national, was arrested last month after a bug was discovered in the AI lab’s office",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How will the midterm results change US politics? You asked, we answered",
+      "link": "https://www.ft.com/content/01048d5b-9886-4247-b14a-8c738edba5e3?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 19:02:43 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:46.378492+00:00",
+      "content": "The FT’s senior US columnists Edward Luce and Rana Foroohar replied to reader questions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wave of uncertainty",
+      "link": "https://www.ft.com/content/117c1690-2928-4652-b4d9-33c0be02b129",
+      "published_date": "Fri, 06 Nov 2026 18:30:08 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:46.979073+00:00",
+      "content": "The US political outlook has added an additional layer of complexity to the rate outlook",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "A new phase in the tech market correction",
+      "link": "https://www.ft.com/content/a91d70f1-d335-4d58-a6d8-1052658211ba?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 18:24:44 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:47.179274+00:00",
+      "content": "Investors are no longer pricing in accelerating AI growth",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "West End reports spending boost after Oxford Street bans cars and buses",
+      "link": "https://www.ft.com/content/d3d05f60-951d-4135-9342-c62c9f1f5839?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 18:15:49 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:47.379472+00:00",
+      "content": "Transactions on Barclays debit and credit cards increased 13% between October 26 and October 31, compared with same period last year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Musk wants to give stock to kids. What’s the problem?",
+      "link": "https://www.ft.com/content/6c9d92ac-eba0-47c0-b4db-d9d5226e9891",
+      "published_date": "Fri, 06 Nov 2026 18:00:10 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:47.579641+00:00",
+      "content": "The act is generous but there are reasons to wish it could be done in a different way",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU probes ‘fraud’ on Spain’s lethal high-speed rail line",
+      "link": "https://www.ft.com/content/888d77c4-c771-4390-95ef-efcee413ef32?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 17:47:55 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:47.980040+00:00",
+      "content": "Accidents have claimed the lives of 115 people on Madrid-Seville route this year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tesla’s Cybertruck is a masterclass in failing upwards",
+      "link": "https://www.ft.com/content/675d9559-acb0-49a0-8108-f7dc433176fc?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 17:38:41 GMT",
+      "scrape_timestamp": "2026-11-06T21:52:48.180258+00:00",
+      "content": "Musk wasn’t so hot when it came to selling a pick-up truck, but he still knows how to sell himself",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-06T16:29:45.650634+00:00",
+  "last_updated": "2026-11-06T21:53:03.451904+00:00",
   "metadata": {
-    "total_runs": 3150,
+    "total_runs": 3151,
     "sources": [
       "Financial Times"
     ],
