@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Amazon shares slide on lower Christmas sales forecast",
-      "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 22:44:22 GMT",
-      "scrape_timestamp": "2026-10-29T23:46:31.551563+00:00",
-      "content": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Starbucks to resume share buybacks but China shift clouds growth outlook",
-      "link": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 21:54:08 GMT",
-      "scrape_timestamp": "2026-10-29T23:46:31.751769+00:00",
-      "content": "US same-store sales rise 7.7% as CEO touts progress in coffee chain turnaround",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Uproar in Alaska sparks Democratic fears for Senate majority",
-      "link": "https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 22:06:19 GMT",
-      "scrape_timestamp": "2026-10-29T23:46:32.752696+00:00",
-      "content": "Campaign mishaps and infighting could undermine party’s push to take Republican strongholds",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Swedish academic claims he has been barred from UK over pro-Palestinian views",
-      "link": "https://www.ft.com/content/f67fafcb-9ac8-436c-a5e6-b3fbc04ab6e6?syn-25a6b1a6=1",
-      "published_date": "Thu, 29 Oct 2026 22:35:48 GMT",
-      "scrape_timestamp": "2026-10-29T23:46:34.410202+00:00",
-      "content": "Climate activist Andreas Malm, author of ‘How to Blow Up a Pipeline’, was due to speak alongside Palestine Action co-founder next week",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Has Australia’s push for lower house prices gone too far?",
-      "link": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 00:21:27 GMT",
-      "scrape_timestamp": "2026-10-30T03:35:38.892224+00:00",
-      "content": "Canberra wanted to cool one of the world’s hottest property markets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Binance halts withdrawals after $6.3bn hack",
       "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
       "published_date": "Fri, 30 Oct 2026 02:54:12 GMT",
@@ -3255,11 +3200,77 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’",
+      "link": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 21:57:51 GMT",
+      "scrape_timestamp": "2026-11-06T01:55:17.391040+00:00",
+      "content": "Unpredictable electorates can lead to overcorrecting after presidential elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China’s tech megacity cleans up seedy underbelly for Apec summit",
+      "link": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 01:11:27 GMT",
+      "scrape_timestamp": "2026-11-06T01:55:18.091281+00:00",
+      "content": "Shenzhen clears out illicit markets for smuggled chips and stolen iPhones as it prepares to host gathering of international leaders",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US lawmakers summon Jensen Huang over Chinese spying concerns",
+      "link": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 00:59:03 GMT",
+      "scrape_timestamp": "2026-11-06T01:55:18.291485+00:00",
+      "content": "Top Republicans ask Nvidia boss to brief congressional committees after reports he was targeted by China",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Merge police into 10 larger forces, says Met chief",
+      "link": "https://www.ft.com/content/aa2f03e3-e73e-48c2-b183-610fa00051e1?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 00:01:01 GMT",
+      "scrape_timestamp": "2026-11-06T01:55:18.491676+00:00",
+      "content": "Sir Mark Rowley wants the existing 43 forces in England and Wales to be consolidated into bigger and more effective units",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Job adverts will have to publish salaries, ministers say",
+      "link": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 22:30:00 GMT",
+      "scrape_timestamp": "2026-11-06T01:55:18.892076+00:00",
+      "content": "Move, intended to reduce pay inequalities, could end vague references to ‘competitive salary’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Wall Street sheds $3.2tn as Democratic midterm landslide upends AI bet",
+      "link": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
+      "published_date": "Thu, 05 Nov 2026 21:55:36 GMT",
+      "scrape_timestamp": "2026-11-06T01:55:19.492698+00:00",
+      "content": "Also in today’s newsletter: China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division and Blue Origin delays launches until 2027",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-05T21:43:26.045436+00:00",
+  "last_updated": "2026-11-06T01:55:36.100748+00:00",
   "metadata": {
-    "total_runs": 3147,
+    "total_runs": 3148,
     "sources": [
       "Financial Times"
     ],
