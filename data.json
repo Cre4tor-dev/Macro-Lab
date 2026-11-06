@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Binance halts withdrawals after $6.3bn hack",
-      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 02:54:12 GMT",
-      "scrape_timestamp": "2026-10-30T03:35:39.292596+00:00",
-      "content": "World’s biggest crypto exchange appears to have suffered one of the biggest security breaches in the digital asset industry",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why Trump’s tech dreams are quietly crumbling",
-      "link": "https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 05:00:13 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:45.549254+00:00",
-      "content": "Tariffs, immigration restrictions and skilled labour shortages make it hard for the US to boost production",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘A pile of muscle’: Trump closes midterm pitch with surreal messaging",
-      "link": "https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 05:00:13 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:45.749480+00:00",
-      "content": "Voters want lower prices. Trump has other things on his mind, like backsides and the Nobel Peace Prize",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
-      "link": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 05:00:13 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:45.949671+00:00",
-      "content": "Nvidia-backed neocloud bets on West Virginia data centre campus hit by construction issues, local opposition and financing risks",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Global tech rout deepens as US earnings stoke AI spending fears",
-      "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 08:36:31 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:46.149837+00:00",
-      "content": "Wall Street heads for steep losses at Friday’s open after Amazon results disappoint",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
       "link": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
       "published_date": "Fri, 30 Oct 2026 10:00:02 GMT",
@@ -73,17 +18,6 @@
       "published_date": "Fri, 30 Oct 2026 10:07:11 GMT",
       "scrape_timestamp": "2026-10-30T10:34:46.550127+00:00",
       "content": "Despite the weakness in the Eurozone’s second-largest economy, growth in the 21-country bloc was better than expected",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Europe divided over how to influence US-Russia talks",
-      "link": "https://www.ft.com/content/ba3a2569-3ff1-4bdc-aa78-657efbd13716?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 05:00:21 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:46.750302+00:00",
-      "content": "Fears of continent being sidelined in Ukraine peace negotiations prompt disjointed outreach to Vladimir Putin",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -150,72 +84,6 @@
       "published_date": "Fri, 30 Oct 2026 08:50:07 GMT",
       "scrape_timestamp": "2026-10-30T10:34:49.029009+00:00",
       "content": "Lender Nationwide says rising mortgage rates continued to hit demand in the third quarter",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bank of Japan holds rates and guides to further tightening",
-      "link": "https://www.ft.com/content/0c1f7cbb-c893-4563-b3b4-f63df47ea5e5",
-      "published_date": "Fri, 30 Oct 2026 08:34:32 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:49.429376+00:00",
-      "content": "Central bank says that inflationary dynamics have finally taken root in the Japanese economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Lagarde’s early departure triggers race to solve three-way ECB puzzle",
-      "link": "https://www.ft.com/content/9c46421e-d23c-4674-80ad-4cf63897d22e?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 06:00:02 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:49.629583+00:00",
-      "content": "Also in this newsletter: the cyber threat from North Korea",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "A half-dozen Halloween charts to haunt and horrify investors",
-      "link": "https://www.ft.com/content/8d03cff5-3ed0-44c7-840b-b8414b1248bc",
-      "published_date": "Fri, 30 Oct 2026 06:00:01 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:49.829782+00:00",
-      "content": "Warning: may contain graph(ic) content",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "What moves hyperscaler stocks?",
-      "link": "https://www.ft.com/content/e7f0fb01-fc76-4330-9015-e53096585a5a?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 05:30:01 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:50.029970+00:00",
-      "content": "Plus the ECB",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The last days of Weil",
-      "link": "https://www.ft.com/content/b9e465c5-acab-4165-a17a-310e748fd641?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 05:00:31 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:50.230163+00:00",
-      "content": "The firm was brought down by a mercenary culture that has emerged in Big Law in recent years",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oil spills from Iran’s tanker attacks wash up on UAE beaches",
-      "link": "https://www.ft.com/content/2ae8d419-e495-4aa9-9b00-361770a32242?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 05:00:22 GMT",
-      "scrape_timestamp": "2026-10-30T10:34:50.430354+00:00",
-      "content": "Tehran has stepped up strikes on vessels in Strait of Hormuz in the past month, leading to a trail of pollution",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -414,17 +282,6 @@
       "published_date": "Fri, 30 Oct 2026 18:44:53 GMT",
       "scrape_timestamp": "2026-10-30T21:14:31.603964+00:00",
       "content": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The trouble with small nuclear reactors",
-      "link": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 05:00:03 GMT",
-      "scrape_timestamp": "2026-10-30T21:14:31.804180+00:00",
-      "content": "Proponents believe the technology is central to the AI data centre boom. Others think it is a waste of time and money",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3266,11 +3123,176 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wall Street AI sell-off spreads to Asia and Europe",
+      "link": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0",
+      "published_date": "Fri, 06 Nov 2026 07:39:22 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:01.441041+00:00",
+      "content": "Donald Trump blames voters for sell-off as investors fear Democrats will slow data centre build-out after midterms",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Is the AI stock bubble finally bursting?",
+      "link": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 07:11:18 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:01.641259+00:00",
+      "content": "Any reasonable person can see the hallmarks of an unsustainable party in markets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "America turns on Trump’s tech cheerleaders",
+      "link": "https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 05:00:14 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:01.841482+00:00",
+      "content": "Silicon Valley elites and AI executives plot new political strategy after alliance with US president backfires in midterms",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Blue wave’ hopes for US economic change are likely to be disappointed",
+      "link": "https://www.ft.com/content/880c8ba8-2967-4d7a-87fb-d34135c676d8?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 05:00:14 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:02.041681+00:00",
+      "content": "A shift in the composition of Congress will have little impact on policymaking in the remainder of Trump’s term",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Who is in the line of fire after the midterm drubbing?",
+      "link": "https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 05:00:14 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:02.241896+00:00",
+      "content": "The Trump administration reckons with the Democratic Party’s emphatic victory in the US midterms",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran celebrates Trump’s election defeat as mediators push for deal to end war",
+      "link": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 05:00:14 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:03.243010+00:00",
+      "content": "Regional negotiators, led by Qatar, have stepped up efforts to broker an interim agreement between Washington and Tehran",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos",
+      "link": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 08:00:24 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:03.908180+00:00",
+      "content": "‘Complete carnage’ as Nikkei 225 and Topix indices drop nearly 6% in flight from AI trade",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Putin orders seizure of Japan Tobacco’s Russian business",
+      "link": "https://www.ft.com/content/5397eabe-5c04-4851-a216-9a269f69682c?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 07:32:38 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:04.308593+00:00",
+      "content": "Expropriation of market’s largest cigarette company set to further strain ties between Moscow and Tokyo",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The sell-off gets deep",
+      "link": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 06:30:04 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:04.508758+00:00",
+      "content": "But not broad, yet",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "IEA chief predicts climate action comeback ahead of COP31 summit",
+      "link": "https://www.ft.com/content/44d83edf-de3b-4a4c-81d0-0a9029e7f46e?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 06:00:04 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:04.708974+00:00",
+      "content": "Also in this newsletter: Nato launches online marketplace to speed up anti-drone purchases",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ark Invest wants to bring some ‘disruptive innovation’ to interval funds",
+      "link": "https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0",
+      "published_date": "Fri, 06 Nov 2026 06:00:04 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:04.909203+00:00",
+      "content": "Tokenised, exchange-traded interval funds with venture capital exposure and hedge fund-level fees. What could go wrong?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Farage backtracks on Iran war after Trump prediction falls flat",
+      "link": "https://www.ft.com/content/7158f9d1-94b2-404f-b26e-7ebbf8cd1169?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 05:00:14 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:05.509785+00:00",
+      "content": "Reform UK leader’s friendship with the US president has long been seen by opponents as a liability",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The post-midterms playbook for America Inc",
+      "link": "https://www.ft.com/content/9e62d62b-a464-42fb-b425-553b2364fa98?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 05:00:14 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:05.910225+00:00",
+      "content": "Robust institutions have been and always will be the bedrock of US capitalism",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The AI gamble strains for more cash",
+      "link": "https://www.ft.com/content/4e0dbca4-5917-483f-b524-8b8a2b4c54b2?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 05:00:14 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:06.510821+00:00",
+      "content": "But true believers in the technology are still angling to spend tens or hundreds of billions of dollars",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran-linked ships hover over subsea cables after threats",
+      "link": "https://www.ft.com/content/492b2c62-8e15-47b3-bf24-842ae62e7217?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 05:00:04 GMT",
+      "scrape_timestamp": "2026-11-06T08:46:06.711020+00:00",
+      "content": "Vessels lurk above underwater connections traversing Gulf of Oman as Tehran says it could strike digital infrastructure",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-06T01:55:36.100748+00:00",
+  "last_updated": "2026-11-06T08:46:21.663326+00:00",
   "metadata": {
-    "total_runs": 3148,
+    "total_runs": 3149,
     "sources": [
       "Financial Times"
     ],
