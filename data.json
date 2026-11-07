@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Evacuees from Russian-occupied city arrive in Ukraine",
-      "link": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1",
-      "published_date": "Sat, 31 Oct 2026 15:17:34 GMT",
-      "scrape_timestamp": "2026-10-31T18:55:33.651628+00:00",
-      "content": "Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Michigan feud threatens Democratic unity in key Senate race",
       "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
       "published_date": "Sat, 31 Oct 2026 23:57:07 GMT",
@@ -3156,11 +3145,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society",
+      "link": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1",
+      "published_date": "Sat, 07 Nov 2026 17:42:41 GMT",
+      "scrape_timestamp": "2026-11-07T19:44:15.013266+00:00",
+      "content": "Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-07T15:16:23.128526+00:00",
+  "last_updated": "2026-11-07T19:44:33.023979+00:00",
   "metadata": {
-    "total_runs": 3154,
+    "total_runs": 3155,
     "sources": [
       "Financial Times"
     ],
