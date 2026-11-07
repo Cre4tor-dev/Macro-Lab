@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-      "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-      "published_date": "Sat, 31 Oct 2026 00:05:08 GMT",
-      "scrape_timestamp": "2026-10-31T01:14:45.063683+00:00",
-      "content": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Donald Trump’s endgame",
       "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
       "published_date": "Sat, 31 Oct 2026 05:00:20 GMT",
@@ -51,17 +40,6 @@
       "published_date": "Sat, 31 Oct 2026 05:00:31 GMT",
       "scrape_timestamp": "2026-10-31T07:45:03.714850+00:00",
       "content": "Steep fall in Brazilian real has made the country’s exports more competitive, undermining pricing power for farmers in other countries",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Poland suspends top judges as battle over rule of law escalates",
-      "link": "https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1",
-      "published_date": "Fri, 30 Oct 2026 23:32:09 GMT",
-      "scrape_timestamp": "2026-10-31T07:45:04.115204+00:00",
-      "content": "President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3200,11 +3178,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
+      "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
+      "published_date": "Fri, 06 Nov 2026 22:00:56 GMT",
+      "scrape_timestamp": "2026-11-07T01:27:11.161194+00:00",
+      "content": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-06T21:53:03.451904+00:00",
+  "last_updated": "2026-11-07T01:27:30.577380+00:00",
   "metadata": {
-    "total_runs": 3151,
+    "total_runs": 3152,
     "sources": [
       "Financial Times"
     ],
