@@ -2,138 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Junk debt rout sparks ‘bloodbath’ for credit investors",
-      "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 14:54:55 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:47.373425+00:00",
-      "content": "Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Weil Gotshal: what happens now at the troubled Wall St law firm?",
-      "link": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:47.974110+00:00",
-      "content": "The New York legal powerhouse is shutting down after 95 years in business after an exodus of top talent",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump makes final pitch to restive voters in midterms campaign",
-      "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 14:51:29 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:48.174317+00:00",
-      "content": "Republican Party is defending its control of Congress against signs of a backlash to the president",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Gen Z protests turn violent in Germany",
-      "link": "https://www.ft.com/content/4ffb1a86-853b-4151-9902-2ff302e79d24?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 11:36:55 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:48.574681+00:00",
-      "content": "Young demonstrators clash with police in Berlin and shops are looted in Frankfurt in echo of last month’s French riots",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Binance restarts customer withdrawals after $6.3bn heist",
-      "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 12:16:57 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:48.975033+00:00",
-      "content": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Unions hit out after Healey signals delay to youth minimum wage pledge",
-      "link": "https://www.ft.com/content/97c97295-a35a-45b6-9e6b-29ca836fa3c2?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 14:50:27 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:49.860429+00:00",
-      "content": "Chancellor warned against pursuing ‘trade-offs’ between jobs and wages after he declines to commit to 2024 vow",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain’s welfare ratchet",
-      "link": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:50.060629+00:00",
-      "content": "Political incentives, rising expectations of state support and deeper economic failures make the benefits system hard to rein in",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will US jobs growth remain subdued?",
-      "link": "https://www.ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:50.461031+00:00",
-      "content": "Market Questions is the FT’s guide to the week ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "America needs a real Congress",
-      "link": "https://www.ft.com/content/2f1b9cd5-4b6c-4e21-9e16-dcbfe7ecbd3e?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:50.661205+00:00",
-      "content": "Trump has faced little scrutiny. The midterm elections could change that",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US critical minerals push delivers a gold rush — for Washington lobbyists",
-      "link": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 12:00:01 GMT",
-      "scrape_timestamp": "2026-11-01T15:35:50.861394+00:00",
-      "content": "Billions in government backing have produced a flurry of deals but little increase in domestic production",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Inside the leaderless movement set to govern Serbia",
-      "link": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 16:12:16 GMT",
-      "scrape_timestamp": "2026-11-01T19:58:26.429886+00:00",
-      "content": "Secretive ‘plenums’, code names based on Teletubbies, and fury over corruption: how student rebels won a parliamentary victory",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France and the UK require a new entente",
-      "link": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
-      "published_date": "Sun, 01 Nov 2026 16:00:02 GMT",
-      "scrape_timestamp": "2026-11-01T19:58:26.830290+00:00",
-      "content": "The Suez crisis offers valuable lessons on troubled relations since the birth of the European project",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
       "link": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
       "published_date": "Sun, 01 Nov 2026 18:02:52 GMT",
@@ -3101,11 +2969,110 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Republican infighting mounts over corruption claims after midterms wipeout",
+      "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 12:51:25 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:16.966457+00:00",
+      "content": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "A new economic agenda for America",
+      "link": "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c",
+      "published_date": "Sun, 08 Nov 2026 16:00:00 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:17.567061+00:00",
+      "content": "Pro-growth policies on their own won’t address the concerns of voters worried about the cost of living",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
+      "link": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 11:00:09 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:18.167672+00:00",
+      "content": "AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How each country’s emissions compare",
+      "link": "https://www.ft.com/content/9dfb0201-ef77-4c05-93cd-1e277c7017cf?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 14:36:08 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:19.041327+00:00",
+      "content": "A searchable dashboard of 197 countries’ historical emissions and future climate targets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sequoia’s new chiefs sweep away last remnants of Botha era",
+      "link": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 14:00:00 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:19.241507+00:00",
+      "content": "Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Dublin launches ‘blueprint’ for united Ireland",
+      "link": "https://www.ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 13:49:18 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:19.441703+00:00",
+      "content": "Coalition party’s scenario planning puts first-year cost of reunification at €3bn to €25bn while prime minister announces government unit to inform debate",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK culture secretary Lisa Nandy questions whether rejoining EU is a ‘choice we have’",
+      "link": "https://www.ft.com/content/1401fe6f-52a2-4639-bed3-67cc828085f1?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 12:30:28 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:19.842090+00:00",
+      "content": "PM Andy Burnham has said he wants debate about Britain’s long-term relationship with Brussels",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
+      "link": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 12:16:02 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:20.042290+00:00",
+      "content": "Tower hosting Saudi Arabia’s state-owned oil major hit by shrapnel in King Abdullah Financial District on Sunday",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Data says the unsaid about British welfare politics",
+      "link": "https://www.ft.com/content/62bc1938-d7ea-4be0-a5de-ec9735343009?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 12:00:11 GMT",
+      "scrape_timestamp": "2026-11-08T16:51:20.242486+00:00",
+      "content": "Both Labour and the Conservatives owe their majorities to claimants, just different kinds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-08T10:54:18.481720+00:00",
+  "last_updated": "2026-11-08T16:51:35.063228+00:00",
   "metadata": {
-    "total_runs": 3158,
+    "total_runs": 3159,
     "sources": [
       "Financial Times"
     ],
