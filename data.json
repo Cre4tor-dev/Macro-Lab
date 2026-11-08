@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Michigan feud threatens Democratic unity in key Senate race",
-      "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-      "published_date": "Sat, 31 Oct 2026 23:57:07 GMT",
-      "scrape_timestamp": "2026-11-01T01:39:52.981321+00:00",
-      "content": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals",
-      "link": "https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 01:00:06 GMT",
-      "scrape_timestamp": "2026-11-01T01:39:53.782039+00:00",
-      "content": "Archion chief says repair network offers competitive strength  after Thai floods bring service quality to fore",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Russia forced to ship grain via Arctic as Black Sea battles rage",
       "link": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1",
       "published_date": "Sun, 01 Nov 2026 05:00:09 GMT",
@@ -3180,9 +3158,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-07T23:15:42.839597+00:00",
+  "last_updated": "2026-11-08T03:27:44.043710+00:00",
   "metadata": {
-    "total_runs": 3156,
+    "total_runs": 3157,
     "sources": [
       "Financial Times"
     ],
