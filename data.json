@@ -2,72 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
-      "link": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 18:02:52 GMT",
-      "scrape_timestamp": "2026-11-01T19:58:27.630951+00:00",
-      "content": "Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Blue Lagoon owner plans to float as Icelandic tourism booms",
-      "link": "https://www.ft.com/content/6a3c6f12-cada-4368-8aad-4deb4db13fcb?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 18:00:03 GMT",
-      "scrape_timestamp": "2026-11-01T19:58:28.031384+00:00",
-      "content": "Owner of famed geothermal baths wants to raise money for its growth plans including a mountain retreat",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bulgarians projected to re-elect pro-Russian president",
-      "link": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 19:00:09 GMT",
-      "scrape_timestamp": "2026-11-01T19:58:28.609854+00:00",
-      "content": "Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump faces the voters",
-      "link": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 18:15:05 GMT",
-      "scrape_timestamp": "2026-11-01T19:58:29.010212+00:00",
-      "content": "US midterm elections, Bank of England interest rate decision, John Ternus hosts first earnings call as Apple chief",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "*SOLD OUT* The FT Alphaville Pub Quiz returns to New York City on 17 November",
-      "link": "https://www.ft.com/content/bf03380a-3193-4342-b300-bcbfd8f51187",
-      "published_date": "Sun, 01 Nov 2026 18:01:31 GMT",
-      "scrape_timestamp": "2026-11-01T19:58:29.410600+00:00",
-      "content": "Fun times this way ↓↓↓",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain to offer cheaper university fees to EU students at ‘reset’ summit",
-      "link": "https://www.ft.com/content/1bcb60e3-8fd7-495d-9482-f59ce64d534e?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 17:00:02 GMT",
-      "scrape_timestamp": "2026-11-01T19:58:29.610806+00:00",
-      "content": "Since Brexit, European students have paid international tuition rates at UK universities",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "What’s the risk of political violence? | Martin Wolf on the US midterms",
       "link": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972?syn-25a6b1a6=1",
       "published_date": "Sun, 01 Nov 2026 22:35:19 GMT",
@@ -3068,11 +3002,66 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 20:19:02 GMT",
+      "scrape_timestamp": "2026-11-08T20:53:11.707097+00:00",
+      "content": "Tech company opens investigation into CEO as he confirms extramarital relationship in internal message to employees",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
+      "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 18:10:24 GMT",
+      "scrape_timestamp": "2026-11-08T20:53:12.708118+00:00",
+      "content": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Companies House faces scrutiny over ‘pervasive and systemic’ errors",
+      "link": "https://www.ft.com/content/1b67f9c7-b1ad-4b5b-b496-ac3a305ec841?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 19:00:02 GMT",
+      "scrape_timestamp": "2026-11-08T20:53:13.868314+00:00",
+      "content": "Almost four in 10 businesses identify inconsistencies with their own records, calling official UK corporate register’s reliability into question",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
+      "link": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 18:15:02 GMT",
+      "scrape_timestamp": "2026-11-08T20:53:14.068502+00:00",
+      "content": "Trilateral peace talks in Abu Dhabi, new Knesset in Jerusalem, COP31 opens in Turkey",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will US inflation data ease affordability concerns?",
+      "link": "https://www.ft.com/content/3d46dfb4-eef8-4ea0-9264-282bd269647e?syn-25a6b1a6=1",
+      "published_date": "Sun, 08 Nov 2026 16:20:06 GMT",
+      "scrape_timestamp": "2026-11-08T20:53:14.468852+00:00",
+      "content": "Market Questions is the FT’s guide to the week ahead",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-08T16:51:35.063228+00:00",
+  "last_updated": "2026-11-08T20:53:32.280382+00:00",
   "metadata": {
-    "total_runs": 3159,
+    "total_runs": 3160,
     "sources": [
       "Financial Times"
     ],
