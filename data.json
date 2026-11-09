@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
-      "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 09:40:58 GMT",
-      "scrape_timestamp": "2026-11-02T11:51:16.517130+00:00",
-      "content": "US tech stocks set to start week higher following bruising rout",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "European supermarket freezers hit just weeks after French cyber attack",
-      "link": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 09:49:26 GMT",
-      "scrape_timestamp": "2026-11-02T11:51:17.317721+00:00",
-      "content": "Retailers in Sweden and Belgium report units overheating to as high as 55C in dozens of stores",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Alstom shares tumble 28% after train maker cuts profit forecast",
-      "link": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 08:16:32 GMT",
-      "scrape_timestamp": "2026-11-02T11:51:17.517872+00:00",
-      "content": "French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Can the Democrats win the Senate?",
-      "link": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 10:11:05 GMT",
-      "scrape_timestamp": "2026-11-02T11:51:17.993275+00:00",
-      "content": "The races, the money and the issues that will determine the final half of Trump’s second term",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Andy Burnham must show his hand on migration, welfare and the EU",
-      "link": "https://www.ft.com/content/bebd1fd1-8094-4cd1-a5f1-51c23ce59b59?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 09:30:08 GMT",
-      "scrape_timestamp": "2026-11-02T11:51:18.393563+00:00",
-      "content": "After a phoney war leading up to the Budget, big decisions in the next few months will define his government",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
       "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
       "published_date": "Mon, 02 Nov 2026 20:38:05 GMT",
@@ -73,50 +18,6 @@
       "published_date": "Mon, 02 Nov 2026 20:12:26 GMT",
       "scrape_timestamp": "2026-11-02T21:05:32.489544+00:00",
       "content": "Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Donald Trump’s imperial presidency faces a popular uprising",
-      "link": "https://www.ft.com/content/7ee57da7-9687-4ceb-8057-d5afab78d728?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 16:18:15 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:32.889931+00:00",
-      "content": "Voters have grown weary of the president’s monument-building at a time of high living costs",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How Putin has split the west",
-      "link": "https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 12:47:36 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:33.090119+00:00",
-      "content": "Three different camps have emerged within the western alliance on how to deal with Russia",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Fox News suffers sharp drop in ratings as US elections approach",
-      "link": "https://www.ft.com/content/f1d46023-f199-4822-bd76-293afde613b3?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 14:55:01 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:33.490489+00:00",
-      "content": "Lachlan Murdoch blames ‘viewer fatigue’ as CNN and MS NOW expand viewership",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
-      "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 16:31:21 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:33.890893+00:00",
-      "content": "Claude maker’s infrastructure costs rise faster than revenues, as investors scrutinise economics of AI boom",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -183,39 +84,6 @@
       "published_date": "Mon, 02 Nov 2026 18:09:59 GMT",
       "scrape_timestamp": "2026-11-02T21:05:36.181823+00:00",
       "content": "The head of the Central Elections Committee has insisted the elections were ‘conducted properly’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The inconvenient truths of Nixon’s legacy",
-      "link": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 17:06:19 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:36.782395+00:00",
-      "content": "Maga supporters would do well to ponder his economic shadow, which continues to do damage today",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Big Food faces a multibillion-dollar health check",
-      "link": "https://www.ft.com/content/3b0a8555-b00b-4132-bc30-61c61cd967f2?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 16:33:37 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:37.182764+00:00",
-      "content": "Makers of ultra-processed foods are under pressure as the US government steps up efforts to reduce the causes of preventable ill-health",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "AI build-out forecasts are increasingly reliant on Elon Musk telling the truth",
-      "link": "https://www.ft.com/content/9cd0e738-2f1b-42cc-b1ca-d2c8675d7d34",
-      "published_date": "Mon, 02 Nov 2026 16:23:31 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:37.382942+00:00",
-      "content": "Everything you always wanted to know about SpaceX (but were afraid to ask)",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3068,11 +2936,198 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+      "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 15:35:45 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:11.044609+00:00",
+      "content": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia shares fall as it probes alleged Chinese spy scandal",
+      "link": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 15:36:56 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:11.244830+00:00",
+      "content": "Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
+      "link": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 17:02:52 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:11.445054+00:00",
+      "content": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump, Putin and the short war illusion",
+      "link": "https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 12:24:59 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:11.645255+00:00",
+      "content": "The American and Russian leaders have both launched failed wars. Will Xi Jinping learn the right lesson?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democrats need to use the power of the purse",
+      "link": "https://www.ft.com/content/84b7d689-523f-45f8-9f91-897b1e952083",
+      "published_date": "Mon, 09 Nov 2026 16:17:07 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:11.845427+00:00",
+      "content": "Through using their strengths on spending, they can stymie and reverse much of Trump’s agenda",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump was ‘only kidding’ about asking UFC boss to be spokesperson",
+      "link": "https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 01:15:06 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:12.245727+00:00",
+      "content": "US president caused a media flurry by announcing he had invited Dana White to be White House press secretary",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia rations petrol after new Ukrainian strikes on refineries",
+      "link": "https://www.ft.com/content/ae06452b-3447-4fee-bd94-355cd324d1c5?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 16:37:52 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:12.445938+00:00",
+      "content": "State-owned Rosneft limits sales to 30 litres per car in cities and 50 litres on highways",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Germany issues ultimatum to secure Ukraine funding",
+      "link": "https://www.ft.com/content/ec66a5d6-70f1-47fc-b573-067dd96dc913?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 14:09:33 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:12.646143+00:00",
+      "content": "Chancellor Friedrich Merz threatens to withhold agreement on EU’s next budget unless bloc can unanimously agree on additional financial support for Kyiv",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Equity volatility is maybe a bit sort-of back",
+      "link": "https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113",
+      "published_date": "Mon, 09 Nov 2026 15:07:46 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:13.046545+00:00",
+      "content": "Sweat Vix and chill",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Alberta leader faces backlash after winning referendum to remain in Canada",
+      "link": "https://www.ft.com/content/35a315a6-f3bb-4673-a65d-81a17114a208?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 11:00:06 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:13.246744+00:00",
+      "content": "Danielle Smith accused of ‘betrayal’ by rightwing separatists and of immigration fear-mongering by leftwing opposition",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’",
+      "link": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 16:35:18 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:13.970509+00:00",
+      "content": "Brent crude extended last week’s losses that followed Republicans’ historic midterms defeat",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The UK Treasury needs to keep consumers front and centre",
+      "link": "https://www.ft.com/content/a27d67b9-7da0-438a-a9e7-c8567f123095?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 15:18:37 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:14.971289+00:00",
+      "content": "The Financial Services and Markets Bill sees the pendulum swinging purposefully towards deregulation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russell Brand jailed for 10 years and six months for rape and sexual assault",
+      "link": "https://www.ft.com/content/f80afff9-fa3a-4b7e-a3ac-42c1c8f0319e?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 14:28:56 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:15.171437+00:00",
+      "content": "Judge tells former comedian he became a ‘sexual predator’ during his ascent to stardom",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The labour left is back in America",
+      "link": "https://www.ft.com/content/091b0dd0-fea9-4bda-8cd9-32640f8de733?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 14:00:08 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:15.571723+00:00",
+      "content": "Candidates backed by unions helped the Democrats win in some of their former heartlands",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What next for the Democrats? | Martin Wolf on the US midterms",
+      "link": "https://www.ft.com/video/96ba7925-b9a5-4fba-8975-a438414a89bc?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 13:11:26 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:15.771867+00:00",
+      "content": "Does the scale of their victory mean they have the country’s backing, or just that Republicans were unpopular?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Democrats’ partial return to tariff sanity",
+      "link": "https://www.ft.com/content/a86de4ff-f3de-4156-8ffa-bde10783d8b1?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 12:31:02 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:15.972022+00:00",
+      "content": "The new masters of Congress may be content with reversing Donald Trump’s duties on Canada",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Merz nominates Germany’s first female president",
+      "link": "https://www.ft.com/content/b4be65b1-5d8a-470a-9be9-8a892c1c3276?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 12:17:38 GMT",
+      "scrape_timestamp": "2026-11-09T17:59:16.372318+00:00",
+      "content": "Bavarian conservative Ilse Aigner expected to succeed Frank-Walter Steinmeier in March",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-09T07:27:20.039715+00:00",
+  "last_updated": "2026-11-09T17:59:32.890955+00:00",
   "metadata": {
-    "total_runs": 3162,
+    "total_runs": 3163,
     "sources": [
       "Financial Times"
     ],
