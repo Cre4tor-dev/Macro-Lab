@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "What’s the risk of political violence? | Martin Wolf on the US midterms",
-      "link": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 22:35:19 GMT",
-      "scrape_timestamp": "2026-11-01T23:23:01.955790+00:00",
-      "content": "Can American democracy emerge from the midterms stronger rather than more divided?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Gulf braced for renewed war between US and Iran",
-      "link": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 22:22:33 GMT",
-      "scrape_timestamp": "2026-11-01T23:23:02.155989+00:00",
-      "content": "Also in today’s newsletter: Binance users pull $3.6bn from crypto exchange and a junk debt rout sparks ‘bloodbath’ for credit investors",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nine killed as business jet crashes in Florida",
-      "link": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1",
-      "published_date": "Sun, 01 Nov 2026 23:25:46 GMT",
-      "scrape_timestamp": "2026-11-02T03:28:50.264327+00:00",
-      "content": "Aviation authorities to investigate after Learjet plunges into street eight miles from Donald Trump’s Mar-a-Lago resort",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Japanese groups stage $21bn deal spree to secure gas supplies",
       "link": "https://www.ft.com/content/9652cb30-c8b1-4f36-993f-54f7827d2174?syn-25a6b1a6=1",
       "published_date": "Mon, 02 Nov 2026 01:56:22 GMT",
@@ -3059,9 +3026,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-08T20:53:32.280382+00:00",
+  "last_updated": "2026-11-09T00:19:15.112760+00:00",
   "metadata": {
-    "total_runs": 3160,
+    "total_runs": 3161,
     "sources": [
       "Financial Times"
     ],
