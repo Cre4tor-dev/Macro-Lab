@@ -2,94 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Billionaire Mark Walter has explored sale of $71bn insurer Delaware Life",
-      "link": "https://www.ft.com/content/570191b9-7910-4627-8779-6a382ef26613?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 17:42:39 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:54.129153+00:00",
-      "content": "Deal could form part of broader restructuring of financier’s holding company TWG Global, according to people familiar with the matter",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Binance hackers used fake interviews and social media profiles in $6.3bn heist",
-      "link": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 17:00:20 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:54.329355+00:00",
-      "content": "Crypto exchange’s internal investigation reveals the role of human error in the biggest theft in history",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Seven aircraft grounded in Europe after bomb threats",
-      "link": "https://www.ft.com/content/f1122a7d-f27b-437f-84ba-59ea87e2ba17?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 18:24:35 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:54.529548+00:00",
-      "content": "Planes searched after series of warnings were received, with the incidents found to be hoaxes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Former Weil partners lawyer up over firm’s wind-down",
-      "link": "https://www.ft.com/content/7f8b1f1e-6c7f-41c6-b100-e0d4f7892439?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 18:30:41 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:55.456372+00:00",
-      "content": "Ex-partners are attempting to learn if their equity in firm will be worth anything",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK elections poll tracker",
-      "link": "https://www.ft.com/content/ec11dcb6-4f53-4215-a1a1-0b72b4bc7e29?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 18:15:18 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:55.656592+00:00",
-      "content": "Live-updating snapshot of party and leadership support in run-up to voting on May 7",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The hidden power of electricity",
-      "link": "https://www.ft.com/content/1a40a3af-933b-4c12-aa9b-2cf89f2ed139?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 17:17:42 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:56.257229+00:00",
-      "content": "The energy transition is not as impossible as we’ve been led to think",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Six European nations threaten to boycott Russia in ice hockey world championships",
-      "link": "https://www.ft.com/content/da34f13c-e138-4f08-b9af-ddfcaad791bf?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 17:01:16 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:56.457397+00:00",
-      "content": "Finland, Norway and Sweden among those refusing to play Russian team after court ruled it must be allowed to compete in next year’s tournament",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Requiem for Gaza — a haunting, essential portrait in words and pictures",
-      "link": "https://www.ft.com/content/299cb0ad-cd03-4f2f-b989-392925c3f198",
-      "published_date": "Tue, 03 Nov 2026 17:00:03 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:56.657594+00:00",
-      "content": "Reporter Chris Hedges and cartoonist Joe Sacco document the lives of displaced Palestinian families in a hybrid work of text and comic-strip accounts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US has no immediate plan to strike Iran, Trump tells FT",
       "link": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1",
       "published_date": "Tue, 03 Nov 2026 23:34:36 GMT",
@@ -101,55 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "How Pennsylvania’s bellwether city could decide the US midterms",
-      "link": "https://www.ft.com/content/4dde93b5-60ec-4ad4-ad14-c870fa17db2c?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 18:53:53 GMT",
-      "scrape_timestamp": "2026-11-03T23:47:30.126410+00:00",
-      "content": "Democrats eye victory in seat that could tip the balance of power in Washington",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "CVS Health moves to dismantle $117bn healthcare empire",
       "link": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
       "published_date": "Tue, 03 Nov 2026 22:33:06 GMT",
       "scrape_timestamp": "2026-11-03T23:47:30.727010+00:00",
       "content": "Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Tories turn to former PM David Cameron to boost party fundraising",
-      "link": "https://www.ft.com/content/df602ad9-2399-4b10-970c-c1ae231fbf2e?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 21:00:05 GMT",
-      "scrape_timestamp": "2026-11-03T23:47:32.804512+00:00",
-      "content": "Ex-leader takes top billing at Conservative events just as his party secures poll lead over Reform UK for first time in almost two years",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Northern Ireland’s biggest pro-UK party damaged by Drumcree parade fallout",
-      "link": "https://www.ft.com/content/b2610699-0972-4acc-8417-5c9f92bc540e?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 19:09:00 GMT",
-      "scrape_timestamp": "2026-11-03T23:47:33.204911+00:00",
-      "content": "DUP’s support for Protestant Orange Order march through Catholic area backfires after its most popular MP quits",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Italy’s half-baked exit tax is the worst of both worlds",
-      "link": "https://www.ft.com/content/a7879ca3-f925-416b-826e-2a2a538e42f7?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 18:50:05 GMT",
-      "scrape_timestamp": "2026-11-03T23:47:33.605255+00:00",
-      "content": "The touted levy sends mixed messages on how Italy views wealth creation",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3134,11 +3002,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+      "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 20:05:21 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:10.344849+00:00",
+      "content": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+      "link": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 19:24:52 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:10.545020+00:00",
+      "content": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Alice Huang’s tangled web of connections",
+      "link": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 16:17:20 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:10.745163+00:00",
+      "content": "Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
+      "link": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 21:38:55 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:11.746051+00:00",
+      "content": "British Counter Terrorism Policing’s investigation involves the FBI and American military",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US regulator postpones Wall Street push to trade AI computing futures",
+      "link": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 19:58:11 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:12.146372+00:00",
+      "content": "The Commodity Futures Trading Commission raises concerns over price manipulation as exchanges race to create new asset class",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Republicans choose Jim Jordan as House minority leader",
+      "link": "https://www.ft.com/content/438a36a5-a711-4fe1-b3d8-83020197a0ed?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 21:03:20 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:12.546748+00:00",
+      "content": "Pugnacious lawmaker signals uncompromising stance despite party’s poor US midterms performance",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Weil partners approve plan to shut down law firm",
+      "link": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 19:52:25 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:14.242491+00:00",
+      "content": "Dissolution of nearly century-old firm formalised after a series of defections plunged it into crisis",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ministers reject plans to build Britain’s largest solar farm",
+      "link": "https://www.ft.com/content/5eeba844-447d-4c50-b488-3d2ecdef79d7?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 19:22:27 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:14.642845+00:00",
+      "content": "UK government says proposed Botley West project would cause ‘substantial harm’ to the greenbelt and Blenheim Palace in Oxfordshire",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US affordability tracker: the data that will define the rest of Trump’s presidency — and the 2028 election",
+      "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 19:15:11 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:14.843026+00:00",
+      "content": "The FT is tracking changes to the cost of living that will affect American voters",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Battle to reclaim the Republican Party",
+      "link": "https://www.ft.com/content/0948dbc1-d5cb-4b41-adce-880ea1bf97b9?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 18:15:50 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:15.243318+00:00",
+      "content": "The choice is America First without Trump or a swing to a broader pragmatism",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK fraudster who invented ‘too good to be true’ takeover bid given suspended sentence",
+      "link": "https://www.ft.com/content/ebef64b5-103c-46ba-b3b0-546634f74323?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 18:13:21 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:15.443462+00:00",
+      "content": "Christopher Woolcott created a cast of characters in a bid to profit from a rise in Touchstone Exploration’s shares",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Labour and the Tories draw battle lines on welfare",
+      "link": "https://www.ft.com/content/3527cf9e-3980-4ccd-a90f-04df0fedce5a?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 17:49:10 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:15.643617+00:00",
+      "content": "Parties present sharply different ideas on tackling youth inactivity",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Nvidia investor’s guide to (maybe) losing your CEO",
+      "link": "https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 17:30:13 GMT",
+      "scrape_timestamp": "2026-11-10T22:03:15.843809+00:00",
+      "content": "Without Jensen Huang as chief, the company would probably shed some of its dominant market share and its generous pricing power",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-10T16:47:10.562803+00:00",
+  "last_updated": "2026-11-10T22:03:32.964364+00:00",
   "metadata": {
-    "total_runs": 3166,
+    "total_runs": 3167,
     "sources": [
       "Financial Times"
     ],
