@@ -2,127 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US voters prepare to deliver verdict on Trump",
-      "link": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 10:00:06 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:42.092733+00:00",
-      "content": "Congressional races across nation will determine whether president’s Republican Party will retain its majorities in Congress",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Americans begin voting in crucial midterm elections",
-      "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 10:52:57 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:42.292954+00:00",
-      "content": "",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oil prices steady at $106 after sharp declines",
-      "link": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 10:16:52 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:43.294006+00:00",
-      "content": "Crude prices stabilise on Tuesday as traders await developments in the Middle East",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Wall Street braces as voters go to polls in high-stakes US midterm elections",
-      "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 10:27:49 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:44.836718+00:00",
-      "content": "Vote will set the trajectory for everything from AI to public spending",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Brussels sets tight deadline for ECB president nominations",
-      "link": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 10:14:00 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:45.237139+00:00",
-      "content": "Eurozone leaders need to submit nominees to succeed Christine Lagarde by Friday as contest for top central banking job heats up",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Cinven to buy menopause specialist Theramex in €2.6bn deal",
-      "link": "https://www.ft.com/content/79867d48-6d4a-4e5e-ba62-105f7181f6b1?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 09:45:05 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:45.637561+00:00",
-      "content": "Carlyle and PAI Partners agree to sell women’s health business for more than double what they paid four years ago",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "German car parts giant Schaeffler axes 3,500 jobs",
-      "link": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 09:37:42 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:45.837767+00:00",
-      "content": "Automotive supplier to close four sites in Germany as crisis engulfing country’s flagship industry deepens",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham takes immigration politics beyond fear of Farage",
-      "link": "https://www.ft.com/content/d0a25da5-1875-428e-9f47-8a6a203052cf?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 09:30:06 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:46.037989+00:00",
-      "content": "Widely expected compromise on immigration crackdown signals shift towards a regime focused on labour market gaps and economic opportunity",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Asian Cup football tournament in Saudi Arabia postponed",
-      "link": "https://www.ft.com/content/d92053ff-a6fb-4672-93ff-4cb55cb87786?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 09:19:09 GMT",
-      "scrape_timestamp": "2026-11-03T11:28:46.238196+00:00",
-      "content": "Middle East conflict forces cancellation or delay of several high-profile events in the kingdom this year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The FT’s guide to election night",
-      "link": "https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 14:00:03 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:52.927934+00:00",
-      "content": "From key races to the money and issues at stake, here’s everything you need to know ahead of tonight’s results",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How common are national exit taxes?",
-      "link": "https://www.ft.com/content/dd479ac5-9b65-4d7d-9c06-2cec36c68434",
-      "published_date": "Tue, 03 Nov 2026 14:48:45 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:53.928944+00:00",
-      "content": "Exit, pursued by a taxman",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Billionaire Mark Walter has explored sale of $71bn insurer Delaware Life",
       "link": "https://www.ft.com/content/570191b9-7910-4627-8779-6a382ef26613?syn-25a6b1a6=1",
       "published_date": "Tue, 03 Nov 2026 17:42:39 GMT",
@@ -211,50 +90,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Heat returns to US labour market in latest official turnover figures",
-      "link": "https://www.ft.com/content/44e578ac-e2e5-43b4-946d-06ebb82d27e6",
-      "published_date": "Tue, 03 Nov 2026 16:40:12 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:56.857792+00:00",
-      "content": "Job opening and quits rates both rose in September and support the Fed’s narrative of a resilient labour market",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK immigration reforms: what has changed and who could benefit?",
-      "link": "https://www.ft.com/content/29e0bba8-8ff4-413d-b2fa-91bc198f1a20?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 16:11:03 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:57.057987+00:00",
-      "content": "High earners will be potential winners under the proposals but they risk deterring international students from coming to Britain",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russia unleashes massive attack on Ukraine’s energy infrastructure",
-      "link": "https://www.ft.com/content/52c2f86b-46a8-4710-9c05-f186baf3827f",
-      "published_date": "Tue, 03 Nov 2026 16:00:05 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:57.258191+00:00",
-      "content": "Power plants and substations hit in nine regions as Ukraine’s air force struggles to intercept missiles and drones",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump says US will end military aid to Israel by end of the year",
-      "link": "https://www.ft.com/content/2f1a826a-5d98-47ba-be3f-5d21edce89c8?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 15:32:31 GMT",
-      "scrape_timestamp": "2026-11-03T18:49:57.458412+00:00",
-      "content": "President makes surprise announcement to halt $4bn annual funding, which has featured prominently in midterm campaigning",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US has no immediate plan to strike Iran, Trump tells FT",
       "link": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1",
       "published_date": "Tue, 03 Nov 2026 23:34:36 GMT",
@@ -282,17 +117,6 @@
       "published_date": "Tue, 03 Nov 2026 22:33:06 GMT",
       "scrape_timestamp": "2026-11-03T23:47:30.727010+00:00",
       "content": "Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "What Weil Gotshal teaches us about how law firms die",
-      "link": "https://www.ft.com/content/958c09b7-bebf-4322-9c11-c2ec5b0eed73",
-      "published_date": "Tue, 03 Nov 2026 11:00:07 GMT",
-      "scrape_timestamp": "2026-11-03T23:47:31.127351+00:00",
-      "content": "When partners start leaving to earn more money elsewhere, collapse becomes inevitable",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3123,11 +2947,198 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic targets valuation of up to $1.4tn in IPO",
+      "link": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 13:07:48 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:47.945389+00:00",
+      "content": "The Claude maker plans to raise as much as $64bn in highly anticipated listing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
+      "link": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 14:52:07 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:48.145577+00:00",
+      "content": "Wall Street bank projects AI start-up will increase sales by 130 times — and be cash flow positive — by end of the decade",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The index impact of SpaceX’s record-shattering IPO",
+      "link": "https://www.ft.com/content/141176cd-79ce-4633-9def-eaee96db1762",
+      "published_date": "Tue, 10 Nov 2026 10:11:22 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:48.345774+00:00",
+      "content": "Revisiting the Operation Overlord of IPO stuffing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump is taking the Alamo route",
+      "link": "https://www.ft.com/content/66e74f23-e61e-43de-aaf6-c2b61648da50?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 11:47:16 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:48.746137+00:00",
+      "content": "Accepting defeat with grace would go against a lifetime of going for broke",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Defiant Pete Hegseth defends Iran war as he faces impeachment vote",
+      "link": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 14:23:24 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:49.146507+00:00",
+      "content": "US defence secretary battles to save his job following Republicans’ defeat in midterm elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+      "link": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 16:16:16 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:49.346703+00:00",
+      "content": "Falling crude prices have supported recovery in global stocks from last week’s sell-off",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Monthly US inflation higher than expected in October",
+      "link": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 16:03:34 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:49.546906+00:00",
+      "content": "Figure of 0.4% comes as last year’s government shutdown prevented data collection",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Top Fed official considers largest rate rise since 2022",
+      "link": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 16:03:45 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:49.747085+00:00",
+      "content": "Governor Christopher Waller says policymakers should weigh a 50bp move if US inflation fails to slow",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia’s ‘key man’ risk",
+      "link": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 18:17:15 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:50.347641+00:00",
+      "content": "Some of the leading AI companies are dangerously reliant on single executives",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "BoE policymaker refuses to rule out back-to-back rate rises",
+      "link": "https://www.ft.com/content/212d4b87-9fce-4141-b21f-7e4a81c8074f?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 15:15:50 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:51.712088+00:00",
+      "content": "Clare Lombardelli says high energy prices and resilience of UK growth mean there is a case for a further increase ‘in the near term’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hot US inflation seals December rise and brings larger increase into play",
+      "link": "https://www.ft.com/content/4f3334ce-3307-4b9a-bcf8-ba69ca6b8f80",
+      "published_date": "Tue, 10 Nov 2026 15:04:05 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:51.912296+00:00",
+      "content": "Energy inflation largely dropped out of the headline rate in October and added to worries of inflation persistence",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Pete Hegseth faces uphill battle to save his job",
+      "link": "https://www.ft.com/content/ac059891-af9c-485d-8df3-5146298e9a21?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 14:00:05 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:52.512859+00:00",
+      "content": "Also in today’s newsletter, FBI is ‘looking into’ Nvidia’s Jensen Huang after alleged spy scandal",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham’s fiscal devolution leap is crucial — and long overdue",
+      "link": "https://www.ft.com/content/92324091-0a6e-4c49-af2a-872502d2c69b?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 13:59:40 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:52.713050+00:00",
+      "content": "Trying to get stuff done without these new powers and funding streams has been too difficult for elected mayors",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Africa’s richest man Aliko Dangote pulls London listing",
+      "link": "https://www.ft.com/content/4ca0550f-e524-440f-a31a-de7c38488db2?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 12:58:15 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:52.913254+00:00",
+      "content": "Nigerian billionaire had planned to list $18.4bn group Dangote Cement in UK this year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Italian banks hit out at Giorgia Meloni over latest tax raid",
+      "link": "https://www.ft.com/content/f0665cf7-a36f-4573-b7d6-93dda9d59d3f?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 12:33:13 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:53.313643+00:00",
+      "content": "Rome plans to raise €7bn from financial institutions during the next three years through measures including a higher corporation tax rate",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The UK’s inflation problem",
+      "link": "https://www.ft.com/content/fea10439-29c0-4a06-a99b-700118018f89?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 12:30:04 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:53.513821+00:00",
+      "content": "The Bank of England should recognise its record of inflation control is slipping internationally",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Countries speed up on renewables as China’s blistering pace slows",
+      "link": "https://www.ft.com/content/71f35844-9635-4cfe-bf47-39a4014dc8ee?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 12:00:05 GMT",
+      "scrape_timestamp": "2026-11-10T16:46:53.714026+00:00",
+      "content": "Ten takeaways from the IEA’s latest report on the fossil fuel transition",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-10T08:58:20.989566+00:00",
+  "last_updated": "2026-11-10T16:47:10.562803+00:00",
   "metadata": {
-    "total_runs": 3165,
+    "total_runs": 3166,
     "sources": [
       "Financial Times"
     ],
