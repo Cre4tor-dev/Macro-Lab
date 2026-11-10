@@ -2,143 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
-      "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 20:38:05 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:32.289321+00:00",
-      "content": "On the eve of the midterm elections, Americans say they want politicians who can better handle the economy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Key races that will decide the US midterm elections",
-      "link": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 20:12:26 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:32.489544+00:00",
-      "content": "Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump administration asks Supreme Court to block some California ballots",
-      "link": "https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 18:12:48 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:34.091086+00:00",
-      "content": "White House urges justices to order some mail-in votes be set aside because it claims they belong to non-citizens",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US moves to strip South Africa and Rwanda of duty-free trade access",
-      "link": "https://www.ft.com/content/fae48a2f-7fb1-4b49-a261-0449fc335427?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 20:34:01 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:34.980707+00:00",
-      "content": "Washington cites trade barriers and national security concerns as relations with Pretoria and Kigali deteriorate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK government waters down proposals for legal migration",
-      "link": "https://www.ft.com/content/04772b49-0aec-4acc-b2cb-1fae192a5f60?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 18:28:37 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:35.381098+00:00",
-      "content": "Home secretary Shabana Mahmood abandons plans to force many care workers to wait 15 years for permanent settlement",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Labour ends power-sharing deals with Greens over ‘Zionism is racism’ policy",
-      "link": "https://www.ft.com/content/95132ff4-57b1-4078-8911-bdd163fe3175?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 18:27:34 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:35.581279+00:00",
-      "content": "Party pulls plug on co-operation agreements in 11 councils where it was working with the smaller party, citing recent motion",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Poland’s struggle to restore the rule of law",
-      "link": "https://www.ft.com/content/551ece11-bd7c-4c9a-8914-1e6d4331af70?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 18:22:58 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:35.781475+00:00",
-      "content": "The battle to undo PiS’s legacy needs to be conducted within the rules",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Israel’s poll chief rebukes Netanyahu’s claims of ‘stolen’ election",
-      "link": "https://www.ft.com/content/47427e95-69bf-4fd7-bf7f-a1bb6b11334e",
-      "published_date": "Mon, 02 Nov 2026 18:09:59 GMT",
-      "scrape_timestamp": "2026-11-02T21:05:36.181823+00:00",
-      "content": "The head of the Central Elections Committee has insisted the elections were ‘conducted properly’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Democrats close ranks after shock Michigan split",
-      "link": "https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 21:35:58 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:52.942849+00:00",
-      "content": "Haley Stevens’ support for Republican candidate instead of Abdul El-Sayed provokes a swift backlash",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
-      "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 22:45:26 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:53.343274+00:00",
-      "content": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
       "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
       "published_date": "Tue, 03 Nov 2026 01:17:37 GMT",
       "scrape_timestamp": "2026-11-03T03:09:53.943856+00:00",
       "content": "Hardware giant predicts robust sales in the holiday season but services outlook disappoints",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
-      "link": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 22:58:27 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:54.144062+00:00",
-      "content": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US to hold first talks with Russia and Ukraine since February",
-      "link": "https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 00:35:42 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:54.544451+00:00",
-      "content": "Officials from Washington, Moscow and Kyiv will meet in Abu Dhabi next week",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -161,72 +29,6 @@
       "published_date": "Tue, 03 Nov 2026 01:30:01 GMT",
       "scrape_timestamp": "2026-11-03T03:09:55.310771+00:00",
       "content": "Also, more affordable cancer drugs",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Quiet quitting’ is real and may be hitting British productivity, analysis claims",
-      "link": "https://www.ft.com/content/d629be83-a1d5-4a08-aa69-93910ce50aa7?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 00:01:00 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:55.711116+00:00",
-      "content": "Employees have become more disengaged in the last ten years and less willing to put in extra effort",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ",
-      "link": "https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 00:01:00 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:55.911303+00:00",
-      "content": "Head of National Cyber Security Centre set to warn security defences, particularly for critical infrastructure, are inadequate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "My tax rises made Britain’s economy stronger, says Reeves",
-      "link": "https://www.ft.com/content/542e044e-23c6-42a6-a8a6-640ea04205ff?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 23:00:00 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:56.311682+00:00",
-      "content": "Former chancellor argues that national insurance increase pushed a break with ‘low-wage, low-investment cycle’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham to set out ‘new era’ and debt reset for struggling Commonwealth",
-      "link": "https://www.ft.com/content/f5b41577-2368-4480-a04e-7fdfa362603c?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 22:30:10 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:56.912296+00:00",
-      "content": "UK prime minister is ‘open’ to calls for a formal apology from Britain over historical role in the transatlantic slave trade",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
-      "link": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 21:40:13 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:57.112502+00:00",
-      "content": "Also in today’s newsletter: Anthropic reveals $900bn AI spending commitments and European supermarket freezers overheat in fresh cyber attack",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
-      "link": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1",
-      "published_date": "Mon, 02 Nov 2026 21:19:47 GMT",
-      "scrape_timestamp": "2026-11-03T03:09:57.512874+00:00",
-      "content": "Silicon Valley companies say all-stock deal would create a ‘leader in AI connectivity’",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3123,11 +2925,154 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+      "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 00:35:56 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:56.141179+00:00",
+      "content": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How the world became too reliant on Jensen Huang",
+      "link": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 17:52:01 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:56.541556+00:00",
+      "content": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Japan can tell the world what really matters when prepping",
+      "link": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 00:47:30 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:57.142115+00:00",
+      "content": "Telling people to stock up is one thing but the Japanese know that building a stockpile of civil credibility requires greater effort",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
+      "link": "https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 00:08:38 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:57.342301+00:00",
+      "content": "Moscow’s strikes on the bridges across the Dnipro river could sever power and transport links with the east of the country",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s Board of Peace warns of  ‘immediate humanitarian emergency’ in Gaza",
+      "link": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 23:51:16 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:57.742684+00:00",
+      "content": "The organisation says flooding has left Palestinians in unsafe conditions, with Israel allowing insufficient aid into the territory",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Republican lawmaker moves to impeach US defence secretary Pete Hegseth",
+      "link": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 22:15:51 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:57.942869+00:00",
+      "content": "Trump critic Thomas Massie cites abuse of power and flouting of the US constitution",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump hails ‘positive momentum’ towards ending Iran war",
+      "link": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 22:42:58 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:58.143048+00:00",
+      "content": "Comments by US president come after calls with regional leaders and a meeting with the Qatari prime minister",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’",
+      "link": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef?syn-25a6b1a6=1",
+      "published_date": "Tue, 10 Nov 2026 00:34:45 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:58.343227+00:00",
+      "content": "US oil major says it has signed a memorandum of understanding with Caracas",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Supreme Court lets Trump build border wall through Texas national park",
+      "link": "https://www.ft.com/content/426452cc-61cd-4f68-9fe0-b28161ecffac?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 23:14:29 GMT",
+      "scrape_timestamp": "2026-11-10T01:15:59.689810+00:00",
+      "content": "Top judges rule that government’s interest outweighs any aesthetic and environmental harm alleged by respondents",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US regulator orders blindness risk warning on obesity drugs",
+      "link": "https://www.ft.com/content/39cfce50-3023-4898-9f16-be0165b54cbc?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 20:11:35 GMT",
+      "scrape_timestamp": "2026-11-10T01:16:00.690725+00:00",
+      "content": "Food and Drug Administration cites increased risk of rare eye condition that can cause permanent vision loss in users of GLP-1s",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK Treasury does not ‘understand’ scale-ups, says former adviser",
+      "link": "https://www.ft.com/content/62f35d30-e015-4672-8b28-ea3d0b3660c6?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 19:08:46 GMT",
+      "scrape_timestamp": "2026-11-10T01:16:01.091095+00:00",
+      "content": "Alex Depledge, who was appointed by Rachel Reeves, says her attempt to hire an external chair to overhaul procurement was blocked",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France accuses Iran of cyber attacks on supermarket refrigerators",
+      "link": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 18:31:21 GMT",
+      "scrape_timestamp": "2026-11-10T01:16:01.291275+00:00",
+      "content": "Islamic Revolutionary Guard Corps named in prosecution over incidents that destroyed food and triggered fires",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Saudi Arabia’s vital East-West pipeline struck in attack",
+      "link": "https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39?syn-25a6b1a6=1",
+      "published_date": "Mon, 09 Nov 2026 18:19:20 GMT",
+      "scrape_timestamp": "2026-11-10T01:16:01.491458+00:00",
+      "content": "Houthis and Iraqi militias have repeatedly threatened the critical outlet for kingdom’s crude exports",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-09T17:59:32.890955+00:00",
+  "last_updated": "2026-11-10T01:16:19.484013+00:00",
   "metadata": {
-    "total_runs": 3163,
+    "total_runs": 3164,
     "sources": [
       "Financial Times"
     ],
