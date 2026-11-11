@@ -2,50 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
-      "link": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 08:34:14 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:01.464687+00:00",
-      "content": "Democrats take Congress as Republicans defeated in midterm races from Texas to Georgia",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The great humbling of Donald Trump",
-      "link": "https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 07:23:18 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:01.664895+00:00",
-      "content": "Midterm elections defeat marked a savage rejection from across the country of the president, his allies and his second-term agenda",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump’s slapdown by America is one for the ages",
-      "link": "https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 05:11:06 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:01.865075+00:00",
-      "content": "In multiple midterm races the president’s heavy-handed input boomeranged",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Five takeaways from the midterm results",
-      "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 07:21:14 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:02.065287+00:00",
-      "content": "Democrats record broad gains from almost all demographic groups",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Stocks rebound after Democrats’ sweep",
       "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
       "published_date": "Wed, 04 Nov 2026 10:37:24 GMT",
@@ -57,44 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Corporate America braced for Democrats to unleash investigations",
-      "link": "https://www.ft.com/content/89b80817-fe6b-4172-ad01-8f675e3be6a5?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 07:44:52 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:02.465713+00:00",
-      "content": "Probes could uncover communications between officials and executives after alleged corruption emerged as campaign theme",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘A deep sense of deceit’: Young Republicans reckon with US midterms rout",
-      "link": "https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 10:00:09 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:02.665931+00:00",
-      "content": "President’s foreign policy and scandals blamed for crushing defeat by New York Young Republican Club members",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Republicans turn on each other after disastrous midterms",
       "link": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1",
       "published_date": "Wed, 04 Nov 2026 11:00:10 GMT",
       "scrape_timestamp": "2026-11-04T11:50:02.866144+00:00",
       "content": "GOP figures lash out at Donald Trump, his candidates and his staff over Iran war, cost of living and corruption allegations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Who are the new faces in the Senate?",
-      "link": "https://www.ft.com/content/d808855c-7157-4f63-b511-943fd3714e34?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 08:24:35 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:03.066352+00:00",
-      "content": "The new intake includes several winners who are seen as future presidential candidates",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -161,39 +84,6 @@
       "published_date": "Wed, 04 Nov 2026 10:25:26 GMT",
       "scrape_timestamp": "2026-11-04T11:50:05.741735+00:00",
       "content": "Consumer prices accelerate at fastest pace in three years",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Copper and conflict trigger profit surge for Buffett-backed Japanese commodity traders",
-      "link": "https://www.ft.com/content/656f10c4-26ec-430e-adfa-dcadf0dd61ff?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 09:42:01 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:06.542520+00:00",
-      "content": "Mitsui chief warns geopolitical risks continue to be ‘unpredictable rather than calming down’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Giving 16-year-olds the vote is only half the job",
-      "link": "https://www.ft.com/content/094b6bda-4d0e-4968-919e-62d25b2246dc?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 09:30:09 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:06.742737+00:00",
-      "content": "UK needs to prepare teenagers for this new right and responsibility, but the issue is under the radar",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Indonesia deploys 20,000 soldiers as wiretapping scandal erupts",
-      "link": "https://www.ft.com/content/b82627c8-726b-471d-9e49-f28b06765e79?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 08:46:38 GMT",
-      "scrape_timestamp": "2026-11-04T11:50:06.942954+00:00",
-      "content": "Senior police and presidential chief of staff arrested over accusations of illegally wiretapping Prabowo Subianto",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3123,11 +3013,220 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic IPO valuation calculator: How much is it really worth?",
+      "link": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:12 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:04.456314+00:00",
+      "content": "As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Inside Ken Griffin’s $5bn Miami takeover",
+      "link": "https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:02 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:04.656519+00:00",
+      "content": "The billionaire wanted to mould his ideal city — and found his clout went further in Florida",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How Singapore became a linchpin of China’s AI chip trade",
+      "link": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:04.856730+00:00",
+      "content": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democracy’s future is at stake in Ukraine",
+      "link": "https://www.ft.com/content/64131ac1-a9bb-429b-b937-183a08f72bc6?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:31 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:05.056890+00:00",
+      "content": "Elections show the importance of victory in the conflict between despotism and democracy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France pressures Germany over nuclear risks of long-range missiles",
+      "link": "https://www.ft.com/content/7f61b561-bcbd-4900-afd7-553ff76d6217?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:12 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:05.257123+00:00",
+      "content": "Paris asks Berlin to clarify when it would use ‘deep precision strikes’ against Russia to avoid nuclear retaliation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "France and Belgium fall foul of Eurozone bond market’s new divide",
+      "link": "https://www.ft.com/content/5263808c-e8ac-44b8-baa3-af7e8c788684?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:12 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:05.457328+00:00",
+      "content": "Global sell-off during Iran war has prompted investors to zero in on new group of Eurozone countries facing debt challenges",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Andy Burnham heads to COP as critics question his climate credentials",
+      "link": "https://www.ft.com/content/1c3e9030-51e6-49f2-8203-2e7a53f710c8?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 08:46:23 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:06.713367+00:00",
+      "content": "Policy experts and campaigners say PM often pays lip service to green issues but rarely makes them a political priority",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Oil traders give peace a chance (but should they?)",
+      "link": "https://www.ft.com/content/aa40cb43-4d0f-4f3c-a7aa-fbc2606f5719?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 06:30:01 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:06.913560+00:00",
+      "content": "Plus Chris Waller, inflation hawk",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brussels to unveil new Big Tech rules despite vow to slash red tape",
+      "link": "https://www.ft.com/content/121bc0d0-f486-4c4c-a5e9-d4c5dc609fe4?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 06:00:02 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:07.113766+00:00",
+      "content": "Also in this newsletter: US steps up pressure on EU support for Airbus",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "One weird trick AI labs could use to save the world",
+      "link": "https://www.ft.com/content/412c9ea6-c54a-4520-879b-10c32992cf6b",
+      "published_date": "Wed, 11 Nov 2026 06:00:02 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:07.313944+00:00",
+      "content": "An antitrust loophole you can trust?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn",
+      "link": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:31:36 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:07.514142+00:00",
+      "content": "Also in today’s newsletter: Nvidia spy scandal and Franco-German nuclear defence",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s struggle to compete with China ramps up",
+      "link": "https://www.ft.com/content/efe5f679-ff24-48da-b47e-dcb57494750f?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:13:03 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:07.714317+00:00",
+      "content": "Some companies are thriving, but many are protesting against ‘dumping’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Treasure trove’ of manufacturing data to power German AI",
+      "link": "https://www.ft.com/content/65c4793e-343b-4fe7-921a-f7150b080a0c",
+      "published_date": "Wed, 11 Nov 2026 05:12:31 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:07.914516+00:00",
+      "content": "Mittelstand companies’ years of accumulated experience could provide them with an edge",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Live long and prosper, UK family business style",
+      "link": "https://www.ft.com/content/be14d41e-f209-4423-8838-5b378981939b?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:06:30 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:08.114720+00:00",
+      "content": "The owners tend to be thinking 25-30 years ahead, they avoid the stock market, have low debt and often own their business property and land",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s tech ambition risks greater reliance on the US",
+      "link": "https://www.ft.com/content/1b40f4ea-d44b-4587-9326-8a98c9aad166?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:06:05 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:08.314899+00:00",
+      "content": "US companies dominate critical distribution channels such as operating systems, browsers and search engines",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe’s infrastructure dreams start to come true",
+      "link": "https://www.ft.com/content/85795c79-737f-4eea-b766-b0e4926e6ee2",
+      "published_date": "Wed, 11 Nov 2026 05:05:22 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:08.515105+00:00",
+      "content": "The projects are expected to boost mobility and competitiveness but are facing rising costs, which are contributing to significant delays",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nordics’ stability is attracting growing attention",
+      "link": "https://www.ft.com/content/8da5a8f3-2e3a-4f14-9eac-1abaa8798d82?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:04:48 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:08.715303+00:00",
+      "content": "Investors are attracted by the region’s resilient supply chains, trusted institutions and predictability, but its proximity to Russia cannot be ignored",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ken Griffin’s Miami metamorphosis",
+      "link": "https://www.ft.com/content/6051d81d-7c17-4b65-a837-94eef0e42a37?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:08.915504+00:00",
+      "content": "The hedge fund tycoon has doled out more than $5.3bn across the Florida city",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The rich find ways to escape climate change. Their emissions have not.",
+      "link": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-11T10:01:09.315889+00:00",
+      "content": "Growing body of research shows the contribution to greenhouse gases between wealthy and poor varies greatly even within nations",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-11T02:23:50.595886+00:00",
+  "last_updated": "2026-11-11T10:01:24.888259+00:00",
   "metadata": {
-    "total_runs": 3168,
+    "total_runs": 3169,
     "sources": [
       "Financial Times"
     ],
