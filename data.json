@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US has no immediate plan to strike Iran, Trump tells FT",
-      "link": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 23:34:36 GMT",
-      "scrape_timestamp": "2026-11-03T23:47:29.325745+00:00",
-      "content": "President says position with Tehran is ‘brilliant’ in interview just hours before midterm polls close",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "CVS Health moves to dismantle $117bn healthcare empire",
-      "link": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
-      "published_date": "Tue, 03 Nov 2026 22:33:06 GMT",
-      "scrape_timestamp": "2026-11-03T23:47:30.727010+00:00",
-      "content": "Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "A year after devastating fire, Hong Kong struggles to make amends",
-      "link": "https://www.ft.com/content/d7af38b4-4bed-47c1-8a27-a6a021a50980?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 01:29:34 GMT",
-      "scrape_timestamp": "2026-11-04T03:57:32.746923+00:00",
-      "content": "Authorities have apologised and a minister has resigned after 168 died in worst tragedy in decades. Will it be enough?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Cricket Australia chief defends controversial sale plan",
-      "link": "https://www.ft.com/content/a03d241a-5e93-41ae-b019-50879c6d1ad9?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 01:00:06 GMT",
-      "scrape_timestamp": "2026-11-04T03:57:32.947084+00:00",
-      "content": "Todd Greenberg on private investment and the push to stay competitive in the global game",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Renewable groups will have to invest in UK communities where they build projects",
-      "link": "https://www.ft.com/content/834d9afc-a6d8-4916-85e6-a1d01490fc2e?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 00:00:05 GMT",
-      "scrape_timestamp": "2026-11-04T03:57:33.147280+00:00",
-      "content": "A new energy independence bill for England, Scotland and Wales will herald a change from the existing system of voluntary support",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
       "link": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
       "published_date": "Wed, 04 Nov 2026 08:34:14 GMT",
@@ -3145,11 +3090,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+      "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 00:27:38 GMT",
+      "scrape_timestamp": "2026-11-11T02:23:28.814524+00:00",
+      "content": "Claude maker’s listing price expected to rise after strong demand from investors",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
+      "link": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 00:01:29 GMT",
+      "scrape_timestamp": "2026-11-11T02:23:30.816221+00:00",
+      "content": "AI infrastructure group turns to asset-backed debt and customer pre-payments for financing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Embrace paper exams to combat AI cheating, warns UK universities regulator",
+      "link": "https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 00:01:09 GMT",
+      "scrape_timestamp": "2026-11-11T02:23:31.784712+00:00",
+      "content": "Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-10T22:03:32.964364+00:00",
+  "last_updated": "2026-11-11T02:23:50.595886+00:00",
   "metadata": {
-    "total_runs": 3167,
+    "total_runs": 3168,
     "sources": [
       "Financial Times"
     ],
