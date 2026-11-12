@@ -2,94 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Canadians welcome Democratic sweep in US midterm elections",
-      "link": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 18:34:21 GMT",
-      "scrape_timestamp": "2026-11-04T19:05:45.813254+00:00",
-      "content": "Voters’ repudiation of Donald Trump’s agenda seen as a ‘victory’ for neighbour",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How Democrats pulled off the blue wave in maps and charts",
-      "link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 19:12:33 GMT",
-      "scrape_timestamp": "2026-11-05T00:38:27.628781+00:00",
-      "content": "Party on track for largest swing in their favour in House elections in more than 75 years",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
-      "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 22:38:45 GMT",
-      "scrape_timestamp": "2026-11-05T00:38:28.229342+00:00",
-      "content": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Voters have put a helpful chill on the US data centre boom",
-      "link": "https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 18:33:54 GMT",
-      "scrape_timestamp": "2026-11-05T00:38:28.829855+00:00",
-      "content": "Midterm results could affect 45 per cent of planned expansion, but there is a silver lining for investors",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
-      "link": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 20:58:24 GMT",
-      "scrape_timestamp": "2026-11-05T00:38:29.030022+00:00",
-      "content": "Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Republican infighting erupts  after landslide midterms defeat",
-      "link": "https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 21:52:36 GMT",
-      "scrape_timestamp": "2026-11-05T00:38:30.236259+00:00",
-      "content": "Also in today’s newsletter: wiretapping scandal rocks Indonesia and Oracle cancels $7bn Tencent AI deal under Trump pressure",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Impeachments, Iran and the presidency: what’s next after the midterms?",
-      "link": "https://www.ft.com/content/18e00ce0-aef2-41e9-ab7f-8a5dd8a9c217?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 19:06:34 GMT",
-      "scrape_timestamp": "2026-11-05T00:38:31.437493+00:00",
-      "content": "A sweeping victory for Democrats has started a jostle for presidential hopefuls",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump diesel deal with Russia falters as US fuel supplies hit 20-year low",
-      "link": "https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1",
-      "published_date": "Wed, 04 Nov 2026 18:54:44 GMT",
-      "scrape_timestamp": "2026-11-05T00:38:31.637687+00:00",
-      "content": "Two tankers change course in setback to White House gambit to lower fuel prices and shore up political support",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Democrats look to reshape America after historic midterm victories",
       "link": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
       "published_date": "Thu, 05 Nov 2026 05:00:25 GMT",
@@ -139,17 +51,6 @@
       "published_date": "Thu, 05 Nov 2026 01:33:29 GMT",
       "scrape_timestamp": "2026-11-05T07:33:27.932746+00:00",
       "content": "American voters — including vice-president JD Vance — want an end to Trump’s Iran war and Washington’s proximity to Israel",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Democratic wave keeps US wealth taxes alive despite California loss",
-      "link": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 00:52:16 GMT",
-      "scrape_timestamp": "2026-11-05T07:33:28.333160+00:00",
-      "content": "Proposition 40 billionaire tax set to be defeated in a rare victory for mega-donors in the US midterms",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3222,11 +3123,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia board set to meet after revelations Huang had affair with top company executive",
+      "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 22:56:26 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:30.416582+00:00",
+      "content": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can India clean up Delhi’s deadly smog?",
+      "link": "https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 00:08:12 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:30.816978+00:00",
+      "content": "Residents ask why a country that can land a spacecraft on the Moon cannot prevent citizens in its capital choking on bad air",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Three cheers for an independent American judiciary",
+      "link": "https://www.ft.com/content/f368fe65-1a9e-425a-a4ac-2ab000e85249?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 05:00:12 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:31.017179+00:00",
+      "content": "Strong rulings to protect electoral integrity helped pave the way for a peaceful and decisive midterm vote",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Scott Colom wins historic Senate race in Mississippi",
+      "link": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 00:24:56 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:31.217382+00:00",
+      "content": "Democrat becomes the first Black person to represent the state since Reconstruction era",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump",
+      "link": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 21:01:55 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:31.617791+00:00",
+      "content": "Congress member Jamie Raskin says he will launch sweeping probe of president and allies but warns party to avoid impeachment ‘distraction’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "ExxonMobil launches legal challenge to EU carbon capture rules",
+      "link": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 21:26:48 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:31.817993+00:00",
+      "content": "US oil company invokes investment treaty to challenge Brussels’ green regulations and seek suspension of timing requirements",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Pessimism over UK housing market hits highest level in three years",
+      "link": "https://www.ft.com/content/b9eb728e-847d-44f8-a2cc-bb139bc7220f?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 00:01:10 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:32.699483+00:00",
+      "content": "Rics survey shows sharp fall in estate agents’ expectations for sales and prices as elevated mortgage rates weigh on demand",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK suffers bigger fall in international postgraduate students than the US",
+      "link": "https://www.ft.com/content/8eb628d1-782d-4c2a-b711-164e4d117081?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 00:01:10 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:32.899703+00:00",
+      "content": "British university sector calls for an easing of immigration controls",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "CoreWeave wants to sit with the credit-market grown-ups",
+      "link": "https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 18:57:00 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:34.100929+00:00",
+      "content": "The cloud computing group has benefited from a hitherto forgiving junk bond market",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Healey says Treasury discussing ‘worst-case’ energy support for UK households",
+      "link": "https://www.ft.com/content/22798c90-e999-4564-924a-4f04343cac3d?syn-25a6b1a6=1",
+      "published_date": "Wed, 11 Nov 2026 18:47:25 GMT",
+      "scrape_timestamp": "2026-11-12T01:09:34.301135+00:00",
+      "content": "Chancellor prepares for deepening energy crisis and says end to Iran war would be biggest boost to Britain’s economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-11T18:14:10.374809+00:00",
+  "last_updated": "2026-11-12T01:09:48.854800+00:00",
   "metadata": {
-    "total_runs": 3170,
+    "total_runs": 3171,
     "sources": [
       "Financial Times"
     ],
