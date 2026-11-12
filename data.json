@@ -2,171 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
-      "link": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 21:07:55 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:02.313764+00:00",
-      "content": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Tech leaders need an urgent rethink of their political strategy",
-      "link": "https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 19:04:55 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:02.714243+00:00",
-      "content": "America’s data centre backlash is emblematic of AI anxiety and a scepticism of the industry’s power and wealth",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will Democrats stall the AI boom?",
-      "link": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 20:28:44 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:02.914451+00:00",
-      "content": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Los Angeles elects democratic socialist Nithya Raman as mayor",
-      "link": "https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 21:15:09 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:03.715346+00:00",
-      "content": "Win follows Zohran Mamdani’s rise in New York and resounding victories by other progressives in Washington and Providence",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Wall Street mega-donors clobbered by Democratic sweep",
-      "link": "https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 19:48:28 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:04.516210+00:00",
-      "content": "Top hedge fund managers and private equity executives spent more than $300mn on Republican campaigns to little or no effect",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Hedge fund Walleye hands back capital as it slims down equity business",
-      "link": "https://www.ft.com/content/fb02c333-a439-4acd-b0b6-e50633ce863e?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 19:15:04 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:06.283555+00:00",
-      "content": "Multi-strategy fund with $17bn in assets tells clients move comes after it endured worst month since coronavirus crisis",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Goldman Sachs elevates record number of engineers to coveted partner ranks",
-      "link": "https://www.ft.com/content/2f7eadc8-e01e-45df-8fcc-275e3e100558?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 18:57:46 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:06.683982+00:00",
-      "content": "Wall Street bank expands elite cohort as trading and dealmaking boom fuels profits",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK prepares to extend Palantir’s NHS contract as it draws up plans for potential replacement",
-      "link": "https://www.ft.com/content/bd35cc23-9c24-4ac5-8754-76ed8dd0c264?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 18:48:56 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:06.884228+00:00",
-      "content": "Ministers planning to not trigger break clause but instead pitch US company against British alternatives in fresh procurement process",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "What Trump’s setback means for Britain",
-      "link": "https://www.ft.com/content/65ebfccc-1289-447d-9147-66c17a0e1f1f?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 18:45:05 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:07.084437+00:00",
-      "content": "Plus, is Labour softening on immigration?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "link": "https://www.ft.com/content/153ecf4a-bcf9-485e-ae7d-1f88af3e9361?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 18:43:57 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:07.284665+00:00",
-      "content": "Verdict on four counts marks dramatic downfall for comedian-turned-online polemicist",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Bank rate rise ‘puts tracker mortgage trend at risk’",
-      "link": "https://www.ft.com/content/ed74a1e3-1d80-41dd-9404-2dee3015c162?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 18:20:18 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:07.484861+00:00",
-      "content": "Most fixed-rate borrowers are cushioned from the impact of this week’s decision but those coming off a five-year deal face a payment shock",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "More than 600,000 join latest protests in France",
-      "link": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 18:08:53 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:07.685076+00:00",
-      "content": "Demonstrations over cost of living on Thursday appeared to attract the biggest turnout since the movement began in September",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The UK-EU reset is a deal worth doing",
-      "link": "https://www.ft.com/content/ec6394d5-b4fb-4bf4-b231-300da1cd9bfb?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 17:55:34 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:07.885275+00:00",
-      "content": "But Britain’s hard-pressed universities should not be left worse off",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
-      "link": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 17:37:46 GMT",
-      "scrape_timestamp": "2026-11-05T21:43:08.285697+00:00",
-      "content": "First interest rate increase for three years accompanied by hawkish message that marks a sharp change in tone for the institution",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’",
-      "link": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 21:57:51 GMT",
-      "scrape_timestamp": "2026-11-06T01:55:17.391040+00:00",
-      "content": "Unpredictable electorates can lead to overcorrecting after presidential elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "China’s tech megacity cleans up seedy underbelly for Apec summit",
       "link": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1",
       "published_date": "Fri, 06 Nov 2026 01:11:27 GMT",
@@ -194,28 +29,6 @@
       "published_date": "Fri, 06 Nov 2026 00:01:01 GMT",
       "scrape_timestamp": "2026-11-06T01:55:18.491676+00:00",
       "content": "Sir Mark Rowley wants the existing 43 forces in England and Wales to be consolidated into bigger and more effective units",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Job adverts will have to publish salaries, ministers say",
-      "link": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 22:30:00 GMT",
-      "scrape_timestamp": "2026-11-06T01:55:18.892076+00:00",
-      "content": "Move, intended to reduce pay inequalities, could end vague references to ‘competitive salary’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Wall Street sheds $3.2tn as Democratic midterm landslide upends AI bet",
-      "link": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
-      "published_date": "Thu, 05 Nov 2026 21:55:36 GMT",
-      "scrape_timestamp": "2026-11-06T01:55:19.492698+00:00",
-      "content": "Also in today’s newsletter: China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division and Blue Origin delays launches until 2027",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3233,11 +3046,143 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Meet the contenders to succeed Jensen Huang",
+      "link": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909",
+      "published_date": "Thu, 12 Nov 2026 17:24:08 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:28.429242+00:00",
+      "content": "From chief executives of rival companies to the former CEO’s own children, the race to lead Nvidia has begun",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia sends a painful message on how to value a CEO",
+      "link": "https://www.ft.com/content/610fc69e-51ae-4f7a-8e48-c2ce42860ff4?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 18:40:46 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:29.029765+00:00",
+      "content": "More clarity about why founders matter — and how much — should help everyone",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep",
+      "link": "https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 22:45:07 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:29.630296+00:00",
+      "content": "Prediction market platform ends advisory deal amid mounting political scrutiny and rival investments in Polymarket",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump signals end to vice-president’s Iran peace deal push",
+      "link": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 20:32:43 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:29.830480+00:00",
+      "content": "President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+      "link": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 18:03:44 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:30.230851+00:00",
+      "content": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Cravath employee charged with trading on firm’s corporate deals",
+      "link": "https://www.ft.com/content/ef151433-c522-44e8-b735-38548341b5a0?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 22:10:07 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:30.772608+00:00",
+      "content": "Word-processing specialist allegedly used confidential client information to profit from takeover announcements",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham targets deal with EU that will deliver ‘real benefits’ for UK",
+      "link": "https://www.ft.com/content/291248d4-b8f0-4b88-b847-d2ae4262d351?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 21:18:05 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:30.972774+00:00",
+      "content": "British premier insists that ‘no one is talking’ about rejoining the bloc as summit nears",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mercedes-Benz to halt ‘all future investments’ in Germany",
+      "link": "https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 20:44:12 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:31.172943+00:00",
+      "content": "Carmaker has also warned that plant closures are an option in escalating stand-off with unions over bid to reduce labour costs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Italian banks may cut sovereign debt holdings in tax battle, warns Intesa chief",
+      "link": "https://www.ft.com/content/6e27b96d-cb31-4e1a-bb1c-46816be25983?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 18:49:23 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:31.773436+00:00",
+      "content": "Head of country’s largest bank steps up fight against fresh levies on the sector",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Electrification is only part of the climate battle",
+      "link": "https://www.ft.com/content/3202f243-287b-466d-953a-664d0143e91a?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 18:49:01 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:31.973603+00:00",
+      "content": "A COP31 pledge to expand electric power ought to have a green target attached",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Quantum Systems drones grounded by German military after cyber attack",
+      "link": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 17:32:13 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:32.574113+00:00",
+      "content": "Start-up with €7bn valuation and operations in Ukraine is latest European arms group to be targeted",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can Britain afford to lead European defence?",
+      "link": "https://www.ft.com/content/33b29893-8283-4a7d-acfc-bb758e3587e2?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 16:30:17 GMT",
+      "scrape_timestamp": "2026-11-12T22:58:32.774291+00:00",
+      "content": "A special show recorded on board HMS Prince of Wales",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-12T17:22:26.720825+00:00",
+  "last_updated": "2026-11-12T22:58:50.104288+00:00",
   "metadata": {
-    "total_runs": 3173,
+    "total_runs": 3174,
     "sources": [
       "Financial Times"
     ],
