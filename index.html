@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-11-12 22:58 UTC</title>
+  <title>Macro Lab — 2026-11-13 03:09 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-11-12 22:58 UTC<br>Seuil alerte: 5.0 · 67 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-11-13 03:09 UTC<br>Seuil alerte: 5.0 · 68 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">289</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">292</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">67</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">68</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">3.0</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-11-12">Thu 12 Nov</option>
+        <option value="2026-11-13">Fri 13 Nov</option>
+<option value="2026-11-12">Thu 12 Nov</option>
 <option value="2026-11-11">Wed 11 Nov</option>
 <option value="2026-11-10">Tue 10 Nov</option>
 <option value="2026-11-09">Mon 09 Nov</option>
 <option value="2026-11-08">Sun 08 Nov</option>
 <option value="2026-11-07">Sat 07 Nov</option>
-<option value="2026-11-06">Fri 06 Nov</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -473,7 +473,7 @@
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (289 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (292 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="20.41" data-date="2026-11-11" data-themes="war_conflict,oil_energy" data-text="healey says treasury discussing ‘worst-case’ energy support for uk households chancellor prepares for deepening energy crisis and says end to iran war would be biggest boost to britain’s economy">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -779,6 +779,20 @@
   <p class="preview card-detail">Food and Drug Administration cites increased risk of rare eye condition that can cause permanent vision loss in users of GLP-1s</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-09">Mon, 09 Nov 2026 20:11:35</time>
+    <span class="kw-hint">🔑 war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="9.85" data-date="2026-11-12" data-themes="war_conflict" data-text="us lawmakers pile pressure on howard lutnick as nvidia scandal widens legislators demand trump’s commerce secretary explain why he allowed chip sales to company linked to alleged chinese spy">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.85 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war">9.9 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1" target="_blank" rel="noopener">US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens</a></h3>
+  <p class="preview card-detail">Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-12">Thu, 12 Nov 2026 23:35:11</time>
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
@@ -1902,20 +1916,6 @@
     <span class="kw-hint">🔑 oil</span>
   </div>
 </article>
-<article class="card" data-score="3.02" data-date="2026-11-06" data-themes="" data-text="us lawmakers summon jensen huang over chinese spying concerns top republicans ask nvidia boss to brief congressional committees after reports he was targeted by china">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 3.02 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: china">3.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1" target="_blank" rel="noopener">US lawmakers summon Jensen Huang over Chinese spying concerns</a></h3>
-  <p class="preview card-detail">Top Republicans ask Nvidia boss to brief congressional committees after reports he was targeted by China</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-06">Fri, 06 Nov 2026 00:59:03</time>
-    <span class="kw-hint">🔑 china</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="3.00" data-date="2026-11-09" data-themes="central_bank" data-text="transcript of an interview with klaas knot edited transcript from an interview with the dutch nominee for the european central bank presidency">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1969,20 +1969,6 @@
   <p class="preview card-detail">Ten takeaways from the IEA’s latest report on the fossil fuel transition</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-10">Tue, 10 Nov 2026 12:00:05</time>
-    <span class="kw-hint">🔑 china</span>
-  </div>
-</article>
-<article class="card" data-score="2.58" data-date="2026-11-06" data-themes="" data-text="china’s tech megacity cleans up seedy underbelly for apec summit shenzhen clears out illicit markets for smuggled chips and stolen iphones as it prepares to host gathering of international leaders">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.58 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: china">2.6 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1" target="_blank" rel="noopener">China’s tech megacity cleans up seedy underbelly for Apec summit</a></h3>
-  <p class="preview card-detail">Shenzhen clears out illicit markets for smuggled chips and stolen iPhones as it prepares to host gathering of international leaders</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-06">Fri, 06 Nov 2026 01:11:27</time>
     <span class="kw-hint">🔑 china</span>
   </div>
 </article>
@@ -2378,6 +2364,20 @@
     
   </div>
 </article>
+<article class="card" data-score="1.41" data-date="2026-11-12" data-themes="" data-text="ai boom will lift nvidia even after huang’s exit, investors say shares largely recovered by close of market thursday as shareholders bought the dip and looked to group’s future without ceo">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.41 | Seuil: 5.0 | Sentiment: Positive| Mots-cles: —">1.4 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1" target="_blank" rel="noopener">AI boom will lift Nvidia even after Huang’s exit, investors say</a></h3>
+  <p class="preview card-detail">Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-12">Thu, 12 Nov 2026 23:26:26</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.39" data-date="2026-11-10" data-themes="" data-text="nvidia hires former us prosecutor at wachtell to lead jensen huang probe former acting head of us attorney’s office for southern district of new york tapped for investigation of ceo’s affair with alleged chinese spy">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2616,6 +2616,20 @@
     
   </div>
 </article>
+<article class="card" data-score="1.10" data-date="2026-11-12" data-themes="" data-text="huang’s fall is an indictment of founder mode at big tech the risks of giving leaders free rein when ai is at the heart of the economy, national security and just about everything else are now clear">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.10 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">1.1 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1" target="_blank" rel="noopener">Huang’s fall is an indictment of founder mode at Big Tech</a></h3>
+  <p class="preview card-detail">The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-12">Thu, 12 Nov 2026 22:50:43</time>
+    
+  </div>
+</article>
 <article class="card" data-score="1.03" data-date="2026-11-06" data-themes="" data-text="low-profile wall street firm to double down on anthropic despite tech rout xn amassed $5.3bn stake in ai lab through private-round investments">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2697,6 +2711,34 @@
   <p class="preview card-detail">British university sector calls for an easing of immigration controls</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-12">Thu, 12 Nov 2026 00:01:10</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.89" data-date="2026-11-13" data-themes="" data-text="nvidia chief jensen huang toppled by revelations of extramarital affairs departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the ai boom">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.89 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.9 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1" target="_blank" rel="noopener">Nvidia chief Jensen Huang toppled by revelations of extramarital affairs</a></h3>
+  <p class="preview card-detail">Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-13">Fri, 13 Nov 2026 00:07:33</time>
+    
+  </div>
+</article>
+<article class="card" data-score="0.89" data-date="2026-11-13" data-themes="" data-text="blackstone buys into india’s iifl plus, venugopal dhoot’s insolvency">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.89 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.9 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/e5b7fb29-2466-4b69-9b4d-63a488c1ef52?syn-25a6b1a6=1" target="_blank" rel="noopener">Blackstone buys into India’s IIFL</a></h3>
+  <p class="preview card-detail">Plus, Venugopal Dhoot’s insolvency</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-13">Fri, 13 Nov 2026 01:30:05</time>
     
   </div>
 </article>
@@ -3008,6 +3050,20 @@
     
   </div>
 </article>
+<article class="card" data-score="0.63" data-date="2026-11-13" data-themes="" data-text="the silicon valley veterans now steering nvidia new chair harvey jones and ceo colette kress need to steady the chip group after founder jensen huang’s shocking departure">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.63 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.6 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1" target="_blank" rel="noopener">The Silicon Valley veterans now steering Nvidia</a></h3>
+  <p class="preview card-detail">New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-13">Fri, 13 Nov 2026 01:42:30</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.61" data-date="2026-11-12" data-themes="" data-text="pessimism over uk housing market hits highest level in three years rics survey shows sharp fall in estate agents’ expectations for sales and prices as elevated mortgage rates weigh on demand">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -3215,20 +3271,6 @@
   <p class="preview card-detail">Figure underscores resilience despite surging energy prices and rising borrowing costs.</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-12">Thu, 12 Nov 2026 08:23:17</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-11-06" data-themes="" data-text="merge police into 10 larger forces, says met chief sir mark rowley wants the existing 43 forces in england and wales to be consolidated into bigger and more effective units">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/aa2f03e3-e73e-48c2-b183-610fa00051e1?syn-25a6b1a6=1" target="_blank" rel="noopener">Merge police into 10 larger forces, says Met chief</a></h3>
-  <p class="preview card-detail">Sir Mark Rowley wants the existing 43 forces in England and Wales to be consolidated into bigger and more effective units</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-06">Fri, 06 Nov 2026 00:01:01</time>
     
   </div>
 </article>
@@ -4631,9 +4673,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["11-06", "11-07", "11-08", "11-09", "11-10", "11-11", "11-12"],
+    labels: ["11-07", "11-08", "11-09", "11-10", "11-11", "11-12", "11-13"],
     datasets: [{
-      data: [49, 25, 25, 45, 50, 46, 49],
+      data: [25, 25, 45, 50, 46, 52, 3],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -4647,7 +4689,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [41, 4, 1, 3, 1];
+const themeValues = [42, 4, 1, 3, 1];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',

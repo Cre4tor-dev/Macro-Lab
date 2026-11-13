@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "China’s tech megacity cleans up seedy underbelly for Apec summit",
-      "link": "https://www.ft.com/content/ea2ab632-1f5c-4e22-8fe2-f513e36a6862?syn-25a6b1a6=1",
-      "published_date": "Fri, 06 Nov 2026 01:11:27 GMT",
-      "scrape_timestamp": "2026-11-06T01:55:18.091281+00:00",
-      "content": "Shenzhen clears out illicit markets for smuggled chips and stolen iPhones as it prepares to host gathering of international leaders",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US lawmakers summon Jensen Huang over Chinese spying concerns",
-      "link": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
-      "published_date": "Fri, 06 Nov 2026 00:59:03 GMT",
-      "scrape_timestamp": "2026-11-06T01:55:18.291485+00:00",
-      "content": "Top Republicans ask Nvidia boss to brief congressional committees after reports he was targeted by China",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Merge police into 10 larger forces, says Met chief",
-      "link": "https://www.ft.com/content/aa2f03e3-e73e-48c2-b183-610fa00051e1?syn-25a6b1a6=1",
-      "published_date": "Fri, 06 Nov 2026 00:01:01 GMT",
-      "scrape_timestamp": "2026-11-06T01:55:18.491676+00:00",
-      "content": "Sir Mark Rowley wants the existing 43 forces in England and Wales to be consolidated into bigger and more effective units",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Wall Street AI sell-off spreads to Asia and Europe",
       "link": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0",
       "published_date": "Fri, 06 Nov 2026 07:39:22 GMT",
@@ -3178,11 +3145,77 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
+      "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 23:35:11 GMT",
+      "scrape_timestamp": "2026-11-13T03:09:12.736809+00:00",
+      "content": "Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+      "link": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 23:26:26 GMT",
+      "scrape_timestamp": "2026-11-13T03:09:12.936987+00:00",
+      "content": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+      "link": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1",
+      "published_date": "Fri, 13 Nov 2026 00:07:33 GMT",
+      "scrape_timestamp": "2026-11-13T03:09:13.137153+00:00",
+      "content": "Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Silicon Valley veterans now steering Nvidia",
+      "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
+      "published_date": "Fri, 13 Nov 2026 01:42:30 GMT",
+      "scrape_timestamp": "2026-11-13T03:09:13.337312+00:00",
+      "content": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Huang’s fall is an indictment of founder mode at Big Tech",
+      "link": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
+      "published_date": "Thu, 12 Nov 2026 22:50:43 GMT",
+      "scrape_timestamp": "2026-11-13T03:09:13.537479+00:00",
+      "content": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Blackstone buys into India’s IIFL",
+      "link": "https://www.ft.com/content/e5b7fb29-2466-4b69-9b4d-63a488c1ef52?syn-25a6b1a6=1",
+      "published_date": "Fri, 13 Nov 2026 01:30:05 GMT",
+      "scrape_timestamp": "2026-11-13T03:09:15.771701+00:00",
+      "content": "Plus, Venugopal Dhoot’s insolvency",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-12T22:58:50.104288+00:00",
+  "last_updated": "2026-11-13T03:09:34.895300+00:00",
   "metadata": {
-    "total_runs": 3174,
+    "total_runs": 3175,
     "sources": [
       "Financial Times"
     ],
