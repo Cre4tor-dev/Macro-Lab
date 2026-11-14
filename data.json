@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society",
-      "link": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 17:42:41 GMT",
-      "scrape_timestamp": "2026-11-07T19:44:15.013266+00:00",
-      "content": "Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
       "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
       "published_date": "Sat, 07 Nov 2026 21:03:47 GMT",
@@ -3235,9 +3224,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-14T14:38:46.507582+00:00",
+  "last_updated": "2026-11-14T19:36:35.932314+00:00",
   "metadata": {
-    "total_runs": 3180,
+    "total_runs": 3181,
     "sources": [
       "Financial Times"
     ],
