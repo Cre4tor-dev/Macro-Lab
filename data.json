@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
-      "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 21:03:47 GMT",
-      "scrape_timestamp": "2026-11-07T23:15:23.489847+00:00",
-      "content": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Gunman kills six in Kraków shooting",
-      "link": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 22:00:14 GMT",
-      "scrape_timestamp": "2026-11-07T23:15:25.456059+00:00",
-      "content": "Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump asks UFC boss Dana White to be new press secretary",
-      "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 20:33:52 GMT",
-      "scrape_timestamp": "2026-11-07T23:15:26.056523+00:00",
-      "content": "US president signals combative approach in wake of midterms drubbing of his party",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Crypto industry braces for reckoning over Trump ties",
       "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
       "published_date": "Sun, 08 Nov 2026 05:00:19 GMT",
@@ -3222,11 +3189,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
+      "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 22:57:26 GMT",
+      "scrape_timestamp": "2026-11-14T23:30:27.526766+00:00",
+      "content": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-14T19:36:35.932314+00:00",
+  "last_updated": "2026-11-14T23:30:46.650868+00:00",
   "metadata": {
-    "total_runs": 3181,
+    "total_runs": 3182,
     "sources": [
       "Financial Times"
     ],
