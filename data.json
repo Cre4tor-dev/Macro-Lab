@@ -2,61 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Berkshire Hathaway ploughs $9.6bn into share buybacks",
-      "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 13:53:28 GMT",
-      "scrape_timestamp": "2026-11-07T15:16:03.935749+00:00",
-      "content": "New chief executive Greg Abel was a net seller of stocks as the conglomerate’s shares beat the S&amp;P 500",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "What will a Democratic Congress mean for Ukraine?",
-      "link": "https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 12:00:04 GMT",
-      "scrape_timestamp": "2026-11-07T15:16:04.536341+00:00",
-      "content": "With Donald Trump retaining control of foreign policy, lawmakers will use legislative tools to try to support Kyiv",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "New Zealand’s National Party set to cling on to power",
-      "link": "https://www.ft.com/content/76a2208d-62c8-46f7-bada-554201d78cf4?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 12:06:11 GMT",
-      "scrape_timestamp": "2026-11-07T15:16:05.419384+00:00",
-      "content": "Rightwing bloc projected to win enough seats to form a government",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’",
-      "link": "https://www.ft.com/content/1cbee3e3-b4cf-4831-bd4e-ac1653c7c7c7?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 12:00:04 GMT",
-      "scrape_timestamp": "2026-11-07T15:16:05.619576+00:00",
-      "content": "Transport secretary’s $42.5bn project to squeeze decades of much-needed upgrades into three years could be risky, experts argue",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Data centres rebuked",
-      "link": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1",
-      "published_date": "Sat, 07 Nov 2026 10:30:03 GMT",
-      "scrape_timestamp": "2026-11-07T15:16:06.019951+00:00",
-      "content": "Capex, meet the electorate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society",
       "link": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1",
       "published_date": "Sat, 07 Nov 2026 17:42:41 GMT",
@@ -3167,11 +3112,132 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Passengers face widespread disruption after US air traffic control outage",
+      "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 13:52:46 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:26.226399+00:00",
+      "content": "Thousands of flights set to be delayed or cancelled over the weekend",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The citizens of nowhere won in the end",
+      "link": "https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 05:00:27 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:26.826845+00:00",
+      "content": "People might not vote for liberal individualism, but they live it",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+      "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 11:00:09 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:27.026957+00:00",
+      "content": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+      "link": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 11:41:15 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:27.427260+00:00",
+      "content": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+      "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 13:00:09 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:27.627402+00:00",
+      "content": "Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets or take on costly new debt",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How Trump’s midterm gerrymandering flopped",
+      "link": "https://www.ft.com/content/d99f635f-6223-45fc-8429-2ac36b28d080?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 12:00:08 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:28.371387+00:00",
+      "content": "Republicans’ unprecedented redistricting drive failed to overcome the tidal wave of Democratic votes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Argentina’s Milei clashes with his government’s most popular leader",
+      "link": "https://www.ft.com/content/eb3613fa-81ec-4cad-884d-39a20400e147?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 11:00:09 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:28.771678+00:00",
+      "content": "Tensions between the libertarian president and his senate chief test rightwing unity ahead of 2027 elections",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe Express: opening a security can of worms",
+      "link": "https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 11:00:09 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:28.971828+00:00",
+      "content": "Initiating a discussion about changing Nato before a ceasefire in Ukraine gives Moscow additional leverage",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chart of the Week: The great market rotation",
+      "link": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
+      "published_date": "Sat, 14 Nov 2026 10:30:08 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:29.572261+00:00",
+      "content": "Defensive sectors are the new winners",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hawkward timing",
+      "link": "https://www.ft.com/content/8c2639dc-e5d5-430d-a641-11776ac26f9c",
+      "published_date": "Sat, 14 Nov 2026 10:05:05 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:29.772381+00:00",
+      "content": "Federal Reserve policymakers have floated the idea of a bigger rate increase in December following strong jobs, growth and inflation data",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Transcript of an interview with Huw Pill",
+      "link": "https://www.ft.com/content/014fae08-ab39-4fa2-b9d3-f0c961a6710f",
+      "published_date": "Sat, 14 Nov 2026 05:00:46 GMT",
+      "scrape_timestamp": "2026-11-14T14:38:29.972520+00:00",
+      "content": "Bank of England chief economist talks to the FT",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-14T07:12:20.239724+00:00",
+  "last_updated": "2026-11-14T14:38:46.507582+00:00",
   "metadata": {
-    "total_runs": 3179,
+    "total_runs": 3180,
     "sources": [
       "Financial Times"
     ],
