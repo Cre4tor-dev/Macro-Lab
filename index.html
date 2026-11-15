@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-11-14 23:30 UTC</title>
+  <title>Macro Lab — 2026-11-15 03:52 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-11-14 23:30 UTC<br>Seuil alerte: 5.0 · 66 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-11-15 03:52 UTC<br>Seuil alerte: 5.0 · 67 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">291</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">293</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">66</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">67</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">3.1</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-11-14">Sat 14 Nov</option>
+        <option value="2026-11-15">Sun 15 Nov</option>
+<option value="2026-11-14">Sat 14 Nov</option>
 <option value="2026-11-13">Fri 13 Nov</option>
 <option value="2026-11-12">Thu 12 Nov</option>
 <option value="2026-11-11">Wed 11 Nov</option>
 <option value="2026-11-10">Tue 10 Nov</option>
 <option value="2026-11-09">Mon 09 Nov</option>
-<option value="2026-11-08">Sun 08 Nov</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -414,6 +414,20 @@
     <span class="kw-hint">🔑 war, russia</span>
   </div>
 </article></div></div>
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="11.31" data-date="2026-11-15" data-themes="war_conflict" data-text="‘red caviar’ slips off japan’s sushi menus as roe prices soar collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.31 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, collapse">11.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1" target="_blank" rel="noopener">‘Red caviar’ slips off Japan’s sushi menus as roe prices soar</a></h3>
+  <p class="preview card-detail">Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-15">Sun, 15 Nov 2026 02:00:02</time>
+    <span class="kw-hint">🔑 war, collapse</span>
+  </div>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="10.92" data-date="2026-11-12" data-themes="war_conflict" data-text="european leaders reject russian push to overhaul continent’s security ‘europe needs to pay attention’, warns zelenskyy after abu dhabi talks">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -455,25 +469,11 @@
     <time datetime="2026-11-11">Wed, 11 Nov 2026 05:00:12</time>
     <span class="kw-hint">🔑 war, bond</span>
   </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="10.28" data-date="2026-11-12" data-themes="war_conflict" data-text="eu and uk set to delay 10% tariff on electric cars european carmakers had warned the levy would make them more vulnerable to chinese competition">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.28 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, tariff">10.3 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/b6c31ee9-0837-4fb0-83d9-a0e70100d0a3?syn-25a6b1a6=1" target="_blank" rel="noopener">EU and UK set to delay 10% tariff on electric cars</a></h3>
-  <p class="preview card-detail">European carmakers had warned the levy would make them more vulnerable to Chinese competition</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-12">Thu, 12 Nov 2026 05:00:21</time>
-    <span class="kw-hint">🔑 war, tariff</span>
-  </div>
 </article></div></div></div>
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (291 articles)</div>
+    <div class="section-title">Historique complet — 7 derniers jours (293 articles)</div>
     <div id="cards-all"><article class="card card-alert" data-score="20.41" data-date="2026-11-11" data-themes="war_conflict,oil_energy" data-text="healey says treasury discussing ‘worst-case’ energy support for uk households chancellor prepares for deepening energy crisis and says end to iran war would be biggest boost to britain’s economy">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -696,6 +696,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-11-09">Mon, 09 Nov 2026 06:00:07</time>
     <span class="kw-hint">🔑 war, russia</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="11.31" data-date="2026-11-15" data-themes="war_conflict" data-text="‘red caviar’ slips off japan’s sushi menus as roe prices soar collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 11.31 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, collapse">11.3 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1" target="_blank" rel="noopener">‘Red caviar’ slips off Japan’s sushi menus as roe prices soar</a></h3>
+  <p class="preview card-detail">Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-15">Sun, 15 Nov 2026 02:00:02</time>
+    <span class="kw-hint">🔑 war, collapse</span>
   </div>
 </article>
 <article class="card card-alert" data-score="10.92" data-date="2026-11-12" data-themes="war_conflict" data-text="european leaders reject russian push to overhaul continent’s security ‘europe needs to pay attention’, warns zelenskyy after abu dhabi talks">
@@ -1972,6 +1986,20 @@
     <span class="kw-hint">🔑 crypto</span>
   </div>
 </article>
+<article class="card" data-score="2.69" data-date="2026-11-15" data-themes="" data-text="the world according to china the apec summit in shenzhen this week will showcase china’s ambition to reshape the global order on its own terms">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 2.69 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: china">2.7 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1" target="_blank" rel="noopener">The world according to China</a></h3>
+  <p class="preview card-detail">The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-15">Sun, 15 Nov 2026 03:00:02</time>
+    <span class="kw-hint">🔑 china</span>
+  </div>
+</article>
 <article class="card" data-score="2.67" data-date="2026-11-14" data-themes="" data-text="china’s beaten-down tech stocks could offer ai with a little less drama opportunities in china lie as much in the picks and shovels of the ai supply chain">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -2361,20 +2389,6 @@
   <p class="preview card-detail">British premier insists that ‘no one is talking’ about rejoining the bloc as summit nears</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-12">Thu, 12 Nov 2026 21:18:05</time>
-    
-  </div>
-</article>
-<article class="card" data-score="1.44" data-date="2026-11-08" data-themes="" data-text="indonesian president’s adviser says msci downgrade threat ‘went too far’ tycoon and brother of president prabowo subianto says expulsion from global indices would have ‘serious consequences’">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 1.44 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: —">1.4 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/32c04cee-3f49-4971-a72d-391ad52e8f58?syn-25a6b1a6=1" target="_blank" rel="noopener">Indonesian president’s adviser says MSCI downgrade threat ‘went too far’</a></h3>
-  <p class="preview card-detail">Tycoon and brother of President Prabowo Subianto says expulsion from global indices would have ‘serious consequences’</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-08">Sun, 08 Nov 2026 01:32:03</time>
     
   </div>
 </article>
@@ -4547,6 +4561,20 @@
     <time datetime="2026-11-14">Sat, 14 Nov 2026 22:57:26</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-11-15" data-themes="" data-text="new york socialists back alexandria ocasio-cortez for 2028 presidential race democratic congresswoman has been touted as a possible candidate but not said if she will run">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811?syn-25a6b1a6=1" target="_blank" rel="noopener">New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race</a></h3>
+  <p class="preview card-detail">Democratic congresswoman has been touted as a possible candidate but not said if she will run</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-15">Sun, 15 Nov 2026 01:52:51</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -4659,9 +4687,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["11-08", "11-09", "11-10", "11-11", "11-12", "11-13", "11-14"],
+    labels: ["11-09", "11-10", "11-11", "11-12", "11-13", "11-14", "11-15"],
     datasets: [{
-      data: [25, 45, 50, 46, 52, 43, 30],
+      data: [45, 50, 46, 52, 43, 30, 3],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -4675,7 +4703,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [39, 3, 4, 1];
+const themeValues = [40, 3, 4, 1];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',

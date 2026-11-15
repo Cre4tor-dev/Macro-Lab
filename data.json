@@ -112,17 +112,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Indonesian president’s adviser says MSCI downgrade threat ‘went too far’",
-      "link": "https://www.ft.com/content/32c04cee-3f49-4971-a72d-391ad52e8f58?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 01:32:03 GMT",
-      "scrape_timestamp": "2026-11-08T10:54:03.825816+00:00",
-      "content": "Tycoon and brother of President Prabowo Subianto says expulsion from global indices would have ‘serious consequences’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Republican infighting mounts over corruption claims after midterms wipeout",
       "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
       "published_date": "Sun, 08 Nov 2026 12:51:25 GMT",
@@ -3200,11 +3189,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The world according to China",
+      "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 03:00:02 GMT",
+      "scrape_timestamp": "2026-11-15T03:52:26.495671+00:00",
+      "content": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Red caviar’ slips off Japan’s sushi menus as roe prices soar",
+      "link": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 02:00:02 GMT",
+      "scrape_timestamp": "2026-11-15T03:52:27.972295+00:00",
+      "content": "Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race",
+      "link": "https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 01:52:51 GMT",
+      "scrape_timestamp": "2026-11-15T03:52:28.172469+00:00",
+      "content": "Democratic congresswoman has been touted as a possible candidate but not said if she will run",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-14T23:30:46.650868+00:00",
+  "last_updated": "2026-11-15T03:52:44.521465+00:00",
   "metadata": {
-    "total_runs": 3182,
+    "total_runs": 3183,
     "sources": [
       "Financial Times"
     ],
