@@ -2,110 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Republican infighting mounts over corruption claims after midterms wipeout",
-      "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 12:51:25 GMT",
-      "scrape_timestamp": "2026-11-08T16:51:16.966457+00:00",
-      "content": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "A new economic agenda for America",
-      "link": "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c",
-      "published_date": "Sun, 08 Nov 2026 16:00:00 GMT",
-      "scrape_timestamp": "2026-11-08T16:51:17.567061+00:00",
-      "content": "Pro-growth policies on their own won’t address the concerns of voters worried about the cost of living",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How each country’s emissions compare",
-      "link": "https://www.ft.com/content/9dfb0201-ef77-4c05-93cd-1e277c7017cf?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 14:36:08 GMT",
-      "scrape_timestamp": "2026-11-08T16:51:19.041327+00:00",
-      "content": "A searchable dashboard of 197 countries’ historical emissions and future climate targets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Sequoia’s new chiefs sweep away last remnants of Botha era",
-      "link": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 14:00:00 GMT",
-      "scrape_timestamp": "2026-11-08T16:51:19.241507+00:00",
-      "content": "Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Dublin launches ‘blueprint’ for united Ireland",
-      "link": "https://www.ft.com/content/e372642c-81a5-4098-8fdf-d118d22fa896?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 13:49:18 GMT",
-      "scrape_timestamp": "2026-11-08T16:51:19.441703+00:00",
-      "content": "Coalition party’s scenario planning puts first-year cost of reunification at €3bn to €25bn while prime minister announces government unit to inform debate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK culture secretary Lisa Nandy questions whether rejoining EU is a ‘choice we have’",
-      "link": "https://www.ft.com/content/1401fe6f-52a2-4639-bed3-67cc828085f1?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 12:30:28 GMT",
-      "scrape_timestamp": "2026-11-08T16:51:19.842090+00:00",
-      "content": "PM Andy Burnham has said he wants debate about Britain’s long-term relationship with Brussels",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
-      "link": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 12:16:02 GMT",
-      "scrape_timestamp": "2026-11-08T16:51:20.042290+00:00",
-      "content": "Tower hosting Saudi Arabia’s state-owned oil major hit by shrapnel in King Abdullah Financial District on Sunday",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Data says the unsaid about British welfare politics",
-      "link": "https://www.ft.com/content/62bc1938-d7ea-4be0-a5de-ec9735343009?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 12:00:11 GMT",
-      "scrape_timestamp": "2026-11-08T16:51:20.242486+00:00",
-      "content": "Both Labour and the Conservatives owe their majorities to claimants, just different kinds",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
       "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
       "published_date": "Sun, 08 Nov 2026 20:19:02 GMT",
       "scrape_timestamp": "2026-11-08T20:53:11.707097+00:00",
       "content": "Tech company opens investigation into CEO as he confirms extramarital relationship in internal message to employees",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
-      "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 18:10:24 GMT",
-      "scrape_timestamp": "2026-11-08T20:53:12.708118+00:00",
-      "content": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -128,17 +29,6 @@
       "published_date": "Sun, 08 Nov 2026 18:15:02 GMT",
       "scrape_timestamp": "2026-11-08T20:53:14.068502+00:00",
       "content": "Trilateral peace talks in Abu Dhabi, new Knesset in Jerusalem, COP31 opens in Turkey",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will US inflation data ease affordability concerns?",
-      "link": "https://www.ft.com/content/3d46dfb4-eef8-4ea0-9264-282bd269647e?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 16:20:06 GMT",
-      "scrape_timestamp": "2026-11-08T20:53:14.468852+00:00",
-      "content": "Market Questions is the FT’s guide to the week ahead",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3266,11 +3156,187 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
+      "link": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 17:15:23 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:17.001453+00:00",
+      "content": "US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US and allies sign accord to protect AI supply chains from China",
+      "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 17:47:43 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:17.201642+00:00",
+      "content": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic’s IPO is the next big test for AI",
+      "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 11:40:44 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:17.401828+00:00",
+      "content": "Even the most powerful frontier labs must bend to the power of public equity",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Republicans blame everyone but Trump for midterm drubbing",
+      "link": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 13:00:05 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:18.602988+00:00",
+      "content": "The party faithful avoid mentioning their leader as they lick their wounds at Heritage Foundation postmortem",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector",
+      "link": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 17:07:06 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:19.003347+00:00",
+      "content": "Summit’s Ivonescimab was seen as a test case for whether the country’s medicine could pass scrutiny in the US",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Decision to move Shakespeare Institute out of Stratford sparks outcry",
+      "link": "https://www.ft.com/content/eb45ef82-94b0-4775-9f79-025fdb27db6a?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 17:28:56 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:19.542230+00:00",
+      "content": "Study centre’s director quits after University of Birmingham says it will relocate to Edgbaston",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Neighbours of China’s London ‘mega’ embassy struggle to sell flats",
+      "link": "https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 17:00:06 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:19.742374+00:00",
+      "content": "Beijing owns freehold to about 100 flats near the Tower of London, provoking fears of surveillance, nuisance and leasehold problems",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hong Kong developer New World unveils $3.2bn rights issue",
+      "link": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 15:24:52 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:20.142732+00:00",
+      "content": "Cheng family’s property firm prices share offer at 82% discount as it moves to slash debts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Gold rush turns deadly in Guinea",
+      "link": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 15:13:38 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:20.342921+00:00",
+      "content": "High gold prices have driven a wave of fresh mining, and Conakry is cracking down",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK businesses facing big rise in electricity bills by end of decade",
+      "link": "https://www.ft.com/content/51ce4dd5-d726-41fd-b46c-a378dce14b69?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 14:29:01 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:20.543113+00:00",
+      "content": "Estimated increase of about 13% is largely driven by the cost of investment in electricity networks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Young Britons out of work or training for a year to be guaranteed jobs",
+      "link": "https://www.ft.com/content/7fa20d99-0085-445d-95c9-b2cfe80cd8e1?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 14:03:29 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:20.743296+00:00",
+      "content": "Work and pensions secretary lays out plan to address ‘lost generation’ ahead of changes to unemployment support",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe needs to talk to Russia",
+      "link": "https://www.ft.com/content/386813f4-2bf6-4fbe-9ab7-5f0c57f8e593",
+      "published_date": "Sun, 15 Nov 2026 13:00:05 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:21.143653+00:00",
+      "content": "The cold war teaches us that deterrence requires more than just stronger armed forces",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Saudi-backed Yemeni forces retreat from Red Sea in win for Houthis",
+      "link": "https://www.ft.com/content/2e7028ba-987c-4874-9426-fe38a8753c67?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 12:32:21 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:21.343835+00:00",
+      "content": "Yemen announces withdrawal from areas around Bab al-Mandeb Strait in order to protect de facto capital Aden from Iran-linked militants",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain’s self-inflicted housebuilding crunch",
+      "link": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 12:00:05 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:21.544017+00:00",
+      "content": "The state encumbers construction, then commits public funds to offset the damage",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will Nvidia earnings steady the AI sell-off?",
+      "link": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 12:00:05 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:21.744171+00:00",
+      "content": "Market Questions is the FT’s guide to the week ahead",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran attacks Bahrain in escalation of Gulf hostilities",
+      "link": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 10:50:05 GMT",
+      "scrape_timestamp": "2026-11-15T18:13:22.344699+00:00",
+      "content": "Bahrain says it has intercepted two Iranian barrages this week after months of relative calm",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-15T11:39:58.044527+00:00",
+  "last_updated": "2026-11-15T18:13:38.456693+00:00",
   "metadata": {
-    "total_runs": 3184,
+    "total_runs": 3185,
     "sources": [
       "Financial Times"
     ],
