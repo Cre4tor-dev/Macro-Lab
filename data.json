@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-      "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 20:19:02 GMT",
-      "scrape_timestamp": "2026-11-08T20:53:11.707097+00:00",
-      "content": "Tech company opens investigation into CEO as he confirms extramarital relationship in internal message to employees",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Companies House faces scrutiny over ‘pervasive and systemic’ errors",
-      "link": "https://www.ft.com/content/1b67f9c7-b1ad-4b5b-b496-ac3a305ec841?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 19:00:02 GMT",
-      "scrape_timestamp": "2026-11-08T20:53:13.868314+00:00",
-      "content": "Almost four in 10 businesses identify inconsistencies with their own records, calling official UK corporate register’s reliability into question",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
-      "link": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6?syn-25a6b1a6=1",
-      "published_date": "Sun, 08 Nov 2026 18:15:02 GMT",
-      "scrape_timestamp": "2026-11-08T20:53:14.068502+00:00",
-      "content": "Trilateral peace talks in Abu Dhabi, new Knesset in Jerusalem, COP31 opens in Turkey",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Russian military turns to deepfake videos to claim battlefield success",
       "link": "https://www.ft.com/content/7f36031b-ea90-4a3a-a570-a6c6ff96e45a?syn-25a6b1a6=1",
       "published_date": "Mon, 09 Nov 2026 05:00:25 GMT",
@@ -3332,11 +3299,66 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 19:03:41 GMT",
+      "scrape_timestamp": "2026-11-15T23:15:39.727264+00:00",
+      "content": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Viktor Orbán’s party reels from $20mn hidden cash discovery",
+      "link": "https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 18:44:15 GMT",
+      "scrape_timestamp": "2026-11-15T23:15:41.129032+00:00",
+      "content": "Hungarian police said money was recovered in forests, barns and warehouses as part of investigation into former prime minister’s ally",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
+      "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 18:27:27 GMT",
+      "scrape_timestamp": "2026-11-15T23:15:41.329218+00:00",
+      "content": "Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Estonia to close border with Russia after second alleged sabotage attempt",
+      "link": "https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 20:58:12 GMT",
+      "scrape_timestamp": "2026-11-15T23:15:42.552517+00:00",
+      "content": "Tallinn accuses Russian military intelligence unit GRU of being behind a failed explosion at dronemaker",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic IPO to further fuel the AI news cycle",
+      "link": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c?syn-25a6b1a6=1",
+      "published_date": "Sun, 15 Nov 2026 18:15:07 GMT",
+      "scrape_timestamp": "2026-11-15T23:15:43.553794+00:00",
+      "content": "New York listing date arrives, Trump, Xi and Putin in Shenzhen, a UK-EU entente cordiale",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-15T18:13:38.456693+00:00",
+  "last_updated": "2026-11-15T23:15:59.493750+00:00",
   "metadata": {
-    "total_runs": 3185,
+    "total_runs": 3186,
     "sources": [
       "Financial Times"
     ],
