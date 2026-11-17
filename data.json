@@ -2,83 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
-      "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
-      "published_date": "Tue, 10 Nov 2026 00:35:56 GMT",
-      "scrape_timestamp": "2026-11-10T01:15:56.141179+00:00",
-      "content": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Japan can tell the world what really matters when prepping",
-      "link": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1",
-      "published_date": "Tue, 10 Nov 2026 00:47:30 GMT",
-      "scrape_timestamp": "2026-11-10T01:15:57.142115+00:00",
-      "content": "Telling people to stock up is one thing but the Japanese know that building a stockpile of civil credibility requires greater effort",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
-      "link": "https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f?syn-25a6b1a6=1",
-      "published_date": "Tue, 10 Nov 2026 00:08:38 GMT",
-      "scrape_timestamp": "2026-11-10T01:15:57.342301+00:00",
-      "content": "Moscow’s strikes on the bridges across the Dnipro river could sever power and transport links with the east of the country",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump’s Board of Peace warns of  ‘immediate humanitarian emergency’ in Gaza",
-      "link": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9?syn-25a6b1a6=1",
-      "published_date": "Mon, 09 Nov 2026 23:51:16 GMT",
-      "scrape_timestamp": "2026-11-10T01:15:57.742684+00:00",
-      "content": "The organisation says flooding has left Palestinians in unsafe conditions, with Israel allowing insufficient aid into the territory",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump hails ‘positive momentum’ towards ending Iran war",
-      "link": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
-      "published_date": "Mon, 09 Nov 2026 22:42:58 GMT",
-      "scrape_timestamp": "2026-11-10T01:15:58.143048+00:00",
-      "content": "Comments by US president come after calls with regional leaders and a meeting with the Qatari prime minister",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’",
-      "link": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef?syn-25a6b1a6=1",
-      "published_date": "Tue, 10 Nov 2026 00:34:45 GMT",
-      "scrape_timestamp": "2026-11-10T01:15:58.343227+00:00",
-      "content": "US oil major says it has signed a memorandum of understanding with Caracas",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Supreme Court lets Trump build border wall through Texas national park",
-      "link": "https://www.ft.com/content/426452cc-61cd-4f68-9fe0-b28161ecffac?syn-25a6b1a6=1",
-      "published_date": "Mon, 09 Nov 2026 23:14:29 GMT",
-      "scrape_timestamp": "2026-11-10T01:15:59.689810+00:00",
-      "content": "Top judges rule that government’s interest outweighs any aesthetic and environmental harm alleged by respondents",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Too big to fire",
       "link": "https://www.ft.com/content/e1c37583-0b76-48ab-96b7-8e7da453fa88?syn-25a6b1a6=1",
       "published_date": "Tue, 10 Nov 2026 07:10:16 GMT",
@@ -3310,11 +3233,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "India mulls lifting capital gains tax for foreign investors",
+      "link": "https://www.ft.com/content/32fbce84-6361-4e60-851a-e0cdac9a5ae7?syn-25a6b1a6=1",
+      "published_date": "Tue, 17 Nov 2026 01:30:03 GMT",
+      "scrape_timestamp": "2026-11-17T04:52:41.972956+00:00",
+      "content": "Also, exports surge despite geopolitical troubles",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham delays plans to set out options for UK’s long-term ties with EU",
+      "link": "https://www.ft.com/content/d6a8f196-fe95-4480-9c36-283b79b7cf33?syn-25a6b1a6=1",
+      "published_date": "Mon, 16 Nov 2026 23:37:09 GMT",
+      "scrape_timestamp": "2026-11-17T04:52:42.173147+00:00",
+      "content": "PM uses set-piece City of London speech to ease disquiet over starting a debate on potentially rejoining the bloc",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Milburn review to show whether UK really wants to reform its welfare state",
+      "link": "https://www.ft.com/content/f569092c-ec94-4b79-9832-3f74dd94c19f?syn-25a6b1a6=1",
+      "published_date": "Mon, 16 Nov 2026 22:30:02 GMT",
+      "scrape_timestamp": "2026-11-17T04:52:42.773664+00:00",
+      "content": "Former minister will set out plan to cut sickness benefits to under-25s while pouring billions of pounds into employment support",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-16T22:39:25.054947+00:00",
+  "last_updated": "2026-11-17T04:53:00.634657+00:00",
   "metadata": {
-    "total_runs": 3189,
+    "total_runs": 3190,
     "sources": [
       "Financial Times"
     ],
