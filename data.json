@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
-      "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
-      "published_date": "Wed, 11 Nov 2026 00:27:38 GMT",
-      "scrape_timestamp": "2026-11-11T02:23:28.814524+00:00",
-      "content": "Claude maker’s listing price expected to rise after strong demand from investors",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
-      "link": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1",
-      "published_date": "Wed, 11 Nov 2026 00:01:29 GMT",
-      "scrape_timestamp": "2026-11-11T02:23:30.816221+00:00",
-      "content": "AI infrastructure group turns to asset-backed debt and customer pre-payments for financing",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Embrace paper exams to combat AI cheating, warns UK universities regulator",
-      "link": "https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a?syn-25a6b1a6=1",
-      "published_date": "Wed, 11 Nov 2026 00:01:09 GMT",
-      "scrape_timestamp": "2026-11-11T02:23:31.784712+00:00",
-      "content": "Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic IPO valuation calculator: How much is it really worth?",
       "link": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1",
       "published_date": "Wed, 11 Nov 2026 05:00:12 GMT",
@@ -3167,11 +3134,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia has a chance to trade drama for durability",
+      "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 02:56:15 GMT",
+      "scrape_timestamp": "2026-11-18T03:57:15.840391+00:00",
+      "content": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+      "link": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 02:17:18 GMT",
+      "scrape_timestamp": "2026-11-18T03:57:16.240739+00:00",
+      "content": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia’s Putin addresses global CEOs in China",
+      "link": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 03:23:17 GMT",
+      "scrape_timestamp": "2026-11-18T03:57:17.241711+00:00",
+      "content": "Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
+      "link": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 02:19:18 GMT",
+      "scrape_timestamp": "2026-11-18T03:57:17.441895+00:00",
+      "content": "Companies told to update systems running on programming language widely used by corporate sector, banks and government agencies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Climate adviser urges UK government to ‘stand firm’ on electric vehicle targets",
+      "link": "https://www.ft.com/content/52c034e5-ec65-4aa1-b693-77705c57ec23?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 00:01:04 GMT",
+      "scrape_timestamp": "2026-11-18T03:57:19.191501+00:00",
+      "content": "Climate Change Committee chair warns that watering down the ZEV mandate would put Britain’s green targets at risk and drive up costs for motorists",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI might be a reason why the yen is back on intervention watch",
+      "link": "https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 00:01:04 GMT",
+      "scrape_timestamp": "2026-11-18T03:57:19.391693+00:00",
+      "content": "Surge in buying of Japanese stocks creates a demand for currency hedging",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Israeli opposition succeeds in electing a new parliamentary Speaker",
+      "link": "https://www.ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1",
+      "published_date": "Tue, 17 Nov 2026 22:36:45 GMT",
+      "scrape_timestamp": "2026-11-18T03:57:19.792060+00:00",
+      "content": "Appointment of Matan Kahana is a setback for Benjamin Netanyahu’s far-right coalition",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-17T22:03:19.980627+00:00",
+  "last_updated": "2026-11-18T03:57:37.091142+00:00",
   "metadata": {
-    "total_runs": 3192,
+    "total_runs": 3193,
     "sources": [
       "Financial Times"
     ],
