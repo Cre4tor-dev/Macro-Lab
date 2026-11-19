@@ -2,83 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Nvidia board set to meet after revelations Huang had affair with top company executive",
-      "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-      "published_date": "Wed, 11 Nov 2026 22:56:26 GMT",
-      "scrape_timestamp": "2026-11-12T01:09:30.416582+00:00",
-      "content": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Can India clean up Delhi’s deadly smog?",
-      "link": "https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1",
-      "published_date": "Thu, 12 Nov 2026 00:08:12 GMT",
-      "scrape_timestamp": "2026-11-12T01:09:30.816978+00:00",
-      "content": "Residents ask why a country that can land a spacecraft on the Moon cannot prevent citizens in its capital choking on bad air",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Scott Colom wins historic Senate race in Mississippi",
-      "link": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
-      "published_date": "Thu, 12 Nov 2026 00:24:56 GMT",
-      "scrape_timestamp": "2026-11-12T01:09:31.217382+00:00",
-      "content": "Democrat becomes the first Black person to represent the state since Reconstruction era",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump",
-      "link": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9?syn-25a6b1a6=1",
-      "published_date": "Wed, 11 Nov 2026 21:01:55 GMT",
-      "scrape_timestamp": "2026-11-12T01:09:31.617791+00:00",
-      "content": "Congress member Jamie Raskin says he will launch sweeping probe of president and allies but warns party to avoid impeachment ‘distraction’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "ExxonMobil launches legal challenge to EU carbon capture rules",
-      "link": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
-      "published_date": "Wed, 11 Nov 2026 21:26:48 GMT",
-      "scrape_timestamp": "2026-11-12T01:09:31.817993+00:00",
-      "content": "US oil company invokes investment treaty to challenge Brussels’ green regulations and seek suspension of timing requirements",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Pessimism over UK housing market hits highest level in three years",
-      "link": "https://www.ft.com/content/b9eb728e-847d-44f8-a2cc-bb139bc7220f?syn-25a6b1a6=1",
-      "published_date": "Thu, 12 Nov 2026 00:01:10 GMT",
-      "scrape_timestamp": "2026-11-12T01:09:32.699483+00:00",
-      "content": "Rics survey shows sharp fall in estate agents’ expectations for sales and prices as elevated mortgage rates weigh on demand",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK suffers bigger fall in international postgraduate students than the US",
-      "link": "https://www.ft.com/content/8eb628d1-782d-4c2a-b711-164e4d117081?syn-25a6b1a6=1",
-      "published_date": "Thu, 12 Nov 2026 00:01:10 GMT",
-      "scrape_timestamp": "2026-11-12T01:09:32.899703+00:00",
-      "content": "British university sector calls for an easing of immigration controls",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia shares tumble in after-market trading",
       "link": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
       "published_date": "Thu, 12 Nov 2026 08:10:33 GMT",
@@ -3200,11 +3123,77 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic raises $81bn in record IPO",
+      "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 22:04:50 GMT",
+      "scrape_timestamp": "2026-11-19T02:21:09.291713+00:00",
+      "content": "AI giant’s enlarged deal will surpass SpaceX to become world’s biggest public listing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump, Xi and Putin to hold high-stakes trilateral summit",
+      "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+      "published_date": "Thu, 19 Nov 2026 01:31:05 GMT",
+      "scrape_timestamp": "2026-11-19T02:21:09.892215+00:00",
+      "content": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Meta halts plan to give Zuckerberg new class of shares",
+      "link": "https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 23:57:06 GMT",
+      "scrape_timestamp": "2026-11-19T02:21:10.693093+00:00",
+      "content": "Tech group pauses plan that would have let founder sell down stake without ceding control",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
+      "link": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1",
+      "published_date": "Thu, 19 Nov 2026 00:01:06 GMT",
+      "scrape_timestamp": "2026-11-19T02:21:11.093537+00:00",
+      "content": "Regulators publish new directions after surge in hacking attempts and $6bn theft from crypto exchange Binance",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russian accused of spying on Palantir over assistance to Ukraine",
+      "link": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 21:44:59 GMT",
+      "scrape_timestamp": "2026-11-19T02:21:11.293794+00:00",
+      "content": "Prosecutors say suspect entered US from Mexico and stalked employees at Silicon Valley tech group",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US and Venezuela to expand military co-operation to target drug trafficking",
+      "link": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b?syn-25a6b1a6=1",
+      "published_date": "Wed, 18 Nov 2026 23:22:04 GMT",
+      "scrape_timestamp": "2026-11-19T02:21:12.403874+00:00",
+      "content": "Defence secretary Pete Hegseth says two nations will ‘hunt’, ‘find’ and ‘kill’ ‘narcoterrorists’ during trip to Caracas",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-18T20:59:59.723108+00:00",
+  "last_updated": "2026-11-19T02:21:29.844239+00:00",
   "metadata": {
-    "total_runs": 3195,
+    "total_runs": 3196,
     "sources": [
       "Financial Times"
     ],
