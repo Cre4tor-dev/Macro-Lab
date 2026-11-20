@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "The Silicon Valley veterans now steering Nvidia",
-      "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 01:42:30 GMT",
-      "scrape_timestamp": "2026-11-13T03:09:13.337312+00:00",
-      "content": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Value Nvidia, not Huang",
-      "link": "https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 06:30:07 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:22.968641+00:00",
-      "content": "Plus, sclerotic labour markets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The downfall of Jensen Huang",
-      "link": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 03:47:19 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:23.168826+00:00",
-      "content": "After 33 years building Nvidia into the world’s most valuable company, its founder’s career disintegrated in less than two weeks",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Microsoft races to restore services after global outage",
       "link": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
       "published_date": "Fri, 13 Nov 2026 09:42:01 GMT",
@@ -57,33 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Russia loses almost half a million lives in Ukraine war",
-      "link": "https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 05:00:27 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:24.169783+00:00",
-      "content": "Data from statistical agency points to vast toll of progress by Moscow’s forces on a few small fronts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Re-energised Atlantic grouping will be swifter than Nato, says UK",
       "link": "https://www.ft.com/content/2500879f-9849-45e8-8e22-082e9fa53228?syn-25a6b1a6=1",
       "published_date": "Fri, 13 Nov 2026 11:05:03 GMT",
       "scrape_timestamp": "2026-11-13T11:43:24.369961+00:00",
       "content": "The Joint Expeditionary Force is little known outside defence circles, but the mounting Russian threat to the High North and Baltic Sea regions has given it new purpose",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Global oil markets swing to surplus as Gulf shipments rebound",
-      "link": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 09:04:06 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:24.570119+00:00",
-      "content": "IEA analysts warn it will take months to rebuild stockpiles depleted by conflict",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -117,72 +62,6 @@
       "published_date": "Fri, 13 Nov 2026 09:30:08 GMT",
       "scrape_timestamp": "2026-11-13T11:43:26.104802+00:00",
       "content": "Labour’s benefits-reform plans must not become subordinate to party’s other objectives",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
-      "link": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 09:07:28 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:26.304986+00:00",
-      "content": "Ousted chief executive Jensen Huang had supported keeping sales open to China",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Onitsuka Tiger owner Asics shares slide as sales growth slows",
-      "link": "https://www.ft.com/content/ea89a373-5f42-413c-8aef-4556be883939?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 08:16:05 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:26.705332+00:00",
-      "content": "Analysts fear athleisure’s standout performer may miss annual targets",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ukraine talks call for European speaker despite lack of continental consensus",
-      "link": "https://www.ft.com/content/73e518cb-14c5-4012-acea-3a3d01725b1b?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 06:00:07 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:27.105656+00:00",
-      "content": "Also in this newsletter: Retail investment reform gets killed",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "City of London’s new Lord Mayor to press pension funds on investment pledges",
-      "link": "https://www.ft.com/content/ac91b140-2614-48aa-8438-554e2c343373?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 06:00:07 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:27.305847+00:00",
-      "content": "Bronek Masojada, the South African-born former chief executive of insurer Hiscox, is being sworn in on Friday",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Surging British tech sector helps drive UK economy",
-      "link": "https://www.ft.com/content/76fec740-0825-4c6b-a106-1dcdcba36219?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 05:00:27 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:27.506001+00:00",
-      "content": "Growing adoption of AI believed to be supporting growth, stoking optimism that there could be improvements ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Labour MPs who defied Starmer now open to youth welfare cuts",
-      "link": "https://www.ft.com/content/9f608d3b-0b14-42d4-a7a3-b2cb379c7528?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 05:00:27 GMT",
-      "scrape_timestamp": "2026-11-13T11:43:27.706202+00:00",
-      "content": "Proposal to be launched next week aimed at helping nearly one million young people not in education, employment or training",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -370,17 +249,6 @@
       "published_date": "Fri, 13 Nov 2026 19:41:26 GMT",
       "scrape_timestamp": "2026-11-14T00:06:09.439295+00:00",
       "content": "AI lab’s chief executive brushes off tech stock turbulence less than a week before  planned $1.5tn listing",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nscale warns it needs more cash ahead of $35bn IPO",
-      "link": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47?syn-25a6b1a6=1",
-      "published_date": "Fri, 13 Nov 2026 04:10:06 GMT",
-      "scrape_timestamp": "2026-11-14T00:06:09.639508+00:00",
-      "content": "Nvidia-backed ‘neocloud’ tells investors it must obtain additional financing to fulfil Anthropic contracts",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3167,11 +3035,231 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 07:29:48 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:13.077505+00:00",
+      "content": "Markets in Europe and Asia follow Wall Street lower despite Claude AI maker’s record listing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "So, Anthropic is finally a public company. What now?",
+      "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+      "published_date": "Fri, 20 Nov 2026 05:19:35 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:13.277707+00:00",
+      "content": "A blockbuster IPO postmortem",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Pensions are eating everything",
+      "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:00:08 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:13.477890+00:00",
+      "content": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
+      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:45:11 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:13.678097+00:00",
+      "content": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The dangers of Nvidia’s role as AI’s quasi-central bank",
+      "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:00:17 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:13.878325+00:00",
+      "content": "The chip giant’s position is reminiscent of the insurance company AIG’s before the subprime mortgage bubble",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
+      "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:00:26 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:14.078562+00:00",
+      "content": "Tight correlation between crude prices and borrowing costs has broken down",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "White House replaces top cyber security official",
+      "link": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 08:33:59 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:14.278759+00:00",
+      "content": "Kirsten Davies joins from the Pentagon to succeed Sean Cairncross after string of online outages",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham to agree EU reset deal in Brussels",
+      "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+      "published_date": "Fri, 20 Nov 2026 07:49:41 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:14.679147+00:00",
+      "content": "Deal will lead to closer ties including freer trade in food and drink and a youth experience scheme",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
+      "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:00:17 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:14.879366+00:00",
+      "content": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russian missile barrage damages Kyiv bridges",
+      "link": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 09:17:17 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:15.399063+00:00",
+      "content": "Waves of attacks targeting Ukraine come on heels of trilateral meeting between US, Chinese and Russian leaders",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "October inflation data keeps BoJ on course for further tightening",
+      "link": "https://www.ft.com/content/c95feb1a-f197-4942-bba8-672087f6be74",
+      "published_date": "Fri, 20 Nov 2026 08:37:22 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:15.599262+00:00",
+      "content": "Headline price pressures accelerated as government fuel and energy subsidies were phased out",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK retail sales jump as consumers stock up on emergency supplies",
+      "link": "https://www.ft.com/content/1e7855e5-fe9c-4e9c-ba8d-68c70159a1f1?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 07:55:18 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:15.999640+00:00",
+      "content": "Government’s ‘Be Ready Campaign’ pushed up demand for tinned food and long-life milk",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "A bubble in . . . defensive stocks?",
+      "link": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 06:30:06 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:16.600258+00:00",
+      "content": "Plus, crypto and desperation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Seize chance for closer EU-UK ties, urges European parliament president",
+      "link": "https://www.ft.com/content/54e6a401-b628-4e64-a668-36389408be57?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 06:00:06 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:16.800472+00:00",
+      "content": "Also in this newsletter: industry bosses want a ‘grand bargain’ on clean investment",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: UK and EU poised to finalise deal to ‘reset’ ties",
+      "link": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:31:18 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:17.200866+00:00",
+      "content": "Also in today’s newsletter: Anthropic IPO and oil-bonds correlation unwinds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’",
+      "link": "https://www.ft.com/content/0cb87e56-2b97-4c91-bfa7-a7ab616fd58e?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:00:27 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:17.401060+00:00",
+      "content": "Token’s price has plunged from high of $75 shortly after launch in January last year to $0.95 as investor interest has waned",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Former Corbyn ally emerging as favourite to succeed Khan as London mayor",
+      "link": "https://www.ft.com/content/3e81a203-6421-4469-8f1f-fb8adfb6465a?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:00:27 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:17.601270+00:00",
+      "content": "Dawn Butler, MP for Brent East, would face a fight to win the Labour nomination",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brussels to favour EU companies in quantum technology race",
+      "link": "https://www.ft.com/content/7966c474-a62f-4d90-9cff-66c02ca309bb?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:00:27 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:17.801472+00:00",
+      "content": "Domestic groups will be prioritised for public contracts under plans to be presented next week",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Labour measures fail to shield UK households from sharp energy bill rises",
+      "link": "https://www.ft.com/content/91cee968-66d0-4c48-b453-47b17f7443d2?syn-25a6b1a6=1",
+      "published_date": "Fri, 20 Nov 2026 05:00:26 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:18.001682+00:00",
+      "content": "Government initiatives offset only a third of the rise in energy bills for poorer families, according to new analysis",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Number of Britons working beyond age 67 up 18% in four years",
+      "link": "https://www.ft.com/content/44370d09-92cd-4a84-890f-4d0f0d046d96",
+      "published_date": "Fri, 20 Nov 2026 05:00:26 GMT",
+      "scrape_timestamp": "2026-11-20T09:26:18.201881+00:00",
+      "content": "People are having to work longer to help offset higher living costs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-20T01:31:59.307534+00:00",
+  "last_updated": "2026-11-20T09:26:33.015289+00:00",
   "metadata": {
-    "total_runs": 3199,
+    "total_runs": 3200,
     "sources": [
       "Financial Times"
     ],
