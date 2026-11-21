@@ -3211,11 +3211,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+      "link": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 17:52:20 GMT",
+      "scrape_timestamp": "2026-11-21T19:02:07.900098+00:00",
+      "content": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Miguel Ángel Félix Gallardo, drug lord, 1946-2026",
+      "link": "https://www.ft.com/content/fbf39142-a256-4fa8-a689-e958d80112a4?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 05:00:45 GMT",
+      "scrape_timestamp": "2026-11-21T19:02:08.100344+00:00",
+      "content": "Nicknamed ‘the godfather’, he built a criminal network in Mexico that transformed the global narcotics industry",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU raises prospect of ‘no deal’ at COP31",
+      "link": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 18:07:02 GMT",
+      "scrape_timestamp": "2026-11-21T19:02:08.627761+00:00",
+      "content": "Escalation in tactics comes as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-21T18:03:10.766925+00:00",
+  "last_updated": "2026-11-21T19:02:27.374405+00:00",
   "metadata": {
-    "total_runs": 3207,
+    "total_runs": 3208,
     "sources": [
       "Financial Times"
     ],
