@@ -3244,11 +3244,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Dream of gas-powered vehicles falters in China’s hydrogen capital",
+      "link": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 21:00:02 GMT",
+      "scrape_timestamp": "2026-11-21T22:02:46.323844+00:00",
+      "content": "High costs and dwindling subsidies leave rows of hydrogen-powered buggies sitting idle in the southern city of Foshan",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-21T21:02:46.721315+00:00",
+  "last_updated": "2026-11-21T22:03:03.771442+00:00",
   "metadata": {
-    "total_runs": 3210,
+    "total_runs": 3211,
     "sources": [
       "Financial Times"
     ],
