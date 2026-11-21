@@ -2,105 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Passengers face widespread disruption after US air traffic control outage",
-      "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 13:52:46 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:26.226399+00:00",
-      "content": "Thousands of flights set to be delayed or cancelled over the weekend",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
-      "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 11:00:09 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:27.026957+00:00",
-      "content": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
-      "link": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 11:41:15 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:27.427260+00:00",
-      "content": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
-      "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 13:00:09 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:27.627402+00:00",
-      "content": "Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets or take on costly new debt",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How Trump’s midterm gerrymandering flopped",
-      "link": "https://www.ft.com/content/d99f635f-6223-45fc-8429-2ac36b28d080?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 12:00:08 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:28.371387+00:00",
-      "content": "Republicans’ unprecedented redistricting drive failed to overcome the tidal wave of Democratic votes",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Argentina’s Milei clashes with his government’s most popular leader",
-      "link": "https://www.ft.com/content/eb3613fa-81ec-4cad-884d-39a20400e147?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 11:00:09 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:28.771678+00:00",
-      "content": "Tensions between the libertarian president and his senate chief test rightwing unity ahead of 2027 elections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Europe Express: opening a security can of worms",
-      "link": "https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 11:00:09 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:28.971828+00:00",
-      "content": "Initiating a discussion about changing Nato before a ceasefire in Ukraine gives Moscow additional leverage",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Chart of the Week: The great market rotation",
-      "link": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 10:30:08 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:29.572261+00:00",
-      "content": "Defensive sectors are the new winners",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Hawkward timing",
-      "link": "https://www.ft.com/content/8c2639dc-e5d5-430d-a641-11776ac26f9c",
-      "published_date": "Sat, 14 Nov 2026 10:05:05 GMT",
-      "scrape_timestamp": "2026-11-14T14:38:29.772381+00:00",
-      "content": "Federal Reserve policymakers have floated the idea of a bigger rate increase in December following strong jobs, growth and inflation data",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
       "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
       "published_date": "Sat, 14 Nov 2026 22:57:26 GMT",
@@ -3222,11 +3123,66 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+      "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 12:00:08 GMT",
+      "scrape_timestamp": "2026-11-21T15:47:13.501365+00:00",
+      "content": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Traders start to move US copper to China as Trump tariff fears ease",
+      "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 12:00:08 GMT",
+      "scrape_timestamp": "2026-11-21T15:47:13.901560+00:00",
+      "content": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Strong sales point to happy holiday season for US retailers",
+      "link": "https://www.ft.com/content/c893d0fa-ba27-4a3c-bfb6-4df3ccb7e6cc?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 12:00:08 GMT",
+      "scrape_timestamp": "2026-11-21T15:47:15.376886+00:00",
+      "content": "Store chains rake in billions in extra revenue in defiance of gloomy consumer sentiment surveys",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Costa revives EU digital tax proposal in bid to reach agreement on budget",
+      "link": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 11:38:04 GMT",
+      "scrape_timestamp": "2026-11-21T15:47:15.576993+00:00",
+      "content": "Latest seven-year plan for the bloc scales back spending but would still be an increase of about a quarter on current levels",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Going public, but only a little",
+      "link": "https://www.ft.com/content/c5bcb64e-35b8-40b8-842e-e4b5c9b3150d?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 10:30:07 GMT",
+      "scrape_timestamp": "2026-11-21T15:47:15.777097+00:00",
+      "content": "Big IPOs, small floats",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-21T07:52:19.264662+00:00",
+  "last_updated": "2026-11-21T15:47:33.826403+00:00",
   "metadata": {
-    "total_runs": 3203,
+    "total_runs": 3204,
     "sources": [
       "Financial Times"
     ],
