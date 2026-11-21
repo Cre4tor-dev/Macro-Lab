@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
-      "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
-      "published_date": "Sat, 14 Nov 2026 22:57:26 GMT",
-      "scrape_timestamp": "2026-11-14T23:30:27.526766+00:00",
-      "content": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "The world according to China",
       "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 03:00:02 GMT",
@@ -3257,9 +3246,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-21T22:03:03.771442+00:00",
+  "last_updated": "2026-11-21T23:02:47.057959+00:00",
   "metadata": {
-    "total_runs": 3211,
+    "total_runs": 3212,
     "sources": [
       "Financial Times"
     ],
