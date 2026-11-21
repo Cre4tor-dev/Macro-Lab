@@ -3178,11 +3178,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Alice Huang’s links to the chip underworld",
+      "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 17:00:10 GMT",
+      "scrape_timestamp": "2026-11-21T18:02:48.652328+00:00",
+      "content": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia affair puts Chinese spies in spotlight",
+      "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 03:58:46 GMT",
+      "scrape_timestamp": "2026-11-21T18:02:48.852537+00:00",
+      "content": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+      "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+      "published_date": "Sat, 21 Nov 2026 17:21:36 GMT",
+      "scrape_timestamp": "2026-11-21T18:02:50.854455+00:00",
+      "content": "Acquisition would help AWS compete with Nvidia in race for computing power",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-21T17:02:53.540919+00:00",
+  "last_updated": "2026-11-21T18:03:10.766925+00:00",
   "metadata": {
-    "total_runs": 3206,
+    "total_runs": 3207,
     "sources": [
       "Financial Times"
     ],
