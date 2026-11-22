@@ -57,28 +57,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Hong Kong developer New World unveils $3.2bn rights issue",
-      "link": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 15:24:52 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:20.142732+00:00",
-      "content": "Cheng family’s property firm prices share offer at 82% discount as it moves to slash debts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Gold rush turns deadly in Guinea",
-      "link": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 15:13:38 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:20.342921+00:00",
-      "content": "High gold prices have driven a wave of fresh mining, and Conakry is cracking down",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
       "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 19:03:41 GMT",
@@ -3244,11 +3222,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Andy Burnham seeks quick tuition fees deal with the EU",
+      "link": "https://www.ft.com/content/46e64bab-5444-484e-b735-d693c7e3f37e?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 14:22:56 GMT",
+      "scrape_timestamp": "2026-11-22T16:02:48.631425+00:00",
+      "content": "Prime minister set to address MPs on reset deal, after former Tory premier Theresa May declares herself ‘aghast’ at reopening of Brexit debate",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T15:02:52.961814+00:00",
+  "last_updated": "2026-11-22T16:03:05.527004+00:00",
   "metadata": {
-    "total_runs": 3228,
+    "total_runs": 3229,
     "sources": [
       "Financial Times"
     ],
