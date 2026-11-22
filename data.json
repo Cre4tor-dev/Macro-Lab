@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-      "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 19:03:41 GMT",
-      "scrape_timestamp": "2026-11-15T23:15:39.727264+00:00",
-      "content": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Estonia to close border with Russia after second alleged sabotage attempt",
       "link": "https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 20:58:12 GMT",
@@ -3167,11 +3156,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Delta flight delays add to concerns about US air travel system",
+      "link": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 19:25:06 GMT",
+      "scrape_timestamp": "2026-11-22T20:02:36.077925+00:00",
+      "content": "FAA said technical problems at airline’s Atlanta hub were not related to countrywide outage this month",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Spain’s likely rightward shift",
+      "link": "https://www.ft.com/content/e1e08be8-da07-44c3-abe6-9873991ee91a?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 18:15:08 GMT",
+      "scrape_timestamp": "2026-11-22T20:02:37.100720+00:00",
+      "content": "Spanish head to the polls, US markets close for Thanksgiving, London gets a new museum",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T19:02:17.206169+00:00",
+  "last_updated": "2026-11-22T20:02:51.950407+00:00",
   "metadata": {
-    "total_runs": 3232,
+    "total_runs": 3233,
     "sources": [
       "Financial Times"
     ],
