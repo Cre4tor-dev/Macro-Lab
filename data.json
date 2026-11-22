@@ -13,154 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "What will Nvidia’s post-Huang era look like?",
-      "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
-      "published_date": "Sun, 15 Nov 2026 05:00:14 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:38.497255+00:00",
-      "content": "The chip company has only itself to blame for a long list of adversaries",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How Infantino flew his way out of a Fifa rebellion",
-      "link": "https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:13 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:38.897699+00:00",
-      "content": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
-      "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:39.097905+00:00",
-      "content": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "When human judgment is not all it’s cracked up to be",
-      "link": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:39.298218+00:00",
-      "content": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss Jensen Huang",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "From culture war to class war: US Democrats ditch woke politics",
       "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 11:00:04 GMT",
       "scrape_timestamp": "2026-11-15T11:39:39.498442+00:00",
       "content": "The newly emboldened party shifts gears after its sweeping midterm election victory",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France’s once best hope of stopping Marine Le Pen is losing ground",
-      "link": "https://www.ft.com/content/3d951137-cba3-47d5-a78c-0d82b9fd84e7?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:39.898852+00:00",
-      "content": "Former prime minister Édouard Philippe struggles in a crowded field as the far-right candidate leads race for the Élysée",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU banking watchdog veers away from single deposit insurance scheme",
-      "link": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:13 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:41.215381+00:00",
-      "content": "Chair of European Banking Authority working on alternative ways to free up more cross-border lending",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Sadiq Khan backs keeping City of London police independent from the Met",
-      "link": "https://www.ft.com/content/85b04bb4-1135-4cc7-a7d8-4e62ab9630db?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:13 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:41.415620+00:00",
-      "content": "London mayor opposes merger backed by Met commissioner Sir Mark Rowley",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Martin Wolf on the US midterms: Trump loses. European populism lives on",
-      "link": "https://www.ft.com/content/7b3ba864-75ca-4862-b54d-abd088444bd3?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:13 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:41.615834+00:00",
-      "content": "The FT’s chief economics commentator speaks to Timothy Garton Ash, professor of European Studies emeritus at the University of Oxford",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Low fire, low hire’ job market hurts US and UK productivity",
-      "link": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:13 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:41.816076+00:00",
-      "content": "Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The long and winding road to Dubai’s supermarket shelves",
-      "link": "https://www.ft.com/content/8e13baf8-fce7-4ebd-ac05-5692181f6d7e?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:42.216551+00:00",
-      "content": "The United Arab Emirates’ shipping woes stemming from Iran war stoke dreams of farming in the desert",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa",
-      "link": "https://www.ft.com/content/a240f6b7-724c-4ad5-a4b1-2e04897e2fe8?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:42.416810+00:00",
-      "content": "Private capital firms in advanced talks to acquire majority stake in eyewear chain after Middle East deal drought",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "We must make parliament’s historic buildings safe — but not like this",
-      "link": "https://www.ft.com/content/9bbefade-8ca7-4efe-b287-eda0a9c40c84",
-      "published_date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:42.617019+00:00",
-      "content": "Soaring costs and delays should be tackled with a swift review and clearer objections",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Samsung conquered AI chips. Now it wants to build data centres",
-      "link": "https://www.ft.com/content/ee5b23b3-89b3-41f7-9158-56c1586759c2?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 05:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:42.817237+00:00",
-      "content": "South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3224,9 +3081,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T04:03:27.153681+00:00",
+  "last_updated": "2026-11-22T05:03:12.255294+00:00",
   "metadata": {
-    "total_runs": 3217,
+    "total_runs": 3218,
     "sources": [
       "Financial Times"
     ],
