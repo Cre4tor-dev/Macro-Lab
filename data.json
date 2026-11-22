@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "The world according to China",
-      "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 03:00:02 GMT",
-      "scrape_timestamp": "2026-11-15T03:52:26.495671+00:00",
-      "content": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
       "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 11:00:04 GMT",
@@ -3235,9 +3224,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T02:04:05.047955+00:00",
+  "last_updated": "2026-11-22T03:03:25.061003+00:00",
   "metadata": {
-    "total_runs": 3215,
+    "total_runs": 3216,
     "sources": [
       "Financial Times"
     ],
