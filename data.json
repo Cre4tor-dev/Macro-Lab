@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Anthropic’s IPO is the next big test for AI",
-      "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 11:40:44 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:17.401828+00:00",
-      "content": "Even the most powerful frontier labs must bend to the power of public equity",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Republicans blame everyone but Trump for midterm drubbing",
       "link": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 13:00:05 GMT",
@@ -139,28 +128,6 @@
       "published_date": "Sun, 15 Nov 2026 12:32:21 GMT",
       "scrape_timestamp": "2026-11-15T18:13:21.343835+00:00",
       "content": "Yemen announces withdrawal from areas around Bab al-Mandeb Strait in order to protect de facto capital Aden from Iran-linked militants",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Britain’s self-inflicted housebuilding crunch",
-      "link": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 12:00:05 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:21.544017+00:00",
-      "content": "The state encumbers construction, then commits public funds to offset the damage",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Will Nvidia earnings steady the AI sell-off?",
-      "link": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 12:00:05 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:21.744171+00:00",
-      "content": "Market Questions is the FT’s guide to the week ahead",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3200,11 +3167,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+      "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+      "published_date": "Sun, 22 Nov 2026 11:00:05 GMT",
+      "scrape_timestamp": "2026-11-22T12:03:07.761264+00:00",
+      "content": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
+      "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
+      "published_date": "Sun, 22 Nov 2026 11:32:52 GMT",
+      "scrape_timestamp": "2026-11-22T12:03:08.561946+00:00",
+      "content": "UK data centre operator pauses hiring for all but critical roles",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democrats will seek to unwind Trump’s tax and tariff policies",
+      "link": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 11:00:05 GMT",
+      "scrape_timestamp": "2026-11-22T12:03:08.762099+00:00",
+      "content": "Top lawmaker Richard Neal vows hearings into the president’s flagship economic measures",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The American dream of home ownership recedes as mortgage rates surge",
+      "link": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 11:00:06 GMT",
+      "scrape_timestamp": "2026-11-22T12:03:08.962244+00:00",
+      "content": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T11:02:37.931040+00:00",
+  "last_updated": "2026-11-22T12:03:25.856703+00:00",
   "metadata": {
-    "total_runs": 3224,
+    "total_runs": 3225,
     "sources": [
       "Financial Times"
     ],
