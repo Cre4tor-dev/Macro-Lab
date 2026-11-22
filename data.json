@@ -46,17 +46,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Neighbours of China’s London ‘mega’ embassy struggle to sell flats",
-      "link": "https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 17:00:06 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:19.742374+00:00",
-      "content": "Beijing owns freehold to about 100 flats near the Tower of London, provoking fears of surveillance, nuisance and leasehold problems",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
       "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 19:03:41 GMT",
@@ -3233,11 +3222,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
+      "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 16:43:09 GMT",
+      "scrape_timestamp": "2026-11-22T17:02:05.133486+00:00",
+      "content": "£43bn group set to announce intention to move as soon as Tuesday",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T16:03:05.527004+00:00",
+  "last_updated": "2026-11-22T17:02:23.108355+00:00",
   "metadata": {
-    "total_runs": 3229,
+    "total_runs": 3230,
     "sources": [
       "Financial Times"
     ],
