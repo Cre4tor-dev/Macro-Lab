@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
-      "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 11:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:38.297011+00:00",
-      "content": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "From culture war to class war: US Democrats ditch woke politics",
-      "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 11:00:04 GMT",
-      "scrape_timestamp": "2026-11-15T11:39:39.498442+00:00",
-      "content": "The newly emboldened party shifts gears after its sweeping midterm election victory",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
       "link": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 17:15:23 GMT",
@@ -183,17 +161,6 @@
       "published_date": "Sun, 15 Nov 2026 12:00:05 GMT",
       "scrape_timestamp": "2026-11-15T18:13:21.744171+00:00",
       "content": "Market Questions is the FT’s guide to the week ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Iran attacks Bahrain in escalation of Gulf hostilities",
-      "link": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 10:50:05 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:22.344699+00:00",
-      "content": "Bahrain says it has intercepted two Iranian barrages this week after months of relative calm",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3235,9 +3202,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T10:02:51.861592+00:00",
+  "last_updated": "2026-11-22T11:02:37.931040+00:00",
   "metadata": {
-    "total_runs": 3223,
+    "total_runs": 3224,
     "sources": [
       "Financial Times"
     ],
