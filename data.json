@@ -13,28 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "‘Red caviar’ slips off Japan’s sushi menus as roe prices soar",
-      "link": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 02:00:02 GMT",
-      "scrape_timestamp": "2026-11-15T03:52:27.972295+00:00",
-      "content": "Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race",
-      "link": "https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 01:52:51 GMT",
-      "scrape_timestamp": "2026-11-15T03:52:28.172469+00:00",
-      "content": "Democratic congresswoman has been touted as a possible candidate but not said if she will run",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
       "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 11:00:04 GMT",
@@ -3244,11 +3222,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "India’s $126bn insurance sector slams proposed commission cap",
+      "link": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 01:30:02 GMT",
+      "scrape_timestamp": "2026-11-22T02:03:46.427291+00:00",
+      "content": "Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T01:03:06.880035+00:00",
+  "last_updated": "2026-11-22T02:04:05.047955+00:00",
   "metadata": {
-    "total_runs": 3214,
+    "total_runs": 3215,
     "sources": [
       "Financial Times"
     ],
