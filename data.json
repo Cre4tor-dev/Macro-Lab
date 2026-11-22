@@ -13,44 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Viktor Orbán’s party reels from $20mn hidden cash discovery",
-      "link": "https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 18:44:15 GMT",
-      "scrape_timestamp": "2026-11-15T23:15:41.129032+00:00",
-      "content": "Hungarian police said money was recovered in forests, barns and warehouses as part of investigation into former prime minister’s ally",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
-      "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 18:27:27 GMT",
-      "scrape_timestamp": "2026-11-15T23:15:41.329218+00:00",
-      "content": "Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Estonia to close border with Russia after second alleged sabotage attempt",
       "link": "https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 20:58:12 GMT",
       "scrape_timestamp": "2026-11-15T23:15:42.552517+00:00",
       "content": "Tallinn accuses Russian military intelligence unit GRU of being behind a failed explosion at dronemaker",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Anthropic IPO to further fuel the AI news cycle",
-      "link": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 18:15:07 GMT",
-      "scrape_timestamp": "2026-11-15T23:15:43.553794+00:00",
-      "content": "New York listing date arrives, Trump, Xi and Putin in Shenzhen, a UK-EU entente cordiale",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3189,11 +3156,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+      "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 18:11:01 GMT",
+      "scrape_timestamp": "2026-11-22T19:01:59.918916+00:00",
+      "content": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T18:03:10.211176+00:00",
+  "last_updated": "2026-11-22T19:02:17.206169+00:00",
   "metadata": {
-    "total_runs": 3231,
+    "total_runs": 3232,
     "sources": [
       "Financial Times"
     ],
