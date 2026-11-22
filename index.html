@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-11-21 23:02 UTC</title>
+  <title>Macro Lab — 2026-11-22 00:08 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,7 +130,7 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-11-21 23:02 UTC<br>Seuil alerte: 5.0 · 68 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-11-22 00:08 UTC<br>Seuil alerte: 5.0 · 68 alertes</div>
 </header>
 
 <main>
@@ -160,13 +160,13 @@
       <span class="toolbar-label" style="min-width:36px">📅 Jour</span>
       <select class="date-select" id="dateSelect" onchange="applyFilters()">
         <option value="">Tous</option>
-        <option value="2026-11-21">Sat 21 Nov</option>
+        <option value="2026-11-22">Sun 22 Nov</option>
+<option value="2026-11-21">Sat 21 Nov</option>
 <option value="2026-11-20">Fri 20 Nov</option>
 <option value="2026-11-19">Thu 19 Nov</option>
 <option value="2026-11-18">Wed 18 Nov</option>
 <option value="2026-11-17">Tue 17 Nov</option>
 <option value="2026-11-16">Mon 16 Nov</option>
-<option value="2026-11-15">Sun 15 Nov</option>
       </select>
       <span class="result-count" id="resultCount"></span>
     </div>
@@ -4715,9 +4715,9 @@ const axisOpts  = { grid: { color: gridColor }, ticks: { color: tickColor, font:
 new Chart(document.getElementById('chartDays'), {
   type: 'bar',
   data: {
-    labels: ["11-15", "11-16", "11-17", "11-18", "11-19", "11-20", "11-21"],
+    labels: ["11-16", "11-17", "11-18", "11-19", "11-20", "11-21", "11-22"],
     datasets: [{
-      data: [42, 37, 39, 50, 47, 50, 30],
+      data: [37, 39, 50, 47, 50, 30, 0],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
