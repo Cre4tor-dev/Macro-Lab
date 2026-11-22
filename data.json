@@ -79,28 +79,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "UK businesses facing big rise in electricity bills by end of decade",
-      "link": "https://www.ft.com/content/51ce4dd5-d726-41fd-b46c-a378dce14b69?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 14:29:01 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:20.543113+00:00",
-      "content": "Estimated increase of about 13% is largely driven by the cost of investment in electricity networks",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Young Britons out of work or training for a year to be guaranteed jobs",
-      "link": "https://www.ft.com/content/7fa20d99-0085-445d-95c9-b2cfe80cd8e1?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 14:03:29 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:20.743296+00:00",
-      "content": "Work and pensions secretary lays out plan to address ‘lost generation’ ahead of changes to unemployment support",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
       "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 19:03:41 GMT",
@@ -3268,9 +3246,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T14:02:42.771517+00:00",
+  "last_updated": "2026-11-22T15:02:52.961814+00:00",
   "metadata": {
-    "total_runs": 3227,
+    "total_runs": 3228,
     "sources": [
       "Financial Times"
     ],
