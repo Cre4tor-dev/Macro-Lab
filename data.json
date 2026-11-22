@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Republicans blame everyone but Trump for midterm drubbing",
-      "link": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 13:00:05 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:18.602988+00:00",
-      "content": "The party faithful avoid mentioning their leader as they lick their wounds at Heritage Foundation postmortem",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector",
       "link": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1",
       "published_date": "Sun, 15 Nov 2026 17:07:06 GMT",
@@ -106,28 +95,6 @@
       "published_date": "Sun, 15 Nov 2026 14:03:29 GMT",
       "scrape_timestamp": "2026-11-15T18:13:20.743296+00:00",
       "content": "Work and pensions secretary lays out plan to address ‘lost generation’ ahead of changes to unemployment support",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Europe needs to talk to Russia",
-      "link": "https://www.ft.com/content/386813f4-2bf6-4fbe-9ab7-5f0c57f8e593",
-      "published_date": "Sun, 15 Nov 2026 13:00:05 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:21.143653+00:00",
-      "content": "The cold war teaches us that deterrence requires more than just stronger armed forces",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Saudi-backed Yemeni forces retreat from Red Sea in win for Houthis",
-      "link": "https://www.ft.com/content/2e7028ba-987c-4874-9426-fe38a8753c67?syn-25a6b1a6=1",
-      "published_date": "Sun, 15 Nov 2026 12:32:21 GMT",
-      "scrape_timestamp": "2026-11-15T18:13:21.343835+00:00",
-      "content": "Yemen announces withdrawal from areas around Bab al-Mandeb Strait in order to protect de facto capital Aden from Iran-linked militants",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3211,11 +3178,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack",
+      "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 12:24:41 GMT",
+      "scrape_timestamp": "2026-11-22T13:02:38.484003+00:00",
+      "content": "Finland’s prime minister attributes attack on cargo ship to Ukraine and says ‘war is spilling over into our immediate vicinity’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-22T12:03:25.856703+00:00",
+  "last_updated": "2026-11-22T13:02:56.487177+00:00",
   "metadata": {
-    "total_runs": 3225,
+    "total_runs": 3226,
     "sources": [
       "Financial Times"
     ],
