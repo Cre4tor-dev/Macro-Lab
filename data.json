@@ -134,28 +134,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "What the west gets wrong about AI safety in China",
-      "link": "https://www.ft.com/content/6ff2e9ce-fade-4f0f-8591-08b765eea589",
-      "published_date": "Mon, 16 Nov 2026 15:19:30 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:09.642223+00:00",
-      "content": "Information censorship plays a central role but state security is not the only priority",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why older voters powered the Democrats’ blue wave",
-      "link": "https://www.ft.com/content/37f3b6e1-67f5-423e-8efd-538a2e68f86e",
-      "published_date": "Mon, 16 Nov 2026 15:11:49 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:09.842400+00:00",
-      "content": "Do the midterms herald an era of volatility among senior Americans willing to abandon the political identity of a lifetime?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "India mulls lifting capital gains tax for foreign investors",
       "link": "https://www.ft.com/content/32fbce84-6361-4e60-851a-e0cdac9a5ae7?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 01:30:03 GMT",
@@ -3420,11 +3398,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia shares soar 30% after board reinstates Huang",
+      "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 08:22:00 GMT",
+      "scrape_timestamp": "2026-11-23T16:02:50.295530+00:00",
+      "content": "",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why India isn’t embracing Starlink",
+      "link": "https://www.ft.com/content/56e2a4a7-f604-4e32-afba-32016d5c8cd1",
+      "published_date": "Mon, 23 Nov 2026 15:15:19 GMT",
+      "scrape_timestamp": "2026-11-23T16:02:52.538750+00:00",
+      "content": "Musk’s war of words against Ambani won’t help him win over a government focused on security and sovereignty",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T15:03:14.456368+00:00",
+  "last_updated": "2026-11-23T16:03:07.794755+00:00",
   "metadata": {
-    "total_runs": 3252,
+    "total_runs": 3253,
     "sources": [
       "Financial Times"
     ],
