@@ -13,17 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "The perfect sell-off",
-      "link": "https://www.ft.com/content/a61f1fe9-55d9-498e-9ecc-c3a66980d63a?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 06:30:01 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:30.702046+00:00",
-      "content": "Plus, fast-tracking Anthropic’s IPO",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Ukraine strikes Crimean Bridge in record drone attack",
       "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 10:29:11 GMT",
@@ -3288,11 +3277,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "From rotation to contagion",
+      "link": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 06:30:02 GMT",
+      "scrape_timestamp": "2026-11-23T07:03:28.590508+00:00",
+      "content": "Plus, chips are not cheap",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T06:06:25.327100+00:00",
+  "last_updated": "2026-11-23T07:03:46.089239+00:00",
   "metadata": {
-    "total_runs": 3243,
+    "total_runs": 3244,
     "sources": [
       "Financial Times"
     ],

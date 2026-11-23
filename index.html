@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-11-23 06:06 UTC</title>
+  <title>Macro Lab — 2026-11-23 07:03 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-11-23 06:06 UTC<br>Seuil alerte: 5.0 · 69 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-11-23 07:03 UTC<br>Seuil alerte: 5.0 · 70 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
     <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">299</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">69</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">70</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">2.7</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -1186,6 +1186,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-11-17">Tue, 17 Nov 2026 15:15:35</time>
     <span class="kw-hint">🔑 fed</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="6.13" data-date="2026-11-23" data-themes="" data-text="from rotation to contagion plus, chips are not cheap">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 6.13 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: contagion">6.1 <sup>ℹ</sup></span>
+    
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1" target="_blank" rel="noopener">From rotation to contagion</a></h3>
+  <p class="preview card-detail">Plus, chips are not cheap</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-23">Mon, 23 Nov 2026 06:30:02</time>
+    <span class="kw-hint">🔑 contagion</span>
   </div>
 </article>
 <article class="card card-alert" data-score="5.86" data-date="2026-11-18" data-themes="" data-text="russia’s putin addresses global ceos in china chief executives’ meeting comes ahead of highly anticipated trilateral summit with xi jinping and donald trump">
@@ -3442,20 +3456,6 @@
     
   </div>
 </article>
-<article class="card" data-score="0.00" data-date="2026-11-16" data-themes="" data-text="the perfect sell-off plus, fast-tracking anthropic’s ipo">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/a61f1fe9-55d9-498e-9ecc-c3a66980d63a?syn-25a6b1a6=1" target="_blank" rel="noopener">The perfect sell-off</a></h3>
-  <p class="preview card-detail">Plus, fast-tracking Anthropic’s IPO</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-16">Mon, 16 Nov 2026 06:30:01</time>
-    
-  </div>
-</article>
 <article class="card" data-score="0.00" data-date="2026-11-16" data-themes="" data-text="firstft: jensen huang talks about nvidia comeback with allies also in today’s newsletter: ipos struggle and trump’s summit with xi and putin">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -4773,7 +4773,7 @@ new Chart(document.getElementById('chartDays'), {
   data: {
     labels: ["11-17", "11-18", "11-19", "11-20", "11-21", "11-22", "11-23"],
     datasets: [{
-      data: [39, 50, 47, 50, 30, 35, 22],
+      data: [39, 50, 47, 50, 30, 35, 23],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
