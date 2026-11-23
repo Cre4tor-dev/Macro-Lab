@@ -79,17 +79,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Burnham’s EU candour is clever politics",
-      "link": "https://www.ft.com/content/45f7ffdb-7e92-493e-a118-a331baa169b2?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 09:30:02 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:33.815989+00:00",
-      "content": "Pro-European rhetoric could unify Labour’s coalition and prevent the Conservatives from making inroads into the ranks of the young and successful",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
       "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 18:14:16 GMT",
@@ -3332,11 +3321,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nepal’s rapper-turned-PM seals aid deal with India’s Narendra Modi",
+      "link": "https://www.ft.com/content/c2626635-ed45-492a-a300-5972f2db9fa9?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 09:51:39 GMT",
+      "scrape_timestamp": "2026-11-23T10:03:03.392223+00:00",
+      "content": "Balendra Shah meets his country’s most important ally for the first time since taking office in March",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rejoining EU gets harder the longer Britain stays out",
+      "link": "https://www.ft.com/content/0c67d60c-d3e9-46b2-9c5e-5ed1f690d362?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 09:30:03 GMT",
+      "scrape_timestamp": "2026-11-23T10:03:03.992741+00:00",
+      "content": "As both sides diverge, more Britons will have something to lose from returning to the bloc",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T09:03:55.130807+00:00",
+  "last_updated": "2026-11-23T10:03:21.103108+00:00",
   "metadata": {
-    "total_runs": 3246,
+    "total_runs": 3247,
     "sources": [
       "Financial Times"
     ],
