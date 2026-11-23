@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Milburn review to show whether UK really wants to reform its welfare state",
-      "link": "https://www.ft.com/content/f569092c-ec94-4b79-9832-3f74dd94c19f?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 22:30:02 GMT",
-      "scrape_timestamp": "2026-11-17T04:52:42.773664+00:00",
-      "content": "Former minister will set out plan to cut sickness benefits to under-25s while pouring billions of pounds into employment support",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
       "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 08:09:20 GMT",
@@ -3398,11 +3387,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+      "link": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 22:46:14 GMT",
+      "scrape_timestamp": "2026-11-23T23:02:57.660477+00:00",
+      "content": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+      "link": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 22:21:44 GMT",
+      "scrape_timestamp": "2026-11-23T23:02:58.661505+00:00",
+      "content": "Profit on 30% jump in chip group’s share price based on maximum amount US president could have owned in latest disclosure",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Nvidia adds nearly $1tn in value after Jensen Huang reinstated",
+      "link": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 22:08:21 GMT",
+      "scrape_timestamp": "2026-11-23T23:03:00.391757+00:00",
+      "content": "Also in today’s newsletter: Ukraine blows up Russian warship in Libya’s Benghazi and Nepal’s PM seals aid deal with India’s Narendra Modi",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T22:02:40.460949+00:00",
+  "last_updated": "2026-11-23T23:03:18.433235+00:00",
   "metadata": {
-    "total_runs": 3259,
+    "total_runs": 3260,
     "sources": [
       "Financial Times"
     ],
