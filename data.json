@@ -2,33 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US tech stocks set to open lower amid Nvidia fallout",
-      "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 12:07:09 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:31.302411+00:00",
-      "content": "Chipmaker falls 3.6% in pre-market trading and CoreWeave drops 7.5% as AI jitters continue",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
       "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 18:14:16 GMT",
       "scrape_timestamp": "2026-11-16T22:39:04.899919+00:00",
       "content": "Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why Putin, Trump and Xi cannot be the new ‘big three’",
-      "link": "https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 12:22:48 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:05.300294+00:00",
-      "content": "The leaders of the US, China and Russia cannot carve up the world between them, even if they wanted to",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3299,11 +3277,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The trouble with the middle powers project",
+      "link": "https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 12:25:47 GMT",
+      "scrape_timestamp": "2026-11-23T13:02:55.160757+00:00",
+      "content": "Smaller nations are already dangerously dependent — and US and Chinese dominance of AI will only compound their problems",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Rene Haas affirms ‘long-term commitment’ to Arm after Nvidia approach",
+      "link": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
+      "published_date": "Mon, 23 Nov 2026 12:28:53 GMT",
+      "scrape_timestamp": "2026-11-23T13:02:55.961474+00:00",
+      "content": "UK chip company CEO signs new contract just weeks after being approached as possible candidate to replace Jensen Huang",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Joining the EU won’t save the UK economy by itself",
+      "link": "https://www.ft.com/content/e5a85fb7-d980-4c34-9857-c57eff52c3c7?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 12:31:02 GMT",
+      "scrape_timestamp": "2026-11-23T13:02:57.220194+00:00",
+      "content": "Andy Burnham is good at short-term politics but needs a long-term economic strategy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Was oddball inventor R Buckminster Fuller the first tech bro?",
+      "link": "https://www.ft.com/content/dd5a5607-b56e-468e-95a7-90d79805385a",
+      "published_date": "Mon, 23 Nov 2026 12:00:06 GMT",
+      "scrape_timestamp": "2026-11-23T13:02:57.820783+00:00",
+      "content": "From an air-deliverable home to an undersea island, the inventor’s flights of fancy generally overshot reality — and made him the direct ancestor of today’s Silicon Valley entrepreneurs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Should Ireland build flats on former mother-and-baby homes?",
+      "link": "https://www.ft.com/content/17f3db53-a065-4cd3-8ebc-37e03d211056?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 11:49:32 GMT",
+      "scrape_timestamp": "2026-11-23T13:02:58.020992+00:00",
+      "content": "Campaigners are fighting to halt construction at a site that could contain an unmarked mass grave",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Izumi Kato’s model universe",
+      "link": "https://www.ft.com/content/434ce7cb-7e86-4998-b6b8-6c365c2856fa",
+      "published_date": "Mon, 23 Nov 2026 11:00:09 GMT",
+      "scrape_timestamp": "2026-11-23T13:02:58.421364+00:00",
+      "content": "Meet the artist who gets his kicks building plastic hobby kits",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Palmer Luckey’s start-up bank hits $1bn in loans",
+      "link": "https://www.ft.com/content/a561a19d-fdd6-4cab-9ae9-58d8e0efbd0e?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 11:00:08 GMT",
+      "scrape_timestamp": "2026-11-23T13:02:58.621575+00:00",
+      "content": "Lender set up by Anduril founder expected to draw scrutiny from Democrats over his ties to Trump administration",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T12:04:04.083349+00:00",
+  "last_updated": "2026-11-23T13:03:14.900177+00:00",
   "metadata": {
-    "total_runs": 3249,
+    "total_runs": 3250,
     "sources": [
       "Financial Times"
     ],
