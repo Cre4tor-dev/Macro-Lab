@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "China’s economic activity slows more than expected in October",
-      "link": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 02:41:45 GMT",
-      "scrape_timestamp": "2026-11-16T03:52:57.693391+00:00",
-      "content": "Figures present challenge to policymakers who have pushed to speed up budget spending to overcome weaker growth",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor",
       "link": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 11:00:03 GMT",
@@ -3180,9 +3169,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T02:03:52.361577+00:00",
+  "last_updated": "2026-11-23T03:03:34.827288+00:00",
   "metadata": {
-    "total_runs": 3239,
+    "total_runs": 3240,
     "sources": [
       "Financial Times"
     ],
