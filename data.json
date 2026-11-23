@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
-      "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 18:14:16 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:04.899919+00:00",
-      "content": "Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
       "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 20:48:37 GMT",
@@ -24,33 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-      "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 18:19:17 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:06.101072+00:00",
-      "content": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
       "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 21:20:03 GMT",
       "scrape_timestamp": "2026-11-16T22:39:06.501469+00:00",
       "content": "Oil major pulls ahead of rival bidders for Beacon Offshore Energy as it expands deepwater production",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The delicate balance in America’s AI chip war with China",
-      "link": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 18:35:45 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:07.640296+00:00",
-      "content": "US export controls need to be better enforced, not turned into a wider blockade",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3422,9 +3389,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T18:03:26.266750+00:00",
+  "last_updated": "2026-11-23T19:02:16.980027+00:00",
   "metadata": {
-    "total_runs": 3255,
+    "total_runs": 3256,
     "sources": [
       "Financial Times"
     ],
