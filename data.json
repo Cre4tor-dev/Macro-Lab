@@ -3167,11 +3167,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will Tata be able to list India’s biggest company?",
+      "link": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 03:36:27 GMT",
+      "scrape_timestamp": "2026-11-23T04:03:00.028470+00:00",
+      "content": "Bankers say feud between scion and chair makes initial public offering difficult as conglomerate faces pressure from regulators",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "BYD hit after court bars SUV from EU over Land Rover design copy",
+      "link": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 02:48:12 GMT",
+      "scrape_timestamp": "2026-11-23T04:03:00.228656+00:00",
+      "content": "Court ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T03:03:34.827288+00:00",
+  "last_updated": "2026-11-23T04:03:17.062670+00:00",
   "metadata": {
-    "total_runs": 3240,
+    "total_runs": 3241,
     "sources": [
       "Financial Times"
     ],
