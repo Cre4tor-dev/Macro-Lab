@@ -3354,11 +3354,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mercedes gets edge over Tesla in race for self-driving success in Europe",
+      "link": "https://www.ft.com/content/d69b4757-1fd0-40f6-b131-63832fc8e4d0?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 13:40:19 GMT",
+      "scrape_timestamp": "2026-11-23T14:02:58.493255+00:00",
+      "content": "EU emerges as new battleground for intelligent cars and robotaxis",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Macron proposes French budget ‘golden rule’",
+      "link": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 13:22:36 GMT",
+      "scrape_timestamp": "2026-11-23T14:02:58.693432+00:00",
+      "content": "President suggests constitutional reform to cap government spending and keep future deficits in check, echoing proposals by opponents",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T13:03:14.900177+00:00",
+  "last_updated": "2026-11-23T14:03:16.485890+00:00",
   "metadata": {
-    "total_runs": 3250,
+    "total_runs": 3251,
     "sources": [
       "Financial Times"
     ],
