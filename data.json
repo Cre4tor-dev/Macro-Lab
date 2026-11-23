@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Russia’s richest woman hit by EU sanctions",
-      "link": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 17:11:52 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:05.900873+00:00",
-      "content": "Founder of country’s largest online retailer Wildberries targeted in latest round of EU sanctions over war in Ukraine",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
       "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 18:19:17 GMT",
@@ -62,61 +51,6 @@
       "published_date": "Mon, 16 Nov 2026 18:35:45 GMT",
       "scrape_timestamp": "2026-11-16T22:39:07.640296+00:00",
       "content": "US export controls need to be better enforced, not turned into a wider blockade",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Pattinson. Robert Pattinson: Amazon unveils the next James Bond",
-      "link": "https://www.ft.com/content/29fb712d-776e-42f9-a639-4ffdce7d652e?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 17:54:24 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:08.240894+00:00",
-      "content": "Hollywood heavyweight earns licence to thrill as new stewards of spy franchise bet on a proven box office star",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Polish central bank freezes top court payments in escalating row with Tusk",
-      "link": "https://www.ft.com/content/112b35e9-9864-4d7b-8ece-c71f07c876ca?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 17:43:40 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:08.441080+00:00",
-      "content": "Government accuses opposition-led NBP of playing politics in stand-off over constitutional judges",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK short-term borrowing costs hit three-year high",
-      "link": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 17:27:58 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:08.641295+00:00",
-      "content": "Two-year gilt yield breaches 5% on strong economic data and hawkish messaging from Bank of England",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Warsh says AI boom could help sustain ‘substantially higher’ US growth",
-      "link": "https://www.ft.com/content/0431ca7c-5bef-4ffa-a4bd-aa29354eb691?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 17:26:53 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:08.841452+00:00",
-      "content": "Innovation sparked by the technology has potential to support level of GDP above long-run average without stoking inflation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK government set to limit banks’ retreat from the high street",
-      "link": "https://www.ft.com/content/a8f489b3-7cb1-4013-9b6b-d684a0c4fb6b?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 17:21:16 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:09.041636+00:00",
-      "content": "Larger current account providers will have to ‘ensure reasonable access to essential in-person banking services’",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3409,11 +3343,88 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The tragedy — or is it farce? — of Jensen Huang",
+      "link": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 17:17:50 GMT",
+      "scrape_timestamp": "2026-11-23T18:03:06.579616+00:00",
+      "content": "Nvidia took Huang back because his failures left the company with no other options",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Huang’s return is a triumph of money over morals",
+      "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 16:51:47 GMT",
+      "scrape_timestamp": "2026-11-23T18:03:06.779754+00:00",
+      "content": "The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russian soldiers twice as likely to die by suicide than civilians",
+      "link": "https://www.ft.com/content/aa2855d5-1736-4d48-b9db-272c077ab72d?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 17:42:17 GMT",
+      "scrape_timestamp": "2026-11-23T18:03:08.807463+00:00",
+      "content": "FT analysis of leaked records suggests number of those taking their own lives has risen during the Ukraine war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia poised to put nuclear weapon in space within 60 days, Germany warns",
+      "link": "https://www.ft.com/content/dd00f616-1fef-4a26-a5f9-2b1bf83cc489?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 17:37:46 GMT",
+      "scrape_timestamp": "2026-11-23T18:03:09.007602+00:00",
+      "content": "Berlin is ‘taking seriously’ intelligence reports shared by western allies that Moscow could deploy ‘Sputnik-S’ armed satellite as soon as next month",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Capita’s pesky civil service pension mandate may be its saving grace",
+      "link": "https://www.ft.com/content/e99cf35e-7d96-4eff-8c50-cb66f7d55b48?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 17:22:20 GMT",
+      "scrape_timestamp": "2026-11-23T18:03:09.407940+00:00",
+      "content": "There are few competitors ready to take on the UK group",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "SpaceX’s big bad Black Friday bond hangover",
+      "link": "https://www.ft.com/content/5ddc1453-026e-4adb-a5eb-950e7d666abc",
+      "published_date": "Mon, 23 Nov 2026 16:41:40 GMT",
+      "scrape_timestamp": "2026-11-23T18:03:09.608092+00:00",
+      "content": "🪐 🚀",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "DR Congo reimposes cobalt export ban to shore up prices",
+      "link": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 16:13:19 GMT",
+      "scrape_timestamp": "2026-11-23T18:03:09.808270+00:00",
+      "content": "Move marks second time in two years that the world’s top producer of the metal has cut off supply to try to gain leverage over market",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T17:03:10.588173+00:00",
+  "last_updated": "2026-11-23T18:03:26.266750+00:00",
   "metadata": {
-    "total_runs": 3254,
+    "total_runs": 3255,
     "sources": [
       "Financial Times"
     ],
