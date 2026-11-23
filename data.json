@@ -3145,11 +3145,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Jim O’Neill calls for Burnham to overhaul property taxes",
+      "link": "https://www.ft.com/content/7151f7cb-58eb-43ce-844d-05cd62a985ba?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 00:01:00 GMT",
+      "scrape_timestamp": "2026-11-23T01:02:51.978906+00:00",
+      "content": "Prime minister’s informal adviser adds to chorus of voices backing changes to stamp duty and council tax",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Could history help predict the next two years of US politics? | Martin Wolf on the US midterms",
+      "link": "https://www.ft.com/video/06206392-4100-4aa2-86e7-e38e4ceb9138?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 22:21:31 GMT",
+      "scrape_timestamp": "2026-11-23T01:02:52.179103+00:00",
+      "content": "The Democrats swept the midterms. Donald Trump is still president. What will the next two years look like?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia",
+      "link": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
+      "published_date": "Sun, 22 Nov 2026 22:07:25 GMT",
+      "scrape_timestamp": "2026-11-23T01:02:52.579555+00:00",
+      "content": "Also in today’s newsletter: COP31 climate talks fail and sanctioned Russian vessel attacked by drones near Finland",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T00:07:57.193277+00:00",
+  "last_updated": "2026-11-23T01:03:08.223163+00:00",
   "metadata": {
-    "total_runs": 3237,
+    "total_runs": 3238,
     "sources": [
       "Financial Times"
     ],
