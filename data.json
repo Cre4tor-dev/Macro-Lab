@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
-      "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 20:48:37 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:05.500496+00:00",
-      "content": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
       "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 21:20:03 GMT",
@@ -3422,9 +3411,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T20:03:13.193887+00:00",
+  "last_updated": "2026-11-23T21:02:56.296907+00:00",
   "metadata": {
-    "total_runs": 3257,
+    "total_runs": 3258,
     "sources": [
       "Financial Times"
     ],
