@@ -3288,11 +3288,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ukraine sinks Russian warship off coast of Libya",
+      "link": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 07:45:47 GMT",
+      "scrape_timestamp": "2026-11-23T08:03:35.632389+00:00",
+      "content": "Volodymyr Zelenskyy described the attack as an ‘exemplary’ sea drone operation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "South Korean minister says he is too old to tackle AI exam cheating",
+      "link": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 07:10:04 GMT",
+      "scrape_timestamp": "2026-11-23T08:03:36.233053+00:00",
+      "content": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Talk of public control is ‘kryptonite’ to investors, says CBI",
+      "link": "https://www.ft.com/content/d6bf4690-4bd3-4ded-bde7-b810659214d7?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 06:52:28 GMT",
+      "scrape_timestamp": "2026-11-23T08:03:37.043578+00:00",
+      "content": "Lobby group’s call comes as first secretary Louise Haigh sets out intention to scrap some quangos",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The FT investigated an explosives supply chain from the US to Ukraine",
+      "link": "https://www.ft.com/video/480db4a1-1110-4b98-aab4-4d59e8faefae?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 06:00:00 GMT",
+      "scrape_timestamp": "2026-11-23T08:03:37.844385+00:00",
+      "content": "The FT's Miles Johnson spent months investigating a supply chain from a US factory to Ukraine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T07:03:46.089239+00:00",
+  "last_updated": "2026-11-23T08:03:53.474317+00:00",
   "metadata": {
-    "total_runs": 3244,
+    "total_runs": 3245,
     "sources": [
       "Financial Times"
     ],
