@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor",
-      "link": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 11:00:03 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:29.901572+00:00",
-      "content": "Superstar status of executives affects tech founders’ personal lives and their companies, says Lingotto’s James Anderson",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ukraine strikes Crimean Bridge in record drone attack",
-      "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 10:29:11 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:30.902164+00:00",
-      "content": "Russia’s defence ministry said it intercepted or destroyed largest number of drones since beginning of war in past 24 hours",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US tech stocks set to open lower amid Nvidia fallout",
       "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 12:07:09 GMT",
@@ -51,28 +29,6 @@
       "published_date": "Mon, 16 Nov 2026 11:58:17 GMT",
       "scrape_timestamp": "2026-11-16T12:16:32.815288+00:00",
       "content": "Diplomats and aid workers say Israel is exacerbating dire humanitarian conditions by restricting the entry of vital supplies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Jensen Huang talks about Nvidia comeback with allies",
-      "link": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 11:01:07 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:33.215551+00:00",
-      "content": "Also in today’s newsletter: IPOs struggle and Trump’s summit with Xi and Putin",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU renews push for global AI rules after midterms weaken Trump",
-      "link": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 10:37:38 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:33.415684+00:00",
-      "content": "Brussels hopes an international deal is more attainable after voters’ rebuke to US president",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3343,11 +3299,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU launches antitrust probe into Coca-Cola bottler",
+      "link": "https://www.ft.com/content/a9686a35-ba71-4f5c-8fe8-ca3bc34a67b1?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 10:58:22 GMT",
+      "scrape_timestamp": "2026-11-23T11:02:42.945127+00:00",
+      "content": "Coca-Cola Europacific Partners is one of the major bottlers that distribute and sell the soft drink in Europe",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T10:03:21.103108+00:00",
+  "last_updated": "2026-11-23T11:03:01.029020+00:00",
   "metadata": {
-    "total_runs": 3247,
+    "total_runs": 3248,
     "sources": [
       "Financial Times"
     ],
