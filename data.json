@@ -101,17 +101,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Five EU countries to announce scheme to deport irregular migrants to Rwanda",
-      "link": "https://www.ft.com/content/ce4e5b88-f7f6-4aaa-aa29-aed46b99f065?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 06:00:02 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:34.416466+00:00",
-      "content": "Also in this newsletter: The tourist taxes eating Amsterdam’s hospitality sector",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
       "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 18:14:16 GMT",
@@ -3112,11 +3101,198 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The problem with the circular AI economy",
+      "link": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:13 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:05.177680+00:00",
+      "content": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China is winning the car war",
+      "link": "https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:13 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:05.377845+00:00",
+      "content": "Western carmakers have been routed from China as EVs go mainstream. Now they are battling to avoid a similar fate at home",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Progressives are not radical enough on economics",
+      "link": "https://www.ft.com/content/add930b5-5a4c-4226-a778-ffdd009915f0",
+      "published_date": "Mon, 23 Nov 2026 05:00:13 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:05.578032+00:00",
+      "content": "Instead of accepting automation, we should back ‘pro-worker AI’ that leverages the difference between machines and human intelligence",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Gulf’s ‘new normal’",
+      "link": "https://www.ft.com/content/770e588c-9d85-4999-a25a-c01b8c3078d3?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:03 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:05.778216+00:00",
+      "content": "As life regains its prewar energy, many worry the US-Iran war has done lasting damage to the region’s image",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Novartis rejects AI industry hopes to cure cancer in 5 to 10 years",
+      "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:06.178641+00:00",
+      "content": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Immigrants’ income growth outstrips Spaniards’ under Pedro Sánchez",
+      "link": "https://www.ft.com/content/ce066eb8-31fa-4c11-b49d-a353b04ec623?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:03 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:06.378826+00:00",
+      "content": "Far-right Vox party is stoking divisions over immigration ahead of November 29 election",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Fossil fuels fight at COP31 climate talks ends in ‘unbridgeable’ red lines",
+      "link": "https://www.ft.com/content/32f7f678-1037-4922-860b-4b7f3c9f6de7?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:06.579005+00:00",
+      "content": "Failure to reach agreement leads to soul-searching about the consensus process",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Costa’s compromise EU budget proposal fails to achieve consensus",
+      "link": "https://www.ft.com/content/6a31a891-4da1-4f6d-a372-19ba4a09898e?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 06:00:03 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:07.299448+00:00",
+      "content": "Also in this newsletter: European steelmakers increase pressure on China-backed MMG",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Federal Reserve’s balance sheet yo-yo",
+      "link": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
+      "published_date": "Mon, 23 Nov 2026 05:30:02 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:07.699845+00:00",
+      "content": "Recent money market stress is likely to prompt the Fed to expand its balance sheet before action next year to shrink it",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What happens when bubbles burst",
+      "link": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:07.900030+00:00",
+      "content": "AI enthusiasm has turned into major investor concern that a market might be heading for a fall",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Consultants reap public sector boom thanks to AI and cyber security",
+      "link": "https://www.ft.com/content/54b6f97e-7818-4902-9755-63d9a4867a2d?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:13 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:08.300442+00:00",
+      "content": "Spending on external advisers accelerates despite central government’s pledge to cut costs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Boost for £1bn Acorn carbon capture scheme as new developer buys stake",
+      "link": "https://www.ft.com/content/a216892d-190c-41dd-8473-03643a8c5350?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:13 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:08.700833+00:00",
+      "content": "Carbon storage company EnEarth acquires interest in flagship North Sea project seen as key to UK decarbonisation plans",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why private capital is betting big on mix-and-match deals",
+      "link": "https://www.ft.com/content/78b01bf4-3550-41cb-ac52-2f3426b58232?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:04 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:08.901019+00:00",
+      "content": "With the traditional buyout business stuck in the doldrums, firms are using hybrid capital to seal transactions and raise funds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Bear’s Matty Matheson eats his way around Toronto",
+      "link": "https://www.ft.com/content/42dca35f-cda1-4ca6-bcb4-b81d58d5b7ba",
+      "published_date": "Mon, 23 Nov 2026 05:00:04 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:09.101201+00:00",
+      "content": "The chef and actor on the dumplings, baseball and beats that stir his city",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The artist who turned private eye — to investigate state surveillance",
+      "link": "https://www.ft.com/content/e68d3acf-7fbe-4d33-88dd-a631322b090d",
+      "published_date": "Mon, 23 Nov 2026 05:00:04 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:09.301384+00:00",
+      "content": "Julia Weist became a licensed private investigator, examining just how vulnerable privacy has become in the US — then the government came knocking",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "NoLo: the alchemy of Copenhagen’s alcohol-free drinks scene",
+      "link": "https://www.ft.com/content/2d5b45f2-0623-43d4-9f96-55a56f4c49e8",
+      "published_date": "Mon, 23 Nov 2026 05:00:04 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:09.501562+00:00",
+      "content": "In the Danish capital, the focus is shifting towards seasonal ferments and functional brews that mirror the country’s experimental, produce-driven cuisine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Investors flip the switch on the AI trade",
+      "link": "https://www.ft.com/content/77bfc0d6-e494-4e8c-86ec-b15c5cb79688?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 05:00:00 GMT",
+      "scrape_timestamp": "2026-11-23T06:06:09.901956+00:00",
+      "content": "After tech stocks tumbled, are markets entering a new era?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T05:03:34.893221+00:00",
+  "last_updated": "2026-11-23T06:06:25.327100+00:00",
   "metadata": {
-    "total_runs": 3242,
+    "total_runs": 3243,
     "sources": [
       "Financial Times"
     ],
