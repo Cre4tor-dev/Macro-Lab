@@ -123,17 +123,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Greece becomes unlikely haven for European investors",
-      "link": "https://www.ft.com/content/e2bfe9ca-b0a2-439c-8ee3-4108c9955ecd?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 16:08:28 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:09.442012+00:00",
-      "content": "The question is whether the country has gains still to come",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "India mulls lifting capital gains tax for foreign investors",
       "link": "https://www.ft.com/content/32fbce84-6361-4e60-851a-e0cdac9a5ae7?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 01:30:03 GMT",
@@ -3422,9 +3411,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T16:03:07.794755+00:00",
+  "last_updated": "2026-11-23T17:03:10.588173+00:00",
   "metadata": {
-    "total_runs": 3253,
+    "total_runs": 3254,
     "sources": [
       "Financial Times"
     ],
