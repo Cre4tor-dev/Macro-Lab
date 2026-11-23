@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
-      "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 21:20:03 GMT",
-      "scrape_timestamp": "2026-11-16T22:39:06.501469+00:00",
-      "content": "Oil major pulls ahead of rival bidders for Beacon Offshore Energy as it expands deepwater production",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "India mulls lifting capital gains tax for foreign investors",
       "link": "https://www.ft.com/content/32fbce84-6361-4e60-851a-e0cdac9a5ae7?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 01:30:03 GMT",
@@ -3411,9 +3400,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T21:02:56.296907+00:00",
+  "last_updated": "2026-11-23T22:02:40.460949+00:00",
   "metadata": {
-    "total_runs": 3258,
+    "total_runs": 3259,
     "sources": [
       "Financial Times"
     ],
