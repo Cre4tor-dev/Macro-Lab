@@ -13,28 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Biggest IPOs this year lose investors money as AI frenzy fades",
-      "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 11:47:31 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:31.502548+00:00",
-      "content": "Ten biggest flotations have fallen more than 20% on average in 2026 after four years of gains",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Israel under pressure as winter rains lash Gaza",
-      "link": "https://www.ft.com/content/463238ee-2d5f-4ae8-b48b-8a39444c08bd?syn-25a6b1a6=1",
-      "published_date": "Mon, 16 Nov 2026 11:58:17 GMT",
-      "scrape_timestamp": "2026-11-16T12:16:32.815288+00:00",
-      "content": "Diplomats and aid workers say Israel is exacerbating dire humanitarian conditions by restricting the entry of vital supplies",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
       "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
       "published_date": "Mon, 16 Nov 2026 18:14:16 GMT",
@@ -3310,11 +3288,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber security disruptions mount",
+      "link": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 11:02:10 GMT",
+      "scrape_timestamp": "2026-11-23T12:03:45.107033+00:00",
+      "content": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T11:03:01.029020+00:00",
+  "last_updated": "2026-11-23T12:04:04.083349+00:00",
   "metadata": {
-    "total_runs": 3248,
+    "total_runs": 3249,
     "sources": [
       "Financial Times"
     ],
