@@ -3387,11 +3387,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
+      "link": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 19:11:29 GMT",
+      "scrape_timestamp": "2026-11-23T20:02:51.918344+00:00",
+      "content": "Democrats and Republicans insist tech CEO must testify in public",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The startling return of Jensen Huang",
+      "link": "https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 18:11:30 GMT",
+      "scrape_timestamp": "2026-11-23T20:02:52.118533+00:00",
+      "content": "Trump’s intervention to reinstate the Nvidia boss sets a dangerous precedent",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham",
+      "link": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1",
+      "published_date": "Mon, 23 Nov 2026 19:00:38 GMT",
+      "scrape_timestamp": "2026-11-23T20:02:54.490143+00:00",
+      "content": "Prime minister insists he does not have a ‘fixed opinion’ about the UK’s future relationship with the bloc",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-23T19:02:16.980027+00:00",
+  "last_updated": "2026-11-23T20:03:13.193887+00:00",
   "metadata": {
-    "total_runs": 3256,
+    "total_runs": 3257,
     "sources": [
       "Financial Times"
     ],
