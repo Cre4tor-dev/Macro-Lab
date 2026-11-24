@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "AI grapples with the return of the Antichrist",
-      "link": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 12:20:22 GMT",
-      "scrape_timestamp": "2026-11-17T13:58:59.462784+00:00",
-      "content": "Tech titans doubled down on Trump and now find themselves in the crosshairs of voters who reject progress at any cost",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US dollar rally erases ‘liberation day’ losses as rate expectations rise",
       "link": "https://www.ft.com/content/b8215e9c-bed2-49e8-a36f-6d7aca599bba?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 13:07:17 GMT",
@@ -24,66 +13,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "A misty outlook for rates",
-      "link": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 12:30:05 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:00.263450+00:00",
-      "content": "Contrasting speeches from the Fed’s Christopher Waller and BoE’s Clare Lombardelli show that central bank communications still matter",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Labour reforms risk harming job market for Britain’s young, says Milburn review",
       "link": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 13:19:23 GMT",
       "scrape_timestamp": "2026-11-17T13:59:01.554769+00:00",
       "content": "Changes ‘count for nothing if there are no jobs for young people to go to’, warns former cabinet minister",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Iran attacks US air base in Bahrain",
-      "link": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 13:02:19 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:01.955106+00:00",
-      "content": "Two fuel tankers also struck in the Strait of Hormuz, according to IRGC",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump influence feared in bankruptcy investigations",
-      "link": "https://www.ft.com/content/ed1b0afe-c22e-43c6-b708-0eb7c55f067c?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 12:16:52 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:02.555591+00:00",
-      "content": "Department of Justice faces questions over influence on US Trustee agency that appoints Chapter 11 examiners",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Satellite group Iceye launches €2bn bid for Italian rocket maker Avio",
-      "link": "https://www.ft.com/content/9fed851a-d75f-4f7e-8afa-700f3786391d?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 12:11:01 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:02.755768+00:00",
-      "content": "Finnish-Polish group seeks to create integrated European space and defence company as governments push for greater independence from US",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK imposes sanctions on companies building West Bank settlements",
-      "link": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 12:06:36 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:02.955950+00:00",
-      "content": "Eight Israeli property development and architectural firms blacklisted",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3574,11 +3508,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU edges towards Made in Europe deal for UK cars",
+      "link": "https://www.ft.com/content/b37579ba-a811-436b-bc00-95f5bfbb7fd9?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 12:07:48 GMT",
+      "scrape_timestamp": "2026-11-24T13:02:54.760302+00:00",
+      "content": "Inclusion in bloc’s subsidy scheme would be a significant diplomatic win for PM Andy Burnham",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "COP31’s fossil fuels fight and the limits of carbon capture",
+      "link": "https://www.ft.com/content/76791e9d-c24a-4a81-89a5-70bd757aa583?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 12:00:05 GMT",
+      "scrape_timestamp": "2026-11-24T13:02:55.921929+00:00",
+      "content": "Also in today’s newsletter, China’s dream of hydrogen-powered transport falters",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bank of Japan to continue rate normalisation in 2027",
+      "link": "https://www.ft.com/content/94863aab-4c10-4e93-b3d8-63a764efa409",
+      "published_date": "Tue, 24 Nov 2026 12:00:05 GMT",
+      "scrape_timestamp": "2026-11-24T13:02:56.122143+00:00",
+      "content": "Read the BoJ’s November forecast from the FT’s Monetary Policy Radar team",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iran flogs singer who performed without hijab",
+      "link": "https://www.ft.com/content/d4902274-2e3d-447a-83b8-312cf7306d56?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 11:59:09 GMT",
+      "scrape_timestamp": "2026-11-24T13:02:56.322332+00:00",
+      "content": "Sentence of 74 lashes carried out on female performer Parastoo Ahmadi and male members of her band",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T12:04:02.800425+00:00",
+  "last_updated": "2026-11-24T13:03:13.781315+00:00",
   "metadata": {
-    "total_runs": 3273,
+    "total_runs": 3274,
     "sources": [
       "Financial Times"
     ],
