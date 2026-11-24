@@ -3596,11 +3596,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sanofi strikes $41bn deal to buy US biotech Insmed",
+      "link": "https://www.ft.com/content/94e3ca43-cf90-4566-90df-86dd6a1554b2?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 07:43:49 GMT",
+      "scrape_timestamp": "2026-11-24T08:03:33.092680+00:00",
+      "content": "French drugmaker looking for ready-made additions to commercial drug stable as it approaches patent cliff",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T07:03:14.511019+00:00",
+  "last_updated": "2026-11-24T08:03:51.576487+00:00",
   "metadata": {
-    "total_runs": 3268,
+    "total_runs": 3269,
     "sources": [
       "Financial Times"
     ],
