@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Nvidia sales doubled last quarter",
-      "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 21:28:22 GMT",
-      "scrape_timestamp": "2026-11-17T22:02:56.683561+00:00",
-      "content": "Chip giant reports strong earnings after CEO Jensen Huang forced to step down",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Marine Le Pen floats lowering France’s retirement age to as low as 60",
-      "link": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 21:03:56 GMT",
-      "scrape_timestamp": "2026-11-17T22:02:58.485262+00:00",
-      "content": "Far-right presidential frontrunner faces criticism over the feasibility and cost of her pension plans",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US tech stocks slide ahead of Nvidia results",
-      "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 21:04:02 GMT",
-      "scrape_timestamp": "2026-11-17T22:02:59.546234+00:00",
-      "content": "Nasdaq 100 down 0.7% after volatile run of trading",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia has a chance to trade drama for durability",
       "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 02:56:15 GMT",
@@ -3640,11 +3607,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Argentina expected to suffer technical recession in blow to Milei",
+      "link": "https://www.ft.com/content/7ad64c80-64d2-4516-9400-1fbad546b0fe?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 20:54:16 GMT",
+      "scrape_timestamp": "2026-11-24T22:02:44.509913+00:00",
+      "content": "President’s crusade against inflation weighs down economy as he prepares to mount re-election bid next year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T21:03:07.466105+00:00",
+  "last_updated": "2026-11-24T22:03:01.294567+00:00",
   "metadata": {
-    "total_runs": 3282,
+    "total_runs": 3283,
     "sources": [
       "Financial Times"
     ],
