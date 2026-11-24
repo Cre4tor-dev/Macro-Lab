@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-11-24 14:03 UTC</title>
+  <title>Macro Lab — 2026-11-24 15:03 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,14 +130,14 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-11-24 14:03 UTC<br>Seuil alerte: 5.0 · 67 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-11-24 15:03 UTC<br>Seuil alerte: 5.0 · 69 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
-    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">324</div></div>
+    <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">328</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">67</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">69</div></div>
     <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">2.5</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
@@ -190,7 +190,21 @@
 
   <div class="view active" id="view-top">
     <div class="section-title">Top 20 articles — cette heure</div>
-    <div id="cards-top"><article class="card card-alert" data-score="16.49" data-date="2026-11-21" data-themes="war_conflict" data-text="russia and ukraine’s drone war sends optical fibre prices soaring kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity">
+    <div id="cards-top"><article class="card card-alert" data-score="20.04" data-date="2026-11-24" data-themes="war_conflict" data-text="mi5 warns uk companies supplying ukraine military about russian sabotage risk acts could include arson attacks carried out by proxy agents, say security chiefs">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 20.04 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, military, ukraine, russia">20.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1" target="_blank" rel="noopener">MI5 warns UK companies supplying Ukraine military about Russian sabotage risk</a></h3>
+  <p class="preview card-detail">Acts could include arson attacks carried out by proxy agents, say security chiefs</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-24">Tue, 24 Nov 2026 14:30:21</time>
+    <span class="kw-hint">🔑 war, military, ukraine, russia</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="16.49" data-date="2026-11-21" data-themes="war_conflict" data-text="russia and ukraine’s drone war sends optical fibre prices soaring kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
     <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 16.49 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, ukraine, russia">16.5 <sup>ℹ</sup></span>
@@ -218,7 +232,7 @@
     <span class="kw-hint">🔑 war, conflict, military</span>
   </div>
 </article>
-<article class="card card-alert" data-score="15.38" data-date="2026-11-23" data-themes="war_conflict" data-text="ukraine sinks russian warship off coast of libya volodymyr zelenskyy described the attack as an ‘exemplary’ sea drone operation">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="15.38" data-date="2026-11-23" data-themes="war_conflict" data-text="ukraine sinks russian warship off coast of libya volodymyr zelenskyy described the attack as an ‘exemplary’ sea drone operation">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
     <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 15.38 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, ukraine, russia">15.4 <sup>ℹ</sup></span>
@@ -231,7 +245,7 @@
     <time datetime="2026-11-23">Mon, 23 Nov 2026 07:45:47</time>
     <span class="kw-hint">🔑 war, ukraine, russia</span>
   </div>
-</article>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="14.13" data-date="2026-11-22" data-themes="war_conflict" data-text="sanctioned russian vessel ablaze in finnish waters after drone attack finland’s prime minister attributes attack on cargo ship to ukraine and says ‘war is spilling over into our immediate vicinity’">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -442,39 +456,39 @@
     <span class="kw-hint">🔑 war</span>
   </div>
 </article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="9.60" data-date="2026-11-23" data-themes="war_conflict" data-text="inside the ‘war room’ that lobbied trump to bring back nvidia’s huang silicon valley titans enlisted us president and jd vance to rescue the billionaire tech boss whom they viewed as critical for the ai industry">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="9.64" data-date="2026-11-24" data-themes="war_conflict" data-text="banks regain some ground in the private credit tug of war for borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.60 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war">9.6 <sup>ℹ</sup></span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.64 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war">9.6 <sup>ℹ</sup></span>
     <span class="theme-tag">⚔️ War/Conflict</span>
     <span class="alert-badge">🚨 ALERT</span>
   </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1" target="_blank" rel="noopener">Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang</a></h3>
-  <p class="preview card-detail">Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry</p>
+  <h3 class="card-title"><a href="https://www.ft.com/content/bf403337-6e87-4aba-a306-17d63fbf1a81?syn-25a6b1a6=1" target="_blank" rel="noopener">Banks regain some ground in the private credit tug of war</a></h3>
+  <p class="preview card-detail">For borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity</p>
   <div class="card-footer card-detail">
-    <time datetime="2026-11-23">Mon, 23 Nov 2026 22:46:14</time>
+    <time datetime="2026-11-24">Tue, 24 Nov 2026 14:46:28</time>
     <span class="kw-hint">🔑 war</span>
-  </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="9.50" data-date="2026-11-19" data-themes="" data-text="putin invites european leaders to moscow russian leader signals country is unwilling to relax hardline demands for ending ukraine conflict">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.50 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: conflict, ukraine, russia">9.5 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1" target="_blank" rel="noopener">Putin invites European leaders to Moscow</a></h3>
-  <p class="preview card-detail">Russian leader signals country is unwilling to relax hardline demands for ending Ukraine conflict</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-19">Thu, 19 Nov 2026 18:53:08</time>
-    <span class="kw-hint">🔑 conflict, ukraine, russia</span>
   </div>
 </article></div></div></div>
   </div>
 
   <div class="view" id="view-all">
-    <div class="section-title">Historique complet — 7 derniers jours (324 articles)</div>
-    <div id="cards-all"><article class="card card-alert" data-score="16.49" data-date="2026-11-21" data-themes="war_conflict" data-text="russia and ukraine’s drone war sends optical fibre prices soaring kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity">
+    <div class="section-title">Historique complet — 7 derniers jours (328 articles)</div>
+    <div id="cards-all"><article class="card card-alert" data-score="20.04" data-date="2026-11-24" data-themes="war_conflict" data-text="mi5 warns uk companies supplying ukraine military about russian sabotage risk acts could include arson attacks carried out by proxy agents, say security chiefs">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 20.04 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, military, ukraine, russia">20.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1" target="_blank" rel="noopener">MI5 warns UK companies supplying Ukraine military about Russian sabotage risk</a></h3>
+  <p class="preview card-detail">Acts could include arson attacks carried out by proxy agents, say security chiefs</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-24">Tue, 24 Nov 2026 14:30:21</time>
+    <span class="kw-hint">🔑 war, military, ukraine, russia</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="16.49" data-date="2026-11-21" data-themes="war_conflict" data-text="russia and ukraine’s drone war sends optical fibre prices soaring kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
     <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 16.49 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, ukraine, russia">16.5 <sup>ℹ</sup></span>
@@ -723,6 +737,20 @@
   <p class="preview card-detail">Inclusion in bloc’s subsidy scheme would be a significant diplomatic win for PM Andy Burnham</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-24">Tue, 24 Nov 2026 12:07:48</time>
+    <span class="kw-hint">🔑 war</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="9.64" data-date="2026-11-24" data-themes="war_conflict" data-text="banks regain some ground in the private credit tug of war for borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 9.64 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war">9.6 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/bf403337-6e87-4aba-a306-17d63fbf1a81?syn-25a6b1a6=1" target="_blank" rel="noopener">Banks regain some ground in the private credit tug of war</a></h3>
+  <p class="preview card-detail">For borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-24">Tue, 24 Nov 2026 14:46:28</time>
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
@@ -2994,6 +3022,20 @@
     
   </div>
 </article>
+<article class="card" data-score="0.80" data-date="2026-11-24" data-themes="" data-text="how trump helped orchestrate huang’s return to nvidia also in today’s newsletter, democrats widen probe into trump jr-linked companies">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.80 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.8 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/98ec6911-bb0c-42c1-8c5e-5eebf40dc918?syn-25a6b1a6=1" target="_blank" rel="noopener">How Trump helped orchestrate Huang’s return to Nvidia</a></h3>
+  <p class="preview card-detail">Also in today’s newsletter, Democrats widen probe into Trump Jr-linked companies</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-24">Tue, 24 Nov 2026 14:00:02</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.78" data-date="2026-11-24" data-themes="" data-text="eu to seek changes to un climate talks process after cop failure acrimony and finger-pointing over the breakdown comes after a year of increasingly extreme climate disasters">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -5009,6 +5051,20 @@
     <time datetime="2026-11-24">Tue, 24 Nov 2026 12:54:15</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-11-24" data-themes="" data-text="yes, pay disclosure rules need a rethink. but the sec is not helping investors the slimmed-down proposal will please corporate executives, but what about shareholders?">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a?syn-25a6b1a6=1" target="_blank" rel="noopener">Yes, pay disclosure rules need a rethink. But the SEC is not helping investors</a></h3>
+  <p class="preview card-detail">The slimmed-down proposal will please corporate executives, but what about shareholders?</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-24">Tue, 24 Nov 2026 14:12:02</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -5123,7 +5179,7 @@ new Chart(document.getElementById('chartDays'), {
   data: {
     labels: ["11-18", "11-19", "11-20", "11-21", "11-22", "11-23", "11-24"],
     datasets: [{
-      data: [50, 47, 50, 30, 35, 60, 39],
+      data: [50, 47, 50, 30, 35, 60, 43],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
@@ -5137,7 +5193,7 @@ new Chart(document.getElementById('chartDays'), {
   }
 });
 
-const themeValues = [5, 35, 2, 2, 1];
+const themeValues = [5, 37, 2, 2, 1];
 if (themeValues.length > 0 && themeValues.some(v => v > 0)) {
   new Chart(document.getElementById('chartThemes'), {
     type: 'doughnut',

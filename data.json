@@ -3563,11 +3563,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "MI5 warns UK companies supplying Ukraine military about Russian sabotage risk",
+      "link": "https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 14:30:21 GMT",
+      "scrape_timestamp": "2026-11-24T15:02:52.605238+00:00",
+      "content": "Acts could include arson attacks carried out by proxy agents, say security chiefs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Banks regain some ground in the private credit tug of war",
+      "link": "https://www.ft.com/content/bf403337-6e87-4aba-a306-17d63fbf1a81?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 14:46:28 GMT",
+      "scrape_timestamp": "2026-11-24T15:02:53.966973+00:00",
+      "content": "For borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Yes, pay disclosure rules need a rethink. But the SEC is not helping investors",
+      "link": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 14:12:02 GMT",
+      "scrape_timestamp": "2026-11-24T15:02:54.367339+00:00",
+      "content": "The slimmed-down proposal will please corporate executives, but what about shareholders?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How Trump helped orchestrate Huang’s return to Nvidia",
+      "link": "https://www.ft.com/content/98ec6911-bb0c-42c1-8c5e-5eebf40dc918?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 14:00:02 GMT",
+      "scrape_timestamp": "2026-11-24T15:02:54.567518+00:00",
+      "content": "Also in today’s newsletter, Democrats widen probe into Trump Jr-linked companies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T14:03:20.277271+00:00",
+  "last_updated": "2026-11-24T15:03:12.151002+00:00",
   "metadata": {
-    "total_runs": 3275,
+    "total_runs": 3276,
     "sources": [
       "Financial Times"
     ],
