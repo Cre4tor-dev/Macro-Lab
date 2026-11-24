@@ -3420,11 +3420,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Asian tech stocks surge in wake of Jensen Huang’s return",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 00:30:51 GMT",
+      "scrape_timestamp": "2026-11-24T01:03:05.317428+00:00",
+      "content": "Nvidia chief executive’s reinstatement sent Wall Street shares higher",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump decries California’s death penalty commutation as a ‘shocking act’",
+      "link": "https://www.ft.com/content/2de3b26b-6569-44a5-b8b8-8a4be9243d0c?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 00:29:58 GMT",
+      "scrape_timestamp": "2026-11-24T01:03:06.746226+00:00",
+      "content": "Gavin Newsom insists every inmate will die in prison but president says justice department will try overturn the decision",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Japan’s Sanae Takaichi isolated on world stage",
+      "link": "https://www.ft.com/content/13ea1195-a0e7-4b19-8316-d56042ac2678?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 00:22:13 GMT",
+      "scrape_timestamp": "2026-11-24T01:03:06.946422+00:00",
+      "content": "Treatment of prime minister makes it harder to envisage end to year-long tensions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China wanted families to put savings in shares not houses — then markets fell",
+      "link": "https://www.ft.com/content/45c49a84-53cc-44ed-9aab-0dc79f564278?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 00:10:03 GMT",
+      "scrape_timestamp": "2026-11-24T01:03:07.146611+00:00",
+      "content": "Falling share prices undermine Beijing’s efforts to persuade families to divert savings into equities",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T00:07:24.473890+00:00",
+  "last_updated": "2026-11-24T01:03:24.017249+00:00",
   "metadata": {
-    "total_runs": 3261,
+    "total_runs": 3262,
     "sources": [
       "Financial Times"
     ],
