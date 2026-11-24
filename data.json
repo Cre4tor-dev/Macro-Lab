@@ -13,17 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
-      "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 17:06:32 GMT",
-      "scrape_timestamp": "2026-11-17T22:02:57.284124+00:00",
-      "content": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Marine Le Pen floats lowering France’s retirement age to as low as 60",
       "link": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 21:03:56 GMT",
@@ -51,17 +40,6 @@
       "published_date": "Tue, 17 Nov 2026 18:39:30 GMT",
       "scrape_timestamp": "2026-11-17T22:03:00.347003+00:00",
       "content": "Government advisers express concern at their findings about migration route aimed at international high-flyers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "A new deal for Britain’s young people",
-      "link": "https://www.ft.com/content/edb10f04-3c15-4d86-ae3d-b70ca57d36df?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 17:27:48 GMT",
-      "scrape_timestamp": "2026-11-17T22:03:00.747423+00:00",
-      "content": "Ending the ‘Neets’ crisis requires more jobs, not just welfare reform",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3596,11 +3574,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Venezuela unveils $240bn debt pile ahead of historic restructuring",
+      "link": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 17:53:01 GMT",
+      "scrape_timestamp": "2026-11-24T18:02:58.923590+00:00",
+      "content": "Finance ministry publishes ‘clear and credible’ economic plan 10 months after US removed Nicolás Maduro from power",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Afronauts — Ryan Calais Cameron’s entertaining play takes on Zambia’s place in the space race",
+      "link": "https://www.ft.com/content/6c21514c-35c3-4a47-bbd0-acd6d94d2f90?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 17:15:04 GMT",
+      "scrape_timestamp": "2026-11-24T18:02:59.323927+00:00",
+      "content": "The ‘true-ish’ tale of Edward Mukuka Nkoloso’s cash-strapped space programme gets a fascinating treatment at London’s Royal Court",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Court ruling hands African football trophy back to Senegal",
+      "link": "https://www.ft.com/content/fb58a7d8-d3f5-427e-bbb8-8488e6b7dfca?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 17:02:35 GMT",
+      "scrape_timestamp": "2026-11-24T18:02:59.524081+00:00",
+      "content": "Decision by Cas, the highest judicial body in world sport, comes after the country’s contentious victory over Morocco was overturned earlier this year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T17:03:05.156926+00:00",
+  "last_updated": "2026-11-24T18:03:16.852394+00:00",
   "metadata": {
-    "total_runs": 3278,
+    "total_runs": 3279,
     "sources": [
       "Financial Times"
     ],
