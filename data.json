@@ -3629,11 +3629,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+      "link": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 20:43:06 GMT",
+      "scrape_timestamp": "2026-11-24T21:02:48.158971+00:00",
+      "content": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T20:03:00.039422+00:00",
+  "last_updated": "2026-11-24T21:03:07.466105+00:00",
   "metadata": {
-    "total_runs": 3281,
+    "total_runs": 3282,
     "sources": [
       "Financial Times"
     ],
