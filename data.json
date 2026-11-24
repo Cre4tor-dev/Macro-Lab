@@ -35,17 +35,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Nvidia creates committee to oversee compliance with US chip export controls",
-      "link": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 11:24:44 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:00.663766+00:00",
-      "content": "Move comes as US chipmaker faces criticism in Washington over its ambition to increase revenues in China",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Labour reforms risk harming job market for Britain’s young, says Milburn review",
       "link": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 13:19:23 GMT",
@@ -95,72 +84,6 @@
       "published_date": "Tue, 17 Nov 2026 12:06:36 GMT",
       "scrape_timestamp": "2026-11-17T13:59:02.955950+00:00",
       "content": "Eight Israeli property development and architectural firms blacklisted",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Exxon’s Guyana oil boom sparks a return to frontier drilling",
-      "link": "https://www.ft.com/content/ea9051c2-cc56-46d5-b254-b13b484bc28a?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 12:00:06 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:03.156132+00:00",
-      "content": "Rivals have made South America a hotspot for development, particularly given the disruption to supplies from Middle East",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Disney turns to job cuts in latest cost blitz",
-      "link": "https://www.ft.com/content/68aac78a-baee-4123-9c65-7b6e631a02ac?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 11:33:18 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:03.356324+00:00",
-      "content": "A pledge to reduce $3bn in annual spending comes after similar moves at Skydance and Netflix",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Trump arrives in Asia ahead of Xi and Putin summit",
-      "link": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 11:32:39 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:03.556508+00:00",
-      "content": "US president arrives in Philippines to meet leaders of regional blocs before Apec forum in China",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "In brief: Milburn’s 267-page report",
-      "link": "https://www.ft.com/content/3d1308a7-e10b-462a-aaca-5378d79d14f5?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 11:30:04 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:03.756679+00:00",
-      "content": "Report will test Andy Burnham’s appetite for contentious reform",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK jobs market stalled ahead of October Budget",
-      "link": "https://www.ft.com/content/8f2b2b32-2b63-4651-8cbf-f79007f4f5ea?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 11:19:15 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:03.956829+00:00",
-      "content": "Separate data confirms productivity boost in third quarter of the year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Turkey seizes last pro-opposition TV station in dawn raid",
-      "link": "https://www.ft.com/content/76240e8b-179f-434b-8d64-3a4b2659e470?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 11:18:36 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:04.156996+00:00",
-      "content": "Sözcü TV placed under state management as government battles spreading investment fund scandal",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3618,11 +3541,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russian navy licks its wounds as another warship is sunk",
+      "link": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 11:00:04 GMT",
+      "scrape_timestamp": "2026-11-24T12:03:43.120247+00:00",
+      "content": "Ukrainian drones have struck Moscow’s warships and freighters in the Black Sea, Baltic and Mediterranean",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Roche says breast cancer pill could be best-selling drug ever",
+      "link": "https://www.ft.com/content/6c2b8be7-2c74-4920-a4fa-5c90e164eae9?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 09:51:03 GMT",
+      "scrape_timestamp": "2026-11-24T12:03:43.920621+00:00",
+      "content": "Swiss group hails ‘new era of breast cancer treatment’ with newly approved medicine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Untapping Chartreuse — the world’s most mysterious liqueur",
+      "link": "https://www.ft.com/content/cdc793c5-8735-4c02-bbe8-65e41f1358e4",
+      "published_date": "Tue, 24 Nov 2026 11:00:04 GMT",
+      "scrape_timestamp": "2026-11-24T12:03:45.492990+00:00",
+      "content": "The HTSI drinks expert uncovers the Carthusian distillery’s 400-year-old secrets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T11:02:56.305598+00:00",
+  "last_updated": "2026-11-24T12:04:02.800425+00:00",
   "metadata": {
-    "total_runs": 3272,
+    "total_runs": 3273,
     "sources": [
       "Financial Times"
     ],
