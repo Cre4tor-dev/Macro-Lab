@@ -24,33 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
-      "link": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 15:33:25 GMT",
-      "scrape_timestamp": "2026-11-17T22:02:57.083939+00:00",
-      "content": "Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
       "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 17:06:32 GMT",
       "scrape_timestamp": "2026-11-17T22:02:57.284124+00:00",
       "content": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Fed’s Lisa Cook refuses to attend hearing convened by Trump",
-      "link": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 15:15:35 GMT",
-      "scrape_timestamp": "2026-11-17T22:02:58.285085+00:00",
-      "content": "Central bank governor says attending ‘unfair’ proceedings would endanger the ‘institution’s unique status and independence’",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -117,17 +95,6 @@
       "published_date": "Tue, 17 Nov 2026 16:18:18 GMT",
       "scrape_timestamp": "2026-11-17T22:03:01.748406+00:00",
       "content": "Dong Jun’s trip is first of its kind to Rome in 18 years and comes as geopolitical strains grow between Beijing and EU",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How Paris and Berlin sealed the ECB succession",
-      "link": "https://www.ft.com/content/d83f2a71-aea1-4654-a89a-84ad203f6646?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 15:29:57 GMT",
-      "scrape_timestamp": "2026-11-17T22:03:01.948586+00:00",
-      "content": "Spain’s Pablo Hernández de Cos appears set to take over presidency after winning French and German backing",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3607,11 +3574,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "BioNTech founders to raise $1bn for cancer start-up",
+      "link": "https://www.ft.com/content/00eace12-390a-492d-ae91-639ae0ac93f5?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 15:31:46 GMT",
+      "scrape_timestamp": "2026-11-24T16:03:17.276385+00:00",
+      "content": "Plural leads funding round for oncology company to be helmed by Uğur Şahin and Özlem Türeci",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Houthi attack on Saudi sovereign wealth fund HQ injures 11",
+      "link": "https://www.ft.com/content/ecdf59b6-c78b-4703-bc26-8d085d7b9d24?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 15:59:43 GMT",
+      "scrape_timestamp": "2026-11-24T16:03:19.163407+00:00",
+      "content": "Strike on Riyadh’s PIF Tower came as kingdom unveiled first budget since conflict restarted",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Shanghai’s powerful Communist Party boss toppled as Xi  escalates purge",
+      "link": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 15:55:20 GMT",
+      "scrape_timestamp": "2026-11-24T16:03:19.363627+00:00",
+      "content": "Chen Jining under investigation over suspected ‘severe violations of discipline and laws’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Iraqi government to take control of Kurdish-held oilfields",
+      "link": "https://www.ft.com/content/5b03bc34-79a5-4c90-8b92-17b27b19098e?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 15:47:33 GMT",
+      "scrape_timestamp": "2026-11-24T16:03:19.563838+00:00",
+      "content": "Move comes as PM works to assert power over the semi-autonomous Kurdish region and Iran-backed Shia militant groups",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T15:03:12.151002+00:00",
+  "last_updated": "2026-11-24T16:03:37.577929+00:00",
   "metadata": {
-    "total_runs": 3276,
+    "total_runs": 3277,
     "sources": [
       "Financial Times"
     ],
