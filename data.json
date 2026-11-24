@@ -68,17 +68,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Israeli opposition succeeds in electing a new parliamentary Speaker",
-      "link": "https://www.ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 22:36:45 GMT",
-      "scrape_timestamp": "2026-11-18T03:57:19.792060+00:00",
-      "content": "Appointment of Matan Kahana is a setback for Benjamin Netanyahu’s far-right coalition",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
       "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 05:00:26 GMT",
@@ -3618,11 +3607,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Huawei convicted of fraud and stealing trade secrets in US trial",
+      "link": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 21:55:32 GMT",
+      "scrape_timestamp": "2026-11-24T23:02:30.172679+00:00",
+      "content": "Also in today’s newsletter: Nvidia’s Jensen Huang strikes a defiant tone and Trump readies a raft of new tariffs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T22:03:01.294567+00:00",
+  "last_updated": "2026-11-24T23:02:47.239456+00:00",
   "metadata": {
-    "total_runs": 3283,
+    "total_runs": 3284,
     "sources": [
       "Financial Times"
     ],
