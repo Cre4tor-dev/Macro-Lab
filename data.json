@@ -35,17 +35,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Up to one-fifth of UK ‘global talent’ visa holders earn too little to pay income tax",
-      "link": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 18:39:30 GMT",
-      "scrape_timestamp": "2026-11-17T22:03:00.347003+00:00",
-      "content": "Government advisers express concern at their findings about migration route aimed at international high-flyers",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia has a chance to trade drama for durability",
       "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 02:56:15 GMT",
@@ -3607,11 +3596,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The expanding boundaries of the Ukraine war",
+      "link": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 18:38:23 GMT",
+      "scrape_timestamp": "2026-11-24T19:02:29.095637+00:00",
+      "content": "Kyiv has a right to strike Russian targets but needs to choose them with care",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU warns France and Belgium to put public finances on ‘sustainable path’",
+      "link": "https://www.ft.com/content/20e28c3f-31b8-40d2-bbb7-ee3f92ede6ac?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 18:02:04 GMT",
+      "scrape_timestamp": "2026-11-24T19:02:29.495996+00:00",
+      "content": "Commission also warns Berlin it could face additional monitoring next year owing to excessive public spending",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T18:03:16.852394+00:00",
+  "last_updated": "2026-11-24T19:02:48.735315+00:00",
   "metadata": {
-    "total_runs": 3279,
+    "total_runs": 3280,
     "sources": [
       "Financial Times"
     ],
