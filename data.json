@@ -167,17 +167,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Trump moves to ease pension rules for investment firms linked to misconduct",
-      "link": "https://www.ft.com/content/fe6861a1-cc15-4fce-8a8d-7c3fdce2b022?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 11:00:06 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:04.357149+00:00",
-      "content": "Proposal would streamline process for exemptions from prohibitions and grant 10-year reprieve from scrutiny over wrongdoing",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia sales doubled last quarter",
       "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 21:28:22 GMT",
@@ -3596,11 +3585,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China extends pause in controls on critical mineral exports to US",
+      "link": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 10:21:16 GMT",
+      "scrape_timestamp": "2026-11-24T11:02:38.836945+00:00",
+      "content": "Beijing’s dominance of supply chains has given it leverage against Washington",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Democrats widen graft investigation into Donald Trump Jr-linked groups",
+      "link": "https://www.ft.com/content/90858eba-0c00-4e10-bcca-31ae34bd835d?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 09:45:03 GMT",
+      "scrape_timestamp": "2026-11-24T11:02:39.237441+00:00",
+      "content": "Senior lawmaker demands information from companies backed by 1789 Capital, where the president’s eldest son is a partner",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Labour’s plans to take back control hit an old snag",
+      "link": "https://www.ft.com/content/5d42ba2d-88c2-494c-b794-8c883b735466?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 09:30:07 GMT",
+      "scrape_timestamp": "2026-11-24T11:02:39.437664+00:00",
+      "content": "A familiar tension over where power lies and who takes the blame emerges from Louise Haigh’s speech on reshaping the state",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T10:02:54.200215+00:00",
+  "last_updated": "2026-11-24T11:02:56.305598+00:00",
   "metadata": {
-    "total_runs": 3271,
+    "total_runs": 3272,
     "sources": [
       "Financial Times"
     ],
