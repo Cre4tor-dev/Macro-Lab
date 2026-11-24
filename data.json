@@ -13,39 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Epstein’s dealings with Deutsche were far larger than previously known",
-      "link": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 06:00:06 GMT",
-      "scrape_timestamp": "2026-11-17T13:58:58.662110+00:00",
-      "content": "Figure revealed by internal documents is substantially higher than previously known",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "An ‘awful mistake’ that leaked Trump’s tax statements",
-      "link": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 06:00:06 GMT",
-      "scrape_timestamp": "2026-11-17T13:58:58.862280+00:00",
-      "content": "Data breach in 2017 was described internally as an ‘awful mistake’ by Christian Sewing, then head of lender’s private bank",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
-      "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 06:00:07 GMT",
-      "scrape_timestamp": "2026-11-17T13:58:59.062439+00:00",
-      "content": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "AI grapples with the return of the Antichrist",
       "link": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 12:20:22 GMT",
@@ -3442,11 +3409,176 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The spies are coming for Big Tech",
+      "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:16 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:49.206417+00:00",
+      "content": "AI groups are now at the heart of geopolitics. Some are not ready",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain bought fake C4 explosives for Ukraine",
+      "link": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:07 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:49.406550+00:00",
+      "content": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What are you thinking? It depends who’s asking",
+      "link": "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:25 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:49.606680+00:00",
+      "content": "We may answer questions differently if AI is conducting the interview",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Pentagon delays Patriot missile shipments to Ukraine",
+      "link": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:15 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:49.806812+00:00",
+      "content": "US defence secretary Pete Hegseth has yet to sign off on 60 Patriot interceptors for Kyiv, including from European arsenals",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU to seek changes to UN climate talks process after COP failure",
+      "link": "https://www.ft.com/content/f01d609c-485d-4d1d-ac0a-5fa1fd5c7612",
+      "published_date": "Tue, 24 Nov 2026 05:00:25 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:51.223339+00:00",
+      "content": "Acrimony and finger-pointing over the breakdown comes after a year of increasingly extreme climate disasters",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Disability benefits review to reject tougher rules despite soaring costs",
+      "link": "https://www.ft.com/content/9d384d2f-e0d2-4a69-b377-fb5bc1e7d091?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:25 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:51.423459+00:00",
+      "content": "Government will seek to reconcile recommendations in paper by Sir Stephen Timms with separate report last week by Alan Milburn",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Committee of MPs set to criticise Heathrow’s third runway plan",
+      "link": "https://www.ft.com/content/f6816dbe-2108-415c-a32c-9c6fd7a2d959?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:25 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:51.623619+00:00",
+      "content": "Scheme will damage the environment while providing limited economic gain, report into £33bn project says",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Compass exit should spur London to beef up its bench",
+      "link": "https://www.ft.com/content/d23b5a83-0ada-4d94-adb1-de826a896174?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:24 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:52.023901+00:00",
+      "content": "Financial hubs are like football teams, and it’s time for London market to focus on the next generation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
+      "link": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:16 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:52.224056+00:00",
+      "content": "Five executives are charged with combining Elon Musk’s sprawling enterprises into a potential $3.5tn colossus",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Compass reignites City exodus fears",
+      "link": "https://www.ft.com/content/eb2618d4-46db-4d1b-bdc8-62c69c07cb16?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:15 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:52.424215+00:00",
+      "content": "Catering company is latest heavyweight to plan New York shift as groups seek to boost liquidity and valuations",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘South Africa cannot continue this way’: the unravelling of the ANC",
+      "link": "https://www.ft.com/content/c1986225-a487-4153-8b03-8d68058fa6ee?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:15 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:52.624368+00:00",
+      "content": "Party is cobbling together uneasy coalitions to cling to power after voters turned against it in local polls",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The political tide is turning on US audits",
+      "link": "https://www.ft.com/content/b7726a77-5f25-4c9c-8900-1609479b34b8?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:15 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:52.824510+00:00",
+      "content": "More signs are emerging of the industry regulator’s new approach under chair Jim Logothetis",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "My top 10: Jackie Wullschläger’s Musée d’Orsay favourites — away from the crowds",
+      "link": "https://www.ft.com/content/75da1516-b0b1-4f40-a67d-992a32208054",
+      "published_date": "Tue, 24 Nov 2026 05:00:06 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:53.424984+00:00",
+      "content": "As this magnificent Parisian treasure trove turns 40, the FT’s chief art critic shares some of the highlights of its lesser-visited galleries",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Belonging by Sonia Gandhi — a riveting, personal portrait of an Indian dynasty",
+      "link": "https://www.ft.com/content/fa36caaa-85d8-4fac-82d6-a33fba093b28?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:06 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:53.625173+00:00",
+      "content": "The politician’s memoir is a moving story of love, grief, family — and the poisoned chalice of power",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "European fertiliser suppliers shutting plants as energy prices soar",
+      "link": "https://www.ft.com/content/97e74bf5-081b-4f56-900f-36f1fd3b0e20?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 05:00:06 GMT",
+      "scrape_timestamp": "2026-11-24T06:04:53.825305+00:00",
+      "content": "A third of ammonia production suspended because of power costs, raising reliance on imports",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T05:03:01.610544+00:00",
+  "last_updated": "2026-11-24T06:05:08.546636+00:00",
   "metadata": {
-    "total_runs": 3266,
+    "total_runs": 3267,
     "sources": [
       "Financial Times"
     ],
