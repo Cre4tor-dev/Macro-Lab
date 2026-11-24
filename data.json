@@ -3574,11 +3574,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Jensen put",
+      "link": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 06:30:04 GMT",
+      "scrape_timestamp": "2026-11-24T07:02:54.186471+00:00",
+      "content": "Plus, Capex or die trying",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "German industrial giants launch trading house for rare earths",
+      "link": "https://www.ft.com/content/bfcb8ee8-97cc-4ef0-8234-3a8da0d3a814?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 06:00:05 GMT",
+      "scrape_timestamp": "2026-11-24T07:02:56.911544+00:00",
+      "content": "Also in this newsletter: Europe’s underused playing card on AI",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T06:05:08.546636+00:00",
+  "last_updated": "2026-11-24T07:03:14.511019+00:00",
   "metadata": {
-    "total_runs": 3267,
+    "total_runs": 3268,
     "sources": [
       "Financial Times"
     ],
