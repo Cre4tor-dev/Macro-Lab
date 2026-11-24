@@ -46,17 +46,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
-      "link": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 05:00:25 GMT",
-      "scrape_timestamp": "2026-11-17T13:58:59.262601+00:00",
-      "content": "President’s allies trade blame over losing grip on new media landscape after crushing midterm defeat",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "AI grapples with the return of the Antichrist",
       "link": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 12:20:22 GMT",
@@ -73,17 +62,6 @@
       "published_date": "Tue, 17 Nov 2026 09:01:17 GMT",
       "scrape_timestamp": "2026-11-17T13:58:59.662955+00:00",
       "content": "Part of key Russian road crossing collapses and parallel rail bridge damaged while Moscow hits infrastructure in Ukrainian capital",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Finland urges European leaders to talk to Putin directly",
-      "link": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 05:00:25 GMT",
-      "scrape_timestamp": "2026-11-17T13:58:59.863135+00:00",
-      "content": "President Alexander Stubb says Europe outsourcing negotiations to US was ‘irresponsible’",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -112,33 +90,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Nvidia’s interim CEO Colette Kress to make her debut at first earnings",
-      "link": "https://www.ft.com/content/424e5ab0-517e-4f8e-a286-df7c67fa05a6?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 05:00:14 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:00.463596+00:00",
-      "content": "Successor to founder Jensen Huang will have to ease investors’ anxiety about AI chipmaker’s future",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia creates committee to oversee compliance with US chip export controls",
       "link": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
       "published_date": "Tue, 17 Nov 2026 11:24:44 GMT",
       "scrape_timestamp": "2026-11-17T13:59:00.663766+00:00",
       "content": "Move comes as US chipmaker faces criticism in Washington over its ambition to increase revenues in China",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oligarch’s ex-wife to claim £600mn for ‘reasonable needs’ in London divorce case",
-      "link": "https://www.ft.com/content/969f0f82-7dd5-4d63-8f60-ee967028f744?syn-25a6b1a6=1",
-      "published_date": "Tue, 17 Nov 2026 05:00:15 GMT",
-      "scrape_timestamp": "2026-11-17T13:59:00.863949+00:00",
-      "content": "Britain’s biggest-ever divorce trial, involving Russian metals tycoon Vladimir Potanin, begins this week",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3475,11 +3431,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Singapore is no backdoor for US chips, PM says",
+      "link": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 03:46:42 GMT",
+      "scrape_timestamp": "2026-11-24T05:02:42.025921+00:00",
+      "content": "Lawrence Wong vows city-state will not let companies break law by circumventing export controls",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T04:03:27.026390+00:00",
+  "last_updated": "2026-11-24T05:03:01.610544+00:00",
   "metadata": {
-    "total_runs": 3265,
+    "total_runs": 3266,
     "sources": [
       "Financial Times"
     ],
