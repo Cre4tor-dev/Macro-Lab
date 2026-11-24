@@ -3618,11 +3618,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Huang says he still doesn’t believe in Nvidia succession planning",
+      "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 19:37:01 GMT",
+      "scrape_timestamp": "2026-11-24T20:02:40.203939+00:00",
+      "content": "Chief executive speaks to staff for first time after returning to chipmaker",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T19:02:48.735315+00:00",
+  "last_updated": "2026-11-24T20:03:00.039422+00:00",
   "metadata": {
-    "total_runs": 3280,
+    "total_runs": 3281,
     "sources": [
       "Financial Times"
     ],
