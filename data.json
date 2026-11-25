@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Russia’s Putin addresses global CEOs in China",
-      "link": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 03:23:17 GMT",
-      "scrape_timestamp": "2026-11-18T03:57:17.241711+00:00",
-      "content": "Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
       "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 05:00:26 GMT",
@@ -3618,11 +3607,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China launches first space mission with foreign astronaut",
+      "link": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 03:28:02 GMT",
+      "scrape_timestamp": "2026-11-25T04:03:14.459480+00:00",
+      "content": "Pakistani fighter pilot heads for week on Chinese space station in projection of Beijing’s outreach to Islamabad",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T03:03:23.639291+00:00",
+  "last_updated": "2026-11-25T04:03:30.265619+00:00",
   "metadata": {
-    "total_runs": 3288,
+    "total_runs": 3289,
     "sources": [
       "Financial Times"
     ],
