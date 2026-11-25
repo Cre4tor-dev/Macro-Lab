@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Deutsche Bank hired a Qatari royal. Why?",
-      "link": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 06:00:08 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:04.748901+00:00",
-      "content": "Leaked documents reveal how dealings with royal dynasty blurred traditional boundaries between investor, client and counterparty",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Xi greets Trump with hug ahead of historic summit with Putin",
       "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 10:05:52 GMT",
@@ -3563,11 +3552,187 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump shelves plans for business deals with Russia",
+      "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:12 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:50.306910+00:00",
+      "content": "US no longer sees economic co-operation as an incentive for Putin to end his full-scale invasion of Ukraine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
+      "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:50.507075+00:00",
+      "content": "Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms defeat",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "A French crisis would be a threat — and opportunity — for Europe",
+      "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b",
+      "published_date": "Wed, 25 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:50.707315+00:00",
+      "content": "A far-right victory could spark fiscal chaos, but it might end up strengthening the EU",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How an ex-McKinsey partner is using new money to chase old wealth",
+      "link": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:04 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:50.907508+00:00",
+      "content": "Backed by Abu Dhabi’s Mubadala Capital, Corient has bought 57 firms serving high-net-worth clients — and is on the hunt for more",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Europe must not accept ‘hybrid’ warfare as normal, defence chief warns",
+      "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:12 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:51.307845+00:00",
+      "content": "Comments follow surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China issues list of demands to Brussels over EU trade talks",
+      "link": "https://www.ft.com/content/b32f9488-aa02-47f8-bebf-a97805a076e4?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 06:00:02 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:52.548851+00:00",
+      "content": "Also in this newsletter: Serbia’s deafening absence in Brussels",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Anthropic has pulled up the ladder",
+      "link": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d",
+      "published_date": "Wed, 25 Nov 2026 06:00:02 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:52.749020+00:00",
+      "content": "By pushing its IPO to the limit, the Claude maker has made itself a hard act to follow",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Further tightening to come from the ECB to prevent inflation persistence",
+      "link": "https://www.ft.com/content/f805c4ef-be16-4c10-9d62-47a7c6675b5f",
+      "published_date": "Wed, 25 Nov 2026 05:30:02 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:53.149452+00:00",
+      "content": "Read the November scenario by the FT’s Monetary Policy Radar team",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "British drone developers hampered by outdated laws, industry warns",
+      "link": "https://www.ft.com/content/7693f1a2-58ec-46e0-b798-bcea394862c0?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:53.349753+00:00",
+      "content": "New trade body representing the sector says the government’s spending on the technology is falling behind allies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Eurozone capitals seek consolation prize for Knot to avoid ECB vote",
+      "link": "https://www.ft.com/content/d55a0dcf-ce3d-41e0-bdc9-6cb7267f6e1d?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:53.549925+00:00",
+      "content": "Leaders try to find alternative role for Dutch contender as they prepare to endorse his Spanish rival to head central bank",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
+      "link": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:53.750102+00:00",
+      "content": "Chief executive Andrea Rossi vows to vote against catering giant Compass’s planned US move as UK battles exodus of listed groups",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Elon Musk’s $3.5tn M&A endgame",
+      "link": "https://www.ft.com/content/bb527e98-eb07-4bb1-93e7-39cdbf5a59ff?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:54.350711+00:00",
+      "content": "SpaceX and Tesla have entrusted five directors with the fate of the largest merger of all time",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The new ‘awkward squad’: the union chiefs leaning on Burnham",
+      "link": "https://www.ft.com/content/dc67b2bb-4295-4bf0-94b6-d08b1e9876da?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:54.550883+00:00",
+      "content": "The prime minister leads the most pro-trade union administration in decades. For some of the movement’s leaders, it’s not enough",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Half of European industrial companies under serious financial stress",
+      "link": "https://www.ft.com/content/c0519775-12ce-4de1-9bff-419562c028df?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:54.751122+00:00",
+      "content": "The rising number of companies classified as stressed or distressed puts about 3.7mn jobs at risk, according to McKinsey",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brussels presses porn sites to introduce tougher age checks",
+      "link": "https://www.ft.com/content/049151e8-f97f-4d63-9a6e-5a6d1fcc9dd8?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:54.951314+00:00",
+      "content": "Adult websites seek to make deal with European Commission to minimise looming fines",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How 156,000 civil service pensions pushed Capita to the brink",
+      "link": "https://www.ft.com/content/faed5022-fed4-4f23-98be-e6a09b3c5820?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-25T06:04:55.151478+00:00",
+      "content": "Profit warning and emergency cash call have raised new questions about the future of the 42-year-old UK company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T05:03:10.364571+00:00",
+  "last_updated": "2026-11-25T06:05:08.810855+00:00",
   "metadata": {
-    "total_runs": 3290,
+    "total_runs": 3291,
     "sources": [
       "Financial Times"
     ],
