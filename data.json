@@ -134,28 +134,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Why giving 16-year-olds the vote is misguided",
-      "link": "https://www.ft.com/content/b039bdd4-8d01-48d4-bd40-c4dfd5ec2767",
-      "published_date": "Wed, 18 Nov 2026 15:14:01 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:44.281283+00:00",
-      "content": "The decision goes against the grain of raising the age of consent for everything from scratch cards to tanning booths",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "British energy price cap set to rise to over £2,000 in January",
-      "link": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 15:10:39 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:44.481423+00:00",
-      "content": "Lower levels of government support will see households paying more for energy in real terms than during Ukraine inflation shock",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic raises $81bn in record IPO",
       "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 22:04:50 GMT",
@@ -3728,11 +3706,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia fallout exposes China’s fragility on frontier AI",
+      "link": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+      "published_date": "Wed, 25 Nov 2026 16:00:04 GMT",
+      "scrape_timestamp": "2026-11-25T16:03:25.882577+00:00",
+      "content": "The lack of US-style capital markets and domestic commercial demand makes it difficult for Beijing to fuel innovation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Inside A7 — the Kremlin’s money laundering empire",
+      "link": "https://www.ft.com/content/d0f678b5-3daf-4b41-a3e9-b649011e5bca?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 15:57:29 GMT",
+      "scrape_timestamp": "2026-11-25T16:03:26.082782+00:00",
+      "content": "An FT investigation into how Moscow’s payments machine moves billions of dollars through crypto and western banks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US PCE inflation keeps Fed on course for more tightening",
+      "link": "https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d",
+      "published_date": "Wed, 25 Nov 2026 15:12:01 GMT",
+      "scrape_timestamp": "2026-11-25T16:03:26.283054+00:00",
+      "content": "Headline and core PCE slightly firmer than expected, setting Fed up for further tightening",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Northern Ireland minister urges UK to drop exemptions to EU food rules",
+      "link": "https://www.ft.com/content/ec8e1e74-9b36-4912-98de-95ca6cc45d08?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 15:10:15 GMT",
+      "scrape_timestamp": "2026-11-25T16:03:26.483272+00:00",
+      "content": "Andrew Muir calls for ‘full dynamic alignment’ with European regulations so Irish Sea trade border can be scrapped",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T15:03:27.074170+00:00",
+  "last_updated": "2026-11-25T16:03:43.788501+00:00",
   "metadata": {
-    "total_runs": 3300,
+    "total_runs": 3301,
     "sources": [
       "Financial Times"
     ],
