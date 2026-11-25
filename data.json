@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
-      "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 20:15:44 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:39.510308+00:00",
-      "content": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
-      "link": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 20:40:19 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:40.110756+00:00",
-      "content": "Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic raises $81bn in record IPO",
       "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 22:04:50 GMT",
@@ -3708,9 +3686,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T20:03:06.600249+00:00",
+  "last_updated": "2026-11-25T21:03:14.927660+00:00",
   "metadata": {
-    "total_runs": 3305,
+    "total_runs": 3306,
     "sources": [
       "Financial Times"
     ],
