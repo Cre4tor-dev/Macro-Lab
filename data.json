@@ -3673,11 +3673,66 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’",
+      "link": "https://www.ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 14:22:29 GMT",
+      "scrape_timestamp": "2026-11-25T15:03:07.724797+00:00",
+      "content": "State-backed group responds to growing angst about continent’s dependence on US technology",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Why do economists struggle to forecast the impact of AI?",
+      "link": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+      "published_date": "Wed, 25 Nov 2026 14:49:44 GMT",
+      "scrape_timestamp": "2026-11-25T15:03:08.690644+00:00",
+      "content": "Frontier labs and officials present wildly different predictions for growth in the next few years",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Weil’s collapse ushers in law-firm M&A by the back door",
+      "link": "https://www.ft.com/content/7359e027-cc1c-43da-a528-d0e55c556780?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 14:11:00 GMT",
+      "scrape_timestamp": "2026-11-25T15:03:09.691581+00:00",
+      "content": "The industry is entering a period of greater volatility, leaving lawyers to wrestle with a new, hedge fund-like culture",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Influential ‘sherpa’ who negotiated Burnham’s Brexit deal to step down",
+      "link": "https://www.ft.com/content/b8448886-e4e1-4961-97e8-055d1fa7916b?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 14:10:22 GMT",
+      "scrape_timestamp": "2026-11-25T15:03:09.891800+00:00",
+      "content": "Former Treasury official Michael Ellam will take up a new position at Oxford in a blow to Britain’s diplomatic push",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Fragrance makers fined more than €500mn over Unilever price-fixing cartel",
+      "link": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 14:06:54 GMT",
+      "scrape_timestamp": "2026-11-25T15:03:10.091971+00:00",
+      "content": "EU and UK impose penalties over illegal collusion affecting ingredients sold to British consumer goods group",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T14:03:23.022382+00:00",
+  "last_updated": "2026-11-25T15:03:27.074170+00:00",
   "metadata": {
-    "total_runs": 3299,
+    "total_runs": 3300,
     "sources": [
       "Financial Times"
     ],
