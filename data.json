@@ -13,17 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Democrats probe whether Lutnick helped Cantor avoid Nvidia losses",
-      "link": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 09:45:07 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:06.150421+00:00",
-      "content": "Lawmakers seek information on whether US commerce secretary’s decisions were influenced by family’s investment firm",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Wall Street set to open higher after Nvidia results reassure investors",
       "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 11:34:32 GMT",
@@ -117,50 +106,6 @@
       "published_date": "Wed, 18 Nov 2026 10:15:42 GMT",
       "scrape_timestamp": "2026-11-18T12:36:08.535051+00:00",
       "content": "Also in today’s newsletter: AI-based audit asks ‘better questions’ than accountants",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Space could be the first frontier for European defence mergers",
-      "link": "https://www.ft.com/content/8eab26fa-ca90-42b7-9158-7aa5368bc758?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 10:00:07 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:08.935478+00:00",
-      "content": "There is a logic to the pairing of Iceye and Avio",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russian petrol imports hit record as Ukraine strikes refineries",
-      "link": "https://www.ft.com/content/6ae074cc-bc09-4159-b59e-72d25ac2ac50?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 09:46:03 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:09.335890+00:00",
-      "content": "Shipments a ‘remarkable reversal’ from country’s traditional role as fuel exporter",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK oil producer quits ‘high-tax’ North Sea to focus on Asia",
-      "link": "https://www.ft.com/content/c102961c-de3c-4678-964f-23d591f04d10?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 09:35:17 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:09.736294+00:00",
-      "content": "EnQuest sells its UK oilfields to rival Neo Next+ in search of better returns",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The good, the bad and the kooky Neet ideas",
-      "link": "https://www.ft.com/content/8a00b88e-80db-482e-8f9e-705fe59f7b64?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 09:30:07 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:09.936492+00:00",
-      "content": "Labour appears keen to embrace policies on schools with little supporting evidence",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3763,9 +3708,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T09:03:20.867789+00:00",
+  "last_updated": "2026-11-25T10:03:28.918707+00:00",
   "metadata": {
-    "total_runs": 3294,
+    "total_runs": 3295,
     "sources": [
       "Financial Times"
     ],
