@@ -3607,11 +3607,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI powers double-digit jump in ‘authorised’ fraud",
+      "link": "https://www.ft.com/content/eb6f11e6-f16a-4a2c-92db-0e4731731018?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 00:01:10 GMT",
+      "scrape_timestamp": "2026-11-25T01:03:01.446357+00:00",
+      "content": "‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Contraceptive pill use plunges among young British women",
+      "link": "https://www.ft.com/content/48727f80-4ab3-4485-aa9b-07aabcf71f71?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 23:30:10 GMT",
+      "scrape_timestamp": "2026-11-25T01:03:01.846755+00:00",
+      "content": "Survey finds young females are less likely to use any contraception or to want children, while overall the nation is having less sex",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T00:07:19.584705+00:00",
+  "last_updated": "2026-11-25T01:03:16.868708+00:00",
   "metadata": {
-    "total_runs": 3285,
+    "total_runs": 3286,
     "sources": [
       "Financial Times"
     ],
