@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
-      "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 05:00:26 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:04.148201+00:00",
-      "content": "Group of lesser-known investors on track for bumper returns as AI group prepares to price its shares on Wednesday",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
       "link": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 07:56:06 GMT",
@@ -46,55 +35,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "The good and the bad of climate policy",
-      "link": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 05:00:16 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:04.949098+00:00",
-      "content": "Big challenges in mitigating what is to come are dwarfed by the costs of having to adapt to what currently lies ahead",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The best business books to read this year",
-      "link": "https://www.ft.com/content/0199a289-6f9d-4a9b-bbb8-dc738b3deb60?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 05:00:07 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:05.149295+00:00",
-      "content": "Andrew Hill selects his must-read titles",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Xi greets Trump with hug ahead of historic summit with Putin",
       "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 10:05:52 GMT",
       "scrape_timestamp": "2026-11-18T12:36:05.349490+00:00",
       "content": "US and Chinese leaders to meet Russian President Vladimir Putin to cap week of high-profile diplomacy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Democrats win Alaska Senate seat to complete midterms victory",
-      "link": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 04:59:01 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:05.749987+00:00",
-      "content": "Mary Peltola’s success in northernmost US state raises party’s tally to 56 in 100-member chamber",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
-      "link": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 05:00:07 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:05.950181+00:00",
-      "content": "Big Four firm used AI agents to review financial statements of a FTSE 250 company, but human intervention was needed",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3620,9 +3565,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T04:03:30.265619+00:00",
+  "last_updated": "2026-11-25T05:03:10.364571+00:00",
   "metadata": {
-    "total_runs": 3289,
+    "total_runs": 3290,
     "sources": [
       "Financial Times"
     ],
