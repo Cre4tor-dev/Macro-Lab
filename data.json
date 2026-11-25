@@ -35,39 +35,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Hybrid theory prevailed at the FT Alphaville Pub Quiz in New York City",
-      "link": "https://www.ft.com/content/877e946c-606c-4f8c-baa1-ea07b0f67e4c",
-      "published_date": "Wed, 18 Nov 2026 18:43:49 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:42.479892+00:00",
-      "content": "Meanwhile, Jane Street takes a tumble. How would you have fared?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "BAE set to cut more than 1,000 jobs",
-      "link": "https://www.ft.com/content/21e2a744-8e9d-4470-9978-f7d88c10c0fb?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 18:43:39 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:42.680069+00:00",
-      "content": "UK’s largest defence contractor responds to government demand for ‘greater speed and efficiency’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russian oligarch offers ex-wife 1% of her £2.2bn divorce demand",
-      "link": "https://www.ft.com/content/88e0019a-b49b-4c20-bef2-3f504b94e313?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 18:40:47 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:42.880204+00:00",
-      "content": "Vladimir Potanin accused of hiding some of his fortune as Britain’s biggest divorce trial opens in London",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic raises $81bn in record IPO",
       "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 22:04:50 GMT",
@@ -3717,11 +3684,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Billionaire financier Todd Boehly strikes deal for Lukoil assets",
+      "link": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 18:03:33 GMT",
+      "scrape_timestamp": "2026-11-25T19:01:59.589744+00:00",
+      "content": "Boehly’s Eldridge will swap Russia-listed shares in Lukoil and other businesses for the oil company’s international business",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The fund manager’s dilemma over AI",
+      "link": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 18:05:53 GMT",
+      "scrape_timestamp": "2026-11-25T19:02:01.140464+00:00",
+      "content": "Assessing concentration risks may be more complicated than it seems",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK inflation may peak at lower rate than BoE forecast, says governor",
+      "link": "https://www.ft.com/content/402e640b-8933-4b3c-bb4c-ce12a7994ac6?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 17:55:48 GMT",
+      "scrape_timestamp": "2026-11-25T19:02:01.340651+00:00",
+      "content": "But Andrew Bailey refuses to rule out another interest rate increase next month",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T18:03:20.240006+00:00",
+  "last_updated": "2026-11-25T19:02:19.104131+00:00",
   "metadata": {
-    "total_runs": 3303,
+    "total_runs": 3304,
     "sources": [
       "Financial Times"
     ],
