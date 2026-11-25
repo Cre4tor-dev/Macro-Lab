@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
-      "link": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 09:00:07 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:04.548685+00:00",
-      "content": "Concerns raised that hyperscalers are building up trillions of dollars in off-balance sheet commitments through contracts with other tech groups",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Xi greets Trump with hug ahead of historic summit with Putin",
       "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 10:05:52 GMT",
@@ -3739,11 +3728,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "North Korea closes Swiss diplomatic office in row over children’s camp",
+      "link": "https://www.ft.com/content/5b320dc9-ff58-4036-9f84-b4cb66cf9556",
+      "published_date": "Wed, 25 Nov 2026 08:27:12 GMT",
+      "scrape_timestamp": "2026-11-25T09:03:04.184938+00:00",
+      "content": "Sanctions on Songdowon International Children’s Camp were a ‘blatant hostile act’, says Pyongyang",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Heathrow seeks to pass on £300mn third runway planning costs to passengers",
+      "link": "https://www.ft.com/content/800abc68-933a-40f5-be6a-3e2f4a55ff88?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 08:12:51 GMT",
+      "scrape_timestamp": "2026-11-25T09:03:04.385141+00:00",
+      "content": "Airport wants permission from regulator to claw back money through higher traveller charges",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain’s schoolchildren need AI guidance",
+      "link": "https://www.ft.com/content/c94bb595-e83f-45c6-98d6-d09a3183c13b",
+      "published_date": "Wed, 25 Nov 2026 08:00:02 GMT",
+      "scrape_timestamp": "2026-11-25T09:03:04.585345+00:00",
+      "content": "Children’s protection charity sets out checklist for use of technology in UK, world’s third-largest AI market",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T08:03:51.482866+00:00",
+  "last_updated": "2026-11-25T09:03:20.867789+00:00",
   "metadata": {
-    "total_runs": 3293,
+    "total_runs": 3294,
     "sources": [
       "Financial Times"
     ],
