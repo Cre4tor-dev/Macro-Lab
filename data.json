@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Citi settles sex harassment case alleging threats to managing director",
-      "link": "https://www.ft.com/content/1e37b3de-6691-4edc-a3d3-e96eb73affed?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 19:52:21 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:40.511090+00:00",
-      "content": "Wall Street bank resolves lawsuit filed by former markets executive who accused it of fostering a culture of sexual abuse",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic raises $81bn in record IPO",
       "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 22:04:50 GMT",
@@ -3719,9 +3708,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T19:02:19.104131+00:00",
+  "last_updated": "2026-11-25T20:03:06.600249+00:00",
   "metadata": {
-    "total_runs": 3304,
+    "total_runs": 3305,
     "sources": [
       "Financial Times"
     ],
