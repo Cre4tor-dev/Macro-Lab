@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
-      "link": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 16:30:02 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:40.310944+00:00",
-      "content": "Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Citi settles sex harassment case alleging threats to managing director",
       "link": "https://www.ft.com/content/1e37b3de-6691-4edc-a3d3-e96eb73affed?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 19:52:21 GMT",
@@ -3750,11 +3739,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
+      "link": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 16:07:13 GMT",
+      "scrape_timestamp": "2026-11-25T17:02:35.817398+00:00",
+      "content": "Bureau of Economic Analysis said economy grew at annualised rate of 4.3% in third quarter, up from initial estimate of 3.4%",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "US Treasury financial crime watchdog hit by suspected cyber attack",
+      "link": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 16:43:56 GMT",
+      "scrape_timestamp": "2026-11-25T17:02:38.557616+00:00",
+      "content": "FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T16:03:43.788501+00:00",
+  "last_updated": "2026-11-25T17:02:57.370721+00:00",
   "metadata": {
-    "total_runs": 3301,
+    "total_runs": 3302,
     "sources": [
       "Financial Times"
     ],
