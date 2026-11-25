@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
-      "link": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 07:56:06 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:04.348422+00:00",
-      "content": "Japanese tech group had already started to put money into arch-rival OpenAI",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
       "link": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 09:00:07 GMT",
@@ -3728,11 +3717,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "British household energy bills to soar 26% from January",
+      "link": "https://www.ft.com/content/e9dea6f2-dcf8-4ec5-96ec-0415694bf897?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 07:58:42 GMT",
+      "scrape_timestamp": "2026-11-25T08:03:34.610186+00:00",
+      "content": "Energy regulator Ofgem says new three-month price cap reflects surge in wholesale cost of gas",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "India as AI play",
+      "link": "https://www.ft.com/content/f3e59769-6b74-4dfc-913a-985286847ff0?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 06:30:02 GMT",
+      "scrape_timestamp": "2026-11-25T08:03:34.810322+00:00",
+      "content": "The downsides are overstated, the upside overlooked",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T07:03:38.404366+00:00",
+  "last_updated": "2026-11-25T08:03:51.482866+00:00",
   "metadata": {
-    "total_runs": 3292,
+    "total_runs": 3293,
     "sources": [
       "Financial Times"
     ],
