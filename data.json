@@ -2,44 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Nvidia has a chance to trade drama for durability",
-      "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 02:56:15 GMT",
-      "scrape_timestamp": "2026-11-18T03:57:15.840391+00:00",
-      "content": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
-      "link": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 02:17:18 GMT",
-      "scrape_timestamp": "2026-11-18T03:57:16.240739+00:00",
-      "content": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Russia’s Putin addresses global CEOs in China",
       "link": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 03:23:17 GMT",
       "scrape_timestamp": "2026-11-18T03:57:17.241711+00:00",
       "content": "Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
-      "link": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 02:19:18 GMT",
-      "scrape_timestamp": "2026-11-18T03:57:17.441895+00:00",
-      "content": "Companies told to update systems running on programming language widely used by corporate sector, banks and government agencies",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3640,11 +3607,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Will the Nvidia fallout kill off Asia’s data centre boom?",
+      "link": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 02:04:15 GMT",
+      "scrape_timestamp": "2026-11-25T03:03:05.573660+00:00",
+      "content": "Projects that touted chip access to Chinese customers face tighter US scrutiny",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T02:04:06.259455+00:00",
+  "last_updated": "2026-11-25T03:03:23.639291+00:00",
   "metadata": {
-    "total_runs": 3287,
+    "total_runs": 3288,
     "sources": [
       "Financial Times"
     ],
