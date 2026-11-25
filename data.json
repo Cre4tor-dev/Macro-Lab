@@ -2,39 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Behind the investigation: Ask a question",
-      "link": "https://www.ft.com/deutsche-q&a?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 12:14:04 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:07.133520+00:00",
-      "content": "How did our journalists uncover the story? Join us for a special live Q&amp;A today at 1pm GMT",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Inflation and interest rates tracker: see how your country compares",
-      "link": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 12:11:33 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:07.333713+00:00",
-      "content": "Explore the latest data through interactive charts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US tech outages blamed on rush to fix bugs found by AI",
-      "link": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 12:44:53 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:38.909823+00:00",
-      "content": "Experts say race to patch software flaws probably created instability in computer systems at Microsoft, JPMorgan and others",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
       "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 20:15:44 GMT",
@@ -3662,11 +3629,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia is escalating conflict in Europe and space, warns Merz",
+      "link": "https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 11:56:23 GMT",
+      "scrape_timestamp": "2026-11-25T13:02:45.762152+00:00",
+      "content": "German chancellor seeks to convince increasingly sceptical population to maintain support for Ukraine",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "South Africa’s Ramaphosa wins battle to halt impeachment push",
+      "link": "https://www.ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 12:50:10 GMT",
+      "scrape_timestamp": "2026-11-25T13:02:47.050305+00:00",
+      "content": "Court ruling stops inquiry into long-running stolen cash scandal involving president",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Where did Vermeer find his hat? Artist Kent Monkman hunts for an answer",
+      "link": "https://www.ft.com/content/84bc3238-c48b-4007-8ca4-48c95a7a70bf",
+      "published_date": "Wed, 25 Nov 2026 12:00:04 GMT",
+      "scrape_timestamp": "2026-11-25T13:02:47.250427+00:00",
+      "content": "The First Nations artist has made a mischievous suite of paintings in response to the Dutch master — riffing on the violent trade networks that underpinned his scenes",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T12:03:57.905868+00:00",
+  "last_updated": "2026-11-25T13:03:05.327167+00:00",
   "metadata": {
-    "total_runs": 3297,
+    "total_runs": 3298,
     "sources": [
       "Financial Times"
     ],

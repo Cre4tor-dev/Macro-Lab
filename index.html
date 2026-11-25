@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macro Lab — 2026-11-25 12:03 UTC</title>
+  <title>Macro Lab — 2026-11-25 13:03 UTC</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     :root {
@@ -130,15 +130,15 @@
   <button class="btn on" id="viewBtn" onclick="setView('top')">Top 20</button>
   <button class="btn" id="viewAllBtn" onclick="setView('all')">Historique 7j</button>
   <button class="btn" id="compactBtn" onclick="toggleCompact()">⊞ Compact</button>
-  <div class="header-meta">Mis à jour: 2026-11-25 12:03 UTC<br>Seuil alerte: 5.0 · 78 alertes</div>
+  <div class="header-meta">Mis à jour: 2026-11-25 13:03 UTC<br>Seuil alerte: 5.0 · 77 alertes</div>
 </header>
 
 <main>
   <div class="dashboard">
     <div class="stat-card"><div class="stat-label">Articles 7j</div><div class="stat-value">333</div></div>
     <div class="stat-card"><div class="stat-label">Top sélectionnés</div><div class="stat-value">20</div></div>
-    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">78</div></div>
-    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">2.7</div></div>
+    <div class="stat-card"><div class="stat-label">Alertes critiques</div><div class="stat-value" style="color:var(--alert)">77</div></div>
+    <div class="stat-card"><div class="stat-label">Score moyen</div><div class="stat-value">2.8</div></div>
     <div class="stat-card"><div class="stat-label">Seuil alerte</div><div class="stat-value">5.0</div></div>
   </div>
 
@@ -204,6 +204,20 @@
     <span class="kw-hint">🔑 war, military, ukraine, russia</span>
   </div>
 </article>
+<article class="card card-alert" data-score="19.99" data-date="2026-11-25" data-themes="war_conflict" data-text="russia is escalating conflict in europe and space, warns merz german chancellor seeks to convince increasingly sceptical population to maintain support for ukraine">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 19.99 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, conflict, ukraine, russia">20.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1" target="_blank" rel="noopener">Russia is escalating conflict in Europe and space, warns Merz</a></h3>
+  <p class="preview card-detail">German chancellor seeks to convince increasingly sceptical population to maintain support for Ukraine</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-25">Wed, 25 Nov 2026 11:56:23</time>
+    <span class="kw-hint">🔑 war, conflict, ukraine, russia</span>
+  </div>
+</article>
 <article class="card card-alert" data-score="16.90" data-date="2026-11-25" data-themes="war_conflict,geopolitical_shock" data-text="trump shelves plans for business deals with russia us no longer sees economic co-operation as an incentive for putin to end his full-scale invasion of ukraine">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -218,7 +232,7 @@
     <span class="kw-hint">🔑 invasion, ukraine, russia</span>
   </div>
 </article>
-<article class="card card-alert" data-score="16.49" data-date="2026-11-21" data-themes="war_conflict" data-text="russia and ukraine’s drone war sends optical fibre prices soaring kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity">
+<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="16.49" data-date="2026-11-21" data-themes="war_conflict" data-text="russia and ukraine’s drone war sends optical fibre prices soaring kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
     <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 16.49 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war, ukraine, russia">16.5 <sup>ℹ</sup></span>
@@ -231,7 +245,7 @@
     <time datetime="2026-11-21">Sat, 21 Nov 2026 05:00:08</time>
     <span class="kw-hint">🔑 war, ukraine, russia</span>
   </div>
-</article>
+</article></div></div>
 <div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="15.80" data-date="2026-11-20" data-themes="war_conflict" data-text="trump considering new iran strikes as us military warns of strain on forces officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -455,20 +469,6 @@
     <time datetime="2026-11-19">Thu, 19 Nov 2026 18:40:23</time>
     <span class="kw-hint">🔑 war, china</span>
   </div>
-</article></div></div>
-<div class="blurred-wrapper" onclick="showPaywall()"><div class="blurred-inner"><article class="card card-alert" data-score="10.58" data-date="2026-11-24" data-themes="recession" data-text="argentina expected to suffer technical recession in blow to milei president’s crusade against inflation weighs down economy as he prepares to mount re-election bid next year">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 10.58 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: inflation, recession">10.6 <sup>ℹ</sup></span>
-    <span class="theme-tag">📉 Recession</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/7ad64c80-64d2-4516-9400-1fbad546b0fe?syn-25a6b1a6=1" target="_blank" rel="noopener">Argentina expected to suffer technical recession in blow to Milei</a></h3>
-  <p class="preview card-detail">President’s crusade against inflation weighs down economy as he prepares to mount re-election bid next year</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-24">Tue, 24 Nov 2026 20:54:16</time>
-    <span class="kw-hint">🔑 inflation, recession</span>
-  </div>
 </article></div></div></div>
   </div>
 
@@ -486,6 +486,20 @@
   <div class="card-footer card-detail">
     <time datetime="2026-11-24">Tue, 24 Nov 2026 14:30:21</time>
     <span class="kw-hint">🔑 war, military, ukraine, russia</span>
+  </div>
+</article>
+<article class="card card-alert" data-score="19.99" data-date="2026-11-25" data-themes="war_conflict" data-text="russia is escalating conflict in europe and space, warns merz german chancellor seeks to convince increasingly sceptical population to maintain support for ukraine">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 19.99 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: war, conflict, ukraine, russia">20.0 <sup>ℹ</sup></span>
+    <span class="theme-tag">⚔️ War/Conflict</span>
+    <span class="alert-badge">🚨 ALERT</span>
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1" target="_blank" rel="noopener">Russia is escalating conflict in Europe and space, warns Merz</a></h3>
+  <p class="preview card-detail">German chancellor seeks to convince increasingly sceptical population to maintain support for Ukraine</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-25">Wed, 25 Nov 2026 11:56:23</time>
+    <span class="kw-hint">🔑 war, conflict, ukraine, russia</span>
   </div>
 </article>
 <article class="card card-alert" data-score="16.90" data-date="2026-11-25" data-themes="war_conflict,geopolitical_shock" data-text="trump shelves plans for business deals with russia us no longer sees economic co-operation as an incentive for putin to end his full-scale invasion of ukraine">
@@ -1146,20 +1160,6 @@
     <span class="kw-hint">🔑 federal reserve, fed</span>
   </div>
 </article>
-<article class="card card-alert" data-score="7.15" data-date="2026-11-18" data-themes="" data-text="inflation and interest rates tracker: see how your country compares explore the latest data through interactive charts">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.15 | Seuil: 5.0 | Sentiment: Negative| Mots-cles: interest rate, inflation">7.2 <sup>ℹ</sup></span>
-    
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1" target="_blank" rel="noopener">Inflation and interest rates tracker: see how your country compares</a></h3>
-  <p class="preview card-detail">Explore the latest data through interactive charts</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-18">Wed, 18 Nov 2026 12:11:33</time>
-    <span class="kw-hint">🔑 interest rate, inflation</span>
-  </div>
-</article>
 <article class="card card-alert" data-score="7.12" data-date="2026-11-18" data-themes="" data-text="russian accused of spying on palantir over assistance to ukraine prosecutors say suspect entered us from mexico and stalked employees at silicon valley tech group">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -1213,20 +1213,6 @@
   <p class="preview card-detail">In the Danish capital, the focus is shifting towards seasonal ferments and functional brews that mirror the country’s experimental, produce-driven cuisine</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-23">Mon, 23 Nov 2026 05:00:04</time>
-    <span class="kw-hint">🔑 war</span>
-  </div>
-</article>
-<article class="card card-alert" data-score="7.01" data-date="2026-11-18" data-themes="war_conflict" data-text="us tech outages blamed on rush to fix bugs found by ai experts say race to patch software flaws probably created instability in computer systems at microsoft, jpmorgan and others">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 7.01 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: war">7.0 <sup>ℹ</sup></span>
-    <span class="theme-tag">⚔️ War/Conflict</span>
-    <span class="alert-badge">🚨 ALERT</span>
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1" target="_blank" rel="noopener">US tech outages blamed on rush to fix bugs found by AI</a></h3>
-  <p class="preview card-detail">Experts say race to patch software flaws probably created instability in computer systems at Microsoft, JPMorgan and others</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-18">Wed, 18 Nov 2026 12:44:53</time>
     <span class="kw-hint">🔑 war</span>
   </div>
 </article>
@@ -3092,6 +3078,20 @@
     
   </div>
 </article>
+<article class="card" data-score="0.82" data-date="2026-11-25" data-themes="" data-text="south africa’s ramaphosa wins battle to halt impeachment push court ruling stops inquiry into long-running stolen cash scandal involving president">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.82 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.8 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1" target="_blank" rel="noopener">South Africa’s Ramaphosa wins battle to halt impeachment push</a></h3>
+  <p class="preview card-detail">Court ruling stops inquiry into long-running stolen cash scandal involving president</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-25">Wed, 25 Nov 2026 12:50:10</time>
+    
+  </div>
+</article>
 <article class="card" data-score="0.80" data-date="2026-11-19" data-themes="" data-text="law firms that caved to trump brace for scrutiny from new congress firms are hiring outside lawyers as democrats probe deals they struck with the president">
   <div class="card-header">
     <span class="source-badge">Financial Times</span>
@@ -3621,20 +3621,6 @@
   <p class="preview card-detail">Move marks second time in two years that the world’s top producer of the metal has cut off supply to try to gain leverage over market</p>
   <div class="card-footer card-detail">
     <time datetime="2026-11-23">Mon, 23 Nov 2026 16:13:19</time>
-    
-  </div>
-</article>
-<article class="card" data-score="0.00" data-date="2026-11-18" data-themes="" data-text="behind the investigation: ask a question how did our journalists uncover the story? join us for a special live q&amp;a today at 1pm gmt">
-  <div class="card-header">
-    <span class="source-badge">Financial Times</span>
-    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
-    
-    
-  </div>
-  <h3 class="card-title"><a href="https://www.ft.com/deutsche-q&a?syn-25a6b1a6=1" target="_blank" rel="noopener">Behind the investigation: Ask a question</a></h3>
-  <p class="preview card-detail">How did our journalists uncover the story? Join us for a special live Q&amp;A today at 1pm GMT</p>
-  <div class="card-footer card-detail">
-    <time datetime="2026-11-18">Wed, 18 Nov 2026 12:14:04</time>
     
   </div>
 </article>
@@ -5135,6 +5121,20 @@
     <time datetime="2026-11-25">Wed, 25 Nov 2026 09:30:03</time>
     
   </div>
+</article>
+<article class="card" data-score="0.00" data-date="2026-11-25" data-themes="" data-text="where did vermeer find his hat? artist kent monkman hunts for an answer the first nations artist has made a mischievous suite of paintings in response to the dutch master — riffing on the violent trade networks that underpinned his scenes">
+  <div class="card-header">
+    <span class="source-badge">Financial Times</span>
+    <span class="score-pill" style="background:color-mix(in srgb,#8b949e 18%,transparent);color:#8b949e;border-color:color-mix(in srgb,#8b949e 35%,transparent)" title="Score: 0.00 | Seuil: 5.0 | Sentiment: Neutral| Mots-cles: —">0.0 <sup>ℹ</sup></span>
+    
+    
+  </div>
+  <h3 class="card-title"><a href="https://www.ft.com/content/84bc3238-c48b-4007-8ca4-48c95a7a70bf" target="_blank" rel="noopener">Where did Vermeer find his hat? Artist Kent Monkman hunts for an answer</a></h3>
+  <p class="preview card-detail">The First Nations artist has made a mischievous suite of paintings in response to the Dutch master — riffing on the violent trade networks that underpinned his scenes</p>
+  <div class="card-footer card-detail">
+    <time datetime="2026-11-25">Wed, 25 Nov 2026 12:00:04</time>
+    
+  </div>
 </article></div>
   </div>
 </main>
@@ -5249,7 +5249,7 @@ new Chart(document.getElementById('chartDays'), {
   data: {
     labels: ["11-19", "11-20", "11-21", "11-22", "11-23", "11-24", "11-25"],
     datasets: [{
-      data: [47, 50, 30, 35, 60, 59, 29],
+      data: [47, 50, 30, 35, 60, 59, 32],
       backgroundColor: 'rgba(88,166,255,0.45)',
       borderColor: '#58a6ff',
       borderWidth: 1,
