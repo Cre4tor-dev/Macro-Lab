@@ -3629,11 +3629,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Asian markets lose ground as AI fears return",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 01:41:03 GMT",
+      "scrape_timestamp": "2026-11-25T02:03:48.565564+00:00",
+      "content": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T01:03:16.868708+00:00",
+  "last_updated": "2026-11-25T02:04:06.259455+00:00",
   "metadata": {
-    "total_runs": 3286,
+    "total_runs": 3287,
     "sources": [
       "Financial Times"
     ],
