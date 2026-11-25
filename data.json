@@ -13,17 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "The only way out of populism is through it",
-      "link": "https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 13:04:25 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:39.710444+00:00",
-      "content": "The lesson of Britain and America is that bad ideas have to be tested to destruction",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
       "link": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 20:40:19 GMT",
@@ -304,17 +293,6 @@
       "published_date": "Thu, 19 Nov 2026 05:00:11 GMT",
       "scrape_timestamp": "2026-11-19T10:55:46.291477+00:00",
       "content": "German lender did not publicly disclose scandal or findings of damning internal probe codenamed Project Aetos",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "A Russian oligarch and the suspect money that flowed through Deutsche Bank",
-      "link": "https://www.ft.com/content/5789cfd1-1041-454f-b450-ae2015d7c6ff?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 14:00:06 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:46.491690+00:00",
-      "content": "Lender discovered a suspected laundromat centred on a Hungarian bank with ties to Viktor Orbán",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3662,11 +3640,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Turkish leader Erdoğan’s biggest rival barred from running for president",
+      "link": "https://www.ft.com/content/88740333-b683-4f86-8dd2-65bf9d231ff9?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 13:47:22 GMT",
+      "scrape_timestamp": "2026-11-25T14:03:04.286767+00:00",
+      "content": "Invalidation of opposition leader Ekrem İmamoğlu’s university degree comes as $20bn Fonzi scandal ensnares more senior government officials",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "NBA rallies private equity for €10bn European arena fund",
+      "link": "https://www.ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 13:00:04 GMT",
+      "scrape_timestamp": "2026-11-25T14:03:04.486888+00:00",
+      "content": "Basketball league wants to help teams finance new arenas as part of its effort to launch a European competition",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "No, Burnham is not taking a risk over Europe",
+      "link": "https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 12:51:38 GMT",
+      "scrape_timestamp": "2026-11-25T14:03:04.686991+00:00",
+      "content": "As long as he stops short of full Rejoin, all the political danger is on the side of his opponents",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T13:03:05.327167+00:00",
+  "last_updated": "2026-11-25T14:03:23.022382+00:00",
   "metadata": {
-    "total_runs": 3298,
+    "total_runs": 3299,
     "sources": [
       "Financial Times"
     ],
