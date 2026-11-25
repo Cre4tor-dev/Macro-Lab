@@ -46,17 +46,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Russian accused of spying on Palantir over assistance to Ukraine",
-      "link": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 21:44:59 GMT",
-      "scrape_timestamp": "2026-11-19T02:21:11.293794+00:00",
-      "content": "Prosecutors say suspect entered US from Mexico and stalked employees at Silicon Valley tech group",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US and Venezuela to expand military co-operation to target drug trafficking",
       "link": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 23:22:04 GMT",
@@ -3686,9 +3675,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T21:03:14.927660+00:00",
+  "last_updated": "2026-11-25T22:02:55.486943+00:00",
   "metadata": {
-    "total_runs": 3306,
+    "total_runs": 3307,
     "sources": [
       "Financial Times"
     ],
