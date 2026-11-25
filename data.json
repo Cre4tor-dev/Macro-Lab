@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Anthropic raises $81bn in record IPO",
-      "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 22:04:50 GMT",
-      "scrape_timestamp": "2026-11-19T02:21:09.291713+00:00",
-      "content": "AI giant’s enlarged deal will surpass SpaceX to become world’s biggest public listing",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump, Xi and Putin to hold high-stakes trilateral summit",
       "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
       "published_date": "Thu, 19 Nov 2026 01:31:05 GMT",
@@ -3673,11 +3662,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Beige Book confirms hot US economy and signs of wage pressure building",
+      "link": "https://www.ft.com/content/fb4f6707-274e-4f93-bcfb-7cce28d4a4ea",
+      "published_date": "Wed, 25 Nov 2026 22:17:53 GMT",
+      "scrape_timestamp": "2026-11-25T23:02:41.586690+00:00",
+      "content": "The report will help cement the coming December Federal Reserve interest rate rise",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T22:02:55.486943+00:00",
+  "last_updated": "2026-11-25T23:02:59.181445+00:00",
   "metadata": {
-    "total_runs": 3307,
+    "total_runs": 3308,
     "sources": [
       "Financial Times"
     ],
