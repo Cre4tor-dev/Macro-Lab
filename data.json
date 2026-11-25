@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Xi greets Trump with hug ahead of historic summit with Putin",
-      "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 10:05:52 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:05.349490+00:00",
-      "content": "US and Chinese leaders to meet Russian President Vladimir Putin to cap week of high-profile diplomacy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Wall Street set to open higher after Nvidia results reassure investors",
       "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 11:34:32 GMT",
@@ -51,61 +40,6 @@
       "published_date": "Wed, 18 Nov 2026 11:52:06 GMT",
       "scrape_timestamp": "2026-11-18T12:36:07.533893+00:00",
       "content": "Move in draft communiqué reduces chance Britain will be able to access subsidies and contracts under ‘made in Europe’ rules",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "A young country rejects its old politicians",
-      "link": "https://www.ft.com/content/126e72a1-cde1-4f21-8494-6db7f8a1cb0a?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 11:00:05 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:07.734150+00:00",
-      "content": "Restive young Nigerians shun a political system spearheaded by the elderly",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "GM seeks to double defence revenue",
-      "link": "https://www.ft.com/content/b36bf99b-e7b9-4591-aedb-5aa2b82bdf37?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 11:00:05 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:07.934375+00:00",
-      "content": "Carmakers move to diversify businesses as global defence contractors turn to automotive technology to accelerate weapons production",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Floodgates open for unproven wellness drugs after US lifts peptide curbs",
-      "link": "https://www.ft.com/content/47973475-36b8-4e46-8f2d-0c04de23b6db?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 11:00:05 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:08.134656+00:00",
-      "content": "Telehealth and beauty groups race to cash in on booming demand for unproven anti-ageing and sexual enhancement treatments",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Helsing scales back Plymouth factory after losing out on British navy contract",
-      "link": "https://www.ft.com/content/1138e74b-c384-42ba-9edd-c17c8beb4546?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 10:28:51 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:08.334847+00:00",
-      "content": "Decision comes amid frustration among start-ups at slow pace of UK defence contracts",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: Anthropic IPO set to redraw venture capital’s power rankings",
-      "link": "https://www.ft.com/content/c9edda0a-b10b-4dd6-b598-1cdf98e4337b?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 10:15:42 GMT",
-      "scrape_timestamp": "2026-11-18T12:36:08.535051+00:00",
-      "content": "Also in today’s newsletter: AI-based audit asks ‘better questions’ than accountants",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3706,11 +3640,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "An $87bn debt gamble tests the limits of the Ellison family fortune",
+      "link": "https://www.ft.com/content/f269760e-e9e4-4bf9-b88b-a5daaa5b5b52?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 11:00:04 GMT",
+      "scrape_timestamp": "2026-11-25T11:02:58.704384+00:00",
+      "content": "The tech billionaire dynasty’s Hollywood ambitions have rattled credit markets and set the stage for thousands of lay-offs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Timms review takes aim at state’s weaponised incompetence",
+      "link": "https://www.ft.com/content/e3b9cc16-25b1-46a0-b64b-19f511f3979b?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 09:30:03 GMT",
+      "scrape_timestamp": "2026-11-25T11:02:59.104670+00:00",
+      "content": "Fast-tracked Pip assessments and fewer reviews will target difficult processes state uses to control costs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nationwide launches 99% mortgage for first-time buyers",
+      "link": "https://www.ft.com/content/f1041850-1ba9-443a-8d9e-76c4c3d1bec9?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 09:30:03 GMT",
+      "scrape_timestamp": "2026-11-25T11:02:59.304810+00:00",
+      "content": "Aspiring property owners can borrow up to six times their income.",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T10:03:28.918707+00:00",
+  "last_updated": "2026-11-25T11:03:15.420540+00:00",
   "metadata": {
-    "total_runs": 3295,
+    "total_runs": 3296,
     "sources": [
       "Financial Times"
     ],
