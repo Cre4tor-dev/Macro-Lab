@@ -46,28 +46,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Climate adviser urges UK government to ‘stand firm’ on electric vehicle targets",
-      "link": "https://www.ft.com/content/52c034e5-ec65-4aa1-b693-77705c57ec23?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 00:01:04 GMT",
-      "scrape_timestamp": "2026-11-18T03:57:19.191501+00:00",
-      "content": "Climate Change Committee chair warns that watering down the ZEV mandate would put Britain’s green targets at risk and drive up costs for motorists",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "AI might be a reason why the yen is back on intervention watch",
-      "link": "https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 00:01:04 GMT",
-      "scrape_timestamp": "2026-11-18T03:57:19.391693+00:00",
-      "content": "Surge in buying of Japanese stocks creates a demand for currency hedging",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Low-profile VCs set for $100bn windfall from Anthropic IPO",
       "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 05:00:26 GMT",
@@ -3618,11 +3596,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Shein to pay $100mn to resolve US  allegations it deceived customers",
+      "link": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
+      "published_date": "Tue, 24 Nov 2026 23:48:33 GMT",
+      "scrape_timestamp": "2026-11-25T00:07:03.283118+00:00",
+      "content": "Federal Trade Commission claims cotton that the retailer’s suppliers said was US-grown was harvested in China.",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-24T23:02:47.239456+00:00",
+  "last_updated": "2026-11-25T00:07:19.584705+00:00",
   "metadata": {
-    "total_runs": 3284,
+    "total_runs": 3285,
     "sources": [
       "Financial Times"
     ],
