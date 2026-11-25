@@ -68,61 +68,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Putin’s delusions of a ‘new Yalta’",
-      "link": "https://www.ft.com/content/e4198781-9e89-4195-b20e-c21b1dd6aaf1?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 17:50:09 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:43.080358+00:00",
-      "content": "Russia’s leader cannot be rewarded for aggression with another carve-up of Europe",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Israeli attorney-general freezes key West Bank settlement project",
-      "link": "https://www.ft.com/content/22b7656c-5cce-4711-b3d9-e1939a68bb56?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 17:28:53 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:43.280505+00:00",
-      "content": "E1 scheme, seen as barrier to viable Palestinian state, is halted until new government sworn in",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The economics of the Milburn report",
-      "link": "https://www.ft.com/content/42fff936-c901-4d5e-974d-21ba400e7ab9?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 17:14:35 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:43.480643+00:00",
-      "content": "Labour is gambling that the state will succeed where money failed",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK inflation rose to one-year high of 3.6% in October",
-      "link": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 17:12:58 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:43.680794+00:00",
-      "content": "Figure underscores pressure on Bank of England to raise interest rates further",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Democrats nominate Hakeem Jeffries as US House Speaker",
-      "link": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 17:05:39 GMT",
-      "scrape_timestamp": "2026-11-18T20:59:43.880939+00:00",
-      "content": "56-year-old on track to become first Black lawmaker to lead lower chamber of Congress",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic raises $81bn in record IPO",
       "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
       "published_date": "Wed, 18 Nov 2026 22:04:50 GMT",
@@ -3761,11 +3706,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The secretive Iranian cyber unit behind Europe’s freezer hacks",
+      "link": "https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 05:00:12 GMT",
+      "scrape_timestamp": "2026-11-25T18:03:00.148026+00:00",
+      "content": "Revolutionary Guard entity known as Shahid Kaveh was also behind a wave of attacks on US industrial control devices in 2024",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T17:02:57.370721+00:00",
+  "last_updated": "2026-11-25T18:03:20.240006+00:00",
   "metadata": {
-    "total_runs": 3302,
+    "total_runs": 3303,
     "sources": [
       "Financial Times"
     ],
