@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Trump, Xi and Putin to hold high-stakes trilateral summit",
-      "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
-      "published_date": "Thu, 19 Nov 2026 01:31:05 GMT",
-      "scrape_timestamp": "2026-11-19T02:21:09.892215+00:00",
-      "content": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "AI advances at Anthropic trigger new safety fears on eve of IPO",
       "link": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 05:00:17 GMT",
@@ -3662,11 +3651,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Stocks advance in Asia after volatile US trading over AI risks",
+      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
+      "published_date": "Thu, 26 Nov 2026 00:57:14 GMT",
+      "scrape_timestamp": "2026-11-26T02:03:38.466298+00:00",
+      "content": "Tech shares decline this month over fears over whether an AI boom can be sustained",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK university ‘grade inflation’ highest in degrees with more coursework, says study",
+      "link": "https://www.ft.com/content/c6b0e13f-9c87-4e8b-8847-8553162d2435?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 00:01:07 GMT",
+      "scrape_timestamp": "2026-11-26T02:03:41.009582+00:00",
+      "content": "Subjects where final marks rest on exam grades recorded minimal change, according to the Higher Education Policy Institute",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T01:03:22.650425+00:00",
+  "last_updated": "2026-11-26T02:03:57.472667+00:00",
   "metadata": {
-    "total_runs": 3310,
+    "total_runs": 3311,
     "sources": [
       "Financial Times"
     ],
