@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
-      "link": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 10:46:35 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:47.261524+00:00",
-      "content": "Also in today’s newsletter: Trump-Xi-Putin trilateral",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "TSMC and Samsung suspend some chip shipments to Chinese customers",
-      "link": "https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 10:21:27 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:47.461698+00:00",
-      "content": "Halt comes after US commerce department introduces new export controls",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic soars in Wall Street debut",
       "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 16:19:06 GMT",
@@ -3783,11 +3761,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Franco-German clash over ‘Made in Europe’ in EU defence budget",
+      "link": "https://www.ft.com/content/c9e569cd-d9c7-43ea-877e-7fa6d1e91ea7?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 10:11:49 GMT",
+      "scrape_timestamp": "2026-11-26T11:02:40.253228+00:00",
+      "content": "Berlin leads pushback against French demands for European preference in buying military equipment",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK net migration falls by more than half to 77,000",
+      "link": "https://www.ft.com/content/3f5ea9f4-064c-4547-9cf2-1140516c8002?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 09:39:47 GMT",
+      "scrape_timestamp": "2026-11-26T11:02:40.453400+00:00",
+      "content": "Drop during the 12 months to June follows the introduction of stricter rules for workers, students and refugees",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Chicken nuggets’ meme ensnares both Burnham and Badenoch",
+      "link": "https://www.ft.com/content/bddce920-71a7-40b5-9c03-e01a4102a341?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 09:30:00 GMT",
+      "scrape_timestamp": "2026-11-26T11:02:40.653580+00:00",
+      "content": "Row over influencer’s video has exposed both leaders’ inability to handle online misinformation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T10:03:15.251646+00:00",
+  "last_updated": "2026-11-26T11:02:59.066953+00:00",
   "metadata": {
-    "total_runs": 3319,
+    "total_runs": 3320,
     "sources": [
       "Financial Times"
     ],
