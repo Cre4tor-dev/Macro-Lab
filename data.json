@@ -79,17 +79,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Japan Tobacco takes $8.6bn loss after Putin orders seizure of Russian business",
-      "link": "https://www.ft.com/content/3e06e2c6-f065-4cba-b453-b07378a259f1?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 08:08:52 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:48.662775+00:00",
-      "content": "Relations deteriorated between Moscow and Tokyo after visit to disputed Kuril Islands",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic soars in Wall Street debut",
       "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 16:19:06 GMT",
@@ -3794,11 +3783,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Global stocks steady after volatile US trading over AI risks",
+      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 08:31:48 GMT",
+      "scrape_timestamp": "2026-11-26T09:03:11.212181+00:00",
+      "content": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China made Shenzhen a showcase for tech prowess at Apec summit",
+      "link": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 08:27:59 GMT",
+      "scrape_timestamp": "2026-11-26T09:03:12.447044+00:00",
+      "content": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tata Trusts launch first legal salvo in boardroom battle",
+      "link": "https://www.ft.com/content/722ecb81-51cc-4897-baa9-cb80c4d2fe4a?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 08:16:36 GMT",
+      "scrape_timestamp": "2026-11-26T09:03:12.647221+00:00",
+      "content": "Charitable bodies controlling Tata Sons file court challenge against N Chandrasekaran’s reappointment as chair",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T08:03:41.105733+00:00",
+  "last_updated": "2026-11-26T09:03:29.740214+00:00",
   "metadata": {
-    "total_runs": 3317,
+    "total_runs": 3318,
     "sources": [
       "Financial Times"
     ],
