@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Xi, Trump and Putin hail ‘groundbreaking’ meeting",
-      "link": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 13:00:44 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:09.781860+00:00",
-      "content": "The world’s three largest nuclear powers agree to talks on preventing proliferation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Putin invites European leaders to Moscow",
       "link": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 18:53:08 GMT",
@@ -3816,11 +3805,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Minotaur is a breathtaking portrait of wealthy Russians turning a blind eye to war",
+      "link": "https://www.ft.com/content/77d25f83-9fde-4bf8-a589-4620a5ac6288?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 12:00:09 GMT",
+      "scrape_timestamp": "2026-11-26T13:02:59.069225+00:00",
+      "content": "Andrey Zvyagintsev directs a stark thriller about a couple with an unhappy marriage and a callous disregard for events outside their own lives",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trafigura calls for greater European metals support after zinc shutdown",
+      "link": "https://www.ft.com/content/bece6b13-2af4-4704-8511-ac460985582f?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 12:00:09 GMT",
+      "scrape_timestamp": "2026-11-26T13:02:59.269407+00:00",
+      "content": "The trading house will close Dutch zinc operations after calling for greater government help with power costs",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "14th is a punchy biopic of the amendment and its links to Maga politics",
+      "link": "https://www.ft.com/content/92eedbaf-f833-4121-9a98-271d23e5fba0?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 12:00:09 GMT",
+      "scrape_timestamp": "2026-11-26T13:02:59.469595+00:00",
+      "content": "Ava DuVernay’s follow-up to ‘13th’ hymns an undersung workhorse whose achievements are now largely under threat",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nintendo and Sony ready for a two-level battle with AI",
+      "link": "https://www.ft.com/content/2e618ea7-e91f-40f3-903e-9ce355b0308c?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 11:59:32 GMT",
+      "scrape_timestamp": "2026-11-26T13:02:59.669811+00:00",
+      "content": "Idea that the processing power behind games will one day reside in the cloud is something the industry must plan for",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T12:03:50.604024+00:00",
+  "last_updated": "2026-11-26T13:03:17.385241+00:00",
   "metadata": {
-    "total_runs": 3321,
+    "total_runs": 3322,
     "sources": [
       "Financial Times"
     ],
