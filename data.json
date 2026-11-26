@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Anthropic soars in Wall Street debut",
-      "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 16:19:06 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:08.580578+00:00",
-      "content": "AI giant begins trading after raising $81bn in record IPO",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Putin invites European leaders to Moscow",
       "link": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 18:53:08 GMT",
@@ -51,17 +40,6 @@
       "published_date": "Thu, 19 Nov 2026 17:14:53 GMT",
       "scrape_timestamp": "2026-11-19T19:16:11.942845+00:00",
       "content": "Pensions minister says hub allowing people to view all their retirement pots in one place will go live in 2027",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Central banks ❤️ US dollars",
-      "link": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
-      "published_date": "Thu, 19 Nov 2026 16:50:48 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:12.143046+00:00",
-      "content": "A tour of central bank foreign exchange reserve policy, in 248 charts",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3882,11 +3860,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB",
+      "link": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 16:02:36 GMT",
+      "scrape_timestamp": "2026-11-26T17:02:34.844558+00:00",
+      "content": "Spanish economist is seen as a skilled diplomat with a ‘unique blend of diplomatic finesse and academic rigour’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Israel’s Eisenkot takes steps towards replacing Netanyahu",
+      "link": "https://www.ft.com/content/a0731abb-c7bf-421b-9486-682114c705ff",
+      "published_date": "Thu, 26 Nov 2026 16:51:18 GMT",
+      "scrape_timestamp": "2026-11-26T17:02:36.569783+00:00",
+      "content": "Opposition leader’s deals with two parties advance plans to oust prime minister",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "We’re stuck in a bonfire of the quangos doom loop",
+      "link": "https://www.ft.com/content/ab820f61-b8d4-4aa5-92bc-a51d6c04d0f7?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 16:39:20 GMT",
+      "scrape_timestamp": "2026-11-26T17:02:36.970282+00:00",
+      "content": "Labour’s belated decision to scrap these dated organisations is a necessary — and regular — part of state renewal",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Do voters want vision or concision from politicians?",
+      "link": "https://www.ft.com/content/af51083d-f076-44c0-8858-c9e9d4487fcc?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 16:16:34 GMT",
+      "scrape_timestamp": "2026-11-26T17:02:37.170488+00:00",
+      "content": "Their flowery flights of rhetoric used to go on forever. Now they keep it brief",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T16:03:22.516942+00:00",
+  "last_updated": "2026-11-26T17:02:54.581892+00:00",
   "metadata": {
-    "total_runs": 3325,
+    "total_runs": 3326,
     "sources": [
       "Financial Times"
     ],
