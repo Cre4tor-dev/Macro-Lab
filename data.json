@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Gulf flare-up stokes fears of return to Iran war",
-      "link": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 14:53:28 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:10.582613+00:00",
-      "content": "A week of tit-for-tat escalation by Iran and the US has brought the countries closer to another full-scale confrontation, analysts say",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "AMD shares fall after short seller report on China links",
       "link": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 18:40:23 GMT",
@@ -134,44 +123,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Nscale warns of its exposure to suppliers facing US blacklist",
-      "link": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 14:39:18 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:13.944941+00:00",
-      "content": "Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Germany hit by AI-driven surge in cyber attacks",
-      "link": "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 14:28:48 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:14.145132+00:00",
-      "content": "Threat level ‘critical’ as new tools make it far easier for hackers to exploit security flaws",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic shares jump 17% after record Wall Street listing",
       "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 21:02:09 GMT",
       "scrape_timestamp": "2026-11-20T01:31:38.263795+00:00",
       "content": "AI group led by Dario Amodei raises $81bn in upsized public offering",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The dangers of AI ‘handoverism’",
-      "link": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 14:04:09 GMT",
-      "scrape_timestamp": "2026-11-20T01:31:38.864248+00:00",
-      "content": "Even some of Silicon Valley’s most enthusiastic capitalists are alarmed about how far and fast the technology is moving",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3893,11 +3849,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+      "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 14:58:45 GMT",
+      "scrape_timestamp": "2026-11-26T15:03:07.761688+00:00",
+      "content": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "New allegations surface of Jordan Bardella’s teenage antisemitism",
+      "link": "https://www.ft.com/content/095d57ac-9f61-4d22-8358-7b6fafbf19bc?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 14:22:01 GMT",
+      "scrape_timestamp": "2026-11-26T15:03:08.962836+00:00",
+      "content": "Far-right French politician says he never sent such messages and accuses media of ‘witch-hunts’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The new ECB team is set for a baptism of fire",
+      "link": "https://www.ft.com/content/441dbda3-38be-48b9-9603-3b68f1ed3a48",
+      "published_date": "Thu, 26 Nov 2026 14:11:40 GMT",
+      "scrape_timestamp": "2026-11-26T15:03:09.163075+00:00",
+      "content": "The tail-end of the ECB’s tightening cycle and the fallout of a consequential election in France will provide an early test",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Want more apprentices? Start by upskilling the trainers",
+      "link": "https://www.ft.com/content/bbc6102c-832c-4a63-86e9-0748023c49e8?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 14:08:45 GMT",
+      "scrape_timestamp": "2026-11-26T15:03:09.563495+00:00",
+      "content": "Abundance of further education and skills providers in UK means huge diversity in heft and quality",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T14:03:15.426027+00:00",
+  "last_updated": "2026-11-26T15:03:26.100562+00:00",
   "metadata": {
-    "total_runs": 3323,
+    "total_runs": 3324,
     "sources": [
       "Financial Times"
     ],
