@@ -68,61 +68,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "UK loses bid to keep Apple ‘backdoor’ order secret",
-      "link": "https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 15:50:37 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:12.743611+00:00",
-      "content": "Privacy rights campaigners laud a ‘big win for accountability, transparency and online security’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Walmart boosted by grocery sales as US consumers search for lower prices",
-      "link": "https://www.ft.com/content/55ca051f-af14-48e9-94cc-b700b3097e2f?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 15:47:13 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:12.943789+00:00",
-      "content": "Retailer said it took greater share of Americans’ spending on groceries in third quarter",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "South Africa’s ‘Iron Lady’ tells allies her Johannesburg mayor bid is over",
-      "link": "https://www.ft.com/content/d7f7ed3f-3399-4db4-a8d4-1e48f0ed0a15?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 15:40:19 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:13.144015+00:00",
-      "content": "Veteran politician Helen Zille’s Democratic Alliance finished first in local elections but is not expected to take power in economic capital after days of coalition horse-trading",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Going to university is not just about money",
-      "link": "https://www.ft.com/content/18735981-fabf-41a7-a9c4-ed9f1002b8e9",
-      "published_date": "Thu, 19 Nov 2026 15:35:43 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:13.344239+00:00",
-      "content": "The life satisfaction return on an undergraduate degree is substantially higher than it was even a quarter of a century ago",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Milbank swoops on Weil Paris office as US law firms target European growth",
-      "link": "https://www.ft.com/content/d3f558d6-bbe3-4ba6-b831-8064579a6731?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 15:30:08 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:13.544530+00:00",
-      "content": "Recruitment of 87-lawyer team will give Milbank a French office for first time",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic shares jump 17% after record Wall Street listing",
       "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 21:02:09 GMT",
@@ -3893,11 +3838,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bringing data to the Thanksgiving table",
+      "link": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 15:26:58 GMT",
+      "scrape_timestamp": "2026-11-26T16:03:02.309317+00:00",
+      "content": "Does America really face a food affordability crisis?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Two Italians killed in Iranian strike on Kuwait",
+      "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 15:56:25 GMT",
+      "scrape_timestamp": "2026-11-26T16:03:04.579005+00:00",
+      "content": "Rheinmetall workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Record temperature surge in November as world fails to agree on climate action",
+      "link": "https://www.ft.com/content/738aaed8-7d4a-4321-aead-0f2bf71e286f?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 15:31:30 GMT",
+      "scrape_timestamp": "2026-11-26T16:03:04.779190+00:00",
+      "content": "Deviation partly driven by temporary El Niño warming phenomenon",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain’s electricity grid operator makes record number of calls for extra power",
+      "link": "https://www.ft.com/content/21a1331c-c201-4333-b312-ab87b7fd994f?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 15:29:43 GMT",
+      "scrape_timestamp": "2026-11-26T16:03:04.979383+00:00",
+      "content": "Issue driven by colder weather and constraints in getting electricity from wind farms in Scotland to consumers in England",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T15:03:26.100562+00:00",
+  "last_updated": "2026-11-26T16:03:22.516942+00:00",
   "metadata": {
-    "total_runs": 3324,
+    "total_runs": 3325,
     "sources": [
       "Financial Times"
     ],
