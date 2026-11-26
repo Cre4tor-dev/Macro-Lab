@@ -2,77 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "AI advances at Anthropic trigger new safety fears on eve of IPO",
-      "link": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:17 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:44.890279+00:00",
-      "content": "Group disclosed it had activated part of ‘responsible scaling policy’ it set up to ensure AI did not develop so quickly that it caused ‘catastrophic risks’",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Retail investors face squeeze in blockbuster Anthropic IPO",
-      "link": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:17 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:45.090438+00:00",
-      "content": "Frenzy for AI stocks is testing how far Wall Street will go to accommodate a new army of individual investors",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Adani: the billionaire at the heart of Modi’s India",
-      "link": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:11 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:45.490760+00:00",
-      "content": "Three years ago, the tycoon was fending off lawsuits and accusations of fraud. Now, his business empire looks more powerful than ever",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Angry America and its housing market",
-      "link": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:17 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:45.690933+00:00",
-      "content": "The country is failing to provide enough houses to enable people to move to where the good jobs are",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Air strike hits Saudi sovereign wealth fund headquarters",
       "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 09:41:38 GMT",
       "scrape_timestamp": "2026-11-19T10:55:46.091325+00:00",
       "content": "Attack on powerful Public Investment Fund follows near-daily barrages on the kingdom by Houthi rebels",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Deutsche Bank’s Italian unit hid up to €800mn of mortgage lending losses",
-      "link": "https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:11 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:46.291477+00:00",
-      "content": "German lender did not publicly disclose scandal or findings of damning internal probe codenamed Project Aetos",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Gold loses its lustre for investors",
-      "link": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:17 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:46.691848+00:00",
-      "content": "Precious metal long touted as a diversifier for portfolios has not offered protection during recent tech stock fall",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -178,39 +112,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Burnham heading for battle with Brexit ‘zombies’ over move to adopt EU laws",
-      "link": "https://www.ft.com/content/b9f515c3-28c5-4227-bae5-1dd80f86e4c2?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:28 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:49.663671+00:00",
-      "content": "PM will sign a deal to remove barriers to trade in food by requiring that Britain aligns with EU standards in the sector",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Apollo scraps planned $2bn loan to Man City owner after rule breaches",
-      "link": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:28 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:49.863845+00:00",
-      "content": "Football club was found guilty of breaking 114 financial rules, raising the prospect of a significant punishment",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA",
-      "link": "https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:28 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:50.063992+00:00",
-      "content": "Watchdog says it is possible to balance oil markets without restoring flows through the strait, but will take time and investment",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic soars in Wall Street debut",
       "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 16:19:06 GMT",
@@ -238,17 +139,6 @@
       "published_date": "Thu, 19 Nov 2026 13:47:00 GMT",
       "scrape_timestamp": "2026-11-19T19:16:08.981074+00:00",
       "content": "The AI company needs to become a full enterprise technology platform after IPO",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US companies turn to robots to ease labour shortage crisis",
-      "link": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 05:00:18 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:09.381480+00:00",
-      "content": "Some say speed of automation is still not fast enough to make country internationally competitive as manufacturing sector struggles",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3684,11 +3574,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Early review of Disney’s ABC station licences blocked in blow to Trump",
+      "link": "https://www.ft.com/content/99acbf19-3a6f-4b4c-aa8c-77b8b7edb5e9?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 04:10:42 GMT",
+      "scrape_timestamp": "2026-11-26T05:03:00.672221+00:00",
+      "content": "US judge Loren AliKhan wrote that broadcast regulator’s chair had ‘taken President Trump’s rhetoric as his marching orders’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T04:03:27.441904+00:00",
+  "last_updated": "2026-11-26T05:03:17.580268+00:00",
   "metadata": {
-    "total_runs": 3313,
+    "total_runs": 3314,
     "sources": [
       "Financial Times"
     ],
