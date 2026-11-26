@@ -13,17 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Anthropic is a ‘must own’",
-      "link": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
-      "published_date": "Thu, 19 Nov 2026 11:06:08 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:08.780906+00:00",
-      "content": "Is that good?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "The key to Anthropic’s value",
       "link": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 13:47:00 GMT",
@@ -51,17 +40,6 @@
       "published_date": "Thu, 19 Nov 2026 18:53:08 GMT",
       "scrape_timestamp": "2026-11-19T19:16:09.982077+00:00",
       "content": "Russian leader signals country is unwilling to relax hardline demands for ending Ukraine conflict",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Ukraine’s western allies meet in Berlin to counter Yalta 2.0 optics",
-      "link": "https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 11:48:38 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:10.182243+00:00",
-      "content": "Germany hosts 40 delegations in show of solidarity for Kyiv while leaders of Russia, China and US meet in Shenzhen",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3794,11 +3772,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK government has ‘failed’ to make case for third Heathrow runway, say MPs",
+      "link": "https://www.ft.com/content/9c271b6d-3280-4abc-9e8f-a93caf594d21?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 11:05:07 GMT",
+      "scrape_timestamp": "2026-11-26T12:03:32.272226+00:00",
+      "content": "Transport committee warns ambitious scheme would only create ‘modest’ economic growth as PM Andy Burnham weighs decision on £33bn project",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The space economy and European common goods",
+      "link": "https://www.ft.com/content/0b69fa9a-7e15-4993-acfb-7fc93b81f2d7?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 11:00:07 GMT",
+      "scrape_timestamp": "2026-11-26T12:03:32.472403+00:00",
+      "content": "With its formal budget kept small, the EU should think outside the box on ‘club goods’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "NextEra-Dominion utility deal caught up in backlash over AI power costs",
+      "link": "https://www.ft.com/content/1f4095cb-c032-414f-9858-554c8b82b145?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 11:00:06 GMT",
+      "scrape_timestamp": "2026-11-26T12:03:32.672556+00:00",
+      "content": "Tie-up faces fierce opposition as anger over soaring electricity bills spills into Wall Street dealmaking",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "VC investors dump old funds at steep discounts to chase AI riches",
+      "link": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 11:00:06 GMT",
+      "scrape_timestamp": "2026-11-26T12:03:32.872740+00:00",
+      "content": "Pension funds and endowments ditch legacy stakes at knockdown prices to free up cash for next-generation tech start-ups",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T11:02:59.066953+00:00",
+  "last_updated": "2026-11-26T12:03:50.604024+00:00",
   "metadata": {
-    "total_runs": 3320,
+    "total_runs": 3321,
     "sources": [
       "Financial Times"
     ],
