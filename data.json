@@ -3673,11 +3673,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
+      "link": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 03:11:09 GMT",
+      "scrape_timestamp": "2026-11-26T04:03:08.752589+00:00",
+      "content": "Normalisation has not only put households on the hunt for returns but given them rapidly growing power to surprise markets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T03:03:23.497637+00:00",
+  "last_updated": "2026-11-26T04:03:27.441904+00:00",
   "metadata": {
-    "total_runs": 3312,
+    "total_runs": 3313,
     "sources": [
       "Financial Times"
     ],
