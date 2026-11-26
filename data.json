@@ -13,39 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Meta halts plan to give Zuckerberg new class of shares",
-      "link": "https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 23:57:06 GMT",
-      "scrape_timestamp": "2026-11-19T02:21:10.693093+00:00",
-      "content": "Tech group pauses plan that would have let founder sell down stake without ceding control",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
-      "link": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 00:01:06 GMT",
-      "scrape_timestamp": "2026-11-19T02:21:11.093537+00:00",
-      "content": "Regulators publish new directions after surge in hacking attempts and $6bn theft from crypto exchange Binance",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US and Venezuela to expand military co-operation to target drug trafficking",
-      "link": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b?syn-25a6b1a6=1",
-      "published_date": "Wed, 18 Nov 2026 23:22:04 GMT",
-      "scrape_timestamp": "2026-11-19T02:21:12.403874+00:00",
-      "content": "Defence secretary Pete Hegseth says two nations will ‘hunt’, ‘find’ and ‘kill’ ‘narcoterrorists’ during trip to Caracas",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "AI advances at Anthropic trigger new safety fears on eve of IPO",
       "link": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 05:00:17 GMT",
@@ -3673,11 +3640,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Israeli judges advise prosecutors to drop some charges against Netanyahu",
+      "link": "https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1",
+      "published_date": "Wed, 25 Nov 2026 23:18:48 GMT",
+      "scrape_timestamp": "2026-11-26T00:07:04.581729+00:00",
+      "content": "Country’s attorney-general told there is little chance of a bribery conviction in a boost for the premier",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-25T23:02:59.181445+00:00",
+  "last_updated": "2026-11-26T00:07:21.860104+00:00",
   "metadata": {
-    "total_runs": 3308,
+    "total_runs": 3309,
     "sources": [
       "Financial Times"
     ],
