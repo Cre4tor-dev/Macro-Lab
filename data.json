@@ -90,28 +90,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Brussels failing to deliver on competitiveness, says Booking.com chief",
-      "link": "https://www.ft.com/content/31447aee-2e10-4170-8792-bd7d60d5bc40?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 06:00:08 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:49.263310+00:00",
-      "content": "Also in this newsletter: Europe’s aluminium industry fears over scrap exports ban",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Whey too much cheese",
-      "link": "https://www.ft.com/content/6b33cab8-69d4-48c3-9948-1d9777be9be8",
-      "published_date": "Thu, 19 Nov 2026 06:00:07 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:49.463490+00:00",
-      "content": "The world is gagging on American cheese (both literally and figuratively)",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic soars in Wall Street debut",
       "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 16:19:06 GMT",
@@ -3585,11 +3563,198 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Nvidia halts chip shipments to south-east Asia",
+      "link": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:19 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:47.309250+00:00",
+      "content": "Move comes as US steps up export controls to prevent Chinese access to AI computing power",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Huang’s return is a terrible signal for US capitalism",
+      "link": "https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd",
+      "published_date": "Thu, 26 Nov 2026 05:00:19 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:47.709660+00:00",
+      "content": "Nvidia scandal highlights why the shareholder rights that are now under threat are so important",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Britain’s 1,000-year-old tax travails",
+      "link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:12 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:47.909872+00:00",
+      "content": "Strained public finances and a reluctance to cut spending have shaped a tax system with comical distortions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How ‘Friendsgiving’ took over in America",
+      "link": "https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3",
+      "published_date": "Thu, 26 Nov 2026 05:00:11 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:48.310226+00:00",
+      "content": "Changing demographics mean traditions that were once reserved for relatives are being shared with friends",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Software stocks spared in tech rout as AI narrative shifts",
+      "link": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:29 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:48.510417+00:00",
+      "content": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Paris and Berlin seek to shield EU budget from Marine Le Pen",
+      "link": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:19 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:48.910804+00:00",
+      "content": "France requests an extra €35bn for farmers to raise the cost of far-right leader picking apart deal on bloc’s budget if she becomes president",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Angry young men turn against their elders in ‘two Spains’ election",
+      "link": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:19 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:49.111020+00:00",
+      "content": "Voters set to oust Pedro Sánchez and propel radical right into a coalition government for first time since Franco",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Saudi Arabia prepares to delay flagship mining conference as attacks continue",
+      "link": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:19 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:49.311206+00:00",
+      "content": "Future Minerals Forum likely to be pushed back from January due to regional conflict",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: Nvidia halts chip shipments to south-east Asia",
+      "link": "https://www.ft.com/content/1beb609f-b125-402a-a4a4-0fb09bea8584?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:33:25 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:50.043962+00:00",
+      "content": "Also in today’s newsletter: EU common budget and software stocks",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "A Fed tightening to allow subsequent loosening",
+      "link": "https://www.ft.com/content/7283900d-43e6-4d9f-8ecd-d0b975d192dd",
+      "published_date": "Thu, 26 Nov 2026 05:30:09 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:50.244127+00:00",
+      "content": "Read the Monetary Policy Radar team’s November scenario for the Federal Reserve",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The ICE raids ‘wreaking havoc’ across American academia",
+      "link": "https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:01:09 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:50.444282+00:00",
+      "content": "Critics say detention of PhD student Eva Yi Xie and others shows how the Trump administration has escalated its crackdown",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brexit’s ‘bad boys’ are back, but Badenoch is keeping her distance",
+      "link": "https://www.ft.com/content/0f34680e-fa5e-43c1-99d3-63ca7573a166?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:29 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:50.644457+00:00",
+      "content": "Conservative leader is aware the EU debate could stir up painful memories within her party and alienate the voters it needs to return to power",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK ministers explore NHS-built alternative to Palantir’s software",
+      "link": "https://www.ft.com/content/b99613ab-a130-4b9f-8c15-c41db7cd8894?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:29 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:50.844619+00:00",
+      "content": "Government considers whether internal health service expertise can help build an alternative to the contentious US tech company",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "£15bn cash boost will not increase  National Wealth Fund’s spending",
+      "link": "https://www.ft.com/content/377d1f76-e68e-4136-97f5-0dea99949fe2?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:29 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:51.044805+00:00",
+      "content": "Chancellor accused of using ‘smoke and mirrors’ after officials admit the money will only maintain existing investment",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Netanyahu using ‘racist attacks’ to stay in power, Arab leader says",
+      "link": "https://www.ft.com/content/e61e27b6-6501-44f8-b3d2-558f7cf4dcae?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:19 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:51.445188+00:00",
+      "content": "Head of Israel’s largest Arab party says he is willing to work with Jewish opposition to remove prime minister’s far-right bloc",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The invisible strength of the UK economy",
+      "link": "https://www.ft.com/content/8a073230-1874-43cc-9cf3-5079c1f90ef8?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:19 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:51.845560+00:00",
+      "content": "It can be hard to grasp how much the country’s success depends on high-value services",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Beauty Tech Group is a reminder of London’s natural assets",
+      "link": "https://www.ft.com/content/abca3bf7-8245-4490-840f-8c0548042f9a?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 05:00:19 GMT",
+      "scrape_timestamp": "2026-11-26T06:04:52.045758+00:00",
+      "content": "The City cannot compete with New York’s market size and wealth, but it can serve as a staging post for upwardly mobile companies",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T05:03:17.580268+00:00",
+  "last_updated": "2026-11-26T06:05:08.472074+00:00",
   "metadata": {
-    "total_runs": 3314,
+    "total_runs": 3315,
     "sources": [
       "Financial Times"
     ],
