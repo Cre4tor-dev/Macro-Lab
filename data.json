@@ -35,17 +35,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "UK’s long-delayed pensions dashboard now due to launch next year",
-      "link": "https://www.ft.com/content/64822545-cd35-44d0-b267-b6231893666b?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 17:14:53 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:11.942845+00:00",
-      "content": "Pensions minister says hub allowing people to view all their retirement pots in one place will go live in 2027",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Anthropic shares jump 17% after record Wall Street listing",
       "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 21:02:09 GMT",
@@ -3904,11 +3893,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+      "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 17:13:40 GMT",
+      "scrape_timestamp": "2026-11-26T18:03:01.340773+00:00",
+      "content": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T17:02:54.581892+00:00",
+  "last_updated": "2026-11-26T18:03:20.208437+00:00",
   "metadata": {
-    "total_runs": 3326,
+    "total_runs": 3327,
     "sources": [
       "Financial Times"
     ],
