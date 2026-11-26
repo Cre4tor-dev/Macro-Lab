@@ -3772,11 +3772,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK regulator finds ‘systemic’ problems in £8bn private dental market",
+      "link": "https://www.ft.com/content/acd1b122-558c-42ba-ba28-0723ef04fd3f?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 07:59:45 GMT",
+      "scrape_timestamp": "2026-11-26T08:03:22.412114+00:00",
+      "content": "Investigation finds patients are sold unnecessary services in an industry that more people are turning to",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "It’s an earnings bubble, not a valuation bubble",
+      "link": "https://www.ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 07:30:10 GMT",
+      "scrape_timestamp": "2026-11-26T08:03:22.612277+00:00",
+      "content": "The difference matters",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T07:03:26.258635+00:00",
+  "last_updated": "2026-11-26T08:03:41.105733+00:00",
   "metadata": {
-    "total_runs": 3316,
+    "total_runs": 3317,
     "sources": [
       "Financial Times"
     ],
