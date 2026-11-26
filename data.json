@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Air strike hits Saudi sovereign wealth fund headquarters",
-      "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 09:41:38 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:46.091325+00:00",
-      "content": "Attack on powerful Public Investment Fund follows near-daily barrages on the kingdom by Houthi rebels",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
       "link": "https://www.ft.com/content/5f8b63e0-aaf7-48d4-8695-c8195043c537?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 10:46:35 GMT",
@@ -29,50 +18,6 @@
       "published_date": "Thu, 19 Nov 2026 10:21:27 GMT",
       "scrape_timestamp": "2026-11-19T10:55:47.461698+00:00",
       "content": "Halt comes after US commerce department introduces new export controls",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Live US midterm elections results",
-      "link": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 09:35:38 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:47.862080+00:00",
-      "content": "The latest updates on the races that will shape the balance of power in Washington",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Mahmood’s policing numbers do not add up",
-      "link": "https://www.ft.com/content/5edb7461-40b5-456d-9fda-928227b7028e?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 09:30:08 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:48.062237+00:00",
-      "content": "Ambitious overhaul of police forces across England and Wales outlined by home secretary rests on shaky foundations",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UniCredit agrees deal with Berlin on Commerzbank takeover",
-      "link": "https://www.ft.com/content/0c6bb979-bc3f-4368-86fc-a0306fd52d78?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 09:27:50 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:48.262417+00:00",
-      "content": "Move clears major obstacle for Italian lender to take control of Germany’s second-largest bank after two-year battle",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "EU delays methane emission rules on fossil fuel imports",
-      "link": "https://www.ft.com/content/e871493f-920c-4ece-94d4-9d14317047fe?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 09:26:07 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:48.462596+00:00",
-      "content": "New rules will not be implemented for at least two years after sustained lobbying by US, Qatar and oil and gas sector",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3816,11 +3761,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Babcock secures record £8.7bn contract to support Royal Navy submarines",
+      "link": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 09:03:42 GMT",
+      "scrape_timestamp": "2026-11-26T10:02:56.393046+00:00",
+      "content": "Five-year deal comes amid concerns over fleet’s readiness and increased Russian activity in north Atlantic",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FCA admits miscalculating compensation in £9bn car mis-selling redress scheme",
+      "link": "https://www.ft.com/content/b7eb2472-557a-4c0f-b625-f6dbbb7391a8?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 08:40:24 GMT",
+      "scrape_timestamp": "2026-11-26T10:02:56.593219+00:00",
+      "content": "UK financial regulator’s error risks further delays to payments for millions of consumers",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T09:03:29.740214+00:00",
+  "last_updated": "2026-11-26T10:03:15.251646+00:00",
   "metadata": {
-    "total_runs": 3318,
+    "total_runs": 3319,
     "sources": [
       "Financial Times"
     ],
