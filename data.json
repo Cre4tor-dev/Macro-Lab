@@ -3651,11 +3651,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+      "link": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 00:45:54 GMT",
+      "scrape_timestamp": "2026-11-26T01:03:04.546395+00:00",
+      "content": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T00:07:21.860104+00:00",
+  "last_updated": "2026-11-26T01:03:22.650425+00:00",
   "metadata": {
-    "total_runs": 3309,
+    "total_runs": 3310,
     "sources": [
       "Financial Times"
     ],
