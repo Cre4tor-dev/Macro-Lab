@@ -13,17 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "The key to Anthropic’s value",
-      "link": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 13:47:00 GMT",
-      "scrape_timestamp": "2026-11-19T19:16:08.981074+00:00",
-      "content": "The AI company needs to become a full enterprise technology platform after IPO",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Putin invites European leaders to Moscow",
       "link": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 18:53:08 GMT",
@@ -3849,11 +3838,66 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Pablo Hernández de Cos wins race for ECB presidency",
+      "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 13:27:22 GMT",
+      "scrape_timestamp": "2026-11-26T14:02:52.282654+00:00",
+      "content": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klass Knot",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Altria explores takeover bid for Imperial Brands",
+      "link": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9",
+      "published_date": "Thu, 26 Nov 2026 13:57:45 GMT",
+      "scrape_timestamp": "2026-11-26T14:02:57.099999+00:00",
+      "content": "Takeover would see another of the UK’s large listed companies leave London market",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mandelson softened China speech on advice from firm he founded",
+      "link": "https://www.ft.com/content/2f5970e6-fe6c-416c-aff8-3f8b889802de?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 13:55:05 GMT",
+      "scrape_timestamp": "2026-11-26T14:02:57.300172+00:00",
+      "content": "Files show former ambassador to US who was sacked over friendship with Epstein kept close links with Global Counsel",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "British and European banks have taken on a lot of France risk",
+      "link": "https://www.ft.com/content/022fcf0c-9a7a-4bf0-b853-4de8b2ba88b9",
+      "published_date": "Thu, 26 Nov 2026 13:32:02 GMT",
+      "scrape_timestamp": "2026-11-26T14:02:57.500350+00:00",
+      "content": "Toulouse or not Toulouse",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK to pay additional ‘participation fee’ as price of EU reset deal",
+      "link": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 12:58:59 GMT",
+      "scrape_timestamp": "2026-11-26T14:02:57.900711+00:00",
+      "content": "Terms of agreement signed with Brussels last week include what EU diplomats call a ‘pay-to-play’ financial settlement",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T13:03:17.385241+00:00",
+  "last_updated": "2026-11-26T14:03:15.426027+00:00",
   "metadata": {
-    "total_runs": 3322,
+    "total_runs": 3323,
     "sources": [
       "Financial Times"
     ],
