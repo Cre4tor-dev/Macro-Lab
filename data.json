@@ -46,17 +46,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans",
-      "link": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 02:19:32 GMT",
-      "scrape_timestamp": "2026-11-19T10:55:45.891104+00:00",
-      "content": "SpaceX CEO backs away from Maga after monetary support for Trump’s party in midterm elections fails to sway voters",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Air strike hits Saudi sovereign wealth fund headquarters",
       "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
       "published_date": "Thu, 19 Nov 2026 09:41:38 GMT",
@@ -3673,11 +3662,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bank of Korea raises interest rates amid AI chip boom",
+      "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+      "published_date": "Thu, 26 Nov 2026 02:27:04 GMT",
+      "scrape_timestamp": "2026-11-26T03:03:03.382739+00:00",
+      "content": "Third quarter-point increase this year takes benchmark rate to 3.25 per cent",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T02:03:57.472667+00:00",
+  "last_updated": "2026-11-26T03:03:23.497637+00:00",
   "metadata": {
-    "total_runs": 3311,
+    "total_runs": 3312,
     "sources": [
       "Financial Times"
     ],
