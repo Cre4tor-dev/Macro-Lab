@@ -57,28 +57,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
-      "link": "https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 19:25:18 GMT",
-      "scrape_timestamp": "2026-11-20T01:31:41.666905+00:00",
-      "content": "Currency has slipped from R$5 to R$5.90 to the dollar following leftwinger’s victory last month",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The Xi, Trump, Putin meeting and the dawn of a post-western world",
-      "link": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1",
-      "published_date": "Thu, 19 Nov 2026 19:19:44 GMT",
-      "scrape_timestamp": "2026-11-20T01:31:41.867047+00:00",
-      "content": "The symbolism was the substance in Shenzhen",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
       "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 07:29:48 GMT",
@@ -3895,9 +3873,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T19:02:37.010531+00:00",
+  "last_updated": "2026-11-26T20:03:02.368035+00:00",
   "metadata": {
-    "total_runs": 3328,
+    "total_runs": 3329,
     "sources": [
       "Financial Times"
     ],
