@@ -2,50 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Putin was the real winner at the trilateral summit",
-      "link": "https://www.ft.com/content/8f24b313-1b9a-401d-88e6-089aedc72519",
-      "published_date": "Fri, 20 Nov 2026 17:33:46 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:48.973747+00:00",
-      "content": "The Shenzhen summit only emboldened the Russian leader. Now Europe must lay the groundwork for serious diplomacy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
-      "link": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 17:08:46 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:49.173841+00:00",
-      "content": "Boss of US lender says he will find ways to offset the increase announced by the government last month",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Grand Transitory Assumptions",
-      "link": "https://www.ft.com/content/b81ae370-254c-48a7-8a19-8cce53e4e2bb",
-      "published_date": "Fri, 20 Nov 2026 17:48:06 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:50.129652+00:00",
-      "content": "Questions are increasingly being asked about the arrival of second-round inflation effects",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK universities relieved as EU tuition fees decision delayed until next year",
-      "link": "https://www.ft.com/content/77cb4ec6-4f03-4328-b566-0f1fd74b81ae?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 17:19:18 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:50.529834+00:00",
-      "content": "Dispute over lower charges for European students had threatened to derail summit in Brussels",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
       "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 21:52:25 GMT",
@@ -4005,9 +3961,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T17:02:49.782539+00:00",
+  "last_updated": "2026-11-27T18:03:27.892274+00:00",
   "metadata": {
-    "total_runs": 3350,
+    "total_runs": 3351,
     "sources": [
       "Financial Times"
     ],
