@@ -3937,11 +3937,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Indonesia arrests three over alleged market manipulation",
+      "link": "https://www.ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 10:54:42 GMT",
+      "scrape_timestamp": "2026-11-27T11:02:32.705203+00:00",
+      "content": "Move follows MSCI’s threat to downgrade country to standalone market status",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "If we say the pay, let’s say the pension",
+      "link": "https://www.ft.com/content/bc44826f-2c9c-4f3e-a065-72e64d14ee84?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 10:54:25 GMT",
+      "scrape_timestamp": "2026-11-27T11:02:32.905411+00:00",
+      "content": "Disclosing pension contributions on job ads would get people talking about their retirement prospects",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "92 Labour MPs call for Rosebank oilfield to be rejected",
+      "link": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 10:21:13 GMT",
+      "scrape_timestamp": "2026-11-27T11:02:33.105577+00:00",
+      "content": "Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Ladbrokes owner to settle Australia money laundering case",
+      "link": "https://www.ft.com/content/5fe8a858-6ed2-40f0-a0f3-e8742b7656aa?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 09:51:44 GMT",
+      "scrape_timestamp": "2026-11-27T11:02:33.305763+00:00",
+      "content": "Entain agrees preliminary settlement with financial crimes watchdog for $124mn over breaches of rules ahead of court hearing",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T10:03:22.987594+00:00",
+  "last_updated": "2026-11-27T11:02:49.997026+00:00",
   "metadata": {
-    "total_runs": 3343,
+    "total_runs": 3344,
     "sources": [
       "Financial Times"
     ],
