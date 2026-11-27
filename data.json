@@ -46,17 +46,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Burnham’s EU deal in brief",
-      "link": "https://www.ft.com/content/be7924c4-8e29-4630-82f3-f94001765d37?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 12:45:08 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:48.573526+00:00",
-      "content": "UK prime minister hopes Friday’s agreement is first step in a much closer post-Brexit relationship",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump seeks Ukraine peace deal before January",
       "link": "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 16:17:15 GMT",
@@ -3992,11 +3981,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "First principles to cling to when markets convulse",
+      "link": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 12:32:08 GMT",
+      "scrape_timestamp": "2026-11-27T13:02:48.070721+00:00",
+      "content": "If you haven’t a clue what to do right now, stick to the investment basics",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "China’s super-rich have a new obsession: million-dollar fish",
+      "link": "https://www.ft.com/content/5a8b6b3c-c293-4f38-9f14-f5cc6cf98a34?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:04 GMT",
+      "scrape_timestamp": "2026-11-27T13:02:50.072627+00:00",
+      "content": "Collectors are spending fortunes on koi, but an economic slowdown and Beijing’s crackdown on conspicuous wealth are threatening the market",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "London is playing a game of penthouse one-upmanship",
+      "link": "https://www.ft.com/content/55d25c66-4405-4698-8fc9-9516010bd7fb",
+      "published_date": "Fri, 27 Nov 2026 12:00:05 GMT",
+      "scrape_timestamp": "2026-11-27T13:02:50.911590+00:00",
+      "content": "A raft of huge new top-level homes is on the market, the size of which we may never see again. And with picky buyers and a tricky market, developers are pulling out all the stops",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T12:03:56.432302+00:00",
+  "last_updated": "2026-11-27T13:03:08.430535+00:00",
   "metadata": {
-    "total_runs": 3345,
+    "total_runs": 3346,
     "sources": [
       "Financial Times"
     ],
