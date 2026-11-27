@@ -2,33 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
-      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 07:29:48 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:13.077505+00:00",
-      "content": "Markets in Europe and Asia follow Wall Street lower despite Claude AI maker’s record listing",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "White House replaces top cyber security official",
       "link": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 08:33:59 GMT",
       "scrape_timestamp": "2026-11-20T09:26:14.278759+00:00",
       "content": "Kirsten Davies joins from the Pentagon to succeed Sean Cairncross after string of online outages",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham to agree EU reset deal in Brussels",
-      "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
-      "published_date": "Fri, 20 Nov 2026 07:49:41 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:14.679147+00:00",
-      "content": "Deal will lead to closer ties including freer trade in food and drink and a youth experience scheme",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -51,17 +29,6 @@
       "published_date": "Fri, 20 Nov 2026 08:37:22 GMT",
       "scrape_timestamp": "2026-11-20T09:26:15.599262+00:00",
       "content": "Headline price pressures accelerated as government fuel and energy subsidies were phased out",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "UK retail sales jump as consumers stock up on emergency supplies",
-      "link": "https://www.ft.com/content/1e7855e5-fe9c-4e9c-ba8d-68c70159a1f1?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 07:55:18 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:15.999640+00:00",
-      "content": "Government’s ‘Be Ready Campaign’ pushed up demand for tinned food and long-life milk",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3959,11 +3926,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sky-high WiFi will give airlines a shortlived boost",
+      "link": "https://www.ft.com/content/8a8d973e-e476-4578-80a9-26e9c6e5f912?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 07:11:05 GMT",
+      "scrape_timestamp": "2026-11-27T08:03:20.767385+00:00",
+      "content": "What seems like an upgrade will soon be an everyday expectation, much like hotel WiFis",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T07:03:29.342726+00:00",
+  "last_updated": "2026-11-27T08:03:37.816134+00:00",
   "metadata": {
-    "total_runs": 3340,
+    "total_runs": 3341,
     "sources": [
       "Financial Times"
     ],
