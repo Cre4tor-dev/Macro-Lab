@@ -24,17 +24,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
-      "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 12:02:46 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:47.572807+00:00",
-      "content": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Maga dealmaking threatens US-brokered peace in the Balkans",
       "link": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 14:00:38 GMT",
@@ -3981,11 +3970,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Japanese carmakers’ sales collapse amid China market plunge",
+      "link": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 11:31:30 GMT",
+      "scrape_timestamp": "2026-11-27T12:03:39.797923+00:00",
+      "content": "Nissan’s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hostility to immigration threatens Europe’s future",
+      "link": "https://www.ft.com/content/cbfea4ac-ea67-46d2-b5a2-a36a0794b3fe?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 11:16:10 GMT",
+      "scrape_timestamp": "2026-11-27T12:03:39.998089+00:00",
+      "content": "A defeat for Pedro Sánchez in Spain’s election will remove the EU’s last loud voice in favour of liberal policy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T11:02:49.997026+00:00",
+  "last_updated": "2026-11-27T12:03:56.432302+00:00",
   "metadata": {
-    "total_runs": 3344,
+    "total_runs": 3345,
     "sources": [
       "Financial Times"
     ],
