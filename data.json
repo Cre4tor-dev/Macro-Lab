@@ -24,44 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Pensions are eating everything",
-      "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:08 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:13.477890+00:00",
-      "content": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
       "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 05:45:11 GMT",
       "scrape_timestamp": "2026-11-20T09:26:13.678097+00:00",
       "content": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The dangers of Nvidia’s role as AI’s quasi-central bank",
-      "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:17 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:13.878325+00:00",
-      "content": "The chip giant’s position is reminiscent of the insurance company AIG’s before the subprime mortgage bubble",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
-      "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:26 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:14.078562+00:00",
-      "content": "Tight correlation between crude prices and borrowing costs has broken down",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -84,17 +51,6 @@
       "published_date": "Fri, 20 Nov 2026 07:49:41 GMT",
       "scrape_timestamp": "2026-11-20T09:26:14.679147+00:00",
       "content": "Deal will lead to closer ties including freer trade in food and drink and a youth experience scheme",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
-      "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:17 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:14.879366+00:00",
-      "content": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -167,61 +123,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’",
-      "link": "https://www.ft.com/content/0cb87e56-2b97-4c91-bfa7-a7ab616fd58e?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:27 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:17.401060+00:00",
-      "content": "Token’s price has plunged from high of $75 shortly after launch in January last year to $0.95 as investor interest has waned",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Former Corbyn ally emerging as favourite to succeed Khan as London mayor",
-      "link": "https://www.ft.com/content/3e81a203-6421-4469-8f1f-fb8adfb6465a?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:27 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:17.601270+00:00",
-      "content": "Dawn Butler, MP for Brent East, would face a fight to win the Labour nomination",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Brussels to favour EU companies in quantum technology race",
-      "link": "https://www.ft.com/content/7966c474-a62f-4d90-9cff-66c02ca309bb?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:27 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:17.801472+00:00",
-      "content": "Domestic groups will be prioritised for public contracts under plans to be presented next week",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Labour measures fail to shield UK households from sharp energy bill rises",
-      "link": "https://www.ft.com/content/91cee968-66d0-4c48-b453-47b17f7443d2?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:26 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:18.001682+00:00",
-      "content": "Government initiatives offset only a third of the rise in energy bills for poorer families, according to new analysis",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Number of Britons working beyond age 67 up 18% in four years",
-      "link": "https://www.ft.com/content/44370d09-92cd-4a84-890f-4d0f0d046d96",
-      "published_date": "Fri, 20 Nov 2026 05:00:26 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:18.201881+00:00",
-      "content": "People are having to work longer to help offset higher living costs",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US tech rout deepens as Anthropic shares tumble",
       "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 14:01:58 GMT",
@@ -260,17 +161,6 @@
       "published_date": "Fri, 20 Nov 2026 14:00:38 GMT",
       "scrape_timestamp": "2026-11-20T18:08:47.973137+00:00",
       "content": "Thirty years after the Dayton peace accords, US pursues competing interests that risk deepening ethnic tensions in Bosnia",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Why Britons can feel smugger than the French",
-      "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:00:17 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:48.173306+00:00",
-      "content": "It’s not a competition, but if it were, the UK economy would be winning",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3882,11 +3772,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "An exiled former leader faces execution at home. Why does she want to go back?",
+      "link": "https://www.ft.com/content/80ab796b-c870-4f82-b630-514acb72f6ec?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 04:00:58 GMT",
+      "scrape_timestamp": "2026-11-27T05:02:46.621431+00:00",
+      "content": "Ousted as Bangladesh’s prime minister two years ago, Sheikh Hasina says she will return next month despite being sentenced in absentia to death",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tech stocks regain ground at end of volatile trading week",
+      "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 04:31:57 GMT",
+      "scrape_timestamp": "2026-11-27T05:02:47.222988+00:00",
+      "content": "Wall Street set to open higher for shortened session after Thanksgiving holiday",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant",
+      "link": "https://www.ft.com/content/bc5d39a0-6610-481b-9138-5afdd22cf406?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 04:32:11 GMT",
+      "scrape_timestamp": "2026-11-27T05:02:47.623397+00:00",
+      "content": "National Party-led coalition fails to win majority and needs support from Opportunity Party to form government",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T04:03:31.228969+00:00",
+  "last_updated": "2026-11-27T05:03:04.838551+00:00",
   "metadata": {
-    "total_runs": 3337,
+    "total_runs": 3338,
     "sources": [
       "Financial Times"
     ],
