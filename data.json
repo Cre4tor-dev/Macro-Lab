@@ -2,33 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US tech rout deepens as Anthropic shares tumble",
-      "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 14:01:58 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:47.172465+00:00",
-      "content": "Investors rush for havens as AI-linked stocks endure heavy wave of selling",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "The AI fever in markets is breaking",
       "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 15:23:38 GMT",
       "scrape_timestamp": "2026-11-20T18:08:47.372632+00:00",
       "content": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Maga dealmaking threatens US-brokered peace in the Balkans",
-      "link": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 14:00:38 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:47.973137+00:00",
-      "content": "Thirty years after the Dayton peace accords, US pursues competing interests that risk deepening ethnic tensions in Bosnia",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -4014,11 +3992,55 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Inflation and interest rates tracker: see how your country compares",
+      "link": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 13:39:05 GMT",
+      "scrape_timestamp": "2026-11-27T14:03:03.842192+00:00",
+      "content": "Explore the latest data through interactive charts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The reforms the NHS needs (and those it doesn’t)",
+      "link": "https://www.ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
+      "published_date": "Fri, 27 Nov 2026 13:27:45 GMT",
+      "scrape_timestamp": "2026-11-27T14:03:04.042327+00:00",
+      "content": "Different age groups make totally different demands on healthcare — here’s what I learnt in adapting how the London Ambulance Service responds",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU weighs tighter export controls to prevent battery waste going to China",
+      "link": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 13:26:26 GMT",
+      "scrape_timestamp": "2026-11-27T14:03:04.242506+00:00",
+      "content": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Brexit bear traps for Labour, Tories and Reform",
+      "link": "https://www.ft.com/content/8de00d12-8965-41e0-929a-76e80b1ada8e?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 13:13:04 GMT",
+      "scrape_timestamp": "2026-11-27T14:03:04.642858+00:00",
+      "content": "Plus, influencer row engulfs No 10",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T13:03:08.430535+00:00",
+  "last_updated": "2026-11-27T14:03:22.141760+00:00",
   "metadata": {
-    "total_runs": 3346,
+    "total_runs": 3347,
     "sources": [
       "Financial Times"
     ],
