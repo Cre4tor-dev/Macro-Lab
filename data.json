@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Trump seeks Ukraine peace deal before January",
-      "link": "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 16:17:15 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:48.773653+00:00",
-      "content": "US officials keen to secure agreement between Vladimir Putin and Volodymyr Zelenskyy before Democrats take over Congress",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Putin was the real winner at the trilateral summit",
       "link": "https://www.ft.com/content/8f24b313-1b9a-401d-88e6-089aedc72519",
       "published_date": "Fri, 20 Nov 2026 17:33:46 GMT",
@@ -51,28 +40,6 @@
       "published_date": "Fri, 20 Nov 2026 17:19:18 GMT",
       "scrape_timestamp": "2026-11-20T18:08:50.529834+00:00",
       "content": "Dispute over lower charges for European students had threatened to derail summit in Brussels",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The UK takes a step back towards the EU",
-      "link": "https://www.ft.com/content/ceb1b3fd-f113-4ff7-93ac-aecbf7ebca90",
-      "published_date": "Fri, 20 Nov 2026 16:50:33 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:50.930019+00:00",
-      "content": "Welcome reset deal highlights hard choices on the road to a closer relationship",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Eurotrash — Ben Whishaw and Kathryn Hunter lead a pill-popping Swiss odyssey",
-      "link": "https://www.ft.com/content/688949b0-f395-4d56-82ea-b55789849c33?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 16:34:12 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:51.130116+00:00",
-      "content": "A mother-and-son story and a confronting of the country’s Nazi past meet in the Young Vic’s adaptation of Christian Kracht’s novel",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -4003,11 +3970,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Wave of cyber incidents rattles western economies",
+      "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 16:19:21 GMT",
+      "scrape_timestamp": "2026-11-27T17:02:30.902089+00:00",
+      "content": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Mélenchon takes aim at Germany in Berlin campaign stop",
+      "link": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 16:45:39 GMT",
+      "scrape_timestamp": "2026-11-27T17:02:33.010589+00:00",
+      "content": "Far-left presidential candidate has increased his attacks on France’s neighbour and closest ally",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI caramba",
+      "link": "https://www.ft.com/content/9c54e827-3786-4bad-ae06-f9a3f31fcab5",
+      "published_date": "Fri, 27 Nov 2026 16:30:05 GMT",
+      "scrape_timestamp": "2026-11-27T17:02:33.410881+00:00",
+      "content": "We may need to start thinking about the impact a bear market in US tech stocks would have on the real economy",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T16:03:14.787046+00:00",
+  "last_updated": "2026-11-27T17:02:49.782539+00:00",
   "metadata": {
-    "total_runs": 3349,
+    "total_runs": 3350,
     "sources": [
       "Financial Times"
     ],
