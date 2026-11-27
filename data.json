@@ -57,28 +57,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "General strike hits Italy as anger at Meloni grows",
-      "link": "https://www.ft.com/content/ced898eb-d752-414e-aeba-c85ce9717677?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 20:00:42 GMT",
-      "scrape_timestamp": "2026-11-21T00:29:48.410643+00:00",
-      "content": "Workers and students protest against rising living costs and crumbling public services as Italian prime minister seeks re-election next year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham's Brexit reset",
-      "link": "https://www.ft.com/content/76543b3f-b669-42c8-9518-d67c967c6d5c?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 19:51:12 GMT",
-      "scrape_timestamp": "2026-11-21T00:29:48.610874+00:00",
-      "content": "Plus: what next for welfare?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "The AI cyber threat is already here",
       "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
       "published_date": "Sat, 21 Nov 2026 05:00:16 GMT",
@@ -3983,9 +3961,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T19:02:38.943798+00:00",
+  "last_updated": "2026-11-27T20:02:51.231993+00:00",
   "metadata": {
-    "total_runs": 3352,
+    "total_runs": 3353,
     "sources": [
       "Financial Times"
     ],
