@@ -24,33 +24,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-      "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-      "published_date": "Fri, 20 Nov 2026 20:19:49 GMT",
-      "scrape_timestamp": "2026-11-21T00:29:45.547421+00:00",
-      "content": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
       "link": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 21:05:48 GMT",
       "scrape_timestamp": "2026-11-21T00:29:46.147958+00:00",
       "content": "Consumers have already spent more on the video game than the top-grossing movie",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-      "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 20:17:29 GMT",
-      "scrape_timestamp": "2026-11-21T00:29:46.748493+00:00",
-      "content": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3959,11 +3937,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Canada upholds law barring public sector workers from wearing religious symbols",
+      "link": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 19:33:28 GMT",
+      "scrape_timestamp": "2026-11-27T21:02:41.627818+00:00",
+      "content": "National Council of Canadian Muslims says ruling is a ‘significant setback’ for rights",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T20:02:51.231993+00:00",
+  "last_updated": "2026-11-27T21:02:57.992044+00:00",
   "metadata": {
-    "total_runs": 3353,
+    "total_runs": 3354,
     "sources": [
       "Financial Times"
     ],
