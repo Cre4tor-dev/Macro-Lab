@@ -3838,11 +3838,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Lula names banker as Brazil finance minister in attempt to calm markets",
+      "link": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 00:59:07 GMT",
+      "scrape_timestamp": "2026-11-27T02:03:31.032246+00:00",
+      "content": "Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "India’s electricity demand to rise fivefold in 25 years, says Suzlon’s Girish Tanti",
+      "link": "https://www.ft.com/content/a342f53c-c323-4fa1-bdc2-16d504c1dd10?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 01:30:01 GMT",
+      "scrape_timestamp": "2026-11-27T02:03:31.529565+00:00",
+      "content": "Renewables can match coal power for reliability at lower cost, insists wind power pioneer",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "EU deal is floor ‘not ceiling’ in Brexit reset, insists Burnham cabinet ally",
+      "link": "https://www.ft.com/content/76ca618e-82bb-4e19-ac1a-843ac48bf606?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 00:01:00 GMT",
+      "scrape_timestamp": "2026-11-27T02:03:31.929904+00:00",
+      "content": "Douglas Alexander to say PM will reject warnings from opposition parties and push ahead with plans to rebuild ties with Brussels",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T01:03:41.572501+00:00",
+  "last_updated": "2026-11-27T02:03:47.585713+00:00",
   "metadata": {
-    "total_runs": 3334,
+    "total_runs": 3335,
     "sources": [
       "Financial Times"
     ],
