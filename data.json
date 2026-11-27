@@ -35,33 +35,11 @@
     },
     {
       "source": "Financial Times",
-      "title": "’Tis the season to be grateful to China",
-      "link": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 18:57:07 GMT",
-      "scrape_timestamp": "2026-11-21T00:29:45.947767+00:00",
-      "content": "Forget the harrumphing Scrooges at COP — no other country is doing more for the climate",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
       "link": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 21:05:48 GMT",
       "scrape_timestamp": "2026-11-21T00:29:46.147958+00:00",
       "content": "Consumers have already spent more on the video game than the top-grossing movie",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Burnham reopened the Brexit debate. He now sees the political dangers ahead",
-      "link": "https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 18:51:09 GMT",
-      "scrape_timestamp": "2026-11-21T00:29:46.548308+00:00",
-      "content": "UK prime minister is recognising the perilous nature of doing deals with an EU that holds most of the cards",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -95,28 +73,6 @@
       "published_date": "Fri, 20 Nov 2026 19:51:12 GMT",
       "scrape_timestamp": "2026-11-21T00:29:48.610874+00:00",
       "content": "Plus: what next for welfare?",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "It’s tough out there",
-      "link": "https://www.ft.com/content/aa21ce02-f438-4aa2-820c-f4efbc46859f",
-      "published_date": "Fri, 20 Nov 2026 18:57:31 GMT",
-      "scrape_timestamp": "2026-11-21T00:29:49.011258+00:00",
-      "content": "And even “diversification benefits” are under pressure",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The EU reset is crucial for British business",
-      "link": "https://www.ft.com/content/0281fa15-d659-4e3f-bd9e-04771e0339b3",
-      "published_date": "Fri, 20 Nov 2026 18:18:10 GMT",
-      "scrape_timestamp": "2026-11-21T00:29:49.812072+00:00",
-      "content": "We must work closely with our nearest neighbours from where we are",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3959,11 +3915,77 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump’s Nvidia intervention has a cost for US stocks",
+      "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 18:26:25 GMT",
+      "scrape_timestamp": "2026-11-27T19:02:19.613084+00:00",
+      "content": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI and the decryption nightmare",
+      "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 18:18:27 GMT",
+      "scrape_timestamp": "2026-11-27T19:02:19.813167+00:00",
+      "content": "New breakthroughs call for faster upgrades to security, not panic",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 18:20:05 GMT",
+      "scrape_timestamp": "2026-11-27T19:02:20.613606+00:00",
+      "content": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Haircare tycoon Herman Mashaba named Johannesburg mayor",
+      "link": "https://www.ft.com/content/9cdc5817-0c7f-42d0-a6ae-bfd7006e4c9b?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 18:15:16 GMT",
+      "scrape_timestamp": "2026-11-27T19:02:21.773647+00:00",
+      "content": "Combative leader of ActionSA squeezes out pro-business Democratic Alliance after deal with ANC and two populist parties",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+      "link": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 17:29:29 GMT",
+      "scrape_timestamp": "2026-11-27T19:02:21.973814+00:00",
+      "content": "US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Former UK Supreme Court justice Jonathan Sumption: ‘We never got back control’",
+      "link": "https://www.ft.com/content/97f1dda5-2219-4e14-a716-569aab163e08?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 12:30:04 GMT",
+      "scrape_timestamp": "2026-11-27T19:02:24.175047+00:00",
+      "content": "The barrister and medieval historian on the fragility of democracy, the folly of Brexit and why politicians need to learn from the past",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T18:03:27.892274+00:00",
+  "last_updated": "2026-11-27T19:02:38.943798+00:00",
   "metadata": {
-    "total_runs": 3351,
+    "total_runs": 3352,
     "sources": [
       "Financial Times"
     ],
