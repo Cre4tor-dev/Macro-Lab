@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
-      "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 00:42:44 GMT",
-      "scrape_timestamp": "2026-11-20T01:31:39.264653+00:00",
-      "content": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
-      "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 00:15:12 GMT",
-      "scrape_timestamp": "2026-11-20T01:31:40.065335+00:00",
-      "content": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
       "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 07:29:48 GMT",
@@ -3862,9 +3840,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T00:07:16.655285+00:00",
+  "last_updated": "2026-11-27T01:03:41.572501+00:00",
   "metadata": {
-    "total_runs": 3333,
+    "total_runs": 3334,
     "sources": [
       "Financial Times"
     ],
