@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Russian missile barrage damages Kyiv bridges",
-      "link": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 09:17:17 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:15.399063+00:00",
-      "content": "Waves of attacks targeting Ukraine come on heels of trilateral meeting between US, Chinese and Russian leaders",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US tech rout deepens as Anthropic shares tumble",
       "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 14:01:58 GMT",
@@ -3926,11 +3915,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "UK Department for Work and Pensions hit by cyber incident",
+      "link": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 09:32:47 GMT",
+      "scrape_timestamp": "2026-11-27T10:03:05.734599+00:00",
+      "content": "Agency says it has taken some online services down but regular pension and benefit payments are not affected",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How do you solve a problem like the Met?",
+      "link": "https://www.ft.com/content/c9aefc31-fedc-489a-8b77-0547d7f6f29f?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 09:30:05 GMT",
+      "scrape_timestamp": "2026-11-27T10:03:05.934783+00:00",
+      "content": "Narrowing the focus of the UK’s largest police force may be the key triumph of Shabana Mahmood’s reforms",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T09:03:12.329379+00:00",
+  "last_updated": "2026-11-27T10:03:22.987594+00:00",
   "metadata": {
-    "total_runs": 3342,
+    "total_runs": 3343,
     "sources": [
       "Financial Times"
     ],
