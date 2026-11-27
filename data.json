@@ -68,17 +68,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "A bubble in . . . defensive stocks?",
-      "link": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 06:30:06 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:16.600258+00:00",
-      "content": "Plus, crypto and desperation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US tech rout deepens as Anthropic shares tumble",
       "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 14:01:58 GMT",
@@ -3937,11 +3926,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+      "link": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 06:47:12 GMT",
+      "scrape_timestamp": "2026-11-27T07:03:12.634137+00:00",
+      "content": "Move comes after some global investors pulled out or scaled back teams in Asian financial hub",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘It’s not nation versus nation. It’s hyperscaler versus hyperscaler’",
+      "link": "https://www.ft.com/content/698d29bd-490b-41ef-a3e3-20edc2b591f7?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 06:30:02 GMT",
+      "scrape_timestamp": "2026-11-27T07:03:12.834376+00:00",
+      "content": "Mining billionaire Robert Friedland on copper and war",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Year-end deadline for EU budget deal in doubt after testy summit",
+      "link": "https://www.ft.com/content/cf5e2884-63e3-4fde-ad32-15c8cfa9603e?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 06:00:02 GMT",
+      "scrape_timestamp": "2026-11-27T07:03:13.234821+00:00",
+      "content": "Also in this newsletter: Another turn in Serbia’s momentous political year",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T06:05:17.896464+00:00",
+  "last_updated": "2026-11-27T07:03:29.342726+00:00",
   "metadata": {
-    "total_runs": 3339,
+    "total_runs": 3340,
     "sources": [
       "Financial Times"
     ],
