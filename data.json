@@ -13,28 +13,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "So, Anthropic is finally a public company. What now?",
-      "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
-      "published_date": "Fri, 20 Nov 2026 05:19:35 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:13.277707+00:00",
-      "content": "A blockbuster IPO postmortem",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
-      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:45:11 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:13.678097+00:00",
-      "content": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "White House replaces top cyber security official",
       "link": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 08:33:59 GMT",
@@ -95,28 +73,6 @@
       "published_date": "Fri, 20 Nov 2026 06:30:06 GMT",
       "scrape_timestamp": "2026-11-20T09:26:16.600258+00:00",
       "content": "Plus, crypto and desperation",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Seize chance for closer EU-UK ties, urges European parliament president",
-      "link": "https://www.ft.com/content/54e6a401-b628-4e64-a668-36389408be57?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 06:00:06 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:16.800472+00:00",
-      "content": "Also in this newsletter: industry bosses want a ‘grand bargain’ on clean investment",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "FirstFT: UK and EU poised to finalise deal to ‘reset’ ties",
-      "link": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 05:31:18 GMT",
-      "scrape_timestamp": "2026-11-20T09:26:17.200866+00:00",
-      "content": "Also in today’s newsletter: Anthropic IPO and oil-bonds correlation unwinds",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3805,11 +3761,187 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Chinese households shed billions in consumer debt",
+      "link": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:04 GMT",
+      "scrape_timestamp": "2026-11-27T06:04:58.192363+00:00",
+      "content": "A three-year decline in mortgages in China is now spreading to consumer loans",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Marine Le Pen: the woman who could break the EU",
+      "link": "https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:13 GMT",
+      "scrape_timestamp": "2026-11-27T06:04:58.392477+00:00",
+      "content": "The far-right frontrunner for the French presidency is the biggest populist challenge in the bloc’s history",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The US and Europe have opposite economic problems",
+      "link": "https://www.ft.com/content/047e1a9d-0448-4ccd-aaec-c5c06125d111?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-27T06:04:58.592588+00:00",
+      "content": "Hoarding by the rich and stagnation for the middle class are different problems for different regions",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Is the Fed ready for its next fight?",
+      "link": "https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:13 GMT",
+      "scrape_timestamp": "2026-11-27T06:04:58.792694+00:00",
+      "content": "US central bank officials face a three-dimensional tussle over inflation, AI and guidance",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tech stocks set for worst month in four years as volatility surges",
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-27T06:04:58.992799+00:00",
+      "content": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
+      "link": "https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:23 GMT",
+      "scrape_timestamp": "2026-11-27T06:04:59.392996+00:00",
+      "content": "Lawyers say contracts for so-called continuation vehicles remove investors’ right to sue in event of dispute",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Venezuelan oil magnate defends contentious deal with Trump",
+      "link": "https://www.ft.com/content/2586bde3-a1e1-463c-b5fc-0775e8512d28?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:01:01 GMT",
+      "scrape_timestamp": "2026-11-27T06:04:59.593097+00:00",
+      "content": "Alejandro Betancourt tells FT he welcomes scrutiny of agreement that hands huge share of country’s crude supply to US",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Kalshi’s next big bet: ‘microinsurance’ for small businesses",
+      "link": "https://www.ft.com/content/587198a8-ac15-46b2-83f2-f6e181ccd7cd?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:13 GMT",
+      "scrape_timestamp": "2026-11-27T06:04:59.793192+00:00",
+      "content": "Platform hopes growth in more conventional financial services will help offset loss of business in sports wagers, which face mounting legal threats",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "FirstFT: BoE’s Bailey warns of AI threat to encrypted financial data",
+      "link": "https://www.ft.com/content/f1669703-4e86-4ab0-b4d8-f43a40cb0294?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:30:19 GMT",
+      "scrape_timestamp": "2026-11-27T06:05:00.325304+00:00",
+      "content": "Also in today’s newsletter: tech sell-off and Meloni’s rebuke",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Bank of England to defy market pricing and stick with gradual tightening",
+      "link": "https://www.ft.com/content/e5d08f5e-3f0a-43af-a6d7-06f2ad93370e",
+      "published_date": "Fri, 27 Nov 2026 05:30:02 GMT",
+      "scrape_timestamp": "2026-11-27T06:05:00.525403+00:00",
+      "content": "Read the BoE’s November forecast from the FT’s Monetary Policy Radar team",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Trump media group splashes out to woo shareholders before merger vote",
+      "link": "https://www.ft.com/content/10a28fed-3825-4e07-804d-3c80c35229e5?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:02:01 GMT",
+      "scrape_timestamp": "2026-11-27T06:05:00.725486+00:00",
+      "content": "TMTG expected to pay between $8mn and $13mn in fees plus expenses for proxy solicitation services",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "AI data centre boom piles pressure on stressed US defence sector",
+      "link": "https://www.ft.com/content/76143592-b1c8-42d2-bf4c-17aa87255467?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:01:01 GMT",
+      "scrape_timestamp": "2026-11-27T06:05:00.925576+00:00",
+      "content": "Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
+      "link": "https://www.ft.com/content/627323de-7ad0-4600-97c6-daac931c7ee1?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:31 GMT",
+      "scrape_timestamp": "2026-11-27T06:05:01.325748+00:00",
+      "content": "The billionaire family has pushed credit markets to their limits with $87bn in obligations",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Data centre developers look to north England’s post-industrial sites",
+      "link": "https://www.ft.com/content/495b5c75-1414-4f60-b5d4-6f73f074173c?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:23 GMT",
+      "scrape_timestamp": "2026-11-27T06:05:01.725936+00:00",
+      "content": "Former power stations and factories eyed up as potential locations as power supply and land around London reach saturation point",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
+      "link": "https://www.ft.com/content/2a98efa0-2c2d-47e3-99a9-e00fbe699c34?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-27T06:05:02.126134+00:00",
+      "content": "Employees, analysts and legal experts question whether the company’s management structure and governance will be reformed",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Burnham’s popularity with young voters puts TikTok strategy in focus",
+      "link": "https://www.ft.com/content/42e3bf46-9089-4485-bdb1-2a69840eb3de?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 05:00:22 GMT",
+      "scrape_timestamp": "2026-11-27T06:05:02.326239+00:00",
+      "content": "The share of under-35s with a favourable view of the prime minister has doubled since June",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T05:03:04.838551+00:00",
+  "last_updated": "2026-11-27T06:05:17.896464+00:00",
   "metadata": {
-    "total_runs": 3338,
+    "total_runs": 3339,
     "sources": [
       "Financial Times"
     ],
