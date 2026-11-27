@@ -3849,11 +3849,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Tribunal upholds decision to ban two Iran-linked figures from UK charities",
+      "link": "https://www.ft.com/content/fb39f67c-cdd4-4322-895f-e069c95a6166?syn-25a6b1a6=1",
+      "published_date": "Thu, 26 Nov 2026 23:36:58 GMT",
+      "scrape_timestamp": "2026-11-27T00:07:00.095301+00:00",
+      "content": "Judgments mark a victory for the Charity Commission’s efforts to combat alleged Iranian state support for extremism in Britain",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-26T23:02:52.393001+00:00",
+  "last_updated": "2026-11-27T00:07:16.655285+00:00",
   "metadata": {
-    "total_runs": 3332,
+    "total_runs": 3333,
     "sources": [
       "Financial Times"
     ],
