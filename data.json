@@ -112,28 +112,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Betfred blames UK gambling tax rise as it shuts 73 stores",
-      "link": "https://www.ft.com/content/42f825e9-3ee1-4285-8194-3445517e8c14?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 14:26:34 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:52.130810+00:00",
-      "content": "Bookmaker makes cuts after last month’s Budget increased levy on slot machines, which have been criticised for being highly addictive",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "France’s de Villepin launches presidential bid in crowded race",
-      "link": "https://www.ft.com/content/71d49bc4-76df-4f0b-bb49-5db49b77aceb?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 14:03:35 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:52.330974+00:00",
-      "content": "Growing number of candidacies in centre of France’s political spectrum heaps uncertainty on crucial 2027 election as Le Pen leads polls",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
       "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 21:52:25 GMT",
@@ -4038,9 +4016,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T14:03:22.141760+00:00",
+  "last_updated": "2026-11-27T15:03:02.536070+00:00",
   "metadata": {
-    "total_runs": 3347,
+    "total_runs": 3348,
     "sources": [
       "Financial Times"
     ],
