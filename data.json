@@ -2,28 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "The AI fever in markets is breaking",
-      "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 15:23:38 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:47.372632+00:00",
-      "content": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Andy Burnham begins to undo Brexit with landmark EU deal",
-      "link": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 15:57:09 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:48.373423+00:00",
-      "content": "Brussels agreement overshadowed by dispute over university fees and questions about where the relationship goes next",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Trump seeks Ukraine peace deal before January",
       "link": "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8?syn-25a6b1a6=1",
       "published_date": "Fri, 20 Nov 2026 16:17:15 GMT",
@@ -95,17 +73,6 @@
       "published_date": "Fri, 20 Nov 2026 16:34:12 GMT",
       "scrape_timestamp": "2026-11-20T18:08:51.130116+00:00",
       "content": "A mother-and-son story and a confronting of the country’s Nazi past meet in the Young Vic’s adaptation of Christian Kracht’s novel",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The Milburn review is no substitute for an economic plan",
-      "link": "https://www.ft.com/content/ce91c75c-0cf9-447c-ad9a-47b3f19b8844?syn-25a6b1a6=1",
-      "published_date": "Fri, 20 Nov 2026 15:43:27 GMT",
-      "scrape_timestamp": "2026-11-20T18:08:51.730484+00:00",
-      "content": "His report throws down a gauntlet to the Labour Party but also provides it with an argument",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -4014,11 +3981,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "From Jobs to Jensen: tech’s metamorphosis",
+      "link": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+      "published_date": "Fri, 27 Nov 2026 15:10:17 GMT",
+      "scrape_timestamp": "2026-11-27T16:02:53.532333+00:00",
+      "content": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley’s political transformation",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Russia set to criminalise sharing information about Ukrainian strikes",
+      "link": "https://www.ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 15:16:07 GMT",
+      "scrape_timestamp": "2026-11-27T16:02:55.674066+00:00",
+      "content": "Moscow looks to extend wartime crackdown to pro-war bloggers and regular citizens posting about Kyiv’s drones hitting oil refineries",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T15:03:02.536070+00:00",
+  "last_updated": "2026-11-27T16:03:14.787046+00:00",
   "metadata": {
-    "total_runs": 3348,
+    "total_runs": 3349,
     "sources": [
       "Financial Times"
     ],
