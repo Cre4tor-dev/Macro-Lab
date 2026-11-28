@@ -3937,11 +3937,44 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The Chinese car champion turning to police and nurse robots",
+      "link": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 01:00:07 GMT",
+      "scrape_timestamp": "2026-11-28T01:02:51.399692+00:00",
+      "content": "Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The  ‘diehard separatist’ shaking up Taipei’s election",
+      "link": "https://www.ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 23:50:03 GMT",
+      "scrape_timestamp": "2026-11-28T01:02:51.600006+00:00",
+      "content": "Local polls across Taiwan are a test of support for the governing DPP ahead of crucial presidential vote in 2028",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "South Africa’s credit rating upgraded after years of economic stagnation",
+      "link": "https://www.ft.com/content/892ffe2f-1641-4e3d-b0d6-2693ca15cc95?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 23:13:58 GMT",
+      "scrape_timestamp": "2026-11-28T01:02:51.800271+00:00",
+      "content": "S&amp;P says Pretoria’s ‘fiscal performance has consistently outperformed budget targets’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-28T00:07:13.553168+00:00",
+  "last_updated": "2026-11-28T01:03:08.964802+00:00",
   "metadata": {
-    "total_runs": 3357,
+    "total_runs": 3358,
     "sources": [
       "Financial Times"
     ],
