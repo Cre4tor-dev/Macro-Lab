@@ -2,50 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
-      "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 12:00:08 GMT",
-      "scrape_timestamp": "2026-11-21T15:47:13.501365+00:00",
-      "content": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Traders start to move US copper to China as Trump tariff fears ease",
-      "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 12:00:08 GMT",
-      "scrape_timestamp": "2026-11-21T15:47:13.901560+00:00",
-      "content": "Acute Chinese shortage and high local premium create lucrative arbitrage",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Strong sales point to happy holiday season for US retailers",
-      "link": "https://www.ft.com/content/c893d0fa-ba27-4a3c-bfb6-4df3ccb7e6cc?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 12:00:08 GMT",
-      "scrape_timestamp": "2026-11-21T15:47:15.376886+00:00",
-      "content": "Store chains rake in billions in extra revenue in defiance of gloomy consumer sentiment surveys",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Costa revives EU digital tax proposal in bid to reach agreement on budget",
-      "link": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 11:38:04 GMT",
-      "scrape_timestamp": "2026-11-21T15:47:15.576993+00:00",
-      "content": "Latest seven-year plan for the bloc scales back spending but would still be an increase of about a quarter on current levels",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Alice Huang’s links to the chip underworld",
       "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
       "published_date": "Sat, 21 Nov 2026 17:00:10 GMT",
@@ -3939,9 +3895,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-28T11:02:54.414186+00:00",
+  "last_updated": "2026-11-28T12:03:38.497291+00:00",
   "metadata": {
-    "total_runs": 3368,
+    "total_runs": 3369,
     "sources": [
       "Financial Times"
     ],
