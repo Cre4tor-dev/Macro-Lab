@@ -266,17 +266,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Nvidia affair puts Chinese spies in spotlight",
-      "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 03:58:46 GMT",
-      "scrape_timestamp": "2026-11-21T18:02:48.852537+00:00",
-      "content": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
       "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
       "published_date": "Sat, 21 Nov 2026 17:21:36 GMT",
@@ -3983,9 +3972,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-28T03:03:13.299643+00:00",
+  "last_updated": "2026-11-28T04:03:12.687117+00:00",
   "metadata": {
-    "total_runs": 3360,
+    "total_runs": 3361,
     "sources": [
       "Financial Times"
     ],
