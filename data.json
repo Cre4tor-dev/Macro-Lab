@@ -46,17 +46,6 @@
     },
     {
       "source": "Financial Times",
-      "title": "Going public, but only a little",
-      "link": "https://www.ft.com/content/c5bcb64e-35b8-40b8-842e-e4b5c9b3150d?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 10:30:07 GMT",
-      "scrape_timestamp": "2026-11-21T15:47:15.777097+00:00",
-      "content": "Big IPOs, small floats",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Alice Huang’s links to the chip underworld",
       "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
       "published_date": "Sat, 21 Nov 2026 17:00:10 GMT",
@@ -3926,11 +3915,33 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "El Guapo’s last gasp?",
+      "link": "https://www.ft.com/content/19dd970c-6258-49ad-8f2d-df90bff90ef2?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 11:00:02 GMT",
+      "scrape_timestamp": "2026-11-28T11:02:36.413144+00:00",
+      "content": "The polls look grim for Pedro Sánchez — but a rightwing coalition won’t be smooth sailing if his opponents triumph",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Israeli strike kills two Médecins Sans Frontières workers in Gaza",
+      "link": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 10:14:12 GMT",
+      "scrape_timestamp": "2026-11-28T11:02:36.613315+00:00",
+      "content": "Medical charity calls for accountability as Israeli military claims men were involved in Hamas",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-28T10:02:56.013220+00:00",
+  "last_updated": "2026-11-28T11:02:54.414186+00:00",
   "metadata": {
-    "total_runs": 3367,
+    "total_runs": 3368,
     "sources": [
       "Financial Times"
     ],
