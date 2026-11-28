@@ -3926,11 +3926,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Can AI crack encryption?",
+      "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+      "published_date": "Fri, 27 Nov 2026 18:16:51 GMT",
+      "scrape_timestamp": "2026-11-28T00:06:53.703984+00:00",
+      "content": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-27T23:03:01.162920+00:00",
+  "last_updated": "2026-11-28T00:07:13.553168+00:00",
   "metadata": {
-    "total_runs": 3356,
+    "total_runs": 3357,
     "sources": [
       "Financial Times"
     ],
