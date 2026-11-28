@@ -3893,11 +3893,22 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The outsider from Cannes shaking up France’s presidential race",
+      "link": "https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 12:00:03 GMT",
+      "scrape_timestamp": "2026-11-28T13:02:28.757129+00:00",
+      "content": "Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-28T12:03:38.497291+00:00",
+  "last_updated": "2026-11-28T13:02:48.265965+00:00",
   "metadata": {
-    "total_runs": 3369,
+    "total_runs": 3370,
     "sources": [
       "Financial Times"
     ],
