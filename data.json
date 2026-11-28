@@ -2,198 +2,11 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "The AI cyber threat is already here",
-      "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:16 GMT",
-      "scrape_timestamp": "2026-11-21T07:51:59.367009+00:00",
-      "content": "The freezer war is just a start",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The manufacturing of novelty",
-      "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:36 GMT",
-      "scrape_timestamp": "2026-11-21T07:51:59.567119+00:00",
-      "content": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "The dead hand of history weighs on Deutsche Bank",
       "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
       "published_date": "Sat, 21 Nov 2026 06:32:26 GMT",
       "scrape_timestamp": "2026-11-21T07:51:59.767206+00:00",
       "content": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
-      "link": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:35 GMT",
-      "scrape_timestamp": "2026-11-21T07:51:59.967302+00:00",
-      "content": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
-      "link": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:26 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:00.367497+00:00",
-      "content": "US firm denies allegations that Irca’s financial performance was overstated before it agreed to sell Italian business",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Builders bet on €620bn defence infrastructure boom in Europe",
-      "link": "https://www.ft.com/content/b647fcba-e5e6-4ca2-8417-8c9146eac39e?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:07 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:00.767689+00:00",
-      "content": "Construction companies target military projects to develop bases, airports and bridges in bid to offset weak residential market",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Milburn’s £5.8bn youth employment plan rests on ‘leap of faith’",
-      "link": "https://www.ft.com/content/41bcd148-4e1f-4071-940e-ba21dc3700df?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:45 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:01.238570+00:00",
-      "content": "Reforms would have to be three times as effective as previous schemes to hit their goals, analysts warn",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The chip war’s next battleground",
-      "link": "https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:36 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:01.438664+00:00",
-      "content": "As the US and China’s AI rivalry intensifies, focus is moving to supply chains",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Good growth really is possible in every UK postcode",
-      "link": "https://www.ft.com/content/e8b3bcbc-ab31-408c-a8cb-5e1e6e0cac1e?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:36 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:01.638757+00:00",
-      "content": "Research shows money isn’t all that matters to a good life. Just take a look at the map of UK happiness",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The ‘Emperor of El Salvador’ storms into Haiti",
-      "link": "https://www.ft.com/content/53d9f3ef-e0cc-4605-8203-180a97d0d404?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:35 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:01.838849+00:00",
-      "content": "Salvadoran strongman Nayib Bukele’s deployment of 2,000 troops to the Caribbean nation has drawn adulation from thousands of Haitians",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Tourist tax leaves Scouts facing £1mn bill for camping trips",
-      "link": "https://www.ft.com/content/101e75db-97db-40e0-9897-d751aaf7f492?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:35 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:02.239039+00:00",
-      "content": "Ministers reject calls for a blanket exemption",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "US watchdogs pick a bad time to cut disclosure on executive pay",
-      "link": "https://www.ft.com/content/a8a45cf2-f096-4f33-8df5-46a689bde104?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:35 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:02.439135+00:00",
-      "content": "The Securities and Exchange Commission has decided a more ‘principles-based’ regime is needed",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "A Turner masterpiece returns to Rome",
-      "link": "https://www.ft.com/content/de019b18-9dab-470f-bdc4-d44b7156a957",
-      "published_date": "Sat, 21 Nov 2026 05:00:26 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:02.639218+00:00",
-      "content": "‘Rome, from Mount Aventine’, valued at £50mn when it comes to auction in December, offers a window into the artist’s fascination with Italy",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "The Bank of Mum and Dad has a ‘Neets’ problem",
-      "link": "https://www.ft.com/content/4cf7587f-a408-42af-9f8f-b3dd814db5c0?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:25 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:02.839313+00:00",
-      "content": "Young adults’ reliance on parental wealth is warping family finances",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "How can investors succeed in markets today?",
-      "link": "https://www.ft.com/content/22b3765d-ff3d-4f07-8982-5a222dbb862e?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:16 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:03.239512+00:00",
-      "content": "Firstly, unlearn all the lessons from the past 20 years — when it comes to inflation, bonds and stocks, we’re in a different world from the one that followed the financial crisis",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "An interior designer’s guide to Kenmare, County Kerry",
-      "link": "https://www.ft.com/content/f719ae89-b343-4ae1-945c-6bd52411d90a",
-      "published_date": "Sat, 21 Nov 2026 05:00:08 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:03.439612+00:00",
-      "content": "Bryan O’Sullivan on the best pubs, breakfast sambos and seaweed baths in his hometown",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Russia and Ukraine’s drone war sends optical fibre prices soaring",
-      "link": "https://www.ft.com/content/339c3a72-bce5-44ed-bc6c-c8a8199cfb40?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:08 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:03.639707+00:00",
-      "content": "Kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "When the music stopped for the Halifax",
-      "link": "https://www.ft.com/content/2006ed77-856d-441e-a877-5f8125b75e95?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:07 GMT",
-      "scrape_timestamp": "2026-11-21T07:52:03.839809+00:00",
-      "content": "As a building society, it was once the world’s biggest mortgage lender, but it failed to adapt to the demands of modern banking",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -282,17 +95,6 @@
       "published_date": "Sat, 21 Nov 2026 17:52:20 GMT",
       "scrape_timestamp": "2026-11-21T19:02:07.900098+00:00",
       "content": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
-      "title": "Miguel Ángel Félix Gallardo, drug lord, 1946-2026",
-      "link": "https://www.ft.com/content/fbf39142-a256-4fa8-a689-e958d80112a4?syn-25a6b1a6=1",
-      "published_date": "Sat, 21 Nov 2026 05:00:45 GMT",
-      "scrape_timestamp": "2026-11-21T19:02:08.100344+00:00",
-      "content": "Nicknamed ‘the godfather’, he built a criminal network in Mexico that transformed the global narcotics industry",
       "score": 0.0,
       "themes": [],
       "is_relevant": false
@@ -3972,9 +3774,9 @@
       "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-28T04:03:12.687117+00:00",
+  "last_updated": "2026-11-28T05:02:56.010176+00:00",
   "metadata": {
-    "total_runs": 3361,
+    "total_runs": 3362,
     "sources": [
       "Financial Times"
     ],
