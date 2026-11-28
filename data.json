@@ -2,17 +2,6 @@
   "articles": [
     {
       "source": "Financial Times",
-      "title": "The dead hand of history weighs on Deutsche Bank",
-      "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-      "published_date": "Sat, 21 Nov 2026 06:32:26 GMT",
-      "scrape_timestamp": "2026-11-21T07:51:59.767206+00:00",
-      "content": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
-      "score": 0.0,
-      "themes": [],
-      "is_relevant": false
-    },
-    {
-      "source": "Financial Times",
       "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
       "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
       "published_date": "Sat, 21 Nov 2026 12:00:08 GMT",
@@ -3827,11 +3816,121 @@
       "score": 0.0,
       "themes": [],
       "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "The mathematicians living through an AI revolution",
+      "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:44.669788+00:00",
+      "content": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Five US multinationals pay more tax to Ireland than anywhere else",
+      "link": "https://www.ft.com/content/ec489542-0968-45d7-9dd7-985ad679f9b2?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:15 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:45.871027+00:00",
+      "content": "New analysis highlights the extent to which Dublin has become ‘the tax office of corporate America’",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Row erupts over plan to make next NHS chief one of highest-paid civil servants",
+      "link": "https://www.ft.com/content/7167cdb4-d905-44ea-bee8-0d686e375fae?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:41 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:46.972552+00:00",
+      "content": "NHS England says it has not been able to advertise the role amid finger-pointing in government departments",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "England’s post-Brexit fishing windfall swept up by Dutch tycoon",
+      "link": "https://www.ft.com/content/13566b4a-e996-4029-829b-94fb89a76841?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:41 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:47.172750+00:00",
+      "content": "Smaller operators initially won a quarter of quotas, but their share dwindled to less than 1 per cent in 2025",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "How to get more UK money into UK equity markets",
+      "link": "https://www.ft.com/content/71b43a99-b58e-492a-8227-9ea49bec9a5d?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:41 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:47.573110+00:00",
+      "content": "A run of US outperformance hasn’t helped, but over five years, the FTSE 100 is up 80 per cent versus 68 per cent for the S&amp;P 500",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "What’s really behind the sex recession?",
+      "link": "https://www.ft.com/content/2771d3f4-f6c3-4a50-a8e7-24e0fa919648?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:47.773274+00:00",
+      "content": "As young people struggle to navigate relationships, we might be looking at a lack of opportunity rather than libido",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Sadiq Khan backs plan to pedestrianise London’s Regent Street",
+      "link": "https://www.ft.com/content/605c45de-1cdc-43b6-85d1-59fda64f5bf0?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:48.173633+00:00",
+      "content": "The success of the Oxford Street traffic ban has led to calls for the wider transformation of the West End",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Falling student numbers will hit property markets all over the UK",
+      "link": "https://www.ft.com/content/12760b28-2a70-4671-985b-45e00746cc29",
+      "published_date": "Sat, 28 Nov 2026 05:00:32 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:48.373787+00:00",
+      "content": "The student boom helped transform housing in university towns and cities — now the tide is turning",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Short cuts: Lufthansa’s snarky clothing line and the ‘world’s southernmost’ hotel",
+      "link": "https://www.ft.com/content/b792f63f-6363-4df0-8063-38417ef6db99?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:25 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:48.573948+00:00",
+      "content": "The German airline launches a ‘travel etiquette collection’ while Silversea opens a hotel that sets a record for latitude — or does it?",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
+    },
+    {
+      "source": "Financial Times",
+      "title": "Millions of pension scheme members eye growing UK plan surpluses",
+      "link": "https://www.ft.com/content/f1249918-b0f0-4db4-96f1-549fe94b51cd?syn-25a6b1a6=1",
+      "published_date": "Sat, 28 Nov 2026 05:00:25 GMT",
+      "scrape_timestamp": "2026-11-28T07:02:48.774101+00:00",
+      "content": "Defined benefit scheme trustees to be given new options",
+      "score": 0.0,
+      "themes": [],
+      "is_relevant": false
     }
   ],
-  "last_updated": "2026-11-28T06:04:44.027828+00:00",
+  "last_updated": "2026-11-28T07:03:04.822685+00:00",
   "metadata": {
-    "total_runs": 3363,
+    "total_runs": 3364,
     "sources": [
       "Financial Times"
     ],
